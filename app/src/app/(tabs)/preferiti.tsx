@@ -4,6 +4,7 @@ import { Image } from "expo-image";
 import { Ionicons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import { useEdicolaData } from "../../lib/DataContext";
+import { AppHeader } from "../../components/AppHeader";
 import { CATEGORY_LABELS } from "../../lib/types";
 import { CATEGORY_COLORS } from "../../lib/theme";
 import { useTheme } from "../../lib/ThemeContext";
@@ -50,12 +51,17 @@ export default function PreferitiScreen() {
   if (followedSeries.length === 0) {
     return (
       <View style={[styles.emptyState, { backgroundColor: theme.background }]}>
-        <Ionicons name="star-outline" size={44} color={theme.textMuted} />
-        <Text style={[styles.emptyTitle, { color: theme.text }]}>Nessuna collana seguita</Text>
-        <Text style={[styles.emptyBody, { color: theme.textMuted }]}>
-          Apri una uscita dal Calendario e tocca "Segui" per ricevere qui le prossime date e le
-          notifiche.
-        </Text>
+        <View style={styles.headerWrap}>
+          <AppHeader />
+        </View>
+        <View style={styles.emptyInner}>
+          <Ionicons name="star-outline" size={44} color={theme.textMuted} />
+          <Text style={[styles.emptyTitle, { color: theme.text }]}>Nessuna collana seguita</Text>
+          <Text style={[styles.emptyBody, { color: theme.textMuted }]}>
+            Apri una uscita dal Calendario e tocca "Segui" per ricevere qui le prossime date e le
+            notifiche.
+          </Text>
+        </View>
       </View>
     );
   }
@@ -68,6 +74,9 @@ export default function PreferitiScreen() {
       keyExtractor={(item) => item.series.id}
       ListHeaderComponent={
         <View>
+          <View style={styles.headerWrap}>
+            <AppHeader />
+          </View>
           <Text style={[styles.title, { color: theme.text }]}>Seguite</Text>
           {(weekSpend > 0 || monthSpend > 0) && (
             <View style={styles.spendRow}>
@@ -123,7 +132,8 @@ export default function PreferitiScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
-  title: { fontSize: 26, fontWeight: "800", paddingHorizontal: 16, paddingTop: 12, paddingBottom: 8 },
+  headerWrap: { paddingHorizontal: 16, paddingTop: 12 },
+  title: { fontSize: 26, fontWeight: "800", paddingHorizontal: 16, paddingBottom: 8 },
   spendRow: { flexDirection: "row", gap: 10, paddingHorizontal: 16, marginBottom: 8 },
   spendCard: { flex: 1, borderRadius: 14, padding: 12, gap: 2 },
   spendLabel: { fontSize: 11, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
@@ -147,7 +157,8 @@ const styles = StyleSheet.create({
   pillText: { fontSize: 10, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
   seriesTitle: { fontSize: 15, fontWeight: "700" },
   next: { fontSize: 13, fontWeight: "600" },
-  emptyState: { flex: 1, alignItems: "center", justifyContent: "center", padding: 32, gap: 10 },
+  emptyState: { flex: 1 },
+  emptyInner: { flex: 1, alignItems: "center", justifyContent: "center", padding: 32, gap: 10 },
   emptyTitle: { fontSize: 17, fontWeight: "700" },
   emptyBody: { fontSize: 14, textAlign: "center", lineHeight: 20 },
 });

@@ -12,6 +12,7 @@ import {
 } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useEdicolaData } from "../../lib/DataContext";
+import { AppHeader } from "../../components/AppHeader";
 import { CategoryFilterBar } from "../../components/CategoryFilterBar";
 import { ReleaseListItem } from "../../components/ReleaseListItem";
 import { formatDateLabel, releaseWindowStart } from "../../lib/format";
@@ -71,6 +72,7 @@ export default function CalendarioScreen() {
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       <View style={styles.headerRow}>
+        <AppHeader />
         <Text style={[styles.title, { color: theme.text }]}>Calendario</Text>
         <View style={styles.statsRow}>
           <StatChip icon="albums" label={`${filtered.length} uscite`} theme={theme} />
@@ -163,7 +165,7 @@ function StatChip({ icon, label, theme }: { icon: keyof typeof Ionicons.glyphMap
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
-  headerRow: { paddingHorizontal: 16, paddingTop: 12, paddingBottom: 4 },
+  headerRow: { paddingHorizontal: 16, paddingTop: 6, paddingBottom: 4 },
   title: { fontSize: 26, fontWeight: "800" },
   statsRow: { flexDirection: "row", gap: 8, marginTop: 8 },
   statChip: { flexDirection: "row", alignItems: "center", gap: 5, paddingHorizontal: 10, paddingVertical: 5, borderRadius: 12 },

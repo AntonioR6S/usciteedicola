@@ -2,6 +2,7 @@ import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Linking } from "r
 import { Ionicons } from "@expo/vector-icons";
 import { useThemeMode, type ThemeMode } from "../../lib/ThemeContext";
 import { useEdicolaData } from "../../lib/DataContext";
+import { AppHeader } from "../../components/AppHeader";
 import { NOTIFICATION_LEAD_OPTIONS } from "../../lib/notifications";
 
 const THEME_OPTIONS: { mode: ThemeMode; label: string; icon: keyof typeof Ionicons.glyphMap }[] = [
@@ -16,6 +17,7 @@ export default function ImpostazioniScreen() {
 
   return (
     <ScrollView style={{ backgroundColor: theme.background }} contentContainerStyle={styles.content}>
+      <AppHeader />
       <Text style={[styles.title, { color: theme.text }]}>Impostazioni</Text>
 
       <Section title="Aspetto" theme={theme}>
