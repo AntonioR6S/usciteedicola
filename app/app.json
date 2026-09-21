@@ -40,7 +40,12 @@
       "typedRoutes": true
     },
     "extra": {
-      "dataBaseUrl": "https://raw.githubusercontent.com/AntonioR6S/usciteedicola/main/data"
-    }
+      "dataBaseUrl": "https://raw.githubusercontent.com/AntonioR6S/usciteedicola/main/data",
+      "router": {},
+      "eas": {
+        "projectId": "6b5e0ca8-5f85-4028-946d-39e1838b6318"
+      }
+    },
+    "owner": "antonior6s"
   }
 }
