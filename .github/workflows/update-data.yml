@@ -1,0 +1,41 @@
+name: Aggiorna dati uscite
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Installa dipendenze
+        working-directory: scraper
+        run: npm ci
+
+      - name: Esegui scraper
+        working-directory: scraper
+        run: npm run scrape
+
+      - name: Commit dati aggiornati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica ai dati."
+          else
+            git commit -m "Aggiorna uscite $(date -u +%Y-%m-%d)"
+            git push
+          fi
