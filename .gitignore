@@ -3,3 +3,6 @@ dist/
 .expo/
 *.log
 .DS_Store
+.claude/scheduled_tasks.lock
+Screenshot_*.jpg
+Screenshot_*.png

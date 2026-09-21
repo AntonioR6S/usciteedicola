@@ -1,5 +1,6 @@
 import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Linking } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
+import { SafeAreaView } from "react-native-safe-area-context";
 import { useThemeMode, type ThemeMode } from "../../lib/ThemeContext";
 import { useEdicolaData } from "../../lib/DataContext";
 import { AppHeader } from "../../components/AppHeader";
@@ -26,7 +27,8 @@ export default function ImpostazioniScreen() {
   const { leadDays, setLeadDays, data, refresh, loading } = useEdicolaData();
 
   return (
-    <ScrollView style={{ backgroundColor: theme.background }} contentContainerStyle={styles.content}>
+    <SafeAreaView edges={["top"]} style={{ flex: 1, backgroundColor: theme.background }}>
+    <ScrollView contentContainerStyle={styles.content}>
       <AppHeader />
       <Text style={[styles.title, { color: theme.text }]}>Impostazioni</Text>
 
@@ -75,6 +77,7 @@ export default function ImpostazioniScreen() {
         </TouchableOpacity>
       </Section>
     </ScrollView>
+    </SafeAreaView>
   );
 }
 

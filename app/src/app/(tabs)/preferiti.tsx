@@ -3,6 +3,7 @@ import { View, Text, FlatList, TouchableOpacity, StyleSheet } from "react-native
 import { Image } from "expo-image";
 import { Ionicons } from "@expo/vector-icons";
 import { router } from "expo-router";
+import { SafeAreaView } from "react-native-safe-area-context";
 import { useEdicolaData } from "../../lib/DataContext";
 import { AppHeader } from "../../components/AppHeader";
 import { SpendChart, type SpendBucket } from "../../components/SpendChart";
@@ -83,7 +84,7 @@ export default function PreferitiScreen() {
 
   if (!hasAnything) {
     return (
-      <View style={[styles.emptyState, { backgroundColor: theme.background }]}>
+      <SafeAreaView edges={["top"]} style={[styles.emptyState, { backgroundColor: theme.background }]}>
         <View style={styles.headerWrap}>
           <AppHeader />
         </View>
@@ -95,13 +96,14 @@ export default function PreferitiScreen() {
             notifiche.
           </Text>
         </View>
-      </View>
+      </SafeAreaView>
     );
   }
 
   return (
+    <SafeAreaView edges={["top"]} style={[styles.container, { backgroundColor: theme.background }]}>
     <FlatList
-      style={[styles.container, { backgroundColor: theme.background }]}
+      style={styles.container}
       contentContainerStyle={{ paddingVertical: 8 }}
       data={stats.followedSeries}
       keyExtractor={(item) => item.series.id}
@@ -213,6 +215,7 @@ export default function PreferitiScreen() {
         );
       }}
     />
+    </SafeAreaView>
   );
 }
 

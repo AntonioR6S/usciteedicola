@@ -11,6 +11,7 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
+import { SafeAreaView } from "react-native-safe-area-context";
 import { useEdicolaData } from "../../lib/DataContext";
 import { AppHeader } from "../../components/AppHeader";
 import { CategoryFilterBar } from "../../components/CategoryFilterBar";
@@ -90,7 +91,7 @@ export default function CalendarioScreen() {
   }, [data, category, query, sort]);
 
   return (
-    <View style={[styles.container, { backgroundColor: theme.background }]}>
+    <SafeAreaView edges={["top"]} style={[styles.container, { backgroundColor: theme.background }]}>
       <View style={styles.headerRow}>
         <AppHeader />
         <Text style={[styles.title, { color: theme.text }]}>Calendario</Text>
@@ -163,7 +164,7 @@ export default function CalendarioScreen() {
           }
         />
       )}
-    </View>
+    </SafeAreaView>
   );
 }
 

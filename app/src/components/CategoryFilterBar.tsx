@@ -11,7 +11,12 @@ interface Props {
 export function CategoryFilterBar({ selected, onSelect }: Props) {
   const theme = useTheme();
   return (
-    <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.row}>
+    <ScrollView
+      horizontal
+      showsHorizontalScrollIndicator={false}
+      style={styles.scroll}
+      contentContainerStyle={styles.row}
+    >
       <Chip
         label="Tutte"
         color={theme.accent}
@@ -58,10 +63,12 @@ function Chip({
 }
 
 const styles = StyleSheet.create({
-  row: { paddingHorizontal: 16, paddingVertical: 10, gap: 8 },
+  scroll: { flexGrow: 0, flexShrink: 0 },
+  row: { paddingHorizontal: 16, paddingVertical: 10, gap: 8, alignItems: "center" },
   chip: {
     flexDirection: "row",
     alignItems: "center",
+    alignSelf: "flex-start",
     paddingHorizontal: 14,
     paddingVertical: 9,
     borderRadius: 20,

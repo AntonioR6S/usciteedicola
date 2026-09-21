@@ -13,7 +13,12 @@ export function FeaturedCarousel({ releases }: { releases: Release[] }) {
   return (
     <View style={styles.wrapper}>
       <Text style={[styles.title, { color: theme.text }]}>In evidenza</Text>
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.row}>
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        style={styles.scroll}
+        contentContainerStyle={styles.row}
+      >
         {releases.map((release) => {
           const categoryColor = CATEGORY_COLORS[release.category];
           return (
@@ -46,8 +51,9 @@ export function FeaturedCarousel({ releases }: { releases: Release[] }) {
 const styles = StyleSheet.create({
   wrapper: { marginTop: 4 },
   title: { fontSize: 13, fontWeight: "800", paddingHorizontal: 16, marginBottom: 8, textTransform: "uppercase", letterSpacing: 0.4 },
+  scroll: { flexGrow: 0, flexShrink: 0 },
   row: { paddingHorizontal: 16, gap: 12 },
-  card: { width: 104 },
+  card: { width: 104, alignSelf: "flex-start" },
   image: { width: 104, height: 132, borderRadius: 12 },
   dateBadge: { alignSelf: "flex-start", marginTop: 6, paddingHorizontal: 7, paddingVertical: 2, borderRadius: 6 },
   dateBadgeText: { fontSize: 9, fontWeight: "800", color: "#fff", textTransform: "capitalize" },
