@@ -1,6 +1,6 @@
 import { Tabs } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
-import { useTheme } from "../../lib/theme";
+import { useTheme } from "../../lib/ThemeContext";
 
 export default function TabLayout() {
   const theme = useTheme();
@@ -28,6 +28,15 @@ export default function TabLayout() {
           title: "Seguite",
           tabBarIcon: ({ color, size, focused }) => (
             <Ionicons name={focused ? "star" : "star-outline"} color={color} size={size} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="impostazioni"
+        options={{
+          title: "Impostazioni",
+          tabBarIcon: ({ color, size, focused }) => (
+            <Ionicons name={focused ? "settings" : "settings-outline"} color={color} size={size} />
           ),
         }}
       />

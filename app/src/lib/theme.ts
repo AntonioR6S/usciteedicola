@@ -1,4 +1,3 @@
-import { useColorScheme } from "react-native";
 import type { Category } from "./types";
 
 export const CATEGORY_COLORS: Record<Category, string> = {
@@ -32,8 +31,8 @@ const dark = {
 };
 
 export type Theme = typeof light;
+export type ColorScheme = "light" | "dark";
 
-export function useTheme(): Theme {
-  const scheme = useColorScheme();
+export function getThemeTokens(scheme: ColorScheme): Theme {
   return scheme === "dark" ? dark : light;
 }

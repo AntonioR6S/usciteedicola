@@ -1,51 +1,79 @@
 import { useMemo, useState } from "react";
-import { View, Text, SectionList, TextInput, StyleSheet, RefreshControl, ActivityIndicator } from "react-native";
+import {
+  View,
+  Text,
+  SectionList,
+  FlatList,
+  TextInput,
+  TouchableOpacity,
+  StyleSheet,
+  RefreshControl,
+  ActivityIndicator,
+} from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useEdicolaData } from "../../lib/DataContext";
 import { CategoryFilterBar } from "../../components/CategoryFilterBar";
 import { ReleaseListItem } from "../../components/ReleaseListItem";
 import { formatDateLabel, releaseWindowStart } from "../../lib/format";
-import { useTheme } from "../../lib/theme";
+import { useTheme } from "../../lib/ThemeContext";
 import type { Category, Release } from "../../lib/types";
+
+type SortMode = "date" | "price" | "name";
+const SORT_OPTIONS: { mode: SortMode; label: string; icon: keyof typeof Ionicons.glyphMap }[] = [
+  { mode: "date", label: "Data", icon: "calendar-outline" },
+  { mode: "price", label: "Prezzo", icon: "pricetag-outline" },
+  { mode: "name", label: "Nome", icon: "text-outline" },
+];
 
 export default function CalendarioScreen() {
   const { data, followedIds, loading, refresh } = useEdicolaData();
   const theme = useTheme();
   const [category, setCategory] = useState<Category | null>(null);
   const [query, setQuery] = useState("");
+  const [sort, setSort] = useState<SortMode>("date");
 
-  const { sections, upcomingCount } = useMemo(() => {
-    if (!data) return { sections: [], upcomingCount: 0 };
+  const { filtered, sections } = useMemo(() => {
+    if (!data) return { filtered: [] as Release[], sections: [] as { title: string; data: Release[] }[] };
     const windowStart = releaseWindowStart();
     const q = query.trim().toLowerCase();
 
     const filtered = data.releases.filter((r) => {
       if (new Date(r.releaseDate) < windowStart) return false;
       if (category && r.category !== category) return false;
-      if (q && !r.seriesTitle.toLowerCase().includes(q)) return false;
+      if (q) {
+        const matchesTitle = r.seriesTitle.toLowerCase().includes(q);
+        const matchesPublisher = r.publisher?.toLowerCase().includes(q) ?? false;
+        if (!matchesTitle && !matchesPublisher) return false;
+      }
       return true;
     });
 
-    const byDate = new Map<string, Release[]>();
-    for (const release of filtered) {
-      const list = byDate.get(release.releaseDate) ?? [];
-      list.push(release);
-      byDate.set(release.releaseDate, list);
+    if (sort === "date") {
+      const byDate = new Map<string, Release[]>();
+      for (const release of filtered) {
+        const list = byDate.get(release.releaseDate) ?? [];
+        list.push(release);
+        byDate.set(release.releaseDate, list);
+      }
+      const sections = Array.from(byDate.entries())
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([date, releases]) => ({ title: date, data: releases }));
+      return { filtered, sections };
     }
 
-    const sections = Array.from(byDate.entries())
-      .sort(([a], [b]) => a.localeCompare(b))
-      .map(([date, releases]) => ({ title: date, data: releases }));
-
-    return { sections, upcomingCount: filtered.length };
-  }, [data, category, query]);
+    const sorted = [...filtered].sort((a, b) => {
+      if (sort === "price") return (a.price ?? Infinity) - (b.price ?? Infinity);
+      return a.seriesTitle.localeCompare(b.seriesTitle);
+    });
+    return { filtered, sections: [{ title: "", data: sorted }] };
+  }, [data, category, query, sort]);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       <View style={styles.headerRow}>
         <Text style={[styles.title, { color: theme.text }]}>Calendario</Text>
         <View style={styles.statsRow}>
-          <StatChip icon="albums" label={`${upcomingCount} uscite`} theme={theme} />
+          <StatChip icon="albums" label={`${filtered.length} uscite`} theme={theme} />
           <StatChip icon="star" label={`${followedIds.length} seguite`} theme={theme} />
         </View>
       </View>
@@ -53,7 +81,7 @@ export default function CalendarioScreen() {
       <View style={[styles.searchBox, { backgroundColor: theme.surfaceAlt }]}>
         <Ionicons name="search" size={16} color={theme.textMuted} />
         <TextInput
-          placeholder="Cerca una collana..."
+          placeholder="Cerca per collana o editore..."
           placeholderTextColor={theme.textMuted}
           value={query}
           onChangeText={setQuery}
@@ -63,9 +91,29 @@ export default function CalendarioScreen() {
       </View>
       <CategoryFilterBar selected={category} onSelect={setCategory} />
 
+      <View style={styles.sortRow}>
+        <Text style={[styles.sortLabel, { color: theme.textMuted }]}>Ordina per</Text>
+        {SORT_OPTIONS.map((opt) => {
+          const active = sort === opt.mode;
+          return (
+            <TouchableOpacity
+              key={opt.mode}
+              style={[
+                styles.sortChip,
+                { backgroundColor: active ? theme.accent : theme.surfaceAlt },
+              ]}
+              onPress={() => setSort(opt.mode)}
+            >
+              <Ionicons name={opt.icon} size={13} color={active ? "#fff" : theme.textMuted} />
+              <Text style={[styles.sortChipText, { color: active ? "#fff" : theme.textMuted }]}>{opt.label}</Text>
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+
       {loading && !data ? (
         <ActivityIndicator style={{ marginTop: 40 }} color={theme.accent} />
-      ) : (
+      ) : sort === "date" ? (
         <SectionList
           sections={sections}
           keyExtractor={(item) => item.id}
@@ -76,17 +124,30 @@ export default function CalendarioScreen() {
             </Text>
           )}
           refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.accent} />}
-          ListEmptyComponent={
-            <View style={styles.empty}>
-              <Ionicons name="newspaper-outline" size={40} color={theme.textMuted} />
-              <Text style={[styles.emptyText, { color: theme.textMuted }]}>
-                Nessuna uscita trovata per questo filtro.
-              </Text>
-            </View>
-          }
+          ListEmptyComponent={<EmptyState theme={theme} />}
           contentContainerStyle={sections.length === 0 ? styles.emptyContainer : { paddingBottom: 24 }}
         />
+      ) : (
+        <FlatList
+          data={sections[0]?.data ?? []}
+          keyExtractor={(item) => item.id}
+          renderItem={({ item }) => <ReleaseListItem release={item} />}
+          refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.accent} />}
+          ListEmptyComponent={<EmptyState theme={theme} />}
+          contentContainerStyle={
+            (sections[0]?.data.length ?? 0) === 0 ? styles.emptyContainer : { paddingTop: 12, paddingBottom: 24 }
+          }
+        />
       )}
+    </View>
+  );
+}
+
+function EmptyState({ theme }: { theme: ReturnType<typeof useTheme> }) {
+  return (
+    <View style={styles.empty}>
+      <Ionicons name="newspaper-outline" size={40} color={theme.textMuted} />
+      <Text style={[styles.emptyText, { color: theme.textMuted }]}>Nessuna uscita trovata per questo filtro.</Text>
     </View>
   );
 }
@@ -118,6 +179,10 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
   },
   searchInput: { flex: 1, fontSize: 15 },
+  sortRow: { flexDirection: "row", alignItems: "center", gap: 6, paddingHorizontal: 16, paddingTop: 10 },
+  sortLabel: { fontSize: 12, fontWeight: "600", marginRight: 2 },
+  sortChip: { flexDirection: "row", alignItems: "center", gap: 4, paddingHorizontal: 10, paddingVertical: 6, borderRadius: 12 },
+  sortChipText: { fontSize: 12, fontWeight: "700" },
   sectionHeader: {
     paddingHorizontal: 16,
     paddingTop: 16,

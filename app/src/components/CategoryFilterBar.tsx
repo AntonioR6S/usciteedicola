@@ -1,6 +1,7 @@
 import { ScrollView, TouchableOpacity, Text, View, StyleSheet } from "react-native";
 import { CATEGORY_LABELS, CATEGORY_ORDER, type Category } from "../lib/types";
-import { CATEGORY_COLORS, useTheme } from "../lib/theme";
+import { CATEGORY_COLORS } from "../lib/theme";
+import { useTheme } from "../lib/ThemeContext";
 
 interface Props {
   selected: Category | null;

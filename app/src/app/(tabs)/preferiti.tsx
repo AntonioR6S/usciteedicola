@@ -5,19 +5,34 @@ import { Ionicons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import { useEdicolaData } from "../../lib/DataContext";
 import { CATEGORY_LABELS } from "../../lib/types";
-import { CATEGORY_COLORS, useTheme } from "../../lib/theme";
-import { formatDateLabel } from "../../lib/format";
+import { CATEGORY_COLORS } from "../../lib/theme";
+import { useTheme } from "../../lib/ThemeContext";
+import { formatDateLabel, formatPrice } from "../../lib/format";
 
 export default function PreferitiScreen() {
   const { data, followedIds } = useEdicolaData();
   const theme = useTheme();
 
-  const followedSeries = useMemo(() => {
-    if (!data) return [];
+  const { followedSeries, weekSpend, monthSpend } = useMemo(() => {
+    if (!data) return { followedSeries: [], weekSpend: 0, monthSpend: 0 };
     const todayStart = new Date();
     todayStart.setHours(0, 0, 0, 0);
+    const weekEnd = new Date(todayStart);
+    weekEnd.setDate(weekEnd.getDate() + 7);
+    const monthEnd = new Date(todayStart.getFullYear(), todayStart.getMonth() + 1, 1);
 
-    return followedIds
+    const followedSet = new Set(followedIds);
+    let weekSpend = 0;
+    let monthSpend = 0;
+    for (const r of data.releases) {
+      if (!followedSet.has(r.seriesId) || r.price === null) continue;
+      const d = new Date(r.releaseDate);
+      if (d < todayStart) continue;
+      if (d < weekEnd) weekSpend += r.price;
+      if (d < monthEnd) monthSpend += r.price;
+    }
+
+    const followedSeries = followedIds
       .map((id) => data.series.find((s) => s.id === id))
       .filter((s): s is NonNullable<typeof s> => Boolean(s))
       .map((series) => {
@@ -28,6 +43,8 @@ export default function PreferitiScreen() {
         const lastRelease = [...releases].reverse().find((r) => new Date(r.releaseDate) < todayStart);
         return { series, nextRelease, lastRelease };
       });
+
+    return { followedSeries, weekSpend, monthSpend };
   }, [data, followedIds]);
 
   if (followedSeries.length === 0) {
@@ -49,7 +66,23 @@ export default function PreferitiScreen() {
       contentContainerStyle={{ paddingVertical: 8 }}
       data={followedSeries}
       keyExtractor={(item) => item.series.id}
-      ListHeaderComponent={<Text style={[styles.title, { color: theme.text }]}>Seguite</Text>}
+      ListHeaderComponent={
+        <View>
+          <Text style={[styles.title, { color: theme.text }]}>Seguite</Text>
+          {(weekSpend > 0 || monthSpend > 0) && (
+            <View style={styles.spendRow}>
+              <View style={[styles.spendCard, { backgroundColor: theme.accentSoft }]}>
+                <Text style={[styles.spendLabel, { color: theme.accent }]}>Prossimi 7 giorni</Text>
+                <Text style={[styles.spendValue, { color: theme.accent }]}>{formatPrice(weekSpend)}</Text>
+              </View>
+              <View style={[styles.spendCard, { backgroundColor: theme.accentSoft }]}>
+                <Text style={[styles.spendLabel, { color: theme.accent }]}>Questo mese</Text>
+                <Text style={[styles.spendValue, { color: theme.accent }]}>{formatPrice(monthSpend)}</Text>
+              </View>
+            </View>
+          )}
+        </View>
+      }
       renderItem={({ item }) => {
         const categoryColor = CATEGORY_COLORS[item.series.category];
         return (
@@ -91,6 +124,10 @@ export default function PreferitiScreen() {
 const styles = StyleSheet.create({
   container: { flex: 1 },
   title: { fontSize: 26, fontWeight: "800", paddingHorizontal: 16, paddingTop: 12, paddingBottom: 8 },
+  spendRow: { flexDirection: "row", gap: 10, paddingHorizontal: 16, marginBottom: 8 },
+  spendCard: { flex: 1, borderRadius: 14, padding: 12, gap: 2 },
+  spendLabel: { fontSize: 11, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
+  spendValue: { fontSize: 18, fontWeight: "800" },
   card: {
     flexDirection: "row",
     alignItems: "center",

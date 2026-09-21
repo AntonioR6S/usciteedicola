@@ -1,14 +1,19 @@
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { Image } from "expo-image";
+import { Ionicons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import type { Release } from "../lib/types";
 import { formatPrice } from "../lib/format";
 import { CATEGORY_LABELS } from "../lib/types";
-import { CATEGORY_COLORS, useTheme } from "../lib/theme";
+import { CATEGORY_COLORS } from "../lib/theme";
+import { useTheme } from "../lib/ThemeContext";
+import { useEdicolaData } from "../lib/DataContext";
 
 export function ReleaseListItem({ release }: { release: Release }) {
   const theme = useTheme();
+  const { purchasedIds, togglePurchased } = useEdicolaData();
   const categoryColor = CATEGORY_COLORS[release.category];
+  const isPurchased = purchasedIds.includes(release.id);
 
   return (
     <TouchableOpacity
@@ -18,7 +23,7 @@ export function ReleaseListItem({ release }: { release: Release }) {
     >
       <Image
         source={release.imageUrl ?? undefined}
-        style={[styles.image, { backgroundColor: theme.surfaceAlt }]}
+        style={[styles.image, { backgroundColor: theme.surfaceAlt }, isPurchased && styles.imagePurchased]}
         contentFit="cover"
         transition={150}
       />
@@ -36,9 +41,24 @@ export function ReleaseListItem({ release }: { release: Release }) {
           {release.issueTitle ? ` · ${release.issueTitle}` : ""}
         </Text>
       </View>
-      {release.price !== null && (
-        <Text style={[styles.price, { color: theme.accent }]}>{formatPrice(release.price)}</Text>
-      )}
+      <View style={styles.rightCol}>
+        {release.price !== null && (
+          <Text style={[styles.price, { color: theme.accent }]}>{formatPrice(release.price)}</Text>
+        )}
+        <TouchableOpacity
+          hitSlop={8}
+          onPress={(e) => {
+            e.stopPropagation();
+            togglePurchased(release.id);
+          }}
+        >
+          <Ionicons
+            name={isPurchased ? "checkmark-circle" : "ellipse-outline"}
+            size={22}
+            color={isPurchased ? theme.accent : theme.border}
+          />
+        </TouchableOpacity>
+      </View>
     </TouchableOpacity>
   );
 }
@@ -58,10 +78,12 @@ const styles = StyleSheet.create({
     elevation: 1,
   },
   image: { width: 52, height: 66, borderRadius: 10 },
+  imagePurchased: { opacity: 0.45 },
   info: { flex: 1, gap: 3 },
   pill: { alignSelf: "flex-start", paddingHorizontal: 8, paddingVertical: 2, borderRadius: 8 },
   pillText: { fontSize: 10, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
   series: { fontSize: 15, fontWeight: "700" },
   issue: { fontSize: 13 },
+  rightCol: { alignItems: "flex-end", gap: 8 },
   price: { fontSize: 13, fontWeight: "700" },
 });

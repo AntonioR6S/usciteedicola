@@ -5,12 +5,13 @@ import { Ionicons } from "@expo/vector-icons";
 import { useLocalSearchParams, Stack } from "expo-router";
 import { useEdicolaData } from "../../lib/DataContext";
 import { CATEGORY_LABELS } from "../../lib/types";
-import { CATEGORY_COLORS, useTheme } from "../../lib/theme";
+import { CATEGORY_COLORS } from "../../lib/theme";
+import { useTheme } from "../../lib/ThemeContext";
 import { formatDateLabel, formatPrice } from "../../lib/format";
 
 export default function CollanaScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const { data, followedIds, toggleFollow } = useEdicolaData();
+  const { data, followedIds, toggleFollow, purchasedIds, togglePurchased } = useEdicolaData();
   const theme = useTheme();
 
   const series = useMemo(() => data?.series.find((s) => s.id === id) ?? null, [data, id]);
@@ -23,6 +24,7 @@ export default function CollanaScreen() {
   );
   const isFollowed = followedIds.includes(id);
   const todayStr = new Date().toISOString().slice(0, 10);
+  const purchasedCount = releases.filter((r) => purchasedIds.includes(r.id)).length;
 
   if (!series) {
     return (
@@ -56,6 +58,11 @@ export default function CollanaScreen() {
           {series.totalIssues && (
             <Text style={[styles.meta, { color: theme.textMuted }]}>{series.totalIssues} uscite totali</Text>
           )}
+          {purchasedCount > 0 && (
+            <Text style={[styles.meta, { color: theme.accent, fontWeight: "700" }]}>
+              {purchasedCount}/{releases.length} acquistate
+            </Text>
+          )}
           <TouchableOpacity
             style={[
               styles.followButton,
@@ -82,6 +89,7 @@ export default function CollanaScreen() {
         renderItem={({ item, index }) => {
           const isFuture = item.releaseDate >= todayStr;
           const isLast = index === releases.length - 1;
+          const isPurchased = purchasedIds.includes(item.id);
           return (
             <View style={styles.timelineRow}>
               <View style={styles.timelineTrack}>
@@ -97,7 +105,14 @@ export default function CollanaScreen() {
                 <Text style={[styles.releaseDate, { color: isFuture ? categoryColor : theme.textMuted }]}>
                   {formatDateLabel(item.releaseDate)}
                 </Text>
-                <Text style={[styles.releaseIssue, { color: theme.text }]} numberOfLines={2}>
+                <Text
+                  style={[
+                    styles.releaseIssue,
+                    { color: theme.text },
+                    isPurchased && { textDecorationLine: "line-through", color: theme.textMuted },
+                  ]}
+                  numberOfLines={2}
+                >
                   {item.issueNumber ? `N° ${item.issueNumber}` : ""}
                   {item.issueTitle ? ` · ${item.issueTitle}` : ""}
                 </Text>
@@ -105,6 +120,13 @@ export default function CollanaScreen() {
                   <Text style={[styles.releasePrice, { color: theme.textMuted }]}>{formatPrice(item.price)}</Text>
                 )}
               </View>
+              <TouchableOpacity hitSlop={8} onPress={() => togglePurchased(item.id)} style={styles.purchaseButton}>
+                <Ionicons
+                  name={isPurchased ? "checkmark-circle" : "ellipse-outline"}
+                  size={24}
+                  color={isPurchased ? theme.accent : theme.border}
+                />
+              </TouchableOpacity>
             </View>
           );
         }}
@@ -147,6 +169,7 @@ const styles = StyleSheet.create({
   timelineDot: { width: 10, height: 10, borderRadius: 5, marginTop: 5 },
   timelineLine: { width: 2, flex: 1, marginTop: 2 },
   releaseContent: { flex: 1, paddingBottom: 16, gap: 2 },
+  purchaseButton: { paddingLeft: 8, paddingBottom: 16 },
   releaseDate: { fontSize: 12, fontWeight: "700", textTransform: "capitalize" },
   releaseIssue: { fontSize: 14, fontWeight: "500" },
   releasePrice: { fontSize: 12 },

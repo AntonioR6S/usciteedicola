@@ -10,6 +10,13 @@ Notifications.setNotificationHandler({
   }),
 });
 
+export const NOTIFICATION_LEAD_OPTIONS = [
+  { days: 0, label: "Il giorno stesso" },
+  { days: 1, label: "1 giorno prima" },
+  { days: 2, label: "2 giorni prima" },
+  { days: 7, label: "7 giorni prima" },
+] as const;
+
 export async function requestNotificationPermissions(): Promise<boolean> {
   const { status } = await Notifications.requestPermissionsAsync();
   return status === "granted";
@@ -19,6 +26,7 @@ export async function requestNotificationPermissions(): Promise<boolean> {
 export async function rescheduleFollowedNotifications(
   releases: Release[],
   followedSeriesIds: string[],
+  leadDays = 0,
 ): Promise<void> {
   await Notifications.cancelAllScheduledNotificationsAsync();
   if (followedSeriesIds.length === 0) return;
@@ -33,12 +41,15 @@ export async function rescheduleFollowedNotifications(
 
   for (const release of upcoming) {
     const date = new Date(release.releaseDate);
+    date.setDate(date.getDate() - leadDays);
     date.setHours(9, 0, 0, 0);
     if (date.getTime() <= Date.now()) continue;
 
+    const dayNote = leadDays > 0 ? ` (tra ${leadDays} giorn${leadDays === 1 ? "o" : "i"})` : "";
+
     await Notifications.scheduleNotificationAsync({
       content: {
-        title: `In edicola: ${release.seriesTitle}`,
+        title: `In edicola: ${release.seriesTitle}${dayNote}`,
         body: release.issueNumber
           ? `Numero ${release.issueNumber}${release.issueTitle ? " - " + release.issueTitle : ""}`
           : (release.issueTitle ?? "Nuova uscita disponibile"),
