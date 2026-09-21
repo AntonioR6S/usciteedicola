@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useState, useCallback, type ReactNode } from "react";
 import { loadData, type EdicolaData } from "./dataSource";
 import { getFollowedIds, toggleFollowed as toggleFollowedStorage } from "./favorites";
-import { rescheduleFollowedNotifications } from "./notifications";
+import { rescheduleFollowedNotifications, requestNotificationPermissions } from "./notifications";
 
 interface DataContextValue {
   data: EdicolaData | null;
@@ -41,11 +41,15 @@ export function DataProvider({ children }: { children: ReactNode }) {
 
   const toggleFollow = useCallback(
     async (seriesId: string) => {
+      const wasFollowing = followedIds.includes(seriesId);
       const next = await toggleFollowedStorage(seriesId);
       setFollowedIds(next);
+      if (!wasFollowing) {
+        await requestNotificationPermissions().catch(() => false);
+      }
       if (data) rescheduleFollowedNotifications(data.releases, next).catch(() => {});
     },
-    [data],
+    [data, followedIds],
   );
 
   return (

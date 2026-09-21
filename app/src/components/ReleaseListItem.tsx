@@ -1,51 +1,67 @@
-import { View, Text, Image, TouchableOpacity, StyleSheet } from "react-native";
+import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
+import { Image } from "expo-image";
 import { router } from "expo-router";
 import type { Release } from "../lib/types";
 import { formatPrice } from "../lib/format";
 import { CATEGORY_LABELS } from "../lib/types";
+import { CATEGORY_COLORS, useTheme } from "../lib/theme";
 
 export function ReleaseListItem({ release }: { release: Release }) {
+  const theme = useTheme();
+  const categoryColor = CATEGORY_COLORS[release.category];
+
   return (
     <TouchableOpacity
-      style={styles.row}
+      activeOpacity={0.7}
+      style={[styles.card, { backgroundColor: theme.surface, shadowColor: theme.text }]}
       onPress={() => router.push({ pathname: "/collana/[id]", params: { id: release.seriesId } })}
     >
-      {release.imageUrl ? (
-        <Image source={{ uri: release.imageUrl }} style={styles.image} />
-      ) : (
-        <View style={[styles.image, styles.imagePlaceholder]} />
-      )}
+      <Image
+        source={release.imageUrl ?? undefined}
+        style={[styles.image, { backgroundColor: theme.surfaceAlt }]}
+        contentFit="cover"
+        transition={150}
+      />
       <View style={styles.info}>
-        <Text style={styles.series} numberOfLines={1}>
+        <View style={[styles.pill, { backgroundColor: categoryColor + "22" }]}>
+          <Text style={[styles.pillText, { color: categoryColor }]}>
+            {CATEGORY_LABELS[release.category]}
+          </Text>
+        </View>
+        <Text style={[styles.series, { color: theme.text }]} numberOfLines={1}>
           {release.seriesTitle}
         </Text>
-        <Text style={styles.issue} numberOfLines={1}>
+        <Text style={[styles.issue, { color: theme.textMuted }]} numberOfLines={1}>
           {release.issueNumber ? `N° ${release.issueNumber}` : ""}
           {release.issueTitle ? ` · ${release.issueTitle}` : ""}
         </Text>
-        <Text style={styles.meta}>
-          {CATEGORY_LABELS[release.category]}
-          {release.publisher ? ` · ${release.publisher}` : ""}
-        </Text>
       </View>
-      {release.price !== null && <Text style={styles.price}>{formatPrice(release.price)}</Text>}
+      {release.price !== null && (
+        <Text style={[styles.price, { color: theme.accent }]}>{formatPrice(release.price)}</Text>
+      )}
     </TouchableOpacity>
   );
 }
 
 const styles = StyleSheet.create({
-  row: {
+  card: {
     flexDirection: "row",
     alignItems: "center",
-    paddingHorizontal: 16,
-    paddingVertical: 10,
+    marginHorizontal: 16,
+    marginVertical: 5,
+    padding: 10,
+    borderRadius: 16,
     gap: 12,
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.06,
+    shadowRadius: 6,
+    elevation: 1,
   },
-  image: { width: 48, height: 60, borderRadius: 6, backgroundColor: "#eee" },
-  imagePlaceholder: { backgroundColor: "#ddd" },
-  info: { flex: 1 },
-  series: { fontSize: 15, fontWeight: "600", color: "#111" },
-  issue: { fontSize: 13, color: "#555", marginTop: 2 },
-  meta: { fontSize: 12, color: "#888", marginTop: 2 },
-  price: { fontSize: 13, fontWeight: "600", color: "#2E6F40" },
+  image: { width: 52, height: 66, borderRadius: 10 },
+  info: { flex: 1, gap: 3 },
+  pill: { alignSelf: "flex-start", paddingHorizontal: 8, paddingVertical: 2, borderRadius: 8 },
+  pillText: { fontSize: 10, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
+  series: { fontSize: 15, fontWeight: "700" },
+  issue: { fontSize: 13 },
+  price: { fontSize: 13, fontWeight: "700" },
 });

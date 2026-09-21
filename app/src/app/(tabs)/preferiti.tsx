@@ -1,12 +1,16 @@
 import { useMemo } from "react";
-import { View, Text, FlatList, Image, TouchableOpacity, StyleSheet } from "react-native";
+import { View, Text, FlatList, TouchableOpacity, StyleSheet } from "react-native";
+import { Image } from "expo-image";
+import { Ionicons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import { useEdicolaData } from "../../lib/DataContext";
 import { CATEGORY_LABELS } from "../../lib/types";
+import { CATEGORY_COLORS, useTheme } from "../../lib/theme";
 import { formatDateLabel } from "../../lib/format";
 
 export default function PreferitiScreen() {
   const { data, followedIds } = useEdicolaData();
+  const theme = useTheme();
 
   const followedSeries = useMemo(() => {
     if (!data) return [];
@@ -28,9 +32,10 @@ export default function PreferitiScreen() {
 
   if (followedSeries.length === 0) {
     return (
-      <View style={styles.emptyState}>
-        <Text style={styles.emptyTitle}>Nessuna collana seguita</Text>
-        <Text style={styles.emptyBody}>
+      <View style={[styles.emptyState, { backgroundColor: theme.background }]}>
+        <Ionicons name="star-outline" size={44} color={theme.textMuted} />
+        <Text style={[styles.emptyTitle, { color: theme.text }]}>Nessuna collana seguita</Text>
+        <Text style={[styles.emptyBody, { color: theme.textMuted }]}>
           Apri una uscita dal Calendario e tocca "Segui" per ricevere qui le prossime date e le
           notifiche.
         </Text>
@@ -40,48 +45,72 @@ export default function PreferitiScreen() {
 
   return (
     <FlatList
-      style={styles.container}
+      style={[styles.container, { backgroundColor: theme.background }]}
+      contentContainerStyle={{ paddingVertical: 8 }}
       data={followedSeries}
       keyExtractor={(item) => item.series.id}
-      renderItem={({ item }) => (
-        <TouchableOpacity
-          style={styles.row}
-          onPress={() => router.push({ pathname: "/collana/[id]", params: { id: item.series.id } })}
-        >
-          {item.series.imageUrl ? (
-            <Image source={{ uri: item.series.imageUrl }} style={styles.image} />
-          ) : (
-            <View style={[styles.image, styles.imagePlaceholder]} />
-          )}
-          <View style={styles.info}>
-            <Text style={styles.title} numberOfLines={1}>
-              {item.series.title}
-            </Text>
-            <Text style={styles.meta}>{CATEGORY_LABELS[item.series.category]}</Text>
-            <Text style={styles.next}>
-              {item.nextRelease
-                ? `Prossima uscita: ${formatDateLabel(item.nextRelease.releaseDate)}`
-                : item.lastRelease
-                  ? `Ultima uscita: ${formatDateLabel(item.lastRelease.releaseDate)} (nuova data non ancora confermata)`
-                  : "Nessuna data disponibile"}
-            </Text>
-          </View>
-        </TouchableOpacity>
-      )}
+      ListHeaderComponent={<Text style={[styles.title, { color: theme.text }]}>Seguite</Text>}
+      renderItem={({ item }) => {
+        const categoryColor = CATEGORY_COLORS[item.series.category];
+        return (
+          <TouchableOpacity
+            activeOpacity={0.7}
+            style={[styles.card, { backgroundColor: theme.surface, shadowColor: theme.text }]}
+            onPress={() => router.push({ pathname: "/collana/[id]", params: { id: item.series.id } })}
+          >
+            <Image
+              source={item.series.imageUrl ?? undefined}
+              style={[styles.image, { backgroundColor: theme.surfaceAlt }]}
+              contentFit="cover"
+              transition={150}
+            />
+            <View style={styles.info}>
+              <View style={[styles.pill, { backgroundColor: categoryColor + "22" }]}>
+                <Text style={[styles.pillText, { color: categoryColor }]}>
+                  {CATEGORY_LABELS[item.series.category]}
+                </Text>
+              </View>
+              <Text style={[styles.seriesTitle, { color: theme.text }]} numberOfLines={1}>
+                {item.series.title}
+              </Text>
+              <Text style={[styles.next, { color: item.nextRelease ? theme.accent : theme.textMuted }]}>
+                {item.nextRelease
+                  ? `Prossima uscita: ${formatDateLabel(item.nextRelease.releaseDate)}`
+                  : item.lastRelease
+                    ? `Ultima uscita: ${formatDateLabel(item.lastRelease.releaseDate)} · data futura non confermata`
+                    : "Nessuna data disponibile"}
+              </Text>
+            </View>
+          </TouchableOpacity>
+        );
+      }}
     />
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: "#fff" },
-  row: { flexDirection: "row", alignItems: "center", padding: 16, gap: 12 },
-  image: { width: 52, height: 66, borderRadius: 6, backgroundColor: "#eee" },
-  imagePlaceholder: { backgroundColor: "#ddd" },
-  info: { flex: 1 },
-  title: { fontSize: 15, fontWeight: "700", color: "#111" },
-  meta: { fontSize: 12, color: "#888", marginTop: 2 },
-  next: { fontSize: 13, color: "#2E6F40", marginTop: 4, fontWeight: "600" },
-  emptyState: { flex: 1, alignItems: "center", justifyContent: "center", padding: 32 },
-  emptyTitle: { fontSize: 17, fontWeight: "700", marginBottom: 8 },
-  emptyBody: { fontSize: 14, color: "#666", textAlign: "center", lineHeight: 20 },
+  container: { flex: 1 },
+  title: { fontSize: 26, fontWeight: "800", paddingHorizontal: 16, paddingTop: 12, paddingBottom: 8 },
+  card: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginHorizontal: 16,
+    marginVertical: 5,
+    padding: 10,
+    borderRadius: 16,
+    gap: 12,
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.06,
+    shadowRadius: 6,
+    elevation: 1,
+  },
+  image: { width: 56, height: 70, borderRadius: 10 },
+  info: { flex: 1, gap: 4 },
+  pill: { alignSelf: "flex-start", paddingHorizontal: 8, paddingVertical: 2, borderRadius: 8 },
+  pillText: { fontSize: 10, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.3 },
+  seriesTitle: { fontSize: 15, fontWeight: "700" },
+  next: { fontSize: 13, fontWeight: "600" },
+  emptyState: { flex: 1, alignItems: "center", justifyContent: "center", padding: 32, gap: 10 },
+  emptyTitle: { fontSize: 17, fontWeight: "700" },
+  emptyBody: { fontSize: 14, textAlign: "center", lineHeight: 20 },
 });
