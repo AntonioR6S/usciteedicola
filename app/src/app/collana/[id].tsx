@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { View, Text, FlatList, TouchableOpacity, StyleSheet, Linking } from "react-native";
+import { View, Text, FlatList, TouchableOpacity, StyleSheet, Linking, Share, Platform } from "react-native";
 import { Image } from "expo-image";
 import { Ionicons } from "@expo/vector-icons";
 import { useLocalSearchParams, Stack } from "expo-router";
@@ -11,7 +11,8 @@ import { formatDateLabel, formatPrice } from "../../lib/format";
 
 export default function CollanaScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const { data, followedIds, toggleFollow, purchasedIds, togglePurchased } = useEdicolaData();
+  const { data, followedIds, toggleFollow, followedPublishers, toggleFollowPublisher, purchasedIds, togglePurchased } =
+    useEdicolaData();
   const theme = useTheme();
 
   const series = useMemo(() => data?.series.find((s) => s.id === id) ?? null, [data, id]);
@@ -23,6 +24,7 @@ export default function CollanaScreen() {
     [data, id],
   );
   const isFollowed = followedIds.includes(id);
+  const isPublisherFollowed = !!series?.publisher && followedPublishers.includes(series.publisher);
   const todayStr = new Date().toISOString().slice(0, 10);
   const purchasedCount = releases.filter((r) => purchasedIds.includes(r.id)).length;
 
@@ -35,10 +37,29 @@ export default function CollanaScreen() {
   }
 
   const categoryColor = CATEGORY_COLORS[series.category];
+  const nextRelease = releases.find((r) => r.releaseDate >= todayStr);
+
+  const onShare = () => {
+    const dateInfo = nextRelease ? ` Prossima uscita: ${formatDateLabel(nextRelease.releaseDate)}.` : "";
+    Share.share({
+      message: `${series.title}${dateInfo} ${series.sourceUrl}`,
+      ...(Platform.OS === "ios" ? { url: series.sourceUrl } : {}),
+    }).catch(() => {});
+  };
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
-      <Stack.Screen options={{ title: series.title, headerBackTitle: "Indietro" }} />
+      <Stack.Screen
+        options={{
+          title: series.title,
+          headerBackTitle: "Indietro",
+          headerRight: () => (
+            <TouchableOpacity onPress={onShare} hitSlop={10} style={{ paddingHorizontal: 4 }}>
+              <Ionicons name="share-outline" size={22} color={theme.text} />
+            </TouchableOpacity>
+          ),
+        }}
+      />
 
       <View style={[styles.hero, { backgroundColor: theme.surface }]}>
         <Image
@@ -63,22 +84,41 @@ export default function CollanaScreen() {
               {purchasedCount}/{releases.length} acquistate
             </Text>
           )}
-          <TouchableOpacity
-            style={[
-              styles.followButton,
-              { borderColor: theme.accent, backgroundColor: isFollowed ? theme.accent : "transparent" },
-            ]}
-            onPress={() => toggleFollow(series.id)}
-          >
-            <Ionicons
-              name={isFollowed ? "checkmark-circle" : "notifications-outline"}
-              size={16}
-              color={isFollowed ? "#fff" : theme.accent}
-            />
-            <Text style={[styles.followButtonText, { color: isFollowed ? "#fff" : theme.accent }]}>
-              {isFollowed ? "Seguita" : "Segui"}
+          <View style={styles.buttonRow}>
+            <TouchableOpacity
+              style={[
+                styles.followButton,
+                { borderColor: theme.accent, backgroundColor: isFollowed ? theme.accent : "transparent" },
+              ]}
+              onPress={() => toggleFollow(series.id)}
+            >
+              <Ionicons
+                name={isFollowed ? "checkmark-circle" : "notifications-outline"}
+                size={16}
+                color={isFollowed ? "#fff" : theme.accent}
+              />
+              <Text style={[styles.followButtonText, { color: isFollowed ? "#fff" : theme.accent }]}>
+                {isFollowed ? "Seguita" : "Segui"}
+              </Text>
+            </TouchableOpacity>
+          </View>
+          {series.publisher && (
+            <TouchableOpacity style={styles.publisherRow} onPress={() => toggleFollowPublisher(series.publisher!)}>
+              <Ionicons
+                name={isPublisherFollowed ? "checkmark-circle-outline" : "add-circle-outline"}
+                size={14}
+                color={theme.textMuted}
+              />
+              <Text style={[styles.publisherRowText, { color: theme.textMuted }]}>
+                {isPublisherFollowed ? `Segui tutto ${series.publisher} ✓` : `Segui tutto ${series.publisher}`}
+              </Text>
+            </TouchableOpacity>
+          )}
+          {!isFollowed && isPublisherFollowed && (
+            <Text style={[styles.publisherHint, { color: theme.accent }]}>
+              Seguita tramite l'editore {series.publisher}
             </Text>
-          </TouchableOpacity>
+          )}
         </View>
       </View>
 
@@ -163,6 +203,10 @@ const styles = StyleSheet.create({
     borderWidth: 1.5,
   },
   followButtonText: { fontWeight: "700", fontSize: 13 },
+  buttonRow: { flexDirection: "row" },
+  publisherRow: { flexDirection: "row", alignItems: "center", gap: 5, marginTop: 8 },
+  publisherRowText: { fontSize: 12, fontWeight: "600" },
+  publisherHint: { fontSize: 11, fontWeight: "600", marginTop: 4 },
   sectionTitle: { fontSize: 15, fontWeight: "800", paddingHorizontal: 16, marginTop: 10, marginBottom: 6 },
   timelineRow: { flexDirection: "row", paddingHorizontal: 16 },
   timelineTrack: { width: 20, alignItems: "center" },

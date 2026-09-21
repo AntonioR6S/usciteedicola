@@ -14,6 +14,7 @@ import { Ionicons } from "@expo/vector-icons";
 import { useEdicolaData } from "../../lib/DataContext";
 import { AppHeader } from "../../components/AppHeader";
 import { CategoryFilterBar } from "../../components/CategoryFilterBar";
+import { FeaturedCarousel } from "../../components/FeaturedCarousel";
 import { ReleaseListItem } from "../../components/ReleaseListItem";
 import { formatDateLabel, releaseWindowStart } from "../../lib/format";
 import { useTheme } from "../../lib/ThemeContext";
@@ -27,11 +28,30 @@ const SORT_OPTIONS: { mode: SortMode; label: string; icon: keyof typeof Ionicons
 ];
 
 export default function CalendarioScreen() {
-  const { data, followedIds, loading, refresh } = useEdicolaData();
+  const { data, effectiveFollowedIds, loading, refresh } = useEdicolaData();
   const theme = useTheme();
   const [category, setCategory] = useState<Category | null>(null);
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortMode>("date");
+
+  const featured = useMemo(() => {
+    if (!data) return [];
+    const windowStart = releaseWindowStart();
+    const seen = new Set<string>();
+    const upcoming = [...data.releases]
+      .filter((r) => new Date(r.releaseDate) >= windowStart)
+      .sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
+    const result: Release[] = [];
+    for (const r of upcoming) {
+      if (seen.has(r.seriesId)) continue;
+      seen.add(r.seriesId);
+      result.push(r);
+      if (result.length === 8) break;
+    }
+    return result;
+  }, [data]);
+
+  const showFeatured = !category && !query.trim();
 
   const { filtered, sections } = useMemo(() => {
     if (!data) return { filtered: [] as Release[], sections: [] as { title: string; data: Release[] }[] };
@@ -76,7 +96,7 @@ export default function CalendarioScreen() {
         <Text style={[styles.title, { color: theme.text }]}>Calendario</Text>
         <View style={styles.statsRow}>
           <StatChip icon="albums" label={`${filtered.length} uscite`} theme={theme} />
-          <StatChip icon="star" label={`${followedIds.length} seguite`} theme={theme} />
+          <StatChip icon="star" label={`${effectiveFollowedIds.length} seguite`} theme={theme} />
         </View>
       </View>
 
@@ -125,6 +145,7 @@ export default function CalendarioScreen() {
               {formatDateLabel(section.title)}
             </Text>
           )}
+          ListHeaderComponent={showFeatured ? <FeaturedCarousel releases={featured} /> : null}
           refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.accent} />}
           ListEmptyComponent={<EmptyState theme={theme} />}
           contentContainerStyle={sections.length === 0 ? styles.emptyContainer : { paddingBottom: 24 }}
@@ -134,6 +155,7 @@ export default function CalendarioScreen() {
           data={sections[0]?.data ?? []}
           keyExtractor={(item) => item.id}
           renderItem={({ item }) => <ReleaseListItem release={item} />}
+          ListHeaderComponent={showFeatured ? <FeaturedCarousel releases={featured} /> : null}
           refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.accent} />}
           ListEmptyComponent={<EmptyState theme={theme} />}
           contentContainerStyle={

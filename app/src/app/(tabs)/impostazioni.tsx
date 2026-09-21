@@ -11,9 +11,19 @@ const THEME_OPTIONS: { mode: ThemeMode; label: string; icon: keyof typeof Ionico
   { mode: "dark", label: "Scuro", icon: "moon-outline" },
 ];
 
+function formatUpdatedAt(iso: string): string {
+  const date = new Date(iso);
+  return new Intl.DateTimeFormat("it-IT", {
+    day: "numeric",
+    month: "long",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(date);
+}
+
 export default function ImpostazioniScreen() {
   const { mode, setMode, theme } = useThemeMode();
-  const { leadDays, setLeadDays } = useEdicolaData();
+  const { leadDays, setLeadDays, data, refresh, loading } = useEdicolaData();
 
   return (
     <ScrollView style={{ backgroundColor: theme.background }} contentContainerStyle={styles.content}>
@@ -49,6 +59,13 @@ export default function ImpostazioniScreen() {
       </Section>
 
       <Section title="Informazioni" theme={theme}>
+        <TouchableOpacity style={[styles.linkRow, styles.rowBorder, { borderColor: theme.border }]} onPress={refresh}>
+          <Ionicons name={loading ? "sync" : "refresh-outline"} size={18} color={theme.textMuted} />
+          <Text style={[styles.linkText, { color: theme.textMuted, flex: 1 }]}>
+            {data ? `Dati aggiornati il ${formatUpdatedAt(data.generatedAt)}` : "Aggiornamento in corso..."}
+          </Text>
+          <Text style={[styles.refreshHint, { color: theme.accent }]}>Aggiorna</Text>
+        </TouchableOpacity>
         <TouchableOpacity
           style={styles.linkRow}
           onPress={() => Linking.openURL("https://github.com/AntonioR6S/usciteedicola")}
@@ -125,5 +142,7 @@ const styles = StyleSheet.create({
   },
   optionLabel: { flex: 1, fontSize: 15, fontWeight: "500" },
   linkRow: { flexDirection: "row", alignItems: "center", gap: 10, paddingHorizontal: 14, paddingVertical: 13 },
+  rowBorder: { borderBottomWidth: StyleSheet.hairlineWidth },
   linkText: { fontSize: 14, fontWeight: "500" },
+  refreshHint: { fontSize: 12, fontWeight: "700" },
 });
