@@ -39,7 +39,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "dataBaseUrl": "https://raw.githubusercontent.com/REPLACE_ME/REPLACE_ME/main/data"
+      "dataBaseUrl": "https://raw.githubusercontent.com/AntonioR6S/usciteedicola/main/data"
     }
   }
 }
