@@ -36,15 +36,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-topolino-collana.html"
   },
   {
-    "id": "631adfd205ffb8be",
-    "title": "Disney Topolino",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
-  },
-  {
     "id": "f00146e46bc5abad",
     "title": "Disney Topolino presenta La macchina Formula 1 di Topolino",
     "category": "fumetti",
@@ -52,6 +43,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/u/auto_formula1_topolino_risultato.jpg",
     "totalIssues": 2,
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-macchina-f1-topolino-collana.html"
+  },
+  {
+    "id": "631adfd205ffb8be",
+    "title": "Disney Topolino",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
   },
   {
     "id": "71e318a858660df3",
@@ -630,6 +630,15 @@
     "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html"
   },
   {
+    "id": "226344036b82836a",
+    "title": "Panini Adrenalyn XL™ FIFA 365",
+    "category": "collezionabili",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-4-tinbox-fifa365_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/panini-adrenalyn-xl-fifa-365-collana.html"
+  },
+  {
     "id": "8e807e753c712d4f",
     "title": "La collezione anastatica degli Album Mondiali Panini",
     "category": "collezionabili",
@@ -684,24 +693,6 @@
     "sourceUrl": "https://www.primaedicola.it/fifa-world-cup-2026-adrenalyn-xl-card-collana.html"
   },
   {
-    "id": "723eb4cc2d113313",
-    "title": "Peanuts Gift Box (5 soggetti)",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/o/box-peanuts_risultato.jpg",
-    "totalIssues": 5,
-    "sourceUrl": "https://www.primaedicola.it/peanuts-gift-box-collana.html"
-  },
-  {
-    "id": "ba2df5ae69d195a6",
-    "title": "Italia in Pista Milano Cortina 2026 - Official Sticker e Card collection",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/s/t/starterpack_jpg_risultato.jpg",
-    "totalIssues": 2,
-    "sourceUrl": "https://www.primaedicola.it/italia-in-pista-milano-cortina-2026-collezione-collana.html"
-  },
-  {
     "id": "ba8cddd1b6139e7a",
     "title": "Album di figurine Inter",
     "category": "collezionabili",
@@ -727,15 +718,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/l/album-roma2026_risultato_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/album-di-figurine-roma-collana.html"
-  },
-  {
-    "id": "93397435ca334759",
-    "title": "Calciatori 2025-26 Adrenalyn XL™",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/o/pocket-box-platinum_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/calciatori-adrenalyn-xl-serie-oro-collana.html"
   },
   {
     "id": "932b84e345640672",
