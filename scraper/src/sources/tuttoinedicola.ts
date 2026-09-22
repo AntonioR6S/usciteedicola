@@ -105,6 +105,24 @@ export async function scrapeTuttoInEdicola(opts: ScrapeOptions = {}) {
     });
   });
 
+  // La pagina di elenco non mostra copertine: le recupera una volta per
+  // collana (poche decine al massimo) dalla rispettiva pagina di dettaglio.
+  for (const series of seriesMap.values()) {
+    try {
+      const detailHtml = await fetchHtml(series.sourceUrl, opts.delayMs ?? 400);
+      const $detail = cheerio.load(detailHtml);
+      const imageUrl = $detail('meta[property="og:image"]').attr("content")?.trim() || null;
+      if (imageUrl) {
+        series.imageUrl = imageUrl;
+        for (const release of releases) {
+          if (release.seriesId === series.id) release.imageUrl = imageUrl;
+        }
+      }
+    } catch (err) {
+      log(`[tuttoinedicola] impossibile leggere l'immagine per ${series.sourceUrl}: ${(err as Error).message}`);
+    }
+  }
+
   log(`[tuttoinedicola] ${releases.length} uscite, ${seriesMap.size} collane`);
   return { series: Array.from(seriesMap.values()), releases };
 }
