@@ -36,15 +36,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-topolino-collana.html"
   },
   {
-    "id": "631adfd205ffb8be",
-    "title": "Disney Topolino",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
-  },
-  {
     "id": "f00146e46bc5abad",
     "title": "Disney Topolino presenta La macchina Formula 1 di Topolino",
     "category": "fumetti",
@@ -52,6 +43,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/u/auto_formula1_topolino_risultato.jpg",
     "totalIssues": 2,
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-macchina-f1-topolino-collana.html"
+  },
+  {
+    "id": "631adfd205ffb8be",
+    "title": "Disney Topolino",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
   },
   {
     "id": "71e318a858660df3",
