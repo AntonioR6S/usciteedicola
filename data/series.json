@@ -459,15 +459,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "5b10f675b22b4cde",
-    "title": "Rally 1:64 Official Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
     "id": "31feda9dcd7581b7",
     "title": "Auto da corsa in scala 1:43",
     "category": "modellini",
@@ -475,6 +466,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
     "totalIssues": 60,
     "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
+    "id": "5b10f675b22b4cde",
+    "title": "Rally 1:64 Official Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
@@ -630,6 +630,15 @@
     "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html"
   },
   {
+    "id": "226344036b82836a",
+    "title": "Panini Adrenalyn XL™ FIFA 365",
+    "category": "collezionabili",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-4-tinbox-fifa365_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/panini-adrenalyn-xl-fifa-365-collana.html"
+  },
+  {
     "id": "8e807e753c712d4f",
     "title": "La collezione anastatica degli Album Mondiali Panini",
     "category": "collezionabili",
@@ -684,24 +693,6 @@
     "sourceUrl": "https://www.primaedicola.it/fifa-world-cup-2026-adrenalyn-xl-card-collana.html"
   },
   {
-    "id": "723eb4cc2d113313",
-    "title": "Peanuts Gift Box (5 soggetti)",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/o/box-peanuts_risultato.jpg",
-    "totalIssues": 5,
-    "sourceUrl": "https://www.primaedicola.it/peanuts-gift-box-collana.html"
-  },
-  {
-    "id": "ba2df5ae69d195a6",
-    "title": "Italia in Pista Milano Cortina 2026 - Official Sticker e Card collection",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/s/t/starterpack_jpg_risultato.jpg",
-    "totalIssues": 2,
-    "sourceUrl": "https://www.primaedicola.it/italia-in-pista-milano-cortina-2026-collezione-collana.html"
-  },
-  {
     "id": "ba8cddd1b6139e7a",
     "title": "Album di figurine Inter",
     "category": "collezionabili",
@@ -727,15 +718,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/l/album-roma2026_risultato_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/album-di-figurine-roma-collana.html"
-  },
-  {
-    "id": "93397435ca334759",
-    "title": "Calciatori 2025-26 Adrenalyn XL™",
-    "category": "collezionabili",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/o/pocket-box-platinum_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/calciatori-adrenalyn-xl-serie-oro-collana.html"
   },
   {
     "id": "932b84e345640672",
@@ -988,5 +970,50 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/w/e/web_topipittori_primaedicola_1600_x_1600_risultato.jpg",
     "totalIssues": 40,
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
+  },
+  {
+    "id": "1136b54329353693",
+    "title": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
+    "category": "libri",
+    "publisher": null,
+    "imageUrl": null,
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+  },
+  {
+    "id": "8f9055d0634f2dce",
+    "title": "Collana National Geographic Città del Mondo torna in Edicola",
+    "category": "libri",
+    "publisher": null,
+    "imageUrl": null,
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+  },
+  {
+    "id": "50425864a897c616",
+    "title": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
+    "category": "libri",
+    "publisher": null,
+    "imageUrl": null,
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
+  },
+  {
+    "id": "5b7cd4d3d4443917",
+    "title": "Rocco Schiavone: 6 racconti di Antonio Manzini in regalo con la Repubblica",
+    "category": "libri",
+    "publisher": null,
+    "imageUrl": null,
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collane/rocco-schiavone-in-regalo-con-la-repubblica/"
+  },
+  {
+    "id": "2a32a45f52849745",
+    "title": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
+    "category": "figures",
+    "publisher": null,
+    "imageUrl": null,
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
   }
 ]
