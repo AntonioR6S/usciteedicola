@@ -6,6 +6,7 @@ export const CATEGORY_COLORS: Record<Category, string> = {
   modellini: "#F59E0B",
   figures: "#EC4899",
   collezionabili: "#14B8A6",
+  riviste: "#EF4444",
 };
 
 const light = {

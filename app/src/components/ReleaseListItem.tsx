@@ -39,6 +39,7 @@ export function ReleaseListItem({ release }: { release: Release }) {
         <Text style={[styles.issue, { color: theme.textMuted }]} numberOfLines={1}>
           {release.issueNumber ? `N° ${release.issueNumber}` : ""}
           {release.issueTitle ? ` · ${release.issueTitle}` : ""}
+          {release.projected ? " · data prevista" : ""}
         </Text>
       </View>
       <View style={styles.rightCol}>

@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer";
 import * as cheerio from "cheerio";
 import { stableId, absoluteUrl } from "../parseHelpers.js";
-import type { Release, Series } from "../types.js";
+import type { Category, Release, Series } from "../types.js";
 
 const BASE = "https://www.panini.it";
 const START_URL = `${BASE}/shp_ita_it/fumetti/calendario-delle-uscite/le-uscite-delle-prossime-8-settimane.html`;
@@ -96,6 +96,9 @@ export async function scrapePanini(opts: ScrapeOptions = {}) {
         const href = titleEl.attr("href");
         if (!rawTitle || !href || REGION_VARIANT_RE.test(rawTitle)) return;
 
+        const typology = $el.find(".product-item-attribute-typology small").first().text().trim().toLowerCase();
+        const category: Category = typology === "magazine" ? "riviste" : "fumetti";
+
         const dateText = $el.find(".product-item-attribute-release-date small").first().text().trim();
         const releaseDate = parseDateDDMMYY(dateText);
         if (!releaseDate) return;
@@ -113,7 +116,7 @@ export async function scrapePanini(opts: ScrapeOptions = {}) {
           seriesMap.set(seriesId, {
             id: seriesId,
             title: seriesName,
-            category: "fumetti",
+            category,
             publisher: "Panini",
             imageUrl,
             totalIssues: null,
@@ -125,7 +128,7 @@ export async function scrapePanini(opts: ScrapeOptions = {}) {
           id: stableId(sourceUrl),
           seriesId,
           seriesTitle: seriesName,
-          category: "fumetti",
+          category,
           publisher: "Panini",
           issueNumber: null,
           issueTitle: rawTitle !== seriesName ? rawTitle : null,

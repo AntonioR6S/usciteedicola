@@ -1,4 +1,4 @@
-export type Category = "fumetti" | "libri" | "modellini" | "figures" | "collezionabili";
+export type Category = "fumetti" | "libri" | "modellini" | "figures" | "collezionabili" | "riviste";
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   fumetti: "Fumetti",
@@ -6,6 +6,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   modellini: "Modellini",
   figures: "Figures",
   collezionabili: "Collezionabili",
+  riviste: "Riviste",
 };
 
 export const CATEGORY_ORDER: Category[] = [
@@ -14,6 +15,7 @@ export const CATEGORY_ORDER: Category[] = [
   "modellini",
   "figures",
   "collezionabili",
+  "riviste",
 ];
 
 export interface Series {
@@ -38,4 +40,5 @@ export interface Release {
   price: number | null;
   imageUrl: string | null;
   sourceUrl: string;
+  projected?: boolean;
 }

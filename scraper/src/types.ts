@@ -1,4 +1,4 @@
-export type Category = "fumetti" | "libri" | "modellini" | "figures" | "collezionabili";
+export type Category = "fumetti" | "libri" | "modellini" | "figures" | "collezionabili" | "riviste";
 
 export interface Series {
   id: string;
@@ -22,4 +22,6 @@ export interface Release {
   price: number | null;
   imageUrl: string | null;
   sourceUrl: string;
+  /** true se la data è calcolata dalla periodicità e non confermata dalla fonte. */
+  projected?: boolean;
 }

@@ -7,6 +7,14 @@ import {
   stableId,
   absoluteUrl,
 } from "../parseHelpers.js";
+import {
+  parsePeriodicity,
+  approxPeriodDays,
+  parseLongItalianDate,
+  addPeriods,
+  daysBetween,
+  toIso,
+} from "../projection.js";
 import type { Category, Release, Series } from "../types.js";
 
 const BASE = "https://www.primaedicola.it";
@@ -160,15 +168,76 @@ async function scrapeCollanaPage(
         sourceUrl,
       });
     });
+    // Collana in corso: il piano dell'opera elenca solo i numeri già confermati.
+    // Si proiettano i successivi dalla periodicità, limitandosi a ~4 mesi avanti.
+    const periodicity = parsePeriodicity(infoBoxText);
+    const known = releases.filter((r) => r.issueNumber !== null).sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
+    const last = known[known.length - 1];
+    if (periodicity && totalIssues && last && last.issueNumber !== null && last.issueNumber < totalIssues) {
+      const todayIso = toIso(new Date());
+      const stillActive = daysBetween(last.releaseDate, todayIso) <= approxPeriodDays(periodicity) * 2 + 14;
+      if (stillActive) {
+        const horizon = toIso(new Date(Date.now() + 120 * 86400000));
+        for (let k = last.issueNumber + 1; k <= totalIssues; k++) {
+          const date = addPeriods(last.releaseDate, periodicity, k - last.issueNumber);
+          if (date > horizon) break;
+          releases.push({
+            id: stableId(seriesId, "proj", k),
+            seriesId,
+            seriesTitle: title,
+            category,
+            publisher,
+            issueNumber: k,
+            issueTitle: null,
+            releaseDate: date,
+            price: last.price,
+            imageUrl,
+            sourceUrl: url,
+            projected: true,
+          });
+        }
+      }
+    }
   } else {
-    // Standalone product (no "piano dell'opera"): the page itself is one release.
     const bodyText = $("body").text();
+    const periodicity = parsePeriodicity(infoBoxText);
+    const firstDate = parseLongItalianDate(bodyText.match(/Data 1a uscita:\s*([^\n<]+)/i)?.[1] ?? "");
+
+    if (periodicity && totalIssues && totalIssues > 1 && firstDate) {
+      // Collana appena annunciata, senza piano dell'opera: si costruisce il calendario
+      // dalla data della prima uscita. Il prezzo del solo n.1 è noto (quello in pagina).
+      const priceAttr = $(".price-box [data-price-amount]").first().attr("data-price-amount");
+      const firstPrice = priceAttr ? parseFloat(priceAttr) : null;
+      const horizon = toIso(new Date(Date.now() + 120 * 86400000));
+      for (let k = 1; k <= totalIssues; k++) {
+        const date = addPeriods(firstDate, periodicity, k - 1);
+        if (date > horizon) break;
+        releases.push({
+          id: stableId(seriesId, "proj", k),
+          seriesId,
+          seriesTitle: title,
+          category,
+          publisher,
+          issueNumber: k,
+          issueTitle: null,
+          releaseDate: date,
+          price: k === 1 ? firstPrice : null,
+          imageUrl,
+          sourceUrl: url,
+          projected: true,
+        });
+      }
+      return { series, releases };
+    }
+
+    // Standalone product (no "piano dell'opera"): the page itself is one release.
     const releaseDate =
       parseItalianDate($(".numero-uscita-box").text()) ??
       (() => {
         const m = bodyText.match(/(?:in edicola dal|del)\s*(\d{1,2}[\/.]\d{1,2}[\/.]\d{4})/i);
         return m ? parseItalianDate(m[1]) : null;
-      })();
+      })() ??
+      firstDate;
     if (releaseDate) {
       const priceAttr = $(".price-box [data-price-amount]").first().attr("data-price-amount");
       const price = priceAttr ? parseFloat(priceAttr) : null;

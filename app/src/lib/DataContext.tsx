@@ -4,9 +4,12 @@ import { getFollowedIds, toggleFollowed as toggleFollowedStorage } from "./favor
 import { getFollowedPublishers, toggleFollowedPublisher as togglePublisherStorage } from "./publisherFollows";
 import { getPurchasedIds, togglePurchased as togglePurchasedStorage } from "./purchases";
 import { getNotificationLeadDays, setNotificationLeadDays } from "./preferences";
+import { getHiddenCategories, toggleHiddenCategory } from "./categoryVisibility";
 import { rescheduleFollowedNotifications, requestNotificationPermissions } from "./notifications";
+import type { Category } from "./types";
 
 interface DataContextValue {
+  /** Dati già filtrati: le categorie nascoste dall'utente non compaiono. */
   data: EdicolaData | null;
   loading: boolean;
   error: string | null;
@@ -15,53 +18,77 @@ interface DataContextValue {
   /** Unione di collane seguite esplicitamente + collane dei publisher seguiti. */
   effectiveFollowedIds: string[];
   purchasedIds: string[];
+  hiddenCategories: Category[];
   leadDays: number;
   refresh: () => Promise<void>;
   toggleFollow: (seriesId: string) => Promise<void>;
   toggleFollowPublisher: (publisher: string) => Promise<void>;
   togglePurchased: (releaseId: string) => Promise<void>;
+  toggleCategoryHidden: (category: Category) => Promise<void>;
   setLeadDays: (days: number) => Promise<void>;
 }
 
 const DataContext = createContext<DataContextValue | null>(null);
 
+function filterByCategories(data: EdicolaData, hidden: Category[]): EdicolaData {
+  if (hidden.length === 0) return data;
+  const hiddenSet = new Set(hidden);
+  return {
+    ...data,
+    releases: data.releases.filter((r) => !hiddenSet.has(r.category)),
+    series: data.series.filter((s) => !hiddenSet.has(s.category)),
+  };
+}
+
+function computeEffective(data: EdicolaData, followed: string[], publishers: string[]): string[] {
+  const seriesIds = new Set(data.series.map((s) => s.id));
+  const publisherSet = new Set(publishers);
+  const viaPublisher = data.series.filter((s) => s.publisher && publisherSet.has(s.publisher)).map((s) => s.id);
+  return Array.from(new Set([...followed, ...viaPublisher])).filter((id) => seriesIds.has(id));
+}
+
 export function DataProvider({ children }: { children: ReactNode }) {
-  const [data, setData] = useState<EdicolaData | null>(null);
+  const [rawData, setRawData] = useState<EdicolaData | null>(null);
   const [followedIds, setFollowedIds] = useState<string[]>([]);
   const [followedPublishers, setFollowedPublishers] = useState<string[]>([]);
   const [purchasedIds, setPurchasedIds] = useState<string[]>([]);
+  const [hiddenCategories, setHiddenCategories] = useState<Category[]>([]);
   const [leadDays, setLeadDaysState] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  const effectiveFollowedIds = useMemo(() => {
-    if (!data) return followedIds;
-    if (followedPublishers.length === 0) return followedIds;
-    const publisherSet = new Set(followedPublishers);
-    const viaPublisher = data.series.filter((s) => s.publisher && publisherSet.has(s.publisher)).map((s) => s.id);
-    return Array.from(new Set([...followedIds, ...viaPublisher]));
-  }, [data, followedIds, followedPublishers]);
+  const data = useMemo(
+    () => (rawData ? filterByCategories(rawData, hiddenCategories) : null),
+    [rawData, hiddenCategories],
+  );
+
+  const effectiveFollowedIds = useMemo(
+    () => (data ? computeEffective(data, followedIds, followedPublishers) : followedIds),
+    [data, followedIds, followedPublishers],
+  );
 
   const refresh = useCallback(async () => {
     setLoading(true);
     setError(null);
     try {
-      const [loaded, followed, publishers, purchased, lead] = await Promise.all([
+      const [loaded, followed, publishers, purchased, lead, hidden] = await Promise.all([
         loadData(),
         getFollowedIds(),
         getFollowedPublishers(),
         getPurchasedIds(),
         getNotificationLeadDays(),
+        getHiddenCategories(),
       ]);
-      setData(loaded);
+      setRawData(loaded);
       setFollowedIds(followed);
       setFollowedPublishers(publishers);
       setPurchasedIds(purchased);
       setLeadDaysState(lead);
-      const publisherSet = new Set(publishers);
-      const viaPublisher = loaded.series.filter((s) => s.publisher && publisherSet.has(s.publisher)).map((s) => s.id);
-      const effective = Array.from(new Set([...followed, ...viaPublisher]));
-      rescheduleFollowedNotifications(loaded.releases, effective, lead).catch(() => {});
+      setHiddenCategories(hidden);
+      const visible = filterByCategories(loaded, hidden);
+      rescheduleFollowedNotifications(visible.releases, computeEffective(visible, followed, publishers), lead).catch(
+        () => {},
+      );
     } catch (err) {
       setError((err as Error).message);
     } finally {
@@ -82,10 +109,9 @@ export function DataProvider({ children }: { children: ReactNode }) {
         await requestNotificationPermissions().catch(() => false);
       }
       if (data) {
-        const publisherSet = new Set(followedPublishers);
-        const viaPublisher = data.series.filter((s) => s.publisher && publisherSet.has(s.publisher)).map((s) => s.id);
-        const effective = Array.from(new Set([...next, ...viaPublisher]));
-        rescheduleFollowedNotifications(data.releases, effective, leadDays).catch(() => {});
+        rescheduleFollowedNotifications(data.releases, computeEffective(data, next, followedPublishers), leadDays).catch(
+          () => {},
+        );
       }
     },
     [data, followedIds, followedPublishers, leadDays],
@@ -100,10 +126,9 @@ export function DataProvider({ children }: { children: ReactNode }) {
         await requestNotificationPermissions().catch(() => false);
       }
       if (data) {
-        const publisherSet = new Set(next);
-        const viaPublisher = data.series.filter((s) => s.publisher && publisherSet.has(s.publisher)).map((s) => s.id);
-        const effective = Array.from(new Set([...followedIds, ...viaPublisher]));
-        rescheduleFollowedNotifications(data.releases, effective, leadDays).catch(() => {});
+        rescheduleFollowedNotifications(data.releases, computeEffective(data, followedIds, next), leadDays).catch(
+          () => {},
+        );
       }
     },
     [data, followedIds, followedPublishers, leadDays],
@@ -113,6 +138,22 @@ export function DataProvider({ children }: { children: ReactNode }) {
     const next = await togglePurchasedStorage(releaseId);
     setPurchasedIds(next);
   }, []);
+
+  const toggleCategoryHidden = useCallback(
+    async (category: Category) => {
+      const next = await toggleHiddenCategory(category);
+      setHiddenCategories(next);
+      if (rawData) {
+        const visible = filterByCategories(rawData, next);
+        rescheduleFollowedNotifications(
+          visible.releases,
+          computeEffective(visible, followedIds, followedPublishers),
+          leadDays,
+        ).catch(() => {});
+      }
+    },
+    [rawData, followedIds, followedPublishers, leadDays],
+  );
 
   const setLeadDays = useCallback(
     async (days: number) => {
@@ -133,11 +174,13 @@ export function DataProvider({ children }: { children: ReactNode }) {
         followedPublishers,
         effectiveFollowedIds,
         purchasedIds,
+        hiddenCategories,
         leadDays,
         refresh,
         toggleFollow,
         toggleFollowPublisher,
         togglePurchased,
+        toggleCategoryHidden,
         setLeadDays,
       }}
     >

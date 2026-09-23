@@ -198,15 +198,6 @@
     "sourceUrl": "https://www.primaedicola.it/dragon-ball-manga-serie-completa-collana.html"
   },
   {
-    "id": "b5c64389bb5f4df2",
-    "title": "Disney Special Events",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/k/pk-alba2_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/disney-special-events-albi-collana.html"
-  },
-  {
     "id": "bb296c41709f9004",
     "title": "Super Eroi Classic",
     "category": "fumetti",
@@ -214,6 +205,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
     "totalIssues": 500,
     "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html"
+  },
+  {
+    "id": "b5c64389bb5f4df2",
+    "title": "Disney Special Events",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/k/pk-alba2_risultato_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/disney-special-events-albi-collana.html"
   },
   {
     "id": "f1baca7531429694",
@@ -241,6 +241,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-superman_risultato.jpg",
     "totalIssues": 32,
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
+  },
+  {
+    "id": "a4d0a020aa8807ba",
+    "title": "Disney Zio Paperone",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wzipa079_0-ziopaperone79_risultato.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/zio-paperone-collana.html"
+  },
+  {
+    "id": "dace689289c25126",
+    "title": "I Grandi Classici Disney",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
   },
   {
     "id": "ec0e992ad86159f7",
@@ -288,24 +306,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-paperino-collana.html"
   },
   {
-    "id": "a4d0a020aa8807ba",
-    "title": "Disney Zio Paperone",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wzipa079_0-ziopaperone79_risultato.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/zio-paperone-collana.html"
-  },
-  {
-    "id": "dace689289c25126",
-    "title": "I Grandi Classici Disney",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
-  },
-  {
     "id": "1b9f05885662c613",
     "title": "I Classici Disney",
     "category": "fumetti",
@@ -333,15 +333,6 @@
     "sourceUrl": "https://www.primaedicola.it/paperino-and-friends-collana.html"
   },
   {
-    "id": "5a30e8ba8877bf41",
-    "title": "LUCKY LUKE - La raccolta completa a fumetti",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
-  },
-  {
     "id": "b418f679ababd91e",
     "title": "Il Grande Blek - Le Strisce",
     "category": "fumetti",
@@ -360,6 +351,15 @@
     "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html"
   },
   {
+    "id": "5a30e8ba8877bf41",
+    "title": "LUCKY LUKE - La raccolta completa a fumetti",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
+  },
+  {
     "id": "e3d3678464b7107b",
     "title": "Il Comandante Mark",
     "category": "fumetti",
@@ -367,6 +367,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "ee139ad7a01e088c",
+    "title": "Fast & Furious - Modellini in scala 1:43",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html"
   },
   {
     "id": "ba192cabc19652b8",
@@ -486,15 +495,6 @@
     "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-collana.html"
   },
   {
-    "id": "ee139ad7a01e088c",
-    "title": "Fast & Furious - Modellini in scala 1:43",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -549,6 +549,15 @@
     "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
   },
   {
+    "id": "b9e49c1bcf3d8f97",
+    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
+  },
+  {
     "id": "795e3890f3d6de26",
     "title": "MARVEL Movie Museum",
     "category": "figures",
@@ -583,15 +592,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
-  },
-  {
-    "id": "b9e49c1bcf3d8f97",
-    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
   },
   {
     "id": "d918b2ceb0d69f9f",
@@ -630,6 +630,15 @@
     "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html"
   },
   {
+    "id": "afa47d61ae62f0e5",
+    "title": "Calciatori Panini 2026-2027",
+    "category": "collezionabili",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/l/album-cartonato-calciatori2027_risultato_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/calciatori-e-figurine-panini-collana.html"
+  },
+  {
     "id": "226344036b82836a",
     "title": "Panini Adrenalyn XL™ FIFA 365",
     "category": "collezionabili",
@@ -657,13 +666,13 @@
     "sourceUrl": "https://www.primaedicola.it/fifa-world-cup-2026-official-sticker-collection-collana.html"
   },
   {
-    "id": "afa47d61ae62f0e5",
+    "id": "b8f3ad783ea0a77a",
     "title": "Calciatori Panini 2025-2026",
     "category": "collezionabili",
     "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/u/p/upgrade-calciatori-box2026_risultato_2.jpg",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/c/e/celebration-set_2025-2026_risultato_1.jpg",
     "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/calciatori-e-figurine-panini-collana.html"
+    "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2025-2026-collana.html"
   },
   {
     "id": "83103bad6afe9107",
@@ -738,6 +747,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
   },
   {
+    "id": "d56e38eb408487d5",
+    "title": "Capolavori in miniatura (ed. 2025)",
+    "category": "libri",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
+  },
+  {
     "id": "5b6971f2111cfa04",
     "title": "La grande letteratura italiana (ed. 2026)",
     "category": "libri",
@@ -754,15 +772,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-andreacamilleri-montalbano_risultato.jpg",
     "totalIssues": 60,
     "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-collana.html"
-  },
-  {
-    "id": "d56e38eb408487d5",
-    "title": "Capolavori in miniatura (ed. 2025)",
-    "category": "libri",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
   },
   {
     "id": "9331f3df2d9d2f21",
@@ -828,15 +837,6 @@
     "sourceUrl": "https://www.primaedicola.it/latino-cultura-lingua-radici-occidente-edizione-2024-collana.html"
   },
   {
-    "id": "f53fedda02687512",
-    "title": "Giornalismo d'inchiesta",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
-    "totalIssues": 30,
-    "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html"
-  },
-  {
     "id": "5cfcc81c27fd65ff",
     "title": "Luciano Canfora",
     "category": "libri",
@@ -844,6 +844,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-canfora_risultato.jpg",
     "totalIssues": 43,
     "sourceUrl": "https://www.primaedicola.it/luciano-canfora-collana.html"
+  },
+  {
+    "id": "f53fedda02687512",
+    "title": "Giornalismo d'inchiesta",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
+    "totalIssues": 30,
+    "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html"
   },
   {
     "id": "94e704b165fde7cd",
@@ -862,6 +871,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/r/primaedicola_1600x1600_3d_risultato.jpg",
     "totalIssues": 34,
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
+  },
+  {
+    "id": "629ce9251da11bc1",
+    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
+  },
+  {
+    "id": "8fbfc9d23a108c1b",
+    "title": "Lilliput",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
   },
   {
     "id": "c267b626271c3f8e",
@@ -889,24 +916,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
     "totalIssues": 52,
     "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
-  },
-  {
-    "id": "629ce9251da11bc1",
-    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
-  },
-  {
-    "id": "8fbfc9d23a108c1b",
-    "title": "Lilliput",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -990,6 +999,15 @@
     "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
   },
   {
+    "id": "1319a95914e4c367",
+    "title": "Amica con crema contorno occhi Dermolab in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Amica-con-crema-contorno-occhi-Dermolab.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-crema-contorno-occhi-dermolab/"
+  },
+  {
     "id": "50425864a897c616",
     "title": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
     "category": "libri",
@@ -1017,6 +1035,42 @@
     "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
   },
   {
+    "id": "9d8a51f8b20aa784",
+    "title": "Uomini e Donne con orologio dell’amore in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Uomini-e-Donne-con-orologio-dellamore-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-orologio/"
+  },
+  {
+    "id": "33afce4aec31a29b",
+    "title": "Cotto e Mangiato con Grattugia Multifunzione in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Cotto-e-Mangiato-con-Grattugia-Multifunzione-I-Genietti.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/cotto-e-mangiato-con-grattugia-multifunzione/"
+  },
+  {
+    "id": "0c10f3f4eeade3dd",
+    "title": "Topolino con le Carte Trevigiane di Ivan Bigarella in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-le-Carte-Trevigiane-di-Ivan-Bigarella-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-le-carte-trevigiane/"
+  },
+  {
+    "id": "d4d810c1e5188608",
+    "title": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
+  },
+  {
     "id": "f1409127876a3550",
     "title": "Paperinik Bundle",
     "category": "fumetti",
@@ -1028,7 +1082,7 @@
   {
     "id": "b061f7b4de7b3a5a",
     "title": "Paw Patrol",
-    "category": "fumetti",
+    "category": "riviste",
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
@@ -1037,7 +1091,7 @@
   {
     "id": "e2b09f1e5617d6a1",
     "title": "Unicorn Academy Magazine",
-    "category": "fumetti",
+    "category": "riviste",
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
@@ -1055,7 +1109,7 @@
   {
     "id": "4dbb4edf9a4a9a1d",
     "title": "Stitch Magazine",
-    "category": "fumetti",
+    "category": "riviste",
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
@@ -1064,7 +1118,7 @@
   {
     "id": "7ab74283c9fb7770",
     "title": "Il Trenino Thomas",
-    "category": "fumetti",
+    "category": "riviste",
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTRET024_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
@@ -1091,7 +1145,7 @@
   {
     "id": "996fc6da2dd36215",
     "title": "Spider-Man Magazine",
-    "category": "fumetti",
+    "category": "riviste",
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPAME150_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,

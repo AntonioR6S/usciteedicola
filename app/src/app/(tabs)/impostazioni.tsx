@@ -1,10 +1,12 @@
-import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Linking } from "react-native";
+import { View, Text, TouchableOpacity, ScrollView, StyleSheet, Linking, Switch } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useThemeMode, type ThemeMode } from "../../lib/ThemeContext";
 import { useEdicolaData } from "../../lib/DataContext";
 import { AppHeader } from "../../components/AppHeader";
 import { NOTIFICATION_LEAD_OPTIONS } from "../../lib/notifications";
+import { CATEGORY_LABELS, CATEGORY_ORDER } from "../../lib/types";
+import { CATEGORY_COLORS } from "../../lib/theme";
 
 const THEME_OPTIONS: { mode: ThemeMode; label: string; icon: keyof typeof Ionicons.glyphMap }[] = [
   { mode: "system", label: "Usa il tema dello smartphone", icon: "phone-portrait-outline" },
@@ -24,7 +26,7 @@ function formatUpdatedAt(iso: string): string {
 
 export default function ImpostazioniScreen() {
   const { mode, setMode, theme } = useThemeMode();
-  const { leadDays, setLeadDays, data, refresh, loading } = useEdicolaData();
+  const { leadDays, setLeadDays, data, refresh, loading, hiddenCategories, toggleCategoryHidden } = useEdicolaData();
 
   return (
     <SafeAreaView edges={["top"]} style={{ flex: 1, backgroundColor: theme.background }}>
@@ -43,6 +45,27 @@ export default function ImpostazioniScreen() {
             theme={theme}
             onPress={() => setMode(opt.mode)}
           />
+        ))}
+      </Section>
+
+      <Section title="Categorie mostrate" subtitle="Disattiva quelle che non ti interessano: spariscono da calendario, ricerca e notifiche" theme={theme}>
+        {CATEGORY_ORDER.map((c, i) => (
+          <View
+            key={c}
+            style={[
+              styles.optionRow,
+              { borderColor: theme.border, borderBottomWidth: i === CATEGORY_ORDER.length - 1 ? 0 : StyleSheet.hairlineWidth },
+            ]}
+          >
+            <View style={[styles.categoryDot, { backgroundColor: CATEGORY_COLORS[c] }]} />
+            <Text style={[styles.optionLabel, { color: theme.text }]}>{CATEGORY_LABELS[c]}</Text>
+            <Switch
+              value={!hiddenCategories.includes(c)}
+              onValueChange={() => toggleCategoryHidden(c)}
+              trackColor={{ true: theme.accent, false: theme.border }}
+              thumbColor="#fff"
+            />
+          </View>
         ))}
       </Section>
 
@@ -143,6 +166,7 @@ const styles = StyleSheet.create({
     paddingVertical: 13,
     borderBottomWidth: StyleSheet.hairlineWidth,
   },
+  categoryDot: { width: 12, height: 12, borderRadius: 6 },
   optionLabel: { flex: 1, fontSize: 15, fontWeight: "500" },
   linkRow: { flexDirection: "row", alignItems: "center", gap: 10, paddingHorizontal: 14, paddingVertical: 13 },
   rowBorder: { borderBottomWidth: StyleSheet.hairlineWidth },

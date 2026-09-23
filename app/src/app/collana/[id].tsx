@@ -144,6 +144,7 @@ export default function CollanaScreen() {
               <View style={styles.releaseContent}>
                 <Text style={[styles.releaseDate, { color: isFuture ? categoryColor : theme.textMuted }]}>
                   {formatDateLabel(item.releaseDate)}
+                  {item.projected ? " · prevista" : ""}
                 </Text>
                 <Text
                   style={[

@@ -29,9 +29,10 @@ const SORT_OPTIONS: { mode: SortMode; label: string; icon: keyof typeof Ionicons
 ];
 
 export default function CalendarioScreen() {
-  const { data, effectiveFollowedIds, loading, refresh } = useEdicolaData();
+  const { data, effectiveFollowedIds, hiddenCategories, loading, refresh } = useEdicolaData();
   const theme = useTheme();
-  const [category, setCategory] = useState<Category | null>(null);
+  const [selectedCategory, setCategory] = useState<Category | null>(null);
+  const category = selectedCategory && !hiddenCategories.includes(selectedCategory) ? selectedCategory : null;
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortMode>("date");
 

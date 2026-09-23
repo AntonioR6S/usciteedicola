@@ -9,6 +9,7 @@ const LIST_URL = `${BASE}/prossime-uscite/`;
 const SLUG_CATEGORY: Record<string, Category | undefined> = {
   libri: "libri",
   collane: "libri",
+  "omaggi-in-edicola": "riviste",
 };
 
 const MODELLINI_RE = /\bscala\b|modellin|miniatur|\bauto\b|\bmoto\b|aere|elicotter|\bnav[ei]\b|trattor|veicol/i;
@@ -57,7 +58,7 @@ export async function scrapeTuttoInEdicola(opts: ScrapeOptions = {}) {
     $block.find("article.cue-card").each((_, card) => {
       const $card = $(card);
       const slug = $card.attr("data-cue-full-category") ?? "";
-      if (!slug || slug === "omaggi-in-edicola") return;
+      if (!slug) return;
 
       const day = $card.find(".cue-card__day").first().text().trim();
       const monthAbbr = $card.find(".cue-card__month").first().text().trim();

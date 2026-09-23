@@ -2,6 +2,7 @@ import { ScrollView, TouchableOpacity, Text, View, StyleSheet } from "react-nati
 import { CATEGORY_LABELS, CATEGORY_ORDER, type Category } from "../lib/types";
 import { CATEGORY_COLORS } from "../lib/theme";
 import { useTheme } from "../lib/ThemeContext";
+import { useEdicolaData } from "../lib/DataContext";
 
 interface Props {
   selected: Category | null;
@@ -10,6 +11,7 @@ interface Props {
 
 export function CategoryFilterBar({ selected, onSelect }: Props) {
   const theme = useTheme();
+  const { hiddenCategories } = useEdicolaData();
   return (
     <ScrollView
       horizontal
@@ -23,7 +25,7 @@ export function CategoryFilterBar({ selected, onSelect }: Props) {
         active={selected === null}
         onPress={() => onSelect(null)}
       />
-      {CATEGORY_ORDER.map((category) => (
+      {CATEGORY_ORDER.filter((c) => !hiddenCategories.includes(c)).map((category) => (
         <Chip
           key={category}
           label={CATEGORY_LABELS[category]}
