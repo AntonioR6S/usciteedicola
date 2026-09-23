@@ -36,15 +36,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-topolino-collana.html"
   },
   {
-    "id": "631adfd205ffb8be",
-    "title": "Disney Topolino",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
-  },
-  {
     "id": "f00146e46bc5abad",
     "title": "Disney Topolino presenta La macchina Formula 1 di Topolino",
     "category": "fumetti",
@@ -52,6 +43,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/u/auto_formula1_topolino_risultato.jpg",
     "totalIssues": 2,
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-macchina-f1-topolino-collana.html"
+  },
+  {
+    "id": "631adfd205ffb8be",
+    "title": "Disney Topolino",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
   },
   {
     "id": "71e318a858660df3",
@@ -468,15 +468,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "31feda9dcd7581b7",
-    "title": "Auto da corsa in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
-  },
-  {
     "id": "5b10f675b22b4cde",
     "title": "Rally 1:64 Official Collection",
     "category": "modellini",
@@ -484,6 +475,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
+  },
+  {
+    "id": "31feda9dcd7581b7",
+    "title": "Auto da corsa in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
