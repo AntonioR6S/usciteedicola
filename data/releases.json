@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:11:36.910Z",
+  "generatedAt": "2026-09-24T09:47:20.900Z",
   "releases": [
     {
       "id": "7d0dee894ff3a4b9",
@@ -2784,19 +2784,6 @@
       "sourceUrl": "https://www.primaedicola.it/la-storia-raccontata-da-franco-cardini-il-guardiano-del-santo-sepolcro.html"
     },
     {
-      "id": "afb6328f6668b88d",
-      "seriesId": "9dd07a57714416d6",
-      "seriesTitle": "Disney Topolino presenta Il mio primo Topolino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 3666,
-      "issueTitle": "Topolino N° 3666 + Il Mio Primo Topolino (Volume 4)",
-      "releaseDate": "2026-02-25",
-      "price": 8.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-presenta-il-mio-primo-topolino-topolino-n-3666-il-mio-primo-topolino-volume_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-il-mio-primo-topolino-topolino-n-3666-il-mio-primo-topolino-volume.html"
-    },
-    {
       "id": "29dd8b7cfdaea120",
       "seriesId": "8d1d844d852c89b1",
       "seriesTitle": "Ferrari GT in scala 1:64 - Limited Edition",
@@ -3484,19 +3471,6 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/racing-car-transporters-in-scala-1-43-mercedes-lp911-martini-racing-1970_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-mercedes-lp911-martini-racing-1970.html"
-    },
-    {
-      "id": "94067fad9d6c3b56",
-      "seriesId": "67faadaece7e7112",
-      "seriesTitle": "Star Wars - Astronavi e Veicoli",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 58,
-      "issueTitle": "Artillery transport",
-      "releaseDate": "2026-04-01",
-      "price": 19.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/t/star-wars-astronavi-e-veicoli-artillery-transport_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-e-veicoli-artillery-transport.html"
     },
     {
       "id": "3d2bb98bb5a8dc2a",
@@ -5850,45 +5824,6 @@
       "price": 19.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/t/star-wars-astronavi-e-veicoli-resistance-bomber-mg-100-paige-tico-s-cobalt_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-e-veicoli-resistance-bomber-mg-100-paige-tico-s-cobalt.html"
-    },
-    {
-      "id": "0ff5adf1d25ee0e8",
-      "seriesId": "aedc693e67ed662a",
-      "seriesTitle": "Andrea Camilleri - Il commissario Montalbano",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 48,
-      "issueTitle": "La setta degli angeli",
-      "releaseDate": "2026-06-24",
-      "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/n/andrea-camilleri-il-commissario-montalbano-la-setta-degli-angeli_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-la-setta-degli-angeli.html"
-    },
-    {
-      "id": "049740c682d6d007",
-      "seriesId": "8e84d92fa2b97f85",
-      "seriesTitle": "Greco - La lingua del pensiero e della bellezza (ed. 2025)",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 38,
-      "issueTitle": "LA FAMIGLIA",
-      "releaseDate": "2026-06-24",
-      "price": 7.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/r/greco-la-lingua-del-pensiero-e-della-bellezza-ed-2025-la-famiglia_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/greco-la-lingua-del-pensiero-e-della-bellezza-ed-2025-la-famiglia.html"
-    },
-    {
-      "id": "a80cf0829e2e16a2",
-      "seriesId": "57598e2090b3e551",
-      "seriesTitle": "La biblioteca delle stagioni",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 19,
-      "issueTitle": "È estate, Cincia",
-      "releaseDate": "2026-06-24",
-      "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-biblioteca-delle-stagioni-e-estate-cincia_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-e-estate-cincia.html"
     },
     {
       "id": "a3ee70c443a455ae",
@@ -11624,74 +11559,82 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3695-fermalibro-paperino.html"
     },
     {
-      "id": "693ab13b58eee4c2",
+      "id": "8babaef1ba9f9417",
+      "seriesId": "631adfd205ffb8be",
+      "seriesTitle": "Disney Topolino",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3695,
+      "issueTitle": "Topolino N° 3695",
+      "releaseDate": "2026-09-16",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-topolino-n-3695_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-topolino-n-3695.html"
+    },
+    {
+      "id": "579f18c4bd82583d",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 9,
-      "issueTitle": null,
+      "issueTitle": "Lucky Luke contro Pinkerton",
       "releaseDate": "2026-09-16",
       "price": 5.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/u/lucky-luke-la-raccolta-completa-a-fumetti-lucky-luke-contro-pinkerton_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lucky-luke-la-raccolta-completa-a-fumetti-lucky-luke-contro-pinkerton.html"
     },
     {
-      "id": "94819563431d6e3f",
+      "id": "a7af3402cd01d761",
       "seriesId": "67faadaece7e7112",
       "seriesTitle": "Star Wars - Astronavi e Veicoli",
       "category": "modellini",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 70,
-      "issueTitle": null,
+      "issueTitle": "Imperial Light Cruiser",
       "releaseDate": "2026-09-16",
       "price": 19.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-navicelle-starwars.jpg",
-      "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/t/star-wars-astronavi-e-veicoli-imperial-light-cruiser_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-e-veicoli-imperial-light-cruiser.html"
     },
     {
-      "id": "db6aa33e87d0061f",
+      "id": "596d7d0ba7164f34",
       "seriesId": "aedc693e67ed662a",
       "seriesTitle": "Andrea Camilleri - Il commissario Montalbano",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 60,
-      "issueTitle": null,
+      "issueTitle": "Vi scriverò ancora",
       "releaseDate": "2026-09-16",
       "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-andreacamilleri-montalbano_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/n/andrea-camilleri-il-commissario-montalbano-vi-scrivero-ancora_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-vi-scrivero-ancora.html"
     },
     {
-      "id": "6dd4b91545f28f4f",
+      "id": "1ddfdabbaffac6c3",
       "seriesId": "8e84d92fa2b97f85",
       "seriesTitle": "Greco - La lingua del pensiero e della bellezza (ed. 2025)",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 50,
-      "issueTitle": null,
+      "issueTitle": "LA VARIETÀ",
       "releaseDate": "2026-09-16",
       "price": 7.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/greco25_bulk_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/greco-lingua-pensiero-e-bellezza-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/r/greco-la-lingua-del-pensiero-e-della-bellezza-ed-2025-la-varieta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/greco-la-lingua-del-pensiero-e-della-bellezza-ed-2025-la-varieta.html"
     },
     {
-      "id": "976f41700db90369",
+      "id": "fb0023ca6667047e",
       "seriesId": "57598e2090b3e551",
       "seriesTitle": "La biblioteca delle stagioni",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 31,
-      "issueTitle": null,
+      "issueTitle": "Gita nel bosco",
       "releaseDate": "2026-09-16",
       "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-biblioteca-delle-stagioni-gita-nel-bosco_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-gita-nel-bosco.html"
     },
     {
       "id": "70b5a6bc441e132b",
@@ -12068,6 +12011,19 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+    },
+    {
+      "id": "ae3a02c8cd649baf",
+      "seriesId": "887a38357bfce808",
+      "seriesTitle": "Disney Topolino presenta I fermalibri di Topolino",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3696,
+      "issueTitle": "Topolino N° 3696 + Fermalibro Topolino",
+      "releaseDate": "2026-09-23",
+      "price": 15.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3696-fermalibro-topolino_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3696-fermalibro-topolino.html"
     },
     {
       "id": "5abd65c625991dce",
@@ -12942,6 +12898,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/pluto-1-mplut001isbnr4-it08.html"
     },
     {
+      "id": "6ad54ce6b73734c4",
+      "seriesId": "6655b3158506b769",
+      "seriesTitle": "Superman Action Comics",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Superman Action Comics 2",
+      "releaseDate": "2026-10-01",
+      "price": 24.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1HCIN202ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/superman-action-comics-2-m1hcin202isbn-it08.html"
+    },
+    {
       "id": "6bd40702d78b2d4e",
       "seriesId": "dbd0d7ff1148aa76",
       "seriesTitle": "Un Marzo da Leoni",
@@ -13716,6 +13685,19 @@
       "projected": true
     },
     {
+      "id": "23e7b4abf7b711ee",
+      "seriesId": "5ac7a8696b34d9e5",
+      "seriesTitle": "Agenda Enigmistica IN 15 mesi 2026-2028 in edicola",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-08",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/09/Agenda-Enigmistica-IN-15-mesi-2026-2028-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-enigmistica-in/"
+    },
+    {
       "id": "18701c16ed7ea455",
       "seriesId": "d9a96b3f788d5de3",
       "seriesTitle": "Kindergarten Wars",
@@ -13844,6 +13826,19 @@
       "price": 19,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
       "sourceUrl": "https://www.panini.it/shp_ita_it/check-please-1-mchec001isbnv-it08.html"
+    },
+    {
+      "id": "74b0821dcaca239a",
+      "seriesId": "235918083d7360bd",
+      "seriesTitle": "Wolverine: Vendetta",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-08",
+      "price": 19.95,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST229ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-vendetta-mfrst229isbn-it08.html"
     },
     {
       "id": "d0c19fbac7a7eda9",
@@ -15176,6 +15171,19 @@
       "projected": true
     },
     {
+      "id": "3598cbc3615aacd4",
+      "seriesId": "4d8037c4f69449f6",
+      "seriesTitle": "Amica con mascara Face D Black Volume in edicola",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-23",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
+    },
+    {
       "id": "ea3e6dfc7f8e5471",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -15892,6 +15900,19 @@
       "price": 9.99,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
+    },
+    {
+      "id": "cdb818bf2312c7d7",
+      "seriesId": "7ffb1550efac8648",
+      "seriesTitle": "Topolino 3702 con Pencil Tin Calciatori 2026-2027",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-04",
+      "price": 16.05,
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3702v_0_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3702-con-pencil-tin-calciatori-2026-2027-1wtopo3702v-it08.html"
     },
     {
       "id": "f0ec71d0af073e42",
@@ -20222,6 +20243,48 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html",
+      "projected": true
+    },
+    {
+      "id": "f6a8b328135b4197",
+      "seriesId": "3a6f2b841e4d2ca1",
+      "seriesTitle": "Dylan Dog 40",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 19,
+      "issueTitle": null,
+      "releaseDate": "2027-01-22",
+      "price": null,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
+      "projected": true
+    },
+    {
+      "id": "2d94ddb47f3d4819",
+      "seriesId": "ec0e992ad86159f7",
+      "seriesTitle": "Alan Ford Anastatica",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 109,
+      "issueTitle": null,
+      "releaseDate": "2027-01-22",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a387d1cc63512fe7",
+      "seriesId": "621a2b1dcfb36d3e",
+      "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2027-01-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
       "projected": true
     },
     {

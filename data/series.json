@@ -36,15 +36,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-topolino-collana.html"
   },
   {
-    "id": "f00146e46bc5abad",
-    "title": "Disney Topolino presenta La macchina Formula 1 di Topolino",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/u/auto_formula1_topolino_risultato.jpg",
-    "totalIssues": 2,
-    "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-macchina-f1-topolino-collana.html"
-  },
-  {
     "id": "631adfd205ffb8be",
     "title": "Disney Topolino",
     "category": "fumetti",
@@ -52,6 +43,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/3/d/3d-topolino3695_risultato.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/topolino-collana.html"
+  },
+  {
+    "id": "f00146e46bc5abad",
+    "title": "Disney Topolino presenta La macchina Formula 1 di Topolino",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/u/auto_formula1_topolino_risultato.jpg",
+    "totalIssues": 2,
+    "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-macchina-f1-topolino-collana.html"
   },
   {
     "id": "71e318a858660df3",
@@ -333,6 +333,15 @@
     "sourceUrl": "https://www.primaedicola.it/paperino-and-friends-collana.html"
   },
   {
+    "id": "5a30e8ba8877bf41",
+    "title": "LUCKY LUKE - La raccolta completa a fumetti",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
+  },
+  {
     "id": "b418f679ababd91e",
     "title": "Il Grande Blek - Le Strisce",
     "category": "fumetti",
@@ -349,15 +358,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/le-strisce-di-tex.jpg",
     "totalIssues": 351,
     "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html"
-  },
-  {
-    "id": "5a30e8ba8877bf41",
-    "title": "LUCKY LUKE - La raccolta completa a fumetti",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
   },
   {
     "id": "e3d3678464b7107b",
@@ -468,15 +468,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "5b10f675b22b4cde",
-    "title": "Rally 1:64 Official Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
     "id": "31feda9dcd7581b7",
     "title": "Auto da corsa in scala 1:43",
     "category": "modellini",
@@ -484,6 +475,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
     "totalIssues": 60,
     "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
+    "id": "5b10f675b22b4cde",
+    "title": "Rally 1:64 Official Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
@@ -747,6 +747,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
   },
   {
+    "id": "aedc693e67ed662a",
+    "title": "Andrea Camilleri - Il commissario Montalbano",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-andreacamilleri-montalbano_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-collana.html"
+  },
+  {
     "id": "d56e38eb408487d5",
     "title": "Capolavori in miniatura (ed. 2025)",
     "category": "libri",
@@ -763,15 +772,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
     "totalIssues": 50,
     "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
-  },
-  {
-    "id": "aedc693e67ed662a",
-    "title": "Andrea Camilleri - Il commissario Montalbano",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-andreacamilleri-montalbano_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/andrea-camilleri-il-commissario-montalbano-collana.html"
   },
   {
     "id": "9331f3df2d9d2f21",
@@ -801,15 +801,6 @@
     "sourceUrl": "https://www.primaedicola.it/giappone-contemporaneo-collana.html"
   },
   {
-    "id": "ad118cdedd7bee6e",
-    "title": "Patrimonio Artistico Italiano",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html"
-  },
-  {
     "id": "8e84d92fa2b97f85",
     "title": "Greco - La lingua del pensiero e della bellezza (ed. 2025)",
     "category": "libri",
@@ -817,6 +808,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/greco25_bulk_risultato.jpg",
     "totalIssues": 50,
     "sourceUrl": "https://www.primaedicola.it/greco-lingua-pensiero-e-bellezza-collana.html"
+  },
+  {
+    "id": "ad118cdedd7bee6e",
+    "title": "Patrimonio Artistico Italiano",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html"
   },
   {
     "id": "31332b2caea1cdd7",
@@ -873,6 +873,15 @@
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
   },
   {
+    "id": "57598e2090b3e551",
+    "title": "La biblioteca delle stagioni",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
+    "totalIssues": 52,
+    "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
+  },
+  {
     "id": "629ce9251da11bc1",
     "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
     "category": "libri",
@@ -907,15 +916,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
-  },
-  {
-    "id": "57598e2090b3e551",
-    "title": "La biblioteca delle stagioni",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
-    "totalIssues": 52,
-    "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -1062,6 +1062,24 @@
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-le-carte-trevigiane/"
   },
   {
+    "id": "5ac7a8696b34d9e5",
+    "title": "Agenda Enigmistica IN 15 mesi 2026-2028 in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/09/Agenda-Enigmistica-IN-15-mesi-2026-2028-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-enigmistica-in/"
+  },
+  {
+    "id": "4d8037c4f69449f6",
+    "title": "Amica con mascara Face D Black Volume in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
+  },
+  {
     "id": "d4d810c1e5188608",
     "title": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
     "category": "riviste",
@@ -1177,6 +1195,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/pluto-6-mplut006isbnr3-it08.html"
+  },
+  {
+    "id": "6655b3158506b769",
+    "title": "Superman Action Comics",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1HCIN202ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/superman-action-comics-2-m1hcin202isbn-it08.html"
   },
   {
     "id": "dbd0d7ff1148aa76",
@@ -1368,6 +1395,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/check-please-1-mchec001isbn-it08.html"
   },
   {
+    "id": "235918083d7360bd",
+    "title": "Wolverine: Vendetta",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST229ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-vendetta-mfrst229isbn-it08.html"
+  },
+  {
     "id": "348ee869e2eb502f",
     "title": "Wolverine: Vendetta Red Band",
     "category": "fumetti",
@@ -1519,6 +1555,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI387ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/x-men-di-apocalisse-mnowi387isbn-it08.html"
+  },
+  {
+    "id": "7ffb1550efac8648",
+    "title": "Topolino 3702 con Pencil Tin Calciatori 2026-2027",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3702v_0_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3702-con-pencil-tin-calciatori-2026-2027-1wtopo3702v-it08.html"
   },
   {
     "id": "7796822da18a7d54",
