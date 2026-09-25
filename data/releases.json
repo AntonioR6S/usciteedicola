@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:47:20.900Z",
+  "generatedAt": "2026-09-25T10:05:11.378Z",
   "releases": [
     {
       "id": "7d0dee894ff3a4b9",
@@ -5839,32 +5839,6 @@
       "sourceUrl": "https://www.primaedicola.it/amazing-spider-man-divisi-torn-2025-1-3.html"
     },
     {
-      "id": "fcc348d8e7c533bd",
-      "seriesId": "d7582e089fca0f38",
-      "seriesTitle": "Hugo Pratt Collection",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 23,
-      "issueTitle": "Gli Scorpioni del Deserto IV",
-      "releaseDate": "2026-06-25",
-      "price": 13.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/u/hugo-pratt-collection-gli-scorpioni-del-deserto-iv_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-gli-scorpioni-del-deserto-iv.html"
-    },
-    {
-      "id": "734cfcc969e0a218",
-      "seriesId": "94ab876c5d9f2ba4",
-      "seriesTitle": "Le strisce di ZAGOR",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 70,
-      "issueTitle": "(12.10.66) La sfida, (26.10.66) Il codardo",
-      "releaseDate": "2026-06-25",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-strisce-di-zagor-12-10-66-la-sfida-26-10-66-il-codardo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-12-10-66-la-sfida-26-10-66-il-codardo.html"
-    },
-    {
       "id": "42dbd7770ed63812",
       "seriesId": "3c740a424d4aea91",
       "seriesTitle": "Street Fighter 3D Collection (ed. 2025)",
@@ -5876,19 +5850,6 @@
       "price": 12.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/t/street-fighter-3d-collection-ed-2025-fascicolo-necali_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/street-fighter-3d-collection-ed-2025-fascicolo-necali.html"
-    },
-    {
-      "id": "41162dc4ca1cbff3",
-      "seriesId": "8e807e753c712d4f",
-      "seriesTitle": "La collezione anastatica degli Album Mondiali Panini",
-      "category": "collezionabili",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 3,
-      "issueTitle": "1978 – Argentina",
-      "releaseDate": "2026-06-25",
-      "price": 7.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-collezione-anastatica-degli-album-mondiali-panini-1978-argentina_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-1978-argentina.html"
     },
     {
       "id": "84f89fd4cd3e63c1",
@@ -11637,46 +11598,56 @@
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-gita-nel-bosco.html"
     },
     {
-      "id": "70b5a6bc441e132b",
+      "id": "5139e5d29d4f4e23",
+      "seriesId": "f1baca7531429694",
+      "seriesTitle": "Batman - DC Comics",
+      "category": "fumetti",
+      "publisher": "Panini S.p.A.",
+      "issueNumber": 130,
+      "issueTitle": "Batman 130",
+      "releaseDate": "2026-09-17",
+      "price": 6,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/b/a/batman-dc-comics-batman-130_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-130.html"
+    },
+    {
+      "id": "23bce55d94532984",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 35,
-      "issueTitle": null,
+      "issueTitle": "Morgan",
       "releaseDate": "2026-09-17",
       "price": 13.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-hugopratt_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/u/hugo-pratt-collection-morgan_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-morgan.html"
     },
     {
-      "id": "20ef9d513af05b24",
+      "id": "7196807c087771ae",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 82,
-      "issueTitle": null,
+      "issueTitle": "(27.09.67) Contro la legge, (11.10.67) Un prezioso alleato",
       "releaseDate": "2026-09-17",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-strisce-di-zagor-27-09-67-contro-la-legge-11-10-67-un_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-27-09-67-contro-la-legge-11-10-67-un.html"
     },
     {
-      "id": "dd45d18ceb5aa9a4",
+      "id": "d9c832f9fbfada5f",
       "seriesId": "8e807e753c712d4f",
       "seriesTitle": "La collezione anastatica degli Album Mondiali Panini",
       "category": "collezionabili",
       "publisher": "RCS MediaGroup",
       "issueNumber": 15,
-      "issueTitle": null,
+      "issueTitle": "1930-1934",
       "releaseDate": "2026-09-17",
       "price": 7.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-anastatiche-mondiali-panini_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/collezione-anastatica-album-mondiali-panini-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-collezione-anastatica-degli-album-mondiali-panini-1930-1934_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-1930-1934.html"
     },
     {
       "id": "7b4c309f392c2712",
@@ -12722,7 +12693,7 @@
       "issueTitle": "Topolino 3697",
       "releaseDate": "2026-09-30",
       "price": 3.32,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3697_0.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3697-1wtopo3697-it08.html"
     },
     {
@@ -12779,6 +12750,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-anastatiche-mondiali-panini_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/collezione-anastatica-album-mondiali-panini-collana.html",
       "projected": true
+    },
+    {
+      "id": "ee920603223cdbd9",
+      "seriesId": "e3bd7a179a5fddfc",
+      "seriesTitle": "Oggi con Lord & Berry: matite, matitoni e rossetti in edicola",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-01",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Oggi-con-Lord-Berry-matite-matitoni-e-rossetti-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-lord-berry/"
     },
     {
       "id": "3f5f4c349681f03c",
@@ -15318,7 +15302,7 @@
       "issueTitle": "Album cartonato + 5 bustine (30 figurine)",
       "releaseDate": "2026-10-27",
       "price": 29.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/calciatori-panini-2026-2027-album-cartonato-5-bustine-30-figurine_1_4.jpg",
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/calciatori-panini-2026-2027-album-cartonato-5-bustine-30-figurine_1_5.jpg",
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2026-2027-album-cartonato-5-bustine-30-figurine.html"
     },
     {
@@ -20285,6 +20269,76 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
+      "projected": true
+    },
+    {
+      "id": "87d31b84fdf4fcd1",
+      "seriesId": "a43220cf6032d7b7",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 10.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e3e5ab071c2bd76f",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 24,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ac92b8953b8fd187",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 10.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1dce580bdbd33360",
+      "seriesId": "d918b2ceb0d69f9f",
+      "seriesTitle": "Harry Potter – The Collection",
+      "category": "figures",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 29,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 16.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html",
+      "projected": true
+    },
+    {
+      "id": "374e09cb496349f0",
+      "seriesId": "ad118cdedd7bee6e",
+      "seriesTitle": "Patrimonio Artistico Italiano",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 22,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
     },
     {

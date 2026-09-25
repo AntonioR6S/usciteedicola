@@ -198,6 +198,15 @@
     "sourceUrl": "https://www.primaedicola.it/dragon-ball-manga-serie-completa-collana.html"
   },
   {
+    "id": "f1baca7531429694",
+    "title": "Batman - DC Comics",
+    "category": "fumetti",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/a/batman_cover_risultato_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-collana.html"
+  },
+  {
     "id": "bb296c41709f9004",
     "title": "Super Eroi Classic",
     "category": "fumetti",
@@ -216,15 +225,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-special-events-albi-collana.html"
   },
   {
-    "id": "f1baca7531429694",
-    "title": "Batman - DC Comics",
-    "category": "fumetti",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/a/batman_cover_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-collana.html"
-  },
-  {
     "id": "f2a5a74b449ddc84",
     "title": "Rat-man - Il mito (Leo Ortolani)",
     "category": "fumetti",
@@ -241,6 +241,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-superman_risultato.jpg",
     "totalIssues": 32,
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
+  },
+  {
+    "id": "d7582e089fca0f38",
+    "title": "Hugo Pratt Collection",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-hugopratt_risultato.jpg",
+    "totalIssues": 40,
+    "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-collana.html"
+  },
+  {
+    "id": "94ab876c5d9f2ba4",
+    "title": "Le strisce di ZAGOR",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
+    "totalIssues": 119,
+    "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
   },
   {
     "id": "a4d0a020aa8807ba",
@@ -268,24 +286,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
     "totalIssues": 200,
     "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
-  },
-  {
-    "id": "d7582e089fca0f38",
-    "title": "Hugo Pratt Collection",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-hugopratt_risultato.jpg",
-    "totalIssues": 40,
-    "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-collana.html"
-  },
-  {
-    "id": "94ab876c5d9f2ba4",
-    "title": "Le strisce di ZAGOR",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
-    "totalIssues": 119,
-    "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
   },
   {
     "id": "a65bfc5b22263677",
@@ -1035,6 +1035,15 @@
     "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
   },
   {
+    "id": "e3bd7a179a5fddfc",
+    "title": "Oggi con Lord & Berry: matite, matitoni e rossetti in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Oggi-con-Lord-Berry-matite-matitoni-e-rossetti-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-lord-berry/"
+  },
+  {
     "id": "9d8a51f8b20aa784",
     "title": "Uomini e Donne con orologio dell’amore in edicola",
     "category": "riviste",
@@ -1156,7 +1165,7 @@
     "title": "Topolino",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3697_0.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3697-1wtopo3697-it08.html"
   },
