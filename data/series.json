@@ -126,15 +126,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
-    "id": "e621ebc19b9c38b7",
-    "title": "Disney Topolino presenta Statuine sport olimpici invernali",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-statuine_olimpiadiinvernali2026_risultato.jpg",
-    "totalIssues": 4,
-    "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-statuine-olimpiadi-invernali-collana.html"
-  },
-  {
     "id": "3a6f2b841e4d2ca1",
     "title": "Dylan Dog 40",
     "category": "fumetti",
@@ -243,6 +234,15 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
+    "id": "ec0e992ad86159f7",
+    "title": "Alan Ford Anastatica",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
+  },
+  {
     "id": "d7582e089fca0f38",
     "title": "Hugo Pratt Collection",
     "category": "fumetti",
@@ -277,15 +277,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
-  },
-  {
-    "id": "ec0e992ad86159f7",
-    "title": "Alan Ford Anastatica",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
   },
   {
     "id": "a65bfc5b22263677",
@@ -367,6 +358,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "d5b4f1abe412ad56",
+    "title": "Porsche Racing Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_porsche_risultato.jpg",
+    "totalIssues": 100,
+    "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-collana.html"
   },
   {
     "id": "ee139ad7a01e088c",
@@ -484,15 +484,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
-    "id": "d5b4f1abe412ad56",
-    "title": "Porsche Racing Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_porsche_risultato.jpg",
-    "totalIssues": 100,
-    "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-collana.html"
   },
   {
     "id": "1840cb675b9deac2",
@@ -747,6 +738,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
   },
   {
+    "id": "5b6971f2111cfa04",
+    "title": "La grande letteratura italiana (ed. 2026)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
+  },
+  {
     "id": "aedc693e67ed662a",
     "title": "Andrea Camilleri - Il commissario Montalbano",
     "category": "libri",
@@ -763,15 +763,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
-  },
-  {
-    "id": "5b6971f2111cfa04",
-    "title": "La grande letteratura italiana (ed. 2026)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
   },
   {
     "id": "9331f3df2d9d2f21",
@@ -873,6 +864,24 @@
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
   },
   {
+    "id": "c267b626271c3f8e",
+    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
+    "category": "libri",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+    "totalIssues": 99,
+    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
+  },
+  {
+    "id": "621a2b1dcfb36d3e",
+    "title": "C'era una volta...Le più belle FIABE illustrate",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
+  },
+  {
     "id": "57598e2090b3e551",
     "title": "La biblioteca delle stagioni",
     "category": "libri",
@@ -898,24 +907,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
-  },
-  {
-    "id": "c267b626271c3f8e",
-    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
-    "category": "libri",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-    "totalIssues": 99,
-    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
-  },
-  {
-    "id": "621a2b1dcfb36d3e",
-    "title": "C'era una volta...Le più belle FIABE illustrate",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -1224,15 +1215,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/un-marzo-da-leoni-18-mmarz018isbn-it08.html"
   },
   {
-    "id": "2414505427c86376",
-    "title": "Jujutsu Kaisen: Coloring Book – Bagliore Rosso",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/jujutsu-kaisen-coloring-book-bagliore-rosso-mjuju003isbn-it08.html"
-  },
-  {
     "id": "2e7ac022a349be6e",
     "title": "Naruto Color New Edition",
     "category": "fumetti",
@@ -1339,6 +1321,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MROWA047ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-old-world-la-maledizione-di-khaine-mrowa047isbn-it08.html"
+  },
+  {
+    "id": "e6aa4db743f43a4e",
+    "title": "Daredevil Blind Pack",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDEMK176ISBNP_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/daredevil-blind-pack-1-mdemk176isbnp-it08.html"
   },
   {
     "id": "d9a96b3f788d5de3",

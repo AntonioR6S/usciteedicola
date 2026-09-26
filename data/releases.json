@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:05:11.378Z",
+  "generatedAt": "2026-09-26T09:46:46.163Z",
   "releases": [
     {
       "id": "7d0dee894ff3a4b9",
@@ -2836,19 +2836,6 @@
       "sourceUrl": "https://www.primaedicola.it/albumini-ed-2025-e-primavera-orsetto.html"
     },
     {
-      "id": "e812957a046a2b54",
-      "seriesId": "e621ebc19b9c38b7",
-      "seriesTitle": "Disney Topolino presenta Statuine sport olimpici invernali",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 549,
-      "issueTitle": "Paperino N° 549 + Statuina Paperino (Pattinaggio di velocità)",
-      "releaseDate": "2026-02-27",
-      "price": 9.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-presenta-statuine-sport-olimpici-invernali-paperino-n-549-statuina-paperino-pattinaggio_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-statuine-sport-olimpici-invernali-paperino-n-549-statuina-paperino-pattinaggio.html"
-    },
-    {
       "id": "b083ec42615ffd42",
       "seriesId": "caef6e143e3ebb6c",
       "seriesTitle": "My Hero Academia",
@@ -2860,19 +2847,6 @@
       "price": 5.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/y/my-hero-academia-volume-37_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-volume-37.html"
-    },
-    {
-      "id": "b05b4623eb40a5cb",
-      "seriesId": "32e9f3b920a2000c",
-      "seriesTitle": "Disney Paperino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 549,
-      "issueTitle": "Marzo 2026",
-      "releaseDate": "2026-02-27",
-      "price": 5.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperino-marzo-2026_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/paperino-mese-nde0060549.html"
     },
     {
       "id": "05a8d175cdb5dee2",
@@ -4136,19 +4110,6 @@
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-iveco-stralis-scuderia-ferrari-2011.html"
     },
     {
-      "id": "13517db6aa873e2a",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 85,
-      "issueTitle": "Porsche 935L - 1983",
-      "releaseDate": "2026-04-24",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-935l-1983_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30085.html"
-    },
-    {
       "id": "224a6c85a538edb7",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
@@ -4448,6 +4409,19 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperinik-paperinik-n-113.html"
     },
     {
+      "id": "51a2722d3229a835",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 86,
+      "issueTitle": "Porsche 908/02 SPYDER - 1969",
+      "releaseDate": "2026-05-05",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-908-02-spyder-1969_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-908-02-spyder-1969.html"
+    },
+    {
       "id": "87e221f3929d087c",
       "seriesId": "ee139ad7a01e088c",
       "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
@@ -4485,19 +4459,6 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-ford-fiesta-wrc-ott-tanak-jarveoja-martin_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-ford-fiesta-wrc-ott-tanak-jarveoja-martin.html"
-    },
-    {
-      "id": "51a2722d3229a835",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 86,
-      "issueTitle": "Porsche 908/02 SPYDER - 1969",
-      "releaseDate": "2026-05-05",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-908-02-spyder-1969_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-908-02-spyder-1969.html"
     },
     {
       "id": "67aa025526f15485",
@@ -5059,6 +5020,19 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
+      "id": "6497a5a674430c3e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 88,
+      "issueTitle": "Porsche 962C - 1988",
+      "releaseDate": "2026-05-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
+    },
+    {
       "id": "01c69e4c1cc674b3",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -5096,19 +5070,6 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton.html"
-    },
-    {
-      "id": "6497a5a674430c3e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 88,
-      "issueTitle": "Porsche 962C - 1988",
-      "releaseDate": "2026-05-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -5722,6 +5683,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-transylvania.html"
     },
     {
+      "id": "245c4d070f71026e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 90,
+      "issueTitle": "Porsche 911 GT3 RS - 2001",
+      "releaseDate": "2026-06-20",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-911-gt3-rs-2001_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30090.html"
+    },
+    {
       "id": "ca79509e6399c6a3",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -5746,19 +5720,6 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968.html"
-    },
-    {
-      "id": "245c4d070f71026e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 90,
-      "issueTitle": "Porsche 911 GT3 RS - 2001",
-      "releaseDate": "2026-06-20",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-911-gt3-rs-2001_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30090.html"
     },
     {
       "id": "6dbef9ae6d1abcb8",
@@ -5865,19 +5826,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-almanacco-topolino-uscita-27.html"
     },
     {
-      "id": "ac3591f653749be8",
-      "seriesId": "ec0e992ad86159f7",
-      "seriesTitle": "Alan Ford Anastatica",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 79,
-      "issueTitle": "Natale al corso",
-      "releaseDate": "2026-06-26",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-natale-al-corso_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-natale-al-corso.html"
-    },
-    {
       "id": "b162a8c7b67a38e6",
       "seriesId": "83103bad6afe9107",
       "seriesTitle": "I passatempi de La Gazzetta dello Sport",
@@ -5889,32 +5837,6 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-passatempi-de-la-gazzetta-dello-sport-set-carte-da-gioco-burraco-3-mazzi-di-carte_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-passatempi-de-la-gazzetta-dello-sport-set-carte-da-gioco-burraco-3-mazzi-di-carte.html"
-    },
-    {
-      "id": "64b2935ac7fa14bd",
-      "seriesId": "5b6971f2111cfa04",
-      "seriesTitle": "La grande letteratura italiana (ed. 2026)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 25,
-      "issueTitle": "Dante, Vita nuova - Convivio",
-      "releaseDate": "2026-06-26",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-dante-vita-nuova-convivio_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-dante-vita-nuova-convivio.html"
-    },
-    {
-      "id": "3ef8b60d760ee125",
-      "seriesId": "621a2b1dcfb36d3e",
-      "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 25,
-      "issueTitle": "Alì Babà e i quaranta ladroni",
-      "releaseDate": "2026-06-26",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-ali-baba-e-i-quaranta-ladroni_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-ali-baba-e-i-quaranta-ladroni.html"
     },
     {
       "id": "3d805a92c670bfdf",
@@ -5980,19 +5902,6 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-l-inizio-del-buio-walter-veltroni_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-l-inizio-del-buio-walter-veltroni.html"
-    },
-    {
-      "id": "679ef9b19bd893b0",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 17,
-      "issueTitle": "James Sullivan (Monsters & Co.)",
-      "releaseDate": "2026-06-27",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-james-sullivan-monsters-co_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-james-sullivan-monsters-co.html"
     },
     {
       "id": "21cd5584d92b11ea",
@@ -6086,6 +5995,19 @@
       "sourceUrl": "https://www.primaedicola.it/le-strisce-di-tex-uscita-247-caccia-drammatica-nelle-viscere.html"
     },
     {
+      "id": "1692c8964b4bbf7e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 91,
+      "issueTitle": "Porsche 935 K3 - 1979",
+      "releaseDate": "2026-06-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-935-k3-1979_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-935-k3-1979.html"
+    },
+    {
       "id": "7c15a967f3c3a2cb",
       "seriesId": "ee139ad7a01e088c",
       "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
@@ -6123,19 +6045,6 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-subaru-impreza-555-k-holowczyc-m-wislawsk_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-subaru-impreza-555-k-holowczyc-m-wislawsk.html"
-    },
-    {
-      "id": "1692c8964b4bbf7e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 91,
-      "issueTitle": "Porsche 935 K3 - 1979",
-      "releaseDate": "2026-06-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-935-k3-1979_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-935-k3-1979.html"
     },
     {
       "id": "c51e7c27a7acdb55",
@@ -7360,6 +7269,19 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico.html"
     },
     {
+      "id": "e4f24dbf7eacf400",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 92,
+      "issueTitle": "Porsche 956 - 1984",
+      "releaseDate": "2026-07-18",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-956-1984_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-956-1984.html"
+    },
+    {
       "id": "c40f1ecaecc5a5dc",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -7410,19 +7332,6 @@
       "price": 26.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
-    },
-    {
-      "id": "e4f24dbf7eacf400",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 92,
-      "issueTitle": "Porsche 956 - 1984",
-      "releaseDate": "2026-07-18",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-956-1984_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-956-1984.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -7854,6 +7763,19 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-junior-numero-35-portafoglio-di-topolino.html"
     },
     {
+      "id": "f6d053bc4e9d59ff",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 93,
+      "issueTitle": "Porsche 718 RSK - 1958",
+      "releaseDate": "2026-07-25",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
+    },
+    {
       "id": "37a75d9dee2fbe24",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -7878,19 +7800,6 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc.html"
-    },
-    {
-      "id": "f6d053bc4e9d59ff",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 93,
-      "issueTitle": "Porsche 718 RSK - 1958",
-      "releaseDate": "2026-07-25",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
     },
     {
       "id": "26fc51705c787f62",
@@ -9193,6 +9102,19 @@
       "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-2006-germania.html"
     },
     {
+      "id": "8ab52ed6b7015924",
+      "seriesId": "ec0e992ad86159f7",
+      "seriesTitle": "Alan Ford Anastatica",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 86,
+      "issueTitle": "Polo freddo",
+      "releaseDate": "2026-08-14",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-polo-freddo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-polo-freddo.html"
+    },
+    {
       "id": "eace16aa8c41a243",
       "seriesId": "a4d0a020aa8807ba",
       "seriesTitle": "Disney Zio Paperone",
@@ -9217,19 +9139,6 @@
       "price": 7.5,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-classici-disney-uscita-n-128_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-classici-disney-uscita-n-128.html"
-    },
-    {
-      "id": "8ab52ed6b7015924",
-      "seriesId": "ec0e992ad86159f7",
-      "seriesTitle": "Alan Ford Anastatica",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 86,
-      "issueTitle": "Polo freddo",
-      "releaseDate": "2026-08-14",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-polo-freddo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-polo-freddo.html"
     },
     {
       "id": "d60041252b43856d",
@@ -11650,74 +11559,82 @@
       "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-1930-1934.html"
     },
     {
-      "id": "7b4c309f392c2712",
+      "id": "5e9fd1c880cc3c07",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 1,
-      "issueTitle": null,
+      "issueTitle": "L’alba dei morti viventi (1986) + METAL POSTER in OMAGGIO",
       "releaseDate": "2026-09-18",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
-      "projected": true
+      "price": 8.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/y/dylan-dog-40-l-alba-dei-morti-viventi-1986-metal-poster_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-l-alba-dei-morti-viventi-1986-metal-poster.html"
     },
     {
-      "id": "ebee450708736ae8",
+      "id": "52723076af66c658",
       "seriesId": "ec0e992ad86159f7",
       "seriesTitle": "Alan Ford Anastatica",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 91,
-      "issueTitle": null,
+      "issueTitle": "Pop art",
       "releaseDate": "2026-09-18",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-pop-art_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-pop-art.html"
     },
     {
-      "id": "a5fa007405b6346f",
+      "id": "0549b6bf1b7cb092",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 97,
-      "issueTitle": null,
+      "issueTitle": "Porsche 904 GTS - 1965",
       "releaseDate": "2026-09-18",
       "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_porsche_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-904-gts-1965_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30097.html"
     },
     {
-      "id": "d3a04b427d787f4c",
+      "id": "1bb697c2d6a6423c",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 37,
-      "issueTitle": null,
+      "issueTitle": "Vico, La scienza nuova",
       "releaseDate": "2026-09-18",
       "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-vico-la-scienza-nuova_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-vico-la-scienza-nuova.html"
     },
     {
-      "id": "d65961aa0402d1b9",
+      "id": "eb8cb5fbca4602c0",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 29,
+      "issueTitle": "Bolt (Bolt - Un eroe a quattro zampe)",
+      "releaseDate": "2026-09-18",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-bolt-bolt-un-eroe-a-quattro-zampe_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-bolt-bolt-un-eroe-a-quattro-zampe.html"
+    },
+    {
+      "id": "414de0ae3e4c450e",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 37,
-      "issueTitle": null,
+      "issueTitle": "Il Principe felice",
       "releaseDate": "2026-09-18",
       "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-principe-felice_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-principe-felice.html"
     },
     {
       "id": "e423653f3efff642",
@@ -12184,7 +12101,7 @@
       "issueNumber": 2,
       "issueTitle": null,
       "releaseDate": "2026-09-25",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -12271,20 +12188,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "35b5f3d6cd3f14be",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 29,
-      "issueTitle": null,
-      "releaseDate": "2026-09-25",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -12908,19 +12811,6 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/un-marzo-da-leoni-18-mmarz018isbn-it08.html"
     },
     {
-      "id": "17f2e54aeccc5c40",
-      "seriesId": "2414505427c86376",
-      "seriesTitle": "Jujutsu Kaisen: Coloring Book – Bagliore Rosso",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-01",
-      "price": 9.4,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/jujutsu-kaisen-coloring-book-bagliore-rosso-mjuju003isbn-it08.html"
-    },
-    {
       "id": "70881d3056800bbe",
       "seriesId": "2e7ac022a349be6e",
       "seriesTitle": "Naruto Color New Edition",
@@ -13116,6 +13006,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-old-world-la-maledizione-di-khaine-mrowa047isbn-it08.html"
     },
     {
+      "id": "50c8aaa77d688ea9",
+      "seriesId": "e6aa4db743f43a4e",
+      "seriesTitle": "Daredevil Blind Pack",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Daredevil Blind Pack 1",
+      "releaseDate": "2026-10-01",
+      "price": 4.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDEMK176ISBNP_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/daredevil-blind-pack-1-mdemk176isbnp-it08.html"
+    },
+    {
       "id": "8f21eea005e3b234",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -13124,7 +13027,7 @@
       "issueNumber": 3,
       "issueTitle": null,
       "releaseDate": "2026-10-02",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -13169,6 +13072,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9a2532cb2a764c50",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 30,
+      "issueTitle": null,
+      "releaseDate": "2026-10-02",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -14054,7 +13971,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-09",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -14141,20 +14058,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "9a2532cb2a764c50",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 30,
-      "issueTitle": null,
-      "releaseDate": "2026-10-09",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -14551,7 +14454,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-16",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -14596,6 +14499,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d553fffe3e882b79",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 31,
+      "issueTitle": null,
+      "releaseDate": "2026-10-16",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -15037,7 +14954,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-10-23",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -15124,20 +15041,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "d553fffe3e882b79",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 31,
-      "issueTitle": null,
-      "releaseDate": "2026-10-23",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -15492,7 +15395,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-10-30",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -15537,6 +15440,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "f2c0cbb9b705171e",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 32,
+      "issueTitle": null,
+      "releaseDate": "2026-10-30",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -15962,7 +15879,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-11-06",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -16049,20 +15966,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "f2c0cbb9b705171e",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 32,
-      "issueTitle": null,
-      "releaseDate": "2026-11-06",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -16365,7 +16268,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-11-13",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -16396,6 +16299,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "942d59ec6d9d15a7",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 33,
+      "issueTitle": null,
+      "releaseDate": "2026-11-13",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -16795,7 +16712,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-11-20",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -16882,20 +16799,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "942d59ec6d9d15a7",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 33,
-      "issueTitle": null,
-      "releaseDate": "2026-11-20",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17211,7 +17114,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2026-11-27",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -17242,6 +17145,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "16575cde439c84ac",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 34,
+      "issueTitle": null,
+      "releaseDate": "2026-11-27",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17627,7 +17544,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2026-12-04",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -17700,20 +17617,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "16575cde439c84ac",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 34,
-      "issueTitle": null,
-      "releaseDate": "2026-12-04",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18002,7 +17905,7 @@
       "issueNumber": 13,
       "issueTitle": null,
       "releaseDate": "2026-12-11",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -18033,6 +17936,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "2af222e624f8ee86",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 35,
+      "issueTitle": null,
+      "releaseDate": "2026-12-11",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18405,7 +18322,7 @@
       "issueNumber": 14,
       "issueTitle": null,
       "releaseDate": "2026-12-18",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -18464,20 +18381,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "2af222e624f8ee86",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 35,
-      "issueTitle": null,
-      "releaseDate": "2026-12-18",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18766,7 +18669,7 @@
       "issueNumber": 15,
       "issueTitle": null,
       "releaseDate": "2026-12-25",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -18783,6 +18686,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
+      "projected": true
+    },
+    {
+      "id": "389abb071e9439c5",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 36,
+      "issueTitle": null,
+      "releaseDate": "2026-12-25",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19155,7 +19072,7 @@
       "issueNumber": 16,
       "issueTitle": null,
       "releaseDate": "2027-01-01",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -19200,20 +19117,6 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
-      "projected": true
-    },
-    {
-      "id": "389abb071e9439c5",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 36,
-      "issueTitle": null,
-      "releaseDate": "2027-01-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19502,7 +19405,7 @@
       "issueNumber": 17,
       "issueTitle": null,
       "releaseDate": "2027-01-08",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -19519,6 +19422,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e8e8eb3f5fe5e5e9",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 37,
+      "issueTitle": null,
+      "releaseDate": "2027-01-08",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19891,7 +19808,7 @@
       "issueNumber": 18,
       "issueTitle": null,
       "releaseDate": "2027-01-15",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -19936,20 +19853,6 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
-      "projected": true
-    },
-    {
-      "id": "e8e8eb3f5fe5e5e9",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 37,
-      "issueTitle": null,
-      "releaseDate": "2027-01-15",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20238,7 +20141,7 @@
       "issueNumber": 19,
       "issueTitle": null,
       "releaseDate": "2027-01-22",
-      "price": null,
+      "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
       "projected": true
@@ -20255,6 +20158,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
+      "projected": true
+    },
+    {
+      "id": "535762f168db4f08",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 38,
+      "issueTitle": null,
+      "releaseDate": "2027-01-22",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
