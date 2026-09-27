@@ -360,6 +360,42 @@
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
   },
   {
+    "id": "a43220cf6032d7b7",
+    "title": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html"
+  },
+  {
+    "id": "7b113fd2403f0af3",
+    "title": "Leggendarie auto da corsa",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/leggendarieautodacorsa-pack3d-v2.jpg",
+    "totalIssues": 131,
+    "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
+  },
+  {
+    "id": "31feda9dcd7581b7",
+    "title": "Auto da corsa in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
+    "id": "5b10f675b22b4cde",
+    "title": "Rally 1:64 Official Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
+  },
+  {
     "id": "d5b4f1abe412ad56",
     "title": "Porsche Racing Collection",
     "category": "modellini",
@@ -450,42 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html"
   },
   {
-    "id": "a43220cf6032d7b7",
-    "title": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html"
-  },
-  {
-    "id": "7b113fd2403f0af3",
-    "title": "Leggendarie auto da corsa",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/leggendarieautodacorsa-pack3d-v2.jpg",
-    "totalIssues": 131,
-    "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
-  },
-  {
-    "id": "31feda9dcd7581b7",
-    "title": "Auto da corsa in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
-  },
-  {
-    "id": "5b10f675b22b4cde",
-    "title": "Rally 1:64 Official Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -540,6 +540,15 @@
     "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
   },
   {
+    "id": "d918b2ceb0d69f9f",
+    "title": "Harry Potter – The Collection",
+    "category": "figures",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
+    "totalIssues": 52,
+    "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html"
+  },
+  {
     "id": "b9e49c1bcf3d8f97",
     "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
     "category": "figures",
@@ -583,15 +592,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
-  },
-  {
-    "id": "d918b2ceb0d69f9f",
-    "title": "Harry Potter – The Collection",
-    "category": "figures",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
-    "totalIssues": 52,
-    "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html"
   },
   {
     "id": "aa57d62d4d21675b",
@@ -792,15 +792,6 @@
     "sourceUrl": "https://www.primaedicola.it/giappone-contemporaneo-collana.html"
   },
   {
-    "id": "8e84d92fa2b97f85",
-    "title": "Greco - La lingua del pensiero e della bellezza (ed. 2025)",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/greco25_bulk_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/greco-lingua-pensiero-e-bellezza-collana.html"
-  },
-  {
     "id": "ad118cdedd7bee6e",
     "title": "Patrimonio Artistico Italiano",
     "category": "libri",
@@ -808,6 +799,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html"
+  },
+  {
+    "id": "8e84d92fa2b97f85",
+    "title": "Greco - La lingua del pensiero e della bellezza (ed. 2025)",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/greco25_bulk_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/greco-lingua-pensiero-e-bellezza-collana.html"
   },
   {
     "id": "31332b2caea1cdd7",
@@ -828,15 +828,6 @@
     "sourceUrl": "https://www.primaedicola.it/latino-cultura-lingua-radici-occidente-edizione-2024-collana.html"
   },
   {
-    "id": "5cfcc81c27fd65ff",
-    "title": "Luciano Canfora",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-canfora_risultato.jpg",
-    "totalIssues": 43,
-    "sourceUrl": "https://www.primaedicola.it/luciano-canfora-collana.html"
-  },
-  {
     "id": "f53fedda02687512",
     "title": "Giornalismo d'inchiesta",
     "category": "libri",
@@ -844,6 +835,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
     "totalIssues": 30,
     "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html"
+  },
+  {
+    "id": "5cfcc81c27fd65ff",
+    "title": "Luciano Canfora",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-canfora_risultato.jpg",
+    "totalIssues": 43,
+    "sourceUrl": "https://www.primaedicola.it/luciano-canfora-collana.html"
   },
   {
     "id": "94e704b165fde7cd",
@@ -891,15 +891,6 @@
     "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
   },
   {
-    "id": "629ce9251da11bc1",
-    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
-  },
-  {
     "id": "8fbfc9d23a108c1b",
     "title": "Lilliput",
     "category": "libri",
@@ -907,6 +898,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
+  },
+  {
+    "id": "629ce9251da11bc1",
+    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -981,33 +981,6 @@
     "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
   },
   {
-    "id": "8f9055d0634f2dce",
-    "title": "Collana National Geographic Città del Mondo torna in Edicola",
-    "category": "libri",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
-  },
-  {
-    "id": "1319a95914e4c367",
-    "title": "Amica con crema contorno occhi Dermolab in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Amica-con-crema-contorno-occhi-Dermolab.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-crema-contorno-occhi-dermolab/"
-  },
-  {
-    "id": "50425864a897c616",
-    "title": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-    "category": "libri",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
-  },
-  {
     "id": "5b7cd4d3d4443917",
     "title": "Rocco Schiavone: 6 racconti di Antonio Manzini in regalo con la Repubblica",
     "category": "libri",
@@ -1015,6 +988,15 @@
     "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Rocco-Schiavone-6-racconti-di-Antonio-Manzini-in-regalo-con-la-Repubblica.webp",
     "totalIssues": null,
     "sourceUrl": "https://tuttoinedicola.it/collane/rocco-schiavone-in-regalo-con-la-repubblica/"
+  },
+  {
+    "id": "3febae071f11703b",
+    "title": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+    "category": "collezionabili",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
   },
   {
     "id": "2a32a45f52849745",

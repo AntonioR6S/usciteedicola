@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:46:46.163Z",
+  "generatedAt": "2026-09-27T10:26:13.947Z",
   "releases": [
     {
       "id": "7d0dee894ff3a4b9",
@@ -3512,32 +3512,6 @@
       "sourceUrl": "https://www.primaedicola.it/il-mondo-di-andy-capp-provaci-ancora-andy.html"
     },
     {
-      "id": "ed26e61a395d551c",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 117,
-      "issueTitle": "RED BULL RB20 - Max Verstappen - 2024",
-      "releaseDate": "2026-04-04",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-red-bull-rb20-max-verstappen-2024_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-red-bull-rb20-max-verstappen-2024.html"
-    },
-    {
-      "id": "6647b7d4ab4e545d",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 3,
-      "issueTitle": "Ferrari SF-24 - Charles Leclerc Monaco Grand Prix",
-      "releaseDate": "2026-04-04",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-sf-24-charles-leclerc-monaco-grand-prix_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-sf-24-charles-leclerc-monaco-grand-prix.html"
-    },
-    {
       "id": "a50a1335ba2e0225",
       "seriesId": "1840cb675b9deac2",
       "seriesTitle": "24h Le Mans Collection",
@@ -3549,19 +3523,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/2/4/24h-le-mans-collection-alfa-romeo-8c-2300-lm-1931_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/24h-le-mans-collection-alfa-romeo-8c-2300-lm-1931.html"
-    },
-    {
-      "id": "afe04479e4c484f2",
-      "seriesId": "d918b2ceb0d69f9f",
-      "seriesTitle": "Harry Potter – The Collection",
-      "category": "figures",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 8,
-      "issueTitle": "Severus Piton",
-      "releaseDate": "2026-04-04",
-      "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-severus-piton_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-severus-piton.html"
     },
     {
       "id": "db7818e0373aa3a6",
@@ -3941,19 +3902,6 @@
       "sourceUrl": "https://www.primaedicola.it/albumini-ed-2025-lucy-l-oca.html"
     },
     {
-      "id": "ab5349a0e14e3607",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 84,
-      "issueTitle": "Ferrari 166 FL - Juan Manuel Fangio -1950 Team Equipo Argentino",
-      "releaseDate": "2026-04-18",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-166-fl-juan-manuel-fangio-1950-team_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-166-fl-juan-manuel-fangio-1950-team.html"
-    },
-    {
       "id": "19afad9110edd9f8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -3978,6 +3926,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl38-2024-lando-norris_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl38-2024-lando-norris.html"
+    },
+    {
+      "id": "ab5349a0e14e3607",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 84,
+      "issueTitle": "Ferrari 166 FL - Juan Manuel Fangio -1950 Team Equipo Argentino",
+      "releaseDate": "2026-04-18",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-166-fl-juan-manuel-fangio-1950-team_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-166-fl-juan-manuel-fangio-1950-team.html"
     },
     {
       "id": "4ca83be49d8733e3",
@@ -4786,6 +4747,19 @@
       "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-blind-pack.html"
     },
     {
+      "id": "1bde0611650121cc",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 120,
+      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
+      "releaseDate": "2026-05-21",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
+    },
+    {
       "id": "b8e76c7e23f23f3a",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -4823,19 +4797,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/m/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000.html"
-    },
-    {
-      "id": "1bde0611650121cc",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 120,
-      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
-      "releaseDate": "2026-05-21",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
     },
     {
       "id": "74f5e3c003a04368",
@@ -5020,32 +4981,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
-      "id": "6497a5a674430c3e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 88,
-      "issueTitle": "Porsche 962C - 1988",
-      "releaseDate": "2026-05-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
-    },
-    {
-      "id": "01c69e4c1cc674b3",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 87,
-      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
-      "releaseDate": "2026-05-30",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
-    },
-    {
       "id": "bd3fd41f6f8f0dd8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -5070,6 +5005,32 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton.html"
+    },
+    {
+      "id": "6497a5a674430c3e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 88,
+      "issueTitle": "Porsche 962C - 1988",
+      "releaseDate": "2026-05-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
+    },
+    {
+      "id": "01c69e4c1cc674b3",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 87,
+      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
+      "releaseDate": "2026-05-30",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -5891,19 +5852,6 @@
       "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-ginny-weasley.html"
     },
     {
-      "id": "2e06bdee7606787b",
-      "seriesId": "f53fedda02687512",
-      "seriesTitle": "Giornalismo d'inchiesta",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 16,
-      "issueTitle": "L’inizio del buio - Walter Veltroni",
-      "releaseDate": "2026-06-27",
-      "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-l-inizio-del-buio-walter-veltroni_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-l-inizio-del-buio-walter-veltroni.html"
-    },
-    {
       "id": "21cd5584d92b11ea",
       "seriesId": "4d5f8cb817bc0d16",
       "seriesTitle": "Disney - I miei piccoli amici - Gioca e impara",
@@ -6086,19 +6034,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-sentenza.html"
     },
     {
-      "id": "bee8ce8fb7dae206",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 38,
-      "issueTitle": "Giacomo di cristallo",
-      "releaseDate": "2026-06-30",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-giacomo-di-cristallo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-giacomo-di-cristallo.html"
-    },
-    {
       "id": "d496dfaf3aedb21d",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -6110,6 +6045,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-voglio-fare-il-re_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-voglio-fare-il-re.html"
+    },
+    {
+      "id": "bee8ce8fb7dae206",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 38,
+      "issueTitle": "Giacomo di cristallo",
+      "releaseDate": "2026-06-30",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-giacomo-di-cristallo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-giacomo-di-cristallo.html"
     },
     {
       "id": "d091854e38ddab3d",
@@ -6554,19 +6502,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-cleofonte-deve-morire.html"
     },
     {
-      "id": "098ac551c9162055",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 39,
-      "issueTitle": "Alice nella torta",
-      "releaseDate": "2026-07-07",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta.html"
-    },
-    {
       "id": "04f6f5c7cb384f6a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -6578,6 +6513,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-che-cosa-fanno-i-calzini-quando-non-stanno-ai_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-che-cosa-fanno-i-calzini-quando-non-stanno-ai.html"
+    },
+    {
+      "id": "098ac551c9162055",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 39,
+      "issueTitle": "Alice nella torta",
+      "releaseDate": "2026-07-07",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta.html"
     },
     {
       "id": "9653834d31d0e929",
@@ -6918,19 +6866,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-testamento-di-lenin-storia-segreta-di-una.html"
     },
     {
-      "id": "6f86b1ff5caa4a4b",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 40,
-      "issueTitle": "Il gatto randagio",
-      "releaseDate": "2026-07-14",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio.html"
-    },
-    {
       "id": "5d8da3984d8e8512",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -6942,6 +6877,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-franco-il-gallo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-franco-il-gallo.html"
+    },
+    {
+      "id": "6f86b1ff5caa4a4b",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 40,
+      "issueTitle": "Il gatto randagio",
+      "releaseDate": "2026-07-14",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio.html"
     },
     {
       "id": "e2b296a23350317c",
@@ -7269,6 +7217,19 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico.html"
     },
     {
+      "id": "bd73851965f1af5e",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 124,
+      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
+      "releaseDate": "2026-07-18",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
+    },
+    {
       "id": "e4f24dbf7eacf400",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
@@ -7319,19 +7280,6 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953.html"
-    },
-    {
-      "id": "bd73851965f1af5e",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 124,
-      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
-      "releaseDate": "2026-07-18",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -7490,19 +7438,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-presente-come-storia-perche-il-passato-ci.html"
     },
     {
-      "id": "acdf95ef814bab81",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 41,
-      "issueTitle": "Il libro dei perché - Animali",
-      "releaseDate": "2026-07-21",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
-    },
-    {
       "id": "f0bafba459e1056a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -7514,6 +7449,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-i-granchietti-e-il-mare_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
+    },
+    {
+      "id": "acdf95ef814bab81",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 41,
+      "issueTitle": "Il libro dei perché - Animali",
+      "releaseDate": "2026-07-21",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
     },
     {
       "id": "f916bcfbffa2cc62",
@@ -7763,19 +7711,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-junior-numero-35-portafoglio-di-topolino.html"
     },
     {
-      "id": "f6d053bc4e9d59ff",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 93,
-      "issueTitle": "Porsche 718 RSK - 1958",
-      "releaseDate": "2026-07-25",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
-    },
-    {
       "id": "37a75d9dee2fbe24",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -7800,6 +7735,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc.html"
+    },
+    {
+      "id": "f6d053bc4e9d59ff",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 93,
+      "issueTitle": "Porsche 718 RSK - 1958",
+      "releaseDate": "2026-07-25",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
     },
     {
       "id": "26fc51705c787f62",
@@ -7958,19 +7906,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-tucidide-e-il-colpo-di-stato.html"
     },
     {
-      "id": "38b8fcdfc16297c5",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 42,
-      "issueTitle": "A comprare la città di Stoccolma",
-      "releaseDate": "2026-07-28",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
-    },
-    {
       "id": "23e13601eed383b8",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -7982,6 +7917,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
+    },
+    {
+      "id": "38b8fcdfc16297c5",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 42,
+      "issueTitle": "A comprare la città di Stoccolma",
+      "releaseDate": "2026-07-28",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
     },
     {
       "id": "e4c2e47abe645d22",
@@ -8426,19 +8374,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-le-vie-del-classicismo.html"
     },
     {
-      "id": "8586544a3b21d0ed",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 43,
-      "issueTitle": "Il libro dei perché - Mondo",
-      "releaseDate": "2026-08-04",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
-    },
-    {
       "id": "50ecba8227f87088",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -8450,6 +8385,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
+    },
+    {
+      "id": "8586544a3b21d0ed",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 43,
+      "issueTitle": "Il libro dei perché - Mondo",
+      "releaseDate": "2026-08-04",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
     },
     {
       "id": "4703698d9799ba6f",
@@ -8907,19 +8855,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-classicismo-e-liberta.html"
     },
     {
-      "id": "5e9dca15e97e6c77",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 44,
-      "issueTitle": "La famiglia Punto-e-virgola",
-      "releaseDate": "2026-08-11",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
-    },
-    {
       "id": "206fa0dc3bc8a7ce",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -8931,6 +8866,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
+    },
+    {
+      "id": "5e9dca15e97e6c77",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 44,
+      "issueTitle": "La famiglia Punto-e-virgola",
+      "releaseDate": "2026-08-11",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
     },
     {
       "id": "720825ac9dd37411",
@@ -9375,19 +9323,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-crisi-dell-utopia.html"
     },
     {
-      "id": "5c58905b820d6fb1",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 45,
-      "issueTitle": "La casa del signor Venceslao",
-      "releaseDate": "2026-08-18",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
-    },
-    {
       "id": "05380f107eba2da7",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -9399,6 +9334,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
+    },
+    {
+      "id": "5c58905b820d6fb1",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 45,
+      "issueTitle": "La casa del signor Venceslao",
+      "releaseDate": "2026-08-18",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
     },
     {
       "id": "0f8e234197e7caf7",
@@ -9817,19 +9765,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-ideologie-del-classicismo.html"
     },
     {
-      "id": "2e152bd4a8834312",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 46,
-      "issueTitle": "L'eredità di Topone",
-      "releaseDate": "2026-08-25",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
-    },
-    {
       "id": "5a58c9fd4a1c8906",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -9841,6 +9776,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
+    },
+    {
+      "id": "2e152bd4a8834312",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 46,
+      "issueTitle": "L'eredità di Topone",
+      "releaseDate": "2026-08-25",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
     },
     {
       "id": "de077d5fd4a6f550",
@@ -10324,19 +10272,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-viaggio-di-artemidoro.html"
     },
     {
-      "id": "8a8154d8406a7e39",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 47,
-      "issueTitle": "La principessa Allegra",
-      "releaseDate": "2026-09-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
-    },
-    {
       "id": "4b3bbdabe04b1f60",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -10348,6 +10283,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
+    },
+    {
+      "id": "8a8154d8406a7e39",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 47,
+      "issueTitle": "La principessa Allegra",
+      "releaseDate": "2026-09-01",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
     },
     {
       "id": "ae4c263bf5cfac72",
@@ -10857,19 +10805,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-lezioni-di-filologia-classica.html"
     },
     {
-      "id": "c61ab34d590441e9",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 48,
-      "issueTitle": "Il semaforo blu",
-      "releaseDate": "2026-09-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
-    },
-    {
       "id": "1e07d748d103593c",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -10881,6 +10816,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
+    },
+    {
+      "id": "c61ab34d590441e9",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 48,
+      "issueTitle": "Il semaforo blu",
+      "releaseDate": "2026-09-08",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
     },
     {
       "id": "01c9a254101e2a0c",
@@ -11390,19 +11338,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-porcospino-d-acciaio.html"
     },
     {
-      "id": "01a117202fbe5eb2",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 49,
-      "issueTitle": "Il cavallo ammaestrato",
-      "releaseDate": "2026-09-15",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
-    },
-    {
       "id": "e08b248f367025e5",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -11414,6 +11349,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-allegra-il-pranzo-e-il-coccodrillo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
+    },
+    {
+      "id": "01a117202fbe5eb2",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 49,
+      "issueTitle": "Il cavallo ammaestrato",
+      "releaseDate": "2026-09-15",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
     },
     {
       "id": "b9e1003799b03e20",
@@ -11637,102 +11585,95 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-principe-felice.html"
     },
     {
-      "id": "e423653f3efff642",
+      "id": "7217d078f6e0d16e",
       "seriesId": "a43220cf6032d7b7",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 3,
-      "issueTitle": null,
+      "issueTitle": "Alfa Romeo 155 V6 TI - 1996",
       "releaseDate": "2026-09-19",
-      "price": 10.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
-      "projected": true
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-155-v6-ti-1996_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-155-v6-ti-1996.html"
     },
     {
-      "id": "916f12dbec4d06c9",
+      "id": "b540bff010b73d98",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 129,
-      "issueTitle": null,
+      "issueTitle": "McLAREN MCL39 - Lando Norris - 2025",
       "releaseDate": "2026-09-19",
       "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/leggendarieautodacorsa-pack3d-v2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl39-lando-norris-2025_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl39-lando-norris-2025.html"
     },
     {
-      "id": "ca667d46d7a24709",
+      "id": "078ec0b4f92b8050",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 15,
-      "issueTitle": null,
+      "issueTitle": "Mercedes - Amg F1 W15 E Performance 2024 - Lewis Hamilton - Singapore Grand Px",
       "releaseDate": "2026-09-19",
       "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis.html"
     },
     {
-      "id": "1b3fd7f43100b07e",
+      "id": "c8e7a1083c1124b8",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 3,
-      "issueTitle": null,
+      "issueTitle": "TOYOTA GR YARIS RALLY1 - Rally de Portugal 2023 (K. Rovanperä - J. Halttunen)",
       "releaseDate": "2026-09-19",
-      "price": 10.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
     },
     {
-      "id": "ddd950e3f65d3ec2",
+      "id": "99d42618f09f6d2e",
       "seriesId": "d918b2ceb0d69f9f",
       "seriesTitle": "Harry Potter – The Collection",
       "category": "figures",
       "publisher": "RCS MediaGroup",
       "issueNumber": 20,
-      "issueTitle": null,
+      "issueTitle": "Tom Riddle",
       "releaseDate": "2026-09-19",
       "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-tom-riddle_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-tom-riddle.html"
     },
     {
-      "id": "9a6353952d0ae5cf",
+      "id": "1237bc3f460095b1",
       "seriesId": "ad118cdedd7bee6e",
       "seriesTitle": "Patrimonio Artistico Italiano",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 4,
-      "issueTitle": null,
+      "issueTitle": "La Firenze di Brunelleschi, Donatello e Masaccio",
       "releaseDate": "2026-09-19",
       "price": 12.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/a/patrimonio-artistico-italiano-la-firenze-di-brunelleschi-donatello-e-masaccio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-la-firenze-di-brunelleschi-donatello-e-masaccio.html"
     },
     {
-      "id": "06ad548c81f9c9ba",
+      "id": "9cfe2e63387c42d7",
       "seriesId": "f53fedda02687512",
       "seriesTitle": "Giornalismo d'inchiesta",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 28,
-      "issueTitle": null,
+      "issueTitle": "Non rivedrò più il mondo - Ahmet Altan",
       "releaseDate": "2026-09-19",
       "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-non-rivedro-piu-il-mondo-ahmet-altan_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-non-rivedro-piu-il-mondo-ahmet-altan.html"
     },
     {
       "id": "b1d235f62d089733",
@@ -11860,20 +11801,6 @@
       "projected": true
     },
     {
-      "id": "19275bcd8de47c11",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 50,
-      "issueTitle": null,
-      "releaseDate": "2026-09-22",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "fc95be6472b64d4e",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -11888,17 +11815,18 @@
       "projected": true
     },
     {
-      "id": "db6c0fab4a1bea0f",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "19275bcd8de47c11",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
+      "publisher": "Centauria",
+      "issueNumber": 50,
       "issueTitle": null,
       "releaseDate": "2026-09-22",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "ae3a02c8cd649baf",
@@ -11982,32 +11910,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "b70a4330ddfb66c6",
-      "seriesId": "1319a95914e4c367",
-      "seriesTitle": "Amica con crema contorno occhi Dermolab in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-09-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Amica-con-crema-contorno-occhi-Dermolab.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-crema-contorno-occhi-dermolab/"
-    },
-    {
-      "id": "692ab325a2bf2634",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Il Gruffalò",
-      "releaseDate": "2026-09-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "a048ed592bea0dce",
@@ -12451,6 +12353,20 @@
       "projected": true
     },
     {
+      "id": "387c8bfb2d9c96e6",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 54,
+      "issueTitle": null,
+      "releaseDate": "2026-09-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
       "id": "b0c9e607e0eff3a6",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -12465,18 +12381,17 @@
       "projected": true
     },
     {
-      "id": "387c8bfb2d9c96e6",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 54,
-      "issueTitle": null,
+      "id": "e03d5c86111f76e9",
+      "seriesId": "3febae071f11703b",
+      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+      "category": "collezionabili",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": "La mucca bianca e nera",
       "releaseDate": "2026-09-29",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
     },
     {
       "id": "9814c26496cbc397",
@@ -12533,19 +12448,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "4611833131ff5eb9",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Dov'è la mia mamma? a 7,99 €",
-      "releaseDate": "2026-09-30",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "bcdf09778d3a19e8",
@@ -13111,7 +13013,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-03",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -13153,7 +13055,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-03",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -13326,20 +13228,6 @@
       "projected": true
     },
     {
-      "id": "d8ab6ea55129a236",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 52,
-      "issueTitle": null,
-      "releaseDate": "2026-10-06",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "796f62d6d8961156",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -13354,17 +13242,18 @@
       "projected": true
     },
     {
-      "id": "e481c00dccc95e91",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "d8ab6ea55129a236",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Londra",
+      "publisher": "Centauria",
+      "issueNumber": 52,
+      "issueTitle": null,
       "releaseDate": "2026-10-06",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "c36baa2ca727b9ce",
@@ -13462,19 +13351,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "37b26cfb92b0e5db",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Gruffalò e la sua piccolina a 7,99 €",
-      "releaseDate": "2026-10-07",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "3bb274d0ca8156ac",
@@ -14242,20 +14118,6 @@
       "projected": true
     },
     {
-      "id": "450d892c03efb2a1",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 53,
-      "issueTitle": null,
-      "releaseDate": "2026-10-13",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "6a661d261a13e795",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -14270,17 +14132,31 @@
       "projected": true
     },
     {
-      "id": "c706b9a0516f9ced",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "450d892c03efb2a1",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 53,
+      "issueTitle": null,
+      "releaseDate": "2026-10-13",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "7a02e27da7fcc54f",
+      "seriesId": "3febae071f11703b",
+      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+      "category": "collezionabili",
       "publisher": null,
       "issueNumber": null,
-      "issueTitle": "Barcellona",
+      "issueTitle": "Asino",
       "releaseDate": "2026-10-13",
       "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
     },
     {
       "id": "c93c9ceba20d337a",
@@ -14337,19 +14213,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "a045023aa90561da",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La chiocciolina e la balena a 7,99 €",
-      "releaseDate": "2026-10-14",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "4942713a42029ccf",
@@ -14538,7 +14401,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-17",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -14580,7 +14443,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-17",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -14739,20 +14602,6 @@
       "projected": true
     },
     {
-      "id": "5c5ade9b353cdc57",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 54,
-      "issueTitle": null,
-      "releaseDate": "2026-10-20",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "4870d010f112c124",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -14767,17 +14616,18 @@
       "projected": true
     },
     {
-      "id": "f3c7e229ed421035",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "5c5ade9b353cdc57",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "New York",
+      "publisher": "Centauria",
+      "issueNumber": 54,
+      "issueTitle": null,
       "releaseDate": "2026-10-20",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "89e37c91eccfd65a",
@@ -14862,19 +14712,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "ef39eb6511a6b15d",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La strega Rossella a 7,99 €",
-      "releaseDate": "2026-10-21",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "d99a11626fb721d9",
@@ -15237,20 +15074,6 @@
       "projected": true
     },
     {
-      "id": "fe69e20a24f0da41",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 55,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "0100176df13f3f2a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -15265,17 +15088,31 @@
       "projected": true
     },
     {
-      "id": "4a398a01ada685fe",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "fe69e20a24f0da41",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2026-10-27",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "12c91bb845eb9463",
+      "seriesId": "3febae071f11703b",
+      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+      "category": "collezionabili",
       "publisher": null,
       "issueNumber": null,
-      "issueTitle": "Lisbona",
+      "issueTitle": "Toro nero",
       "releaseDate": "2026-10-27",
       "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
     },
     {
       "id": "b483f3de315134ae",
@@ -15345,19 +15182,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "d9bf28a0ef0ead82",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Gli Smei e gli Smufi a 7,99 €",
-      "releaseDate": "2026-10-28",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "8a78afdbc773198e",
@@ -15479,7 +15303,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-10-31",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -15507,7 +15331,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-10-31",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -15652,20 +15476,6 @@
       "projected": true
     },
     {
-      "id": "96422fddf901186d",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 56,
-      "issueTitle": null,
-      "releaseDate": "2026-11-03",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "49180c9936715e57",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -15680,17 +15490,18 @@
       "projected": true
     },
     {
-      "id": "52226ec04fbdb8f4",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "96422fddf901186d",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Amsterdam",
+      "publisher": "Centauria",
+      "issueNumber": 56,
+      "issueTitle": null,
       "releaseDate": "2026-11-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "09eea965a31c9609",
@@ -15775,19 +15586,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "1d27b2ae6cc1c348",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Zog a 7,99 €",
-      "releaseDate": "2026-11-04",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "2e6360146fbeaa5d",
@@ -16123,20 +15921,6 @@
       "projected": true
     },
     {
-      "id": "97b7c2ee16bbfa31",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 57,
-      "issueTitle": null,
-      "releaseDate": "2026-11-10",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "4dac1c589aba5947",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -16151,17 +15935,31 @@
       "projected": true
     },
     {
-      "id": "9cf4377956af7e21",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "97b7c2ee16bbfa31",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 57,
+      "issueTitle": null,
+      "releaseDate": "2026-11-10",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "193a152db053469c",
+      "seriesId": "3febae071f11703b",
+      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+      "category": "collezionabili",
       "publisher": null,
       "issueNumber": null,
-      "issueTitle": "Istanbul",
+      "issueTitle": "Cavallo marrone",
       "releaseDate": "2026-11-10",
       "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
     },
     {
       "id": "21b66e7cf52ac72b",
@@ -16218,19 +16016,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "4f80276e59a4aded",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Bigio Randagio a 7,99 €",
-      "releaseDate": "2026-11-11",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "132b11dc7a4361a1",
@@ -16338,7 +16123,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-11-14",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -16366,7 +16151,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-11-14",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -16511,20 +16296,6 @@
       "projected": true
     },
     {
-      "id": "b4051dd975beebed",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 58,
-      "issueTitle": null,
-      "releaseDate": "2026-11-17",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "ba7d55e99e6450cf",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -16539,17 +16310,18 @@
       "projected": true
     },
     {
-      "id": "d0feab6933135eda",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "b4051dd975beebed",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Berlino",
+      "publisher": "Centauria",
+      "issueNumber": 58,
+      "issueTitle": null,
       "releaseDate": "2026-11-17",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "ae54e37cbfd5f15b",
@@ -16634,19 +16406,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "9fd5689b4e6f5737",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Superverme a 7,99 €",
-      "releaseDate": "2026-11-18",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "06150b4186b1b3e9",
@@ -16969,20 +16728,6 @@
       "projected": true
     },
     {
-      "id": "508b47febee65de5",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 59,
-      "issueTitle": null,
-      "releaseDate": "2026-11-24",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "506e187403896358",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -16997,17 +16742,31 @@
       "projected": true
     },
     {
-      "id": "c10de764e71cd1ff",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "508b47febee65de5",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 59,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "fd8ed03f70f6be6a",
+      "seriesId": "3febae071f11703b",
+      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
+      "category": "collezionabili",
       "publisher": null,
       "issueNumber": null,
-      "issueTitle": "Madrid",
+      "issueTitle": "Cane con osso + cuccia",
       "releaseDate": "2026-11-24",
       "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
     },
     {
       "id": "1b22ce5c5d9a773f",
@@ -17064,19 +16823,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "3268533a50d59539",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Jonty a 7,99 €",
-      "releaseDate": "2026-11-25",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "7cd50f0d8c275ca4",
@@ -17184,7 +16930,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-11-28",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -17212,7 +16958,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-11-28",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -17343,20 +17089,6 @@
       "projected": true
     },
     {
-      "id": "b1028e3d303bf75c",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 60,
-      "issueTitle": null,
-      "releaseDate": "2026-12-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "969e184c47dd448b",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -17371,17 +17103,18 @@
       "projected": true
     },
     {
-      "id": "3407eca63afdc86d",
-      "seriesId": "8f9055d0634f2dce",
-      "seriesTitle": "Collana National Geographic Città del Mondo torna in Edicola",
+      "id": "b1028e3d303bf75c",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tokyo",
+      "publisher": "Centauria",
+      "issueNumber": 60,
+      "issueTitle": null,
       "releaseDate": "2026-12-01",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2024/12/Collana-National-Geographic-Citta-del-Mondo-in-Edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-national-geographic-citta-del-mondo-in-edicola/"
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     },
     {
       "id": "094a37f940411532",
@@ -17466,19 +17199,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "c81f78d43e834a4b",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Zog e i medici volanti a 7,99 €",
-      "releaseDate": "2026-12-02",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "e778bf72f40fe7f9",
@@ -17773,20 +17493,6 @@
       "projected": true
     },
     {
-      "id": "ac90f290ab3d28be",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 61,
-      "issueTitle": null,
-      "releaseDate": "2026-12-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "d2f26f70656823ff",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -17798,6 +17504,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ac90f290ab3d28be",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 61,
+      "issueTitle": null,
+      "releaseDate": "2026-12-08",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17855,19 +17575,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "f97693aa07ab3eb2",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Pesciolino a 7,99 €",
-      "releaseDate": "2026-12-09",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "1a2e61b79389fb98",
@@ -17975,7 +17682,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-12-12",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -18003,7 +17710,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-12-12",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -18134,20 +17841,6 @@
       "projected": true
     },
     {
-      "id": "1697d7b92293b255",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 62,
-      "issueTitle": null,
-      "releaseDate": "2026-12-15",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "1fa60d0279ab48a3",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -18159,6 +17852,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1697d7b92293b255",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 62,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18244,19 +17951,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "51e9c02751459a0d",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Il gigante più elegante a 7,99 €",
-      "releaseDate": "2026-12-16",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "55eee9e41312ada7",
@@ -18537,20 +18231,6 @@
       "projected": true
     },
     {
-      "id": "3d77de29db9361e2",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 63,
-      "issueTitle": null,
-      "releaseDate": "2026-12-22",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "835a07a1b0d529d4",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -18562,6 +18242,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "3d77de29db9361e2",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 63,
+      "issueTitle": null,
+      "releaseDate": "2026-12-22",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18619,19 +18313,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "f191522bcef5db57",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Bastoncino a 7,99 €",
-      "releaseDate": "2026-12-23",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "79f40d3d2b218a14",
@@ -18725,7 +18406,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-12-26",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -18753,7 +18434,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-12-26",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -18884,20 +18565,6 @@
       "projected": true
     },
     {
-      "id": "9e258de4a51c37ce",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 64,
-      "issueTitle": null,
-      "releaseDate": "2026-12-29",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "9d752d45c73c02c7",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -18909,6 +18576,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9e258de4a51c37ce",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 64,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18994,19 +18675,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "d372b6f83caef6ae",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Il Topo Brigante a 7,99 €",
-      "releaseDate": "2026-12-30",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "4705481c0357993c",
@@ -19273,20 +18941,6 @@
       "projected": true
     },
     {
-      "id": "460bcadc02cdb345",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 65,
-      "issueTitle": null,
-      "releaseDate": "2027-01-05",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "48e542949fb0a001",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -19298,6 +18952,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "460bcadc02cdb345",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 65,
+      "issueTitle": null,
+      "releaseDate": "2027-01-05",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19355,19 +19023,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "5277411c8a25c574",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Quei brutti ceffi a 7,99 €",
-      "releaseDate": "2027-01-06",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "361fb27db2351216",
@@ -19461,7 +19116,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2027-01-09",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -19489,7 +19144,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2027-01-09",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -19620,20 +19275,6 @@
       "projected": true
     },
     {
-      "id": "d031b31d529f3c39",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 66,
-      "issueTitle": null,
-      "releaseDate": "2027-01-12",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "d6d42c13f95997de",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -19645,6 +19286,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d031b31d529f3c39",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 66,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19730,19 +19385,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "ff4839eb35547cbe",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Una casetta troppo stretta a 7,99 €",
-      "releaseDate": "2027-01-13",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "54603ed3b6f57e44",
@@ -20009,20 +19651,6 @@
       "projected": true
     },
     {
-      "id": "6d41775681a1a297",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 67,
-      "issueTitle": null,
-      "releaseDate": "2027-01-19",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "228b7874be55ecf2",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -20034,6 +19662,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "6d41775681a1a297",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 67,
+      "issueTitle": null,
+      "releaseDate": "2027-01-19",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20091,19 +19733,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "3df6e8e0837c8801",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Harry Frumento e Betty Paglierina a 7,99 €",
-      "releaseDate": "2027-01-20",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "be7fb7278ede2919",
@@ -20197,7 +19826,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2027-01-23",
-      "price": 10.99,
+      "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
       "projected": true
@@ -20225,7 +19854,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2027-01-23",
-      "price": 10.9,
+      "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
@@ -20272,19 +19901,6 @@
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
-      "id": "61765d3c7c0ad4a0",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Il libro preferito di Pablito a 7,99 €",
-      "releaseDate": "2027-01-27",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
-    },
-    {
       "id": "8bf9d5faf4c5a71f",
       "seriesId": "2a32a45f52849745",
       "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
@@ -20309,19 +19925,6 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "a7507c068803e555",
-      "seriesId": "50425864a897c616",
-      "seriesTitle": "Collana Il Gruffalò e i suoi amici: 20 volumi in edicola",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Gli Orribili Cinque a 7,99 €",
-      "releaseDate": "2027-02-03",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Il-Gruffalo-e-i-suoi-amici-La-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-il-gruffalo-e-i-suoi-amici/"
     },
     {
       "id": "e41ee497c1508668",
