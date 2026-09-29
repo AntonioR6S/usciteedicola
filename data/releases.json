@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:32:28.871Z",
+  "generatedAt": "2026-09-29T11:12:56.825Z",
   "releases": [
     {
       "id": "7d0dee894ff3a4b9",
@@ -12176,32 +12176,6 @@
       "projected": true
     },
     {
-      "id": "f4a2c173c6051e08",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Saluto al Sole",
-      "releaseDate": "2026-09-26",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "18f4b04c0d56dd8e",
-      "seriesId": "5b7cd4d3d4443917",
-      "seriesTitle": "Rocco Schiavone: 6 racconti di Antonio Manzini in regalo con la Repubblica",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "\"Senza fermate intermedie\"",
-      "releaseDate": "2026-09-28",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Rocco-Schiavone-6-racconti-di-Antonio-Manzini-in-regalo-con-la-Repubblica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/rocco-schiavone-in-regalo-con-la-repubblica/"
-    },
-    {
       "id": "c117fdd2da6fae74",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -12342,19 +12316,6 @@
       "projected": true
     },
     {
-      "id": "e03d5c86111f76e9",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La mucca bianca e nera",
-      "releaseDate": "2026-09-29",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "9814c26496cbc397",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -12411,19 +12372,6 @@
       "projected": true
     },
     {
-      "id": "bcdf09778d3a19e8",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Rufy",
-      "releaseDate": "2026-09-30",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "9b2c7c4948244962",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -12464,32 +12412,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-anastatiche-mondiali-panini_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/collezione-anastatica-album-mondiali-panini-collana.html",
       "projected": true
-    },
-    {
-      "id": "ee920603223cdbd9",
-      "seriesId": "e3bd7a179a5fddfc",
-      "seriesTitle": "Oggi con Lord & Berry: matite, matitoni e rossetti in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-01",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Oggi-con-Lord-Berry-matite-matitoni-e-rossetti-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-lord-berry/"
-    },
-    {
-      "id": "3f5f4c349681f03c",
-      "seriesId": "9d8a51f8b20aa784",
-      "seriesTitle": "Uomini e Donne con orologio dell’amore in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-01",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Uomini-e-Donne-con-orologio-dellamore-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-orologio/"
     },
     {
       "id": "8f21eea005e3b234",
@@ -12674,19 +12596,6 @@
       "projected": true
     },
     {
-      "id": "53ab2268a6b783c3",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Aumentare l’energia",
-      "releaseDate": "2026-10-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "79ea6c771d0b8730",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -12827,19 +12736,6 @@
       "projected": true
     },
     {
-      "id": "c36baa2ca727b9ce",
-      "seriesId": "33afce4aec31a29b",
-      "seriesTitle": "Cotto e Mangiato con Grattugia Multifunzione in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-06",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Cotto-e-Mangiato-con-Grattugia-Multifunzione-I-Genietti.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/cotto-e-mangiato-con-grattugia-multifunzione/"
-    },
-    {
       "id": "a80695091d7a37be",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -12924,43 +12820,17 @@
       "projected": true
     },
     {
-      "id": "3bb274d0ca8156ac",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Stabilità e sicurezza",
-      "releaseDate": "2026-10-07",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "779a9b15eb9e2632",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Roronoa Zoro a 9,99€",
-      "releaseDate": "2026-10-07",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
-      "id": "c2ea20116e069481",
-      "seriesId": "0c10f3f4eeade3dd",
-      "seriesTitle": "Topolino con le Carte Trevigiane di Ivan Bigarella in edicola",
+      "id": "1695012abb405948",
+      "seriesId": "5a3bf245800a7b57",
+      "seriesTitle": "K-Pop Star: Vesti e Crea!",
       "category": "riviste",
-      "publisher": null,
+      "publisher": "Panini",
       "issueNumber": null,
       "issueTitle": null,
       "releaseDate": "2026-10-07",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-le-Carte-Trevigiane-di-Ivan-Bigarella-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-le-carte-trevigiane/"
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPAFR046_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/k-pop-star-vesti-e-crea-mpafr046-it08.html"
     },
     {
       "id": "a83809c4648b3f94",
@@ -13033,19 +12903,6 @@
       "projected": true
     },
     {
-      "id": "23e7b4abf7b711ee",
-      "seriesId": "5ac7a8696b34d9e5",
-      "seriesTitle": "Agenda Enigmistica IN 15 mesi 2026-2028 in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/09/Agenda-Enigmistica-IN-15-mesi-2026-2028-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-enigmistica-in/"
-    },
-    {
       "id": "18701c16ed7ea455",
       "seriesId": "d9a96b3f788d5de3",
       "seriesTitle": "Kindergarten Wars",
@@ -13055,7 +12912,7 @@
       "issueTitle": "Kindergarten Wars 13",
       "releaseDate": "2026-10-08",
       "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCHOI040_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/kindergarten-wars-13-mchoi040-it08.html"
     },
     {
@@ -13081,7 +12938,7 @@
       "issueTitle": "Spider-Man 4",
       "releaseDate": "2026-10-08",
       "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHER069_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/spider-man-4-maher069-it08.html"
     },
     {
@@ -13094,7 +12951,7 @@
       "issueTitle": "Otr of the Flame 2",
       "releaseDate": "2026-10-08",
       "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOTRF002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-2-motrf002isbn-it08.html"
     },
     {
@@ -13107,7 +12964,7 @@
       "issueTitle": "Drama Queen 3",
       "releaseDate": "2026-10-08",
       "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDRAM003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/drama-queen-3-mdram003isbn-it08.html"
     },
     {
@@ -13120,7 +12977,7 @@
       "issueTitle": "Naruto Color New Edition 15",
       "releaseDate": "2026-10-08",
       "price": 7.5,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKENI110_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-15-mkeni110-it08.html"
     },
     {
@@ -13146,7 +13003,7 @@
       "issueTitle": "Warhammer – The Horus Heresy: Non Conosceranno la Paura 19",
       "releaseDate": "2026-10-08",
       "price": 18.9,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MROWA049ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-non-conosceranno-la-paura-19-mrowa049isbn-it08.html"
     },
     {
@@ -13159,7 +13016,7 @@
       "issueTitle": "Check, Please! 1",
       "releaseDate": "2026-10-08",
       "price": 19,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCHEC001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/check-please-1-mchec001isbn-it08.html"
     },
     {
@@ -13198,7 +13055,7 @@
       "issueTitle": null,
       "releaseDate": "2026-10-08",
       "price": 21.85,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MADEV133ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-vendetta-red-band-madev133isbn-it08.html"
     },
     {
@@ -13564,32 +13421,6 @@
       "projected": true
     },
     {
-      "id": "1119b268ec056660",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La centralità del sonno",
-      "releaseDate": "2026-10-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "d4b7ce28ea23e18e",
-      "seriesId": "829c2f1d78ccfee5",
-      "seriesTitle": "Forbidden Fruit Magazine con bracciale a cuore in oro o argento",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Forbidden-Fruit-Magazine-con-bracciale-a-cuore-in-oro-o-argento.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-bracciale-a-cuore/"
-    },
-    {
       "id": "dbb110a2d6d86f18",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -13730,19 +13561,6 @@
       "projected": true
     },
     {
-      "id": "7a02e27da7fcc54f",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Asino",
-      "releaseDate": "2026-10-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "c93c9ceba20d337a",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -13799,19 +13617,6 @@
       "projected": true
     },
     {
-      "id": "4942713a42029ccf",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Nami a 9,99€",
-      "releaseDate": "2026-10-14",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "4a2bbb5e0f63a590",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -13863,7 +13668,7 @@
       "issueTitle": "Shangri-La Frontier Expansion Pass 24",
       "releaseDate": "2026-10-15",
       "price": 8.45,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMATO191ISBNV_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/shangri-la-frontier-expansion-pass-24-mmato191isbnv-it08.html"
     },
     {
@@ -14059,19 +13864,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "a7dfd1838ea5b80e",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sequenze antistress",
-      "releaseDate": "2026-10-17",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "005498da986ca705",
@@ -14298,19 +14090,6 @@
       "projected": true
     },
     {
-      "id": "d99a11626fb721d9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Usop a 9,99€",
-      "releaseDate": "2026-10-21",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "a692838ea3d04b5e",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -14479,19 +14258,6 @@
       "projected": true
     },
     {
-      "id": "3598cbc3615aacd4",
-      "seriesId": "4d8037c4f69449f6",
-      "seriesTitle": "Amica con mascara Face D Black Volume in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
-    },
-    {
       "id": "ea3e6dfc7f8e5471",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -14532,19 +14298,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "02be7913b7a3eef8",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sviluppare l’equilibrio",
-      "releaseDate": "2026-10-24",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "d3d8164def2bb7da",
@@ -14686,32 +14439,6 @@
       "projected": true
     },
     {
-      "id": "12c91bb845eb9463",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Toro nero",
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
-      "id": "b483f3de315134ae",
-      "seriesId": "d4d810c1e5188608",
-      "seriesTitle": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
-    },
-    {
       "id": "7144e8e26c4e5794",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -14766,19 +14493,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "8a78afdbc773198e",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sanji a 9,99€",
-      "releaseDate": "2026-10-28",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "4d5a60ebbdbe7db1",
@@ -14947,19 +14661,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "58b920e0cb15b7ba",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Routine del mattino",
-      "releaseDate": "2026-10-31",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "5774b80ba14c3610",
@@ -15170,19 +14871,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "2e6360146fbeaa5d",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tony Tony Chopper a 9,99€",
-      "releaseDate": "2026-11-04",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "cdb818bf2312c7d7",
@@ -15533,19 +15221,6 @@
       "projected": true
     },
     {
-      "id": "193a152db053469c",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Cavallo marrone",
-      "releaseDate": "2026-11-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "21b66e7cf52ac72b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -15600,19 +15275,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "132b11dc7a4361a1",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Nico Robin a 9,99€",
-      "releaseDate": "2026-11-11",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "b71f46b67678e4dd",
@@ -15767,19 +15429,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "832003c255226643",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "L’arte della respirazione",
-      "releaseDate": "2026-11-14",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "4d6f82d6925e5875",
@@ -15992,19 +15641,6 @@
       "projected": true
     },
     {
-      "id": "06150b4186b1b3e9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Franky a 9,99€",
-      "releaseDate": "2026-11-18",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "3f0ffa5b020494e0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -16201,19 +15837,6 @@
       "projected": true
     },
     {
-      "id": "7b978836b015ec05",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Movimento e fluidità",
-      "releaseDate": "2026-11-21",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "49d47f10e8bce096",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -16340,19 +15963,6 @@
       "projected": true
     },
     {
-      "id": "fd8ed03f70f6be6a",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Cane con osso + cuccia",
-      "releaseDate": "2026-11-24",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "1b22ce5c5d9a773f",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -16407,19 +16017,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "7cd50f0d8c275ca4",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Brook a 9,99€",
-      "releaseDate": "2026-11-25",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "7cad142acbc9774e",
@@ -16574,19 +16171,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "12396b5ef69bdf5b",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Rafforzare la schiena",
-      "releaseDate": "2026-11-28",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "e1e637aa0f89331c",
@@ -16785,19 +16369,6 @@
       "projected": true
     },
     {
-      "id": "e778bf72f40fe7f9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Jinbe a 9,99€",
-      "releaseDate": "2026-12-02",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "7dd149e573f64ef0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -16980,19 +16551,6 @@
       "projected": true
     },
     {
-      "id": "4bb2573990c6aa72",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Routine della sera",
-      "releaseDate": "2026-12-05",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "2848c110de4bfd21",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -17161,19 +16719,6 @@
       "projected": true
     },
     {
-      "id": "1a2e61b79389fb98",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Shanks a 9,99€",
-      "releaseDate": "2026-12-09",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "5e5c4d3c3dae4482",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -17326,19 +16871,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "1e08e084665b40a2",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Pace interiore",
-      "releaseDate": "2026-12-12",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "27c8e073074c743c",
@@ -17537,19 +17069,6 @@
       "projected": true
     },
     {
-      "id": "55eee9e41312ada7",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Marshall D. Teach a 9,99€",
-      "releaseDate": "2026-12-16",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "b02c41262151127a",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -17716,19 +17235,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "aef6aa746dfc2c4a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Salute di spalle, collo e braccia",
-      "releaseDate": "2026-12-19",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "ab2ee6361cff6a96",
@@ -17899,19 +17405,6 @@
       "projected": true
     },
     {
-      "id": "79f40d3d2b218a14",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Bagy a 9,99€",
-      "releaseDate": "2026-12-23",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "23aedec0f20355d2",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -18050,19 +17543,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "208686dee7cce07f",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Concentrazione",
-      "releaseDate": "2026-12-26",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "27fb41a4e19dea50",
@@ -18261,19 +17741,6 @@
       "projected": true
     },
     {
-      "id": "4705481c0357993c",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Rufy (Gear 5) a 9,99€",
-      "releaseDate": "2026-12-30",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "422dd39c5f179f73",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -18426,19 +17893,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "d32fe74dac196197",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Controllare ansia e paura",
-      "releaseDate": "2027-01-02",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "964bc726322babe7",
@@ -18609,19 +18063,6 @@
       "projected": true
     },
     {
-      "id": "361fb27db2351216",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Trafalgar Law a 9,99€",
-      "releaseDate": "2027-01-06",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "2a43b79293fede02",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -18760,19 +18201,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "550736a60058d65a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Adattabilità e fiducia",
-      "releaseDate": "2027-01-09",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "319f63a78d55763d",
@@ -18971,19 +18399,6 @@
       "projected": true
     },
     {
-      "id": "54603ed3b6f57e44",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sabo a 9,99€",
-      "releaseDate": "2027-01-13",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "1710e9226d1bbcf0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -19136,19 +18551,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "1ab88b9fb4889b3b",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Equilibrio metabolico",
-      "releaseDate": "2027-01-16",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "b494a40e73ad9aa7",
@@ -19319,19 +18721,6 @@
       "projected": true
     },
     {
-      "id": "be7fb7278ede2919",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Kobby a 9,99€",
-      "releaseDate": "2027-01-20",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "cef120f5dc4464fc",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -19472,19 +18861,6 @@
       "projected": true
     },
     {
-      "id": "265842a420a2ec8e",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tecniche di Pranayama",
-      "releaseDate": "2027-01-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "651d847289d4b4fa",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -19569,199 +18945,88 @@
       "projected": true
     },
     {
-      "id": "8bf9d5faf4c5a71f",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Eustass Kid a 9,99€",
+      "id": "922b4f9606fa7941",
+      "seriesId": "5a30e8ba8877bf41",
+      "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 28,
+      "issueTitle": null,
       "releaseDate": "2027-01-27",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
+      "price": 5.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html",
+      "projected": true
     },
     {
-      "id": "2f86ed6dbd117a3a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Benessere cardiocircolatorio",
-      "releaseDate": "2027-01-30",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+      "id": "f6161b7fe0c17680",
+      "seriesId": "cca94a92ca8c1e46",
+      "seriesTitle": "Military Cars - Veicoli militari in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
+      "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
+      "projected": true
     },
     {
-      "id": "e41ee497c1508668",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
+      "id": "d9aa98ed1ec8348a",
+      "seriesId": "8652efa4702b946c",
+      "seriesTitle": "One Piece Plexies Collection",
       "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Boa Hancock a 9,99€",
-      "releaseDate": "2027-02-03",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
-      "id": "418159643b4dcb86",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Equilibrio e forza di gambe e piedi",
-      "releaseDate": "2027-02-06",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 18,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
       "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
     },
     {
-      "id": "6ac29e7cc0233c6e",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
+      "id": "bf4dcd8c87ebbd1a",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
       "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Garp a 9,99€",
-      "releaseDate": "2027-02-10",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
+      "projected": true
     },
     {
-      "id": "47afe51c8ae849b7",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Forza e volontà",
-      "releaseDate": "2027-02-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+      "id": "8fcec0d0363e8663",
+      "seriesId": "5c93ca53f8b8a280",
+      "seriesTitle": "MotoGP in scala 1:12",
+      "category": "collezionabili",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
+      "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
+      "projected": true
     },
     {
-      "id": "6dedd79cfe758b0f",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
+      "id": "a1879c5f6361ab34",
+      "seriesId": "57598e2090b3e551",
+      "seriesTitle": "La biblioteca delle stagioni",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Torsioni purificanti",
-      "releaseDate": "2027-02-20",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "abf5b2cf86183bfa",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Fasi della vita",
-      "releaseDate": "2027-02-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "ef67f5c287626c31",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Contemplazione",
-      "releaseDate": "2027-03-06",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "0ca7c20ac84d47b6",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Posizioni capovolte",
-      "releaseDate": "2027-03-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "5b4087a92a322023",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Apertura e creatività",
-      "releaseDate": "2027-03-20",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "70e554c74bd6d48d",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Fasi lunari e femminilità",
-      "releaseDate": "2027-03-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "d5c88e90daf0858d",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Pratiche di autoregolazione",
-      "releaseDate": "2027-04-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "f6417b4602560291",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Mudra e Bandha",
-      "releaseDate": "2027-04-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "592eee65277baee1",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Leggerezza e beatitudine",
-      "releaseDate": "2027-04-17",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 50,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
+      "price": 8.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
+      "projected": true
     }
   ]
 }
