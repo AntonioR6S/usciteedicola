@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:00:03.008Z",
+  "generatedAt": "2026-10-01T11:28:44.635Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -5735,19 +5735,6 @@
       "sourceUrl": "https://www.primaedicola.it/greco-la-lingua-del-pensiero-e-della-bellezza-ed-2025-la-natura.html"
     },
     {
-      "id": "ae40690a7e111b4b",
-      "seriesId": "57598e2090b3e551",
-      "seriesTitle": "La biblioteca delle stagioni",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 20,
-      "issueTitle": "La magia dell'estate",
-      "releaseDate": "2026-07-01",
-      "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-biblioteca-delle-stagioni-la-magia-dell-estate_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-la-magia-dell-estate.html"
-    },
-    {
       "id": "726af5ba451b22cc",
       "seriesId": "637462d5afd61745",
       "seriesTitle": "Leo Ortolani presenta La Conjura del male",
@@ -6138,19 +6125,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-cleofonte-deve-morire.html"
     },
     {
-      "id": "098ac551c9162055",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 39,
-      "issueTitle": "Alice nella torta",
-      "releaseDate": "2026-07-07",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta.html"
-    },
-    {
       "id": "04f6f5c7cb384f6a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -6162,6 +6136,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-che-cosa-fanno-i-calzini-quando-non-stanno-ai_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-che-cosa-fanno-i-calzini-quando-non-stanno-ai.html"
+    },
+    {
+      "id": "098ac551c9162055",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 39,
+      "issueTitle": "Alice nella torta",
+      "releaseDate": "2026-07-07",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-alice-nella-torta.html"
     },
     {
       "id": "9653834d31d0e929",
@@ -6502,19 +6489,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-testamento-di-lenin-storia-segreta-di-una.html"
     },
     {
-      "id": "6f86b1ff5caa4a4b",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 40,
-      "issueTitle": "Il gatto randagio",
-      "releaseDate": "2026-07-14",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio.html"
-    },
-    {
       "id": "5d8da3984d8e8512",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -6526,6 +6500,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-franco-il-gallo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-franco-il-gallo.html"
+    },
+    {
+      "id": "6f86b1ff5caa4a4b",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 40,
+      "issueTitle": "Il gatto randagio",
+      "releaseDate": "2026-07-14",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio.html"
     },
     {
       "id": "e2b296a23350317c",
@@ -7074,19 +7061,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-presente-come-storia-perche-il-passato-ci.html"
     },
     {
-      "id": "acdf95ef814bab81",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 41,
-      "issueTitle": "Il libro dei perché - Animali",
-      "releaseDate": "2026-07-21",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
-    },
-    {
       "id": "f0bafba459e1056a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -7100,17 +7074,17 @@
       "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
     },
     {
-      "id": "f916bcfbffa2cc62",
-      "seriesId": "631adfd205ffb8be",
-      "seriesTitle": "Disney Topolino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 3687,
-      "issueTitle": "Topolino N° 3687",
-      "releaseDate": "2026-07-22",
-      "price": 5.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-topolino-n-3687_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-topolino-topolino-n-3687.html"
+      "id": "acdf95ef814bab81",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 41,
+      "issueTitle": "Il libro dei perché - Animali",
+      "releaseDate": "2026-07-21",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
     },
     {
       "id": "f75d3bab2053b7d8",
@@ -7542,19 +7516,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-tucidide-e-il-colpo-di-stato.html"
     },
     {
-      "id": "38b8fcdfc16297c5",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 42,
-      "issueTitle": "A comprare la città di Stoccolma",
-      "releaseDate": "2026-07-28",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
-    },
-    {
       "id": "23e13601eed383b8",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -7566,6 +7527,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
+    },
+    {
+      "id": "38b8fcdfc16297c5",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 42,
+      "issueTitle": "A comprare la città di Stoccolma",
+      "releaseDate": "2026-07-28",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
     },
     {
       "id": "e4c2e47abe645d22",
@@ -8010,19 +7984,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-le-vie-del-classicismo.html"
     },
     {
-      "id": "8586544a3b21d0ed",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 43,
-      "issueTitle": "Il libro dei perché - Mondo",
-      "releaseDate": "2026-08-04",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
-    },
-    {
       "id": "50ecba8227f87088",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -8034,6 +7995,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
+    },
+    {
+      "id": "8586544a3b21d0ed",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 43,
+      "issueTitle": "Il libro dei perché - Mondo",
+      "releaseDate": "2026-08-04",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
     },
     {
       "id": "4703698d9799ba6f",
@@ -8473,7 +8447,7 @@
       "issueNumber": 2,
       "issueTitle": "Il più bel romanzo del Mondo - L'Odissea, raccontata da Nicola Gardini",
       "releaseDate": "2026-08-11",
-      "price": 13.5,
+      "price": 12.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-il-piu-bel-romanzo-del-mondo-l-odissea_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-il-piu-bel-romanzo-del-mondo-l-odissea.html"
     },
@@ -8491,19 +8465,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-classicismo-e-liberta.html"
     },
     {
-      "id": "5e9dca15e97e6c77",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 44,
-      "issueTitle": "La famiglia Punto-e-virgola",
-      "releaseDate": "2026-08-11",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
-    },
-    {
       "id": "206fa0dc3bc8a7ce",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -8515,6 +8476,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
+    },
+    {
+      "id": "5e9dca15e97e6c77",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 44,
+      "issueTitle": "La famiglia Punto-e-virgola",
+      "releaseDate": "2026-08-11",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
     },
     {
       "id": "720825ac9dd37411",
@@ -8959,19 +8933,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-crisi-dell-utopia.html"
     },
     {
-      "id": "5c58905b820d6fb1",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 45,
-      "issueTitle": "La casa del signor Venceslao",
-      "releaseDate": "2026-08-18",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
-    },
-    {
       "id": "05380f107eba2da7",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -8983,6 +8944,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
+    },
+    {
+      "id": "5c58905b820d6fb1",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 45,
+      "issueTitle": "La casa del signor Venceslao",
+      "releaseDate": "2026-08-18",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
     },
     {
       "id": "0f8e234197e7caf7",
@@ -9401,19 +9375,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-ideologie-del-classicismo.html"
     },
     {
-      "id": "2e152bd4a8834312",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 46,
-      "issueTitle": "L'eredità di Topone",
-      "releaseDate": "2026-08-25",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
-    },
-    {
       "id": "5a58c9fd4a1c8906",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -9425,6 +9386,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
+    },
+    {
+      "id": "2e152bd4a8834312",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 46,
+      "issueTitle": "L'eredità di Topone",
+      "releaseDate": "2026-08-25",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
     },
     {
       "id": "de077d5fd4a6f550",
@@ -9908,19 +9882,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-viaggio-di-artemidoro.html"
     },
     {
-      "id": "8a8154d8406a7e39",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 47,
-      "issueTitle": "La principessa Allegra",
-      "releaseDate": "2026-09-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
-    },
-    {
       "id": "4b3bbdabe04b1f60",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -9932,6 +9893,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
+    },
+    {
+      "id": "8a8154d8406a7e39",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 47,
+      "issueTitle": "La principessa Allegra",
+      "releaseDate": "2026-09-01",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
     },
     {
       "id": "ae4c263bf5cfac72",
@@ -10441,19 +10415,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-lezioni-di-filologia-classica.html"
     },
     {
-      "id": "c61ab34d590441e9",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 48,
-      "issueTitle": "Il semaforo blu",
-      "releaseDate": "2026-09-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
-    },
-    {
       "id": "1e07d748d103593c",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -10465,6 +10426,19 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
+    },
+    {
+      "id": "c61ab34d590441e9",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 48,
+      "issueTitle": "Il semaforo blu",
+      "releaseDate": "2026-09-08",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
     },
     {
       "id": "01c9a254101e2a0c",
@@ -10974,19 +10948,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-porcospino-d-acciaio.html"
     },
     {
-      "id": "01a117202fbe5eb2",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 49,
-      "issueTitle": "Il cavallo ammaestrato",
-      "releaseDate": "2026-09-15",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
-    },
-    {
       "id": "e08b248f367025e5",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -11000,17 +10961,17 @@
       "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
     },
     {
-      "id": "b9e1003799b03e20",
-      "seriesId": "887a38357bfce808",
-      "seriesTitle": "Disney Topolino presenta I fermalibri di Topolino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 3695,
-      "issueTitle": "Topolino N° 3695 + Fermalibro Paperino",
-      "releaseDate": "2026-09-16",
-      "price": 15.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3695-fermalibro-paperino_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3695-fermalibro-paperino.html"
+      "id": "01a117202fbe5eb2",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 49,
+      "issueTitle": "Il cavallo ammaestrato",
+      "releaseDate": "2026-09-15",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
     },
     {
       "id": "8babaef1ba9f9417",
@@ -11024,6 +10985,19 @@
       "price": 5.5,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-topolino-n-3695_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-topolino-n-3695.html"
+    },
+    {
+      "id": "b9e1003799b03e20",
+      "seriesId": "887a38357bfce808",
+      "seriesTitle": "Disney Topolino presenta I fermalibri di Topolino",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3695,
+      "issueTitle": "Topolino N° 3695 + Fermalibro Paperino",
+      "releaseDate": "2026-09-16",
+      "price": 15.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3695-fermalibro-paperino_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3695-fermalibro-paperino.html"
     },
     {
       "id": "579f18c4bd82583d",
@@ -11455,6 +11429,19 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-sovranita-limitata.html"
     },
     {
+      "id": "e6ef48de5c9fc37a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 53,
+      "issueTitle": "La palla",
+      "releaseDate": "2026-09-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
+    },
+    {
       "id": "d0094ac32ff95f10",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -11468,17 +11455,17 @@
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-corsa-delle-tartarughe.html"
     },
     {
-      "id": "e6ef48de5c9fc37a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 53,
-      "issueTitle": "La palla",
-      "releaseDate": "2026-09-22",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
+      "id": "7d51bba30c97f771",
+      "seriesId": "631adfd205ffb8be",
+      "seriesTitle": "Disney Topolino",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3696,
+      "issueTitle": "Topolino N° 3696",
+      "releaseDate": "2026-09-23",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-topolino-n-3696_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-topolino-n-3696.html"
     },
     {
       "id": "ae3a02c8cd649baf",
@@ -11494,74 +11481,69 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-fermalibri-di-topolino-topolino-n-3696-fermalibro-topolino.html"
     },
     {
-      "id": "5abd65c625991dce",
+      "id": "24eca3708050ffb9",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 10,
-      "issueTitle": null,
+      "issueTitle": "Ognun per sé",
       "releaseDate": "2026-09-23",
       "price": 5.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/u/lucky-luke-la-raccolta-completa-a-fumetti-ognun-per-se_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lucky-luke-la-raccolta-completa-a-fumetti-ognun-per-se.html"
     },
     {
-      "id": "f483dae5f80bd493",
+      "id": "e6cb051734ce11cf",
       "seriesId": "cca94a92ca8c1e46",
       "seriesTitle": "Military Cars - Veicoli militari in scala 1:43",
       "category": "modellini",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 3,
-      "issueTitle": null,
+      "issueTitle": "Peugeot 202 (1938), 9e Bataillon de Chars de Combat (Francia, maggio 1940)",
       "releaseDate": "2026-09-23",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
-      "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
-      "projected": true
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/i/military-cars-veicoli-militari-in-scala-1-43-peugeot-202-1938-9e-bataillon-de-chars-de_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-in-scala-1-43-peugeot-202-1938-9e-bataillon-de-chars-de.html"
     },
     {
-      "id": "b79408f38dac84e2",
+      "id": "4c8312bc5265b85a",
       "seriesId": "620f26177a19d19c",
       "seriesTitle": "My Hero Academia 3D Collection",
       "category": "figures",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 3,
-      "issueTitle": null,
+      "issueTitle": "Shoto Todoroki + Mount Lady (Parte 2)",
       "releaseDate": "2026-09-23",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/y/my-hero-academia-3d-collection-shoto-todoroki-mount-lady-parte-2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-shoto-todoroki-mount-lady-parte-2.html"
     },
     {
-      "id": "8ccfdd4eb479edd3",
+      "id": "34199f801442525a",
       "seriesId": "5c93ca53f8b8a280",
       "seriesTitle": "MotoGP in scala 1:12",
       "category": "collezionabili",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 3,
-      "issueTitle": null,
+      "issueTitle": "Yamaha YZR-M1 GP 2021 - Valentino Rossi",
       "releaseDate": "2026-09-23",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
-      "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
-      "projected": true
+      "price": 24.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/o/motogp-in-scala-1-12-yamaha-yzr-m1-gp-2021-valentino-rossi_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/motogp-in-scala-1-12-yamaha-yzr-m1-gp-2021-valentino-rossi.html"
     },
     {
-      "id": "c0a187ea1ef8e2bc",
+      "id": "8f127bbace72b086",
       "seriesId": "57598e2090b3e551",
       "seriesTitle": "La biblioteca delle stagioni",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 32,
-      "issueTitle": null,
+      "issueTitle": "È autunno, Riccio",
       "releaseDate": "2026-09-23",
       "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-biblioteca-delle-stagioni-e-autunno-riccio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-e-autunno-riccio.html"
     },
     {
       "id": "a048ed592bea0dce",
@@ -11815,19 +11797,6 @@
       "projected": true
     },
     {
-      "id": "f4a2c173c6051e08",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Saluto al Sole",
-      "releaseDate": "2026-09-26",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "18f4b04c0d56dd8e",
       "seriesId": "5b7cd4d3d4443917",
       "seriesTitle": "Rocco Schiavone: 6 racconti di Antonio Manzini in regalo con la Repubblica",
@@ -11939,20 +11908,6 @@
       "projected": true
     },
     {
-      "id": "b0c9e607e0eff3a6",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 51,
-      "issueTitle": null,
-      "releaseDate": "2026-09-29",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "387c8bfb2d9c96e6",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -11967,6 +11922,20 @@
       "projected": true
     },
     {
+      "id": "b0c9e607e0eff3a6",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 51,
+      "issueTitle": null,
+      "releaseDate": "2026-09-29",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
       "id": "e03d5c86111f76e9",
       "seriesId": "3febae071f11703b",
       "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
@@ -11978,6 +11947,58 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
+    },
+    {
+      "id": "cd1154dff7bbabd3",
+      "seriesId": "46b5ffb81eb5bc2a",
+      "seriesTitle": "Disney Topolino - Tutti pazzi per i dialetti",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3697,
+      "issueTitle": "Topolino N° 3697 (Storia in Dialetto Ladino)",
+      "releaseDate": "2026-09-30",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-ladino_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-ladino.html"
+    },
+    {
+      "id": "c2eadeeaa04654e5",
+      "seriesId": "46b5ffb81eb5bc2a",
+      "seriesTitle": "Disney Topolino - Tutti pazzi per i dialetti",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3697,
+      "issueTitle": "Topolino N° 3697 (Storia in Dialetto Sardo)",
+      "releaseDate": "2026-09-30",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-sardo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-sardo.html"
+    },
+    {
+      "id": "5289d3e9099811c3",
+      "seriesId": "46b5ffb81eb5bc2a",
+      "seriesTitle": "Disney Topolino - Tutti pazzi per i dialetti",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3697,
+      "issueTitle": "Topolino N° 3697 (Storia in Dialetto Marchigiano)",
+      "releaseDate": "2026-09-30",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-marchigiano_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-marchigiano.html"
+    },
+    {
+      "id": "c784589c682ec225",
+      "seriesId": "46b5ffb81eb5bc2a",
+      "seriesTitle": "Disney Topolino - Tutti pazzi per i dialetti",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 3697,
+      "issueTitle": "Topolino N° 3697 (Storia in Dialetto Abruzzese)",
+      "releaseDate": "2026-09-30",
+      "price": 5.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-abruzzese_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-topolino-tutti-pazzi-per-i-dialetti-topolino-n-3697-storia-in-dialetto-abruzzese.html"
     },
     {
       "id": "9814c26496cbc397",
@@ -12299,19 +12320,6 @@
       "projected": true
     },
     {
-      "id": "53ab2268a6b783c3",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Aumentare l’energia",
-      "releaseDate": "2026-10-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "1f03b2009697763c",
       "seriesId": "5eedb9c4b9d9eed3",
       "seriesTitle": "Paperinik",
@@ -12477,20 +12485,6 @@
       "projected": true
     },
     {
-      "id": "d8ab6ea55129a236",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 52,
-      "issueTitle": null,
-      "releaseDate": "2026-10-06",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "796f62d6d8961156",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -12502,6 +12496,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d8ab6ea55129a236",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 52,
+      "issueTitle": null,
+      "releaseDate": "2026-10-06",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -12540,7 +12548,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-07",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -12568,7 +12576,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-07",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -12582,7 +12590,7 @@
       "issueNumber": 4,
       "issueTitle": null,
       "releaseDate": "2026-10-07",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -12600,19 +12608,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "3bb274d0ca8156ac",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Stabilità e sicurezza",
-      "releaseDate": "2026-10-07",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     },
     {
       "id": "779a9b15eb9e2632",
@@ -12774,6 +12769,19 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/09/Agenda-Enigmistica-IN-15-mesi-2026-2028-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-enigmistica-in/"
+    },
+    {
+      "id": "42088346bb4ee9c8",
+      "seriesId": "20b53178e4f82eeb",
+      "seriesTitle": "Tim Burton's The Nightmare Before Christmas: Brivido alla Città del Natale",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-08",
+      "price": 9.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wnight001isbn_min_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/tim-burton-s-the-nightmare-before-christmas-brivido-alla-citt-del-natale-1wnight001isbn-it08.html"
     },
     {
       "id": "18701c16ed7ea455",
@@ -13294,19 +13302,6 @@
       "projected": true
     },
     {
-      "id": "1119b268ec056660",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La centralità del sonno",
-      "releaseDate": "2026-10-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "d4b7ce28ea23e18e",
       "seriesId": "829c2f1d78ccfee5",
       "seriesTitle": "Forbidden Fruit Magazine con bracciale a cuore in oro o argento",
@@ -13431,20 +13426,6 @@
       "projected": true
     },
     {
-      "id": "450d892c03efb2a1",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 53,
-      "issueTitle": null,
-      "releaseDate": "2026-10-13",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "6a661d261a13e795",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -13456,6 +13437,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "450d892c03efb2a1",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 53,
+      "issueTitle": null,
+      "releaseDate": "2026-10-13",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -14492,19 +14487,6 @@
       "projected": true
     },
     {
-      "id": "a7dfd1838ea5b80e",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sequenze antistress",
-      "releaseDate": "2026-10-17",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "9df315acf201fb14",
       "seriesId": "ad2ece91dfb2c37a",
       "seriesTitle": "Disney Mix Speciale",
@@ -14644,20 +14626,6 @@
       "projected": true
     },
     {
-      "id": "5c5ade9b353cdc57",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 54,
-      "issueTitle": null,
-      "releaseDate": "2026-10-20",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "4870d010f112c124",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -14669,6 +14637,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "5c5ade9b353cdc57",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 54,
+      "issueTitle": null,
+      "releaseDate": "2026-10-20",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -14707,7 +14689,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-21",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -14735,7 +14717,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-21",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -14749,7 +14731,7 @@
       "issueNumber": 5,
       "issueTitle": null,
       "releaseDate": "2026-10-21",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -15668,19 +15650,6 @@
       "projected": true
     },
     {
-      "id": "02be7913b7a3eef8",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sviluppare l’equilibrio",
-      "releaseDate": "2026-10-24",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "d3d8164def2bb7da",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -15778,20 +15747,6 @@
       "projected": true
     },
     {
-      "id": "fe69e20a24f0da41",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 55,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "0100176df13f3f2a",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -15803,6 +15758,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "fe69e20a24f0da41",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2026-10-27",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -16992,19 +16961,6 @@
       "projected": true
     },
     {
-      "id": "58b920e0cb15b7ba",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Routine del mattino",
-      "releaseDate": "2026-10-31",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "5774b80ba14c3610",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -17117,20 +17073,6 @@
       "projected": true
     },
     {
-      "id": "96422fddf901186d",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 56,
-      "issueTitle": null,
-      "releaseDate": "2026-11-03",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "49180c9936715e57",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -17142,6 +17084,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "96422fddf901186d",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 56,
+      "issueTitle": null,
+      "releaseDate": "2026-11-03",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17167,7 +17123,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-11-04",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -17195,7 +17151,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-11-04",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -17209,7 +17165,7 @@
       "issueNumber": 6,
       "issueTitle": null,
       "releaseDate": "2026-11-04",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -17548,20 +17504,6 @@
       "projected": true
     },
     {
-      "id": "97b7c2ee16bbfa31",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 57,
-      "issueTitle": null,
-      "releaseDate": "2026-11-10",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "4dac1c589aba5947",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -17573,6 +17515,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "97b7c2ee16bbfa31",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 57,
+      "issueTitle": null,
+      "releaseDate": "2026-11-10",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17812,19 +17768,6 @@
       "projected": true
     },
     {
-      "id": "832003c255226643",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "L’arte della respirazione",
-      "releaseDate": "2026-11-14",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "4d6f82d6925e5875",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -17937,20 +17880,6 @@
       "projected": true
     },
     {
-      "id": "b4051dd975beebed",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 58,
-      "issueTitle": null,
-      "releaseDate": "2026-11-17",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "ba7d55e99e6450cf",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -17962,6 +17891,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "b4051dd975beebed",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 58,
+      "issueTitle": null,
+      "releaseDate": "2026-11-17",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17987,7 +17930,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-11-18",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -18015,7 +17958,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-11-18",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -18029,7 +17972,7 @@
       "issueNumber": 7,
       "issueTitle": null,
       "releaseDate": "2026-11-18",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -18258,19 +18201,6 @@
       "projected": true
     },
     {
-      "id": "7b978836b015ec05",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Movimento e fluidità",
-      "releaseDate": "2026-11-21",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "49d47f10e8bce096",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -18355,20 +18285,6 @@
       "projected": true
     },
     {
-      "id": "508b47febee65de5",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 59,
-      "issueTitle": null,
-      "releaseDate": "2026-11-24",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "506e187403896358",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -18380,6 +18296,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "508b47febee65de5",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 59,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18619,19 +18549,6 @@
       "projected": true
     },
     {
-      "id": "12396b5ef69bdf5b",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Rafforzare la schiena",
-      "releaseDate": "2026-11-28",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "e1e637aa0f89331c",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -18730,20 +18647,6 @@
       "projected": true
     },
     {
-      "id": "b1028e3d303bf75c",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 60,
-      "issueTitle": null,
-      "releaseDate": "2026-12-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "969e184c47dd448b",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -18755,6 +18658,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "b1028e3d303bf75c",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 60,
+      "issueTitle": null,
+      "releaseDate": "2026-12-01",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18780,7 +18697,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-12-02",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -18808,7 +18725,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-12-02",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -18822,7 +18739,7 @@
       "issueNumber": 8,
       "issueTitle": null,
       "releaseDate": "2026-12-02",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -19037,19 +18954,6 @@
       "projected": true
     },
     {
-      "id": "4bb2573990c6aa72",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Routine della sera",
-      "releaseDate": "2026-12-05",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "2848c110de4bfd21",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -19120,20 +19024,6 @@
       "projected": true
     },
     {
-      "id": "ac90f290ab3d28be",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 61,
-      "issueTitle": null,
-      "releaseDate": "2026-12-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "d2f26f70656823ff",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -19145,6 +19035,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ac90f290ab3d28be",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 61,
+      "issueTitle": null,
+      "releaseDate": "2026-12-08",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19371,19 +19275,6 @@
       "projected": true
     },
     {
-      "id": "1e08e084665b40a2",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Pace interiore",
-      "releaseDate": "2026-12-12",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "27c8e073074c743c",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -19482,20 +19373,6 @@
       "projected": true
     },
     {
-      "id": "1697d7b92293b255",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 62,
-      "issueTitle": null,
-      "releaseDate": "2026-12-15",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "1fa60d0279ab48a3",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -19507,6 +19384,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1697d7b92293b255",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 62,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19532,7 +19423,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-12-16",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -19560,7 +19451,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-12-16",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -19574,7 +19465,7 @@
       "issueNumber": 9,
       "issueTitle": null,
       "releaseDate": "2026-12-16",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -19775,19 +19666,6 @@
       "projected": true
     },
     {
-      "id": "aef6aa746dfc2c4a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Salute di spalle, collo e braccia",
-      "releaseDate": "2026-12-19",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "ab2ee6361cff6a96",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -19858,20 +19736,6 @@
       "projected": true
     },
     {
-      "id": "3d77de29db9361e2",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 63,
-      "issueTitle": null,
-      "releaseDate": "2026-12-22",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "835a07a1b0d529d4",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -19883,6 +19747,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "3d77de29db9361e2",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 63,
+      "issueTitle": null,
+      "releaseDate": "2026-12-22",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20095,19 +19973,6 @@
       "projected": true
     },
     {
-      "id": "208686dee7cce07f",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Concentrazione",
-      "releaseDate": "2026-12-26",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "27fb41a4e19dea50",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -20206,20 +20071,6 @@
       "projected": true
     },
     {
-      "id": "9e258de4a51c37ce",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 64,
-      "issueTitle": null,
-      "releaseDate": "2026-12-29",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "9d752d45c73c02c7",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -20231,6 +20082,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9e258de4a51c37ce",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 64,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20256,7 +20121,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-12-30",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -20284,7 +20149,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-12-30",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -20298,7 +20163,7 @@
       "issueNumber": 10,
       "issueTitle": null,
       "releaseDate": "2026-12-30",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -20485,19 +20350,6 @@
       "projected": true
     },
     {
-      "id": "d32fe74dac196197",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Controllare ansia e paura",
-      "releaseDate": "2027-01-02",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "964bc726322babe7",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -20568,20 +20420,6 @@
       "projected": true
     },
     {
-      "id": "460bcadc02cdb345",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 65,
-      "issueTitle": null,
-      "releaseDate": "2027-01-05",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "48e542949fb0a001",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -20593,6 +20431,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "460bcadc02cdb345",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 65,
+      "issueTitle": null,
+      "releaseDate": "2027-01-05",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20805,19 +20657,6 @@
       "projected": true
     },
     {
-      "id": "550736a60058d65a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Adattabilità e fiducia",
-      "releaseDate": "2027-01-09",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "319f63a78d55763d",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -20916,20 +20755,6 @@
       "projected": true
     },
     {
-      "id": "d031b31d529f3c39",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 66,
-      "issueTitle": null,
-      "releaseDate": "2027-01-12",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "d6d42c13f95997de",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -20941,6 +20766,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d031b31d529f3c39",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 66,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20966,7 +20805,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2027-01-13",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -20994,7 +20833,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2027-01-13",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -21008,7 +20847,7 @@
       "issueNumber": 11,
       "issueTitle": null,
       "releaseDate": "2027-01-13",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -21195,19 +21034,6 @@
       "projected": true
     },
     {
-      "id": "1ab88b9fb4889b3b",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Equilibrio metabolico",
-      "releaseDate": "2027-01-16",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "b494a40e73ad9aa7",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -21278,20 +21104,6 @@
       "projected": true
     },
     {
-      "id": "6d41775681a1a297",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 67,
-      "issueTitle": null,
-      "releaseDate": "2027-01-19",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "228b7874be55ecf2",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
@@ -21303,6 +21115,20 @@
       "price": 8.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
+      "projected": true
+    },
+    {
+      "id": "6d41775681a1a297",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 67,
+      "issueTitle": null,
+      "releaseDate": "2027-01-19",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -21515,19 +21341,6 @@
       "projected": true
     },
     {
-      "id": "265842a420a2ec8e",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tecniche di Pranayama",
-      "releaseDate": "2027-01-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "651d847289d4b4fa",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -21648,7 +21461,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2027-01-27",
-      "price": 8.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
       "projected": true
@@ -21676,7 +21489,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2027-01-27",
-      "price": 7.99,
+      "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
@@ -21690,7 +21503,7 @@
       "issueNumber": 12,
       "issueTitle": null,
       "releaseDate": "2027-01-27",
-      "price": 14.99,
+      "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
@@ -21765,17 +21578,74 @@
       "projected": true
     },
     {
-      "id": "2f86ed6dbd117a3a",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
+      "id": "4fed0c7ea4fab711",
+      "seriesId": "3a6f2b841e4d2ca1",
+      "seriesTitle": "Dylan Dog 40",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 20,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 8.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
+      "projected": true
+    },
+    {
+      "id": "f6ac81445d9228ae",
+      "seriesId": "ec0e992ad86159f7",
+      "seriesTitle": "Alan Ford Anastatica",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 110,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
+      "projected": true
+    },
+    {
+      "id": "7ddf833e73617545",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 29,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "6086787b1e829311",
+      "seriesId": "4e7e8ad8f1409c77",
+      "seriesTitle": "Tiger Mask - 3D Collection",
+      "category": "figures",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "30a21b6318097ddf",
+      "seriesId": "621a2b1dcfb36d3e",
+      "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
       "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Benessere cardiocircolatorio",
-      "releaseDate": "2027-01-30",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
+      "publisher": "Centauria",
+      "issueNumber": 56,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
+      "projected": true
     },
     {
       "id": "e41ee497c1508668",
@@ -21791,19 +21661,6 @@
       "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
-      "id": "418159643b4dcb86",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Equilibrio e forza di gambe e piedi",
-      "releaseDate": "2027-02-06",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
       "id": "6ac29e7cc0233c6e",
       "seriesId": "2a32a45f52849745",
       "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
@@ -21815,136 +21672,6 @@
       "price": 9.99,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
-      "id": "47afe51c8ae849b7",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Forza e volontà",
-      "releaseDate": "2027-02-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "6dedd79cfe758b0f",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Torsioni purificanti",
-      "releaseDate": "2027-02-20",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "abf5b2cf86183bfa",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Fasi della vita",
-      "releaseDate": "2027-02-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "ef67f5c287626c31",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Contemplazione",
-      "releaseDate": "2027-03-06",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "0ca7c20ac84d47b6",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Posizioni capovolte",
-      "releaseDate": "2027-03-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "5b4087a92a322023",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Apertura e creatività",
-      "releaseDate": "2027-03-20",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "70e554c74bd6d48d",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Fasi lunari e femminilità",
-      "releaseDate": "2027-03-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "d5c88e90daf0858d",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Pratiche di autoregolazione",
-      "releaseDate": "2027-04-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "f6417b4602560291",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Mudra e Bandha",
-      "releaseDate": "2027-04-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
-    },
-    {
-      "id": "592eee65277baee1",
-      "seriesId": "1136b54329353693",
-      "seriesTitle": "Collana Lezioni di Yoga in edicola: 30 volumi per praticare e stare bene",
-      "category": "libri",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Leggerezza e beatitudine",
-      "releaseDate": "2027-04-17",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collana-Lezioni-di-Yoga-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collane/collana-lezioni-di-yoga/"
     }
   ]
 }
