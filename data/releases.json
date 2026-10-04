@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:17:45.512Z",
+  "generatedAt": "2026-10-04T10:59:59.155Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3109,19 +3109,6 @@
       "sourceUrl": "https://www.primaedicola.it/il-mondo-di-andy-capp-andy-malato-immaginario.html"
     },
     {
-      "id": "a3f8efdb37e4520e",
-      "seriesId": "795e3890f3d6de26",
-      "seriesTitle": "MARVEL Movie Museum",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 43,
-      "issueTitle": "Fascicolo + Destroyer",
-      "releaseDate": "2026-03-28",
-      "price": 24.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-destroyer_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-destroyer.html"
-    },
-    {
       "id": "f42ccfe0a3a3e841",
       "seriesId": "aa57d62d4d21675b",
       "seriesTitle": "Lady Oscar - Personaggi 3D",
@@ -3406,19 +3393,6 @@
       "price": 5.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/l/il-mondo-di-andy-capp-vi-presento-andy-capp_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/il-mondo-di-andy-capp-vi-presento-andy-capp.html"
-    },
-    {
-      "id": "a0fdda3c5f95bc4b",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 34,
-      "issueTitle": "Alfa Romeo 33/2 Daytona - Targa Florio 1968",
-      "releaseDate": "2026-04-11",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-2-daytona-targa-florio-1968_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50034.html"
     },
     {
       "id": "3bcd31bd26fec5fb",
@@ -3759,19 +3733,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-beast-of-hammersmith.html"
     },
     {
-      "id": "ccc53812af916a4e",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 9,
-      "issueTitle": "Ford Mustang Mach 1 Speed & Endurance Records on Bonneville Salt Flats (1969)",
-      "releaseDate": "2026-04-25",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on.html"
-    },
-    {
       "id": "c60c52a4ba5979df",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -3783,6 +3744,19 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1970_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50035.html"
+    },
+    {
+      "id": "ccc53812af916a4e",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 9,
+      "issueTitle": "Ford Mustang Mach 1 Speed & Endurance Records on Bonneville Salt Flats (1969)",
+      "releaseDate": "2026-04-25",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on.html"
     },
     {
       "id": "6c4ba78227fbd87f",
@@ -4123,6 +4097,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bbc-archives.html"
     },
     {
+      "id": "4513a4ef94e97128",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 36,
+      "issueTitle": "Alfa Romeo Giulia Sprint GTA 1.6 - Mugello 1966",
+      "releaseDate": "2026-05-09",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966.html"
+    },
+    {
       "id": "42bf6a4bb8767078",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -4147,19 +4134,6 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/racing-car-transporters-in-scala-1-43-leyland-matra-simca-1970_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-leyland-matra-simca-1970.html"
-    },
-    {
-      "id": "4513a4ef94e97128",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 36,
-      "issueTitle": "Alfa Romeo Giulia Sprint GTA 1.6 - Mugello 1966",
-      "releaseDate": "2026-05-09",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966.html"
     },
     {
       "id": "cd70dd3c166207f5",
@@ -4500,19 +4474,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-number-of-the-beast-single.html"
     },
     {
-      "id": "addb99d86dbb38f8",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 11,
-      "issueTitle": "Ford Mustang Shelby GT500 Custom (2013)",
-      "releaseDate": "2026-05-23",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013.html"
-    },
-    {
       "id": "47bf5c78fd6a686b",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -4524,6 +4485,19 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1971_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50037.html"
+    },
+    {
+      "id": "addb99d86dbb38f8",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 11,
+      "issueTitle": "Ford Mustang Shelby GT500 Custom (2013)",
+      "releaseDate": "2026-05-23",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013.html"
     },
     {
       "id": "22fce2c4dcd93cdf",
@@ -4877,19 +4851,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-wicker-man.html"
     },
     {
-      "id": "074a25f96aee5270",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 12,
-      "issueTitle": "Ford Mustang Boss 302 (1970)",
-      "releaseDate": "2026-06-06",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970.html"
-    },
-    {
       "id": "ee379553a2c2d523",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -4901,6 +4862,19 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974.html"
+    },
+    {
+      "id": "074a25f96aee5270",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 12,
+      "issueTitle": "Ford Mustang Boss 302 (1970)",
+      "releaseDate": "2026-06-06",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970.html"
     },
     {
       "id": "58415ab51479ae65",
@@ -5306,6 +5280,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-transylvania.html"
     },
     {
+      "id": "ca79509e6399c6a3",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 39,
+      "issueTitle": "Alfa Romeo Giulia GTA 1300 - Junior Tourist Trophy - 1970",
+      "releaseDate": "2026-06-20",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist.html"
+    },
+    {
       "id": "96ddad4555626e5a",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -5330,19 +5317,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-911-gt3-rs-2001_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30090.html"
-    },
-    {
-      "id": "ca79509e6399c6a3",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 39,
-      "issueTitle": "Alfa Romeo Giulia GTA 1300 - Junior Tourist Trophy - 1970",
-      "releaseDate": "2026-06-20",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist.html"
     },
     {
       "id": "6dbef9ae6d1abcb8",
@@ -5774,6 +5748,19 @@
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2025-2026-celebration-set-60-figurine.html"
     },
     {
+      "id": "782f248b9210e584",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 40,
+      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
+      "releaseDate": "2026-07-04",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
+    },
+    {
       "id": "33be0f098f311b6f",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -5800,19 +5787,6 @@
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf-25-2025-lewis-hamilton.html"
     },
     {
-      "id": "782f248b9210e584",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 40,
-      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
-      "releaseDate": "2026-07-04",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
-    },
-    {
       "id": "74b7b6abfb1b5004",
       "seriesId": "795e3890f3d6de26",
       "seriesTitle": "MARVEL Movie Museum",
@@ -5837,19 +5811,6 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/lady-oscar-personaggi-3d-madame-sophie-di-francia_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-madame-sophie-di-francia.html"
-    },
-    {
-      "id": "032d4eb4347a3a61",
-      "seriesId": "f53fedda02687512",
-      "seriesTitle": "Giornalismo d'inchiesta",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 17,
-      "issueTitle": "The Fight - Norman Mailer",
-      "releaseDate": "2026-07-04",
-      "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-the-fight-norman-mailer_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-the-fight-norman-mailer.html"
     },
     {
       "id": "e1a41a6379d4a2e5",
@@ -6658,6 +6619,19 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico.html"
     },
     {
+      "id": "c40f1ecaecc5a5dc",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 41,
+      "issueTitle": "Alfa Romeo 33TT3 - 24h Le Mans - 1972",
+      "releaseDate": "2026-07-18",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972.html"
+    },
+    {
       "id": "82a749ce7eb7df82",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -6708,19 +6682,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-956-1984_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-956-1984.html"
-    },
-    {
-      "id": "c40f1ecaecc5a5dc",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 41,
-      "issueTitle": "Alfa Romeo 33TT3 - 24h Le Mans - 1972",
-      "releaseDate": "2026-07-18",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -7620,19 +7581,6 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-prezzemolina.html"
     },
     {
-      "id": "691c9c419b794d51",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 16,
-      "issueTitle": "Ford Mustang Red Tails (2012)",
-      "releaseDate": "2026-08-01",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012.html"
-    },
-    {
       "id": "a2f370cf485b54da",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -7644,6 +7592,19 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-alfetta-gtv-2-0-turbodelta-1980_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50042.html"
+    },
+    {
+      "id": "691c9c419b794d51",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 16,
+      "issueTitle": "Ford Mustang Red Tails (2012)",
+      "releaseDate": "2026-08-01",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012.html"
     },
     {
       "id": "4ac93a96774d7f9c",
@@ -8530,6 +8491,19 @@
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf70h-sebastian-vettel-2017-italian.html"
     },
     {
+      "id": "8b6aae5e80a096bb",
+      "seriesId": "795e3890f3d6de26",
+      "seriesTitle": "MARVEL Movie Museum",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 52,
+      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
+      "releaseDate": "2026-08-14",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
+    },
+    {
       "id": "7dad2e6e4d65a60a",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
@@ -8554,19 +8528,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-the-early-days_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-early-days.html"
-    },
-    {
-      "id": "8b6aae5e80a096bb",
-      "seriesId": "795e3890f3d6de26",
-      "seriesTitle": "MARVEL Movie Museum",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 52,
-      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
-      "releaseDate": "2026-08-14",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
     },
     {
       "id": "7df123902a75316b",
@@ -8998,19 +8959,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-wolf-wr1-jody-schecketer-1977.html"
     },
     {
-      "id": "6d09d491d543fea3",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 1,
-      "issueTitle": "LANCIA DELTA HF INTEGRALE 16V - Rally d'Italia Sanremo 1989 (M. Biasion - T. Siviero)",
-      "releaseDate": "2026-08-22",
-      "price": 5.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia.html"
-    },
-    {
       "id": "61577c5210fce929",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -9022,6 +8970,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023.html"
+    },
+    {
+      "id": "6d09d491d543fea3",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 1,
+      "issueTitle": "LANCIA DELTA HF INTEGRALE 16V - Rally d'Italia Sanremo 1989 (M. Biasion - T. Siviero)",
+      "releaseDate": "2026-08-22",
+      "price": 5.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia.html"
     },
     {
       "id": "6b37aff1aa07d746",
@@ -9973,19 +9934,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-maserati-250-f-juan-manuel-fangio-1957.html"
     },
     {
-      "id": "04fbdfc0568aa18a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 2,
-      "issueTitle": "CITROЁN DS3 WRC - Rally d'Italia Sardegna 2011 (S. Loeb - D. Elena)",
-      "releaseDate": "2026-09-05",
-      "price": 10.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011.html"
-    },
-    {
       "id": "7446175f0b5e43e7",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -9997,6 +9945,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023.html"
+    },
+    {
+      "id": "04fbdfc0568aa18a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 2,
+      "issueTitle": "CITROЁN DS3 WRC - Rally d'Italia Sardegna 2011 (S. Loeb - D. Elena)",
+      "releaseDate": "2026-09-05",
+      "price": 10.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011.html"
     },
     {
       "id": "35b23cd371e8813c",
@@ -11026,19 +10987,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl39-lando-norris-2025.html"
     },
     {
-      "id": "c8e7a1083c1124b8",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 3,
-      "issueTitle": "TOYOTA GR YARIS RALLY1 - Rally de Portugal 2023 (K. Rovanperä - J. Halttunen)",
-      "releaseDate": "2026-09-19",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
-    },
-    {
       "id": "078ec0b4f92b8050",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -11050,6 +10998,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis.html"
+    },
+    {
+      "id": "c8e7a1083c1124b8",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 3,
+      "issueTitle": "TOYOTA GR YARIS RALLY1 - Rally de Portugal 2023 (K. Rovanperä - J. Halttunen)",
+      "releaseDate": "2026-09-19",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
     },
     {
       "id": "99d42618f09f6d2e",
@@ -11559,60 +11520,56 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-pescatore-e-il-genio.html"
     },
     {
-      "id": "83ee623c0695884f",
+      "id": "32096771457635b4",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 46,
-      "issueTitle": null,
+      "issueTitle": "Alfa Romeo 156 GTA - Campionato Europeo Turismo - 2002",
       "releaseDate": "2026-09-26",
       "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-alfaromeo-sportcollection_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-156-gta-campionato-europeo-turismo_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50046.html"
     },
     {
-      "id": "03ee4fae5816ad6c",
+      "id": "1ed6bc4daf556836",
       "seriesId": "795e3890f3d6de26",
       "seriesTitle": "MARVEL Movie Museum",
       "category": "figures",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 55,
-      "issueTitle": null,
+      "issueTitle": "Fascicolo + Iron Man Mark V - Valigetta",
       "releaseDate": "2026-09-26",
-      "price": 24.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
-      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
-      "projected": true
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-v-valigetta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-v-valigetta.html"
     },
     {
-      "id": "90f84df72867e52b",
+      "id": "0e83bb94a9acb6bb",
       "seriesId": "ad118cdedd7bee6e",
       "seriesTitle": "Patrimonio Artistico Italiano",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 5,
-      "issueTitle": null,
+      "issueTitle": "Napoli e la Reggia di Caserta all'epoca dei Borbone",
       "releaseDate": "2026-09-26",
       "price": 12.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/a/patrimonio-artistico-italiano-napoli-e-la-reggia-di-caserta-all-epoca-dei_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-napoli-e-la-reggia-di-caserta-all-epoca-dei.html"
     },
     {
-      "id": "ea850e8307d49a4d",
+      "id": "974a01d969862ba6",
       "seriesId": "f53fedda02687512",
       "seriesTitle": "Giornalismo d'inchiesta",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 29,
-      "issueTitle": null,
+      "issueTitle": "Il mio silenzio è una stella - Sabrina Pisu",
       "releaseDate": "2026-09-26",
       "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-il-mio-silenzio-e-una-stella-sabrina-pisu_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-il-mio-silenzio-e-una-stella-sabrina-pisu.html"
     },
     {
       "id": "c117fdd2da6fae74",
@@ -12054,20 +12011,6 @@
       "projected": true
     },
     {
-      "id": "c0b0876c52b6e99b",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 4,
-      "issueTitle": null,
-      "releaseDate": "2026-10-03",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "483a0461544782fe",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -12079,6 +12022,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c0b0876c52b6e99b",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 4,
+      "issueTitle": null,
+      "releaseDate": "2026-10-03",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -13139,7 +13096,7 @@
       "issueNumber": 56,
       "issueTitle": null,
       "releaseDate": "2026-10-10",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -14288,20 +14245,6 @@
       "projected": true
     },
     {
-      "id": "c5b06c1a747b85de",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 5,
-      "issueTitle": null,
-      "releaseDate": "2026-10-17",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "1bddd1fb59f3d41f",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -14313,6 +14256,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c5b06c1a747b85de",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 5,
+      "issueTitle": null,
+      "releaseDate": "2026-10-17",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -15514,7 +15471,7 @@
       "issueNumber": 57,
       "issueTitle": null,
       "releaseDate": "2026-10-24",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -16775,20 +16732,6 @@
       "projected": true
     },
     {
-      "id": "cbe053a2d8ee8b1a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 6,
-      "issueTitle": null,
-      "releaseDate": "2026-10-31",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "2cc810331f1bedfa",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -16800,6 +16743,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "cbe053a2d8ee8b1a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 6,
+      "issueTitle": null,
+      "releaseDate": "2026-10-31",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -17284,7 +17241,7 @@
       "issueNumber": 58,
       "issueTitle": null,
       "releaseDate": "2026-11-07",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -17582,20 +17539,6 @@
       "projected": true
     },
     {
-      "id": "384f25ed52823b2e",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 7,
-      "issueTitle": null,
-      "releaseDate": "2026-11-14",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e56c2d4dcbd619a1",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -17607,6 +17550,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "384f25ed52823b2e",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 7,
+      "issueTitle": null,
+      "releaseDate": "2026-11-14",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -18065,7 +18022,7 @@
       "issueNumber": 59,
       "issueTitle": null,
       "releaseDate": "2026-11-21",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -18363,20 +18320,6 @@
       "projected": true
     },
     {
-      "id": "1fd63ee7c645694b",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 8,
-      "issueTitle": null,
-      "releaseDate": "2026-11-28",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e52ef0496fbb5ce3",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -18388,6 +18331,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1fd63ee7c645694b",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 8,
+      "issueTitle": null,
+      "releaseDate": "2026-11-28",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -18818,7 +18775,7 @@
       "issueNumber": 60,
       "issueTitle": null,
       "releaseDate": "2026-12-05",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -19089,20 +19046,6 @@
       "projected": true
     },
     {
-      "id": "cf3036deccfff456",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 9,
-      "issueTitle": null,
-      "releaseDate": "2026-12-12",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "f3075e89c0d183bb",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -19114,6 +19057,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "cf3036deccfff456",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 9,
+      "issueTitle": null,
+      "releaseDate": "2026-12-12",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -19530,7 +19487,7 @@
       "issueNumber": 61,
       "issueTitle": null,
       "releaseDate": "2026-12-19",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -19787,20 +19744,6 @@
       "projected": true
     },
     {
-      "id": "0f1614301f41a74a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 10,
-      "issueTitle": null,
-      "releaseDate": "2026-12-26",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "086f5ce9ba2bb3c8",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -19812,6 +19755,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "0f1614301f41a74a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 10,
+      "issueTitle": null,
+      "releaseDate": "2026-12-26",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -20214,7 +20171,7 @@
       "issueNumber": 62,
       "issueTitle": null,
       "releaseDate": "2027-01-02",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -20471,20 +20428,6 @@
       "projected": true
     },
     {
-      "id": "a7b3c7fc70db9d4a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 11,
-      "issueTitle": null,
-      "releaseDate": "2027-01-09",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "15e78bdd5d73c92c",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -20496,6 +20439,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a7b3c7fc70db9d4a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 11,
+      "issueTitle": null,
+      "releaseDate": "2027-01-09",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -20898,7 +20855,7 @@
       "issueNumber": 63,
       "issueTitle": null,
       "releaseDate": "2027-01-16",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
@@ -21155,20 +21112,6 @@
       "projected": true
     },
     {
-      "id": "ac92b8953b8fd187",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 12,
-      "issueTitle": null,
-      "releaseDate": "2027-01-23",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e3e5ab071c2bd76f",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -21180,6 +21123,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ac92b8953b8fd187",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -21554,7 +21511,7 @@
       "issueNumber": 64,
       "issueTitle": null,
       "releaseDate": "2027-01-30",
-      "price": 24.99,
+      "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
       "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html",
       "projected": true
