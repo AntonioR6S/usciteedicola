@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:59:59.155Z",
+  "generatedAt": "2026-10-05T12:08:16.611Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -7464,19 +7464,6 @@
       "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-1998-francia.html"
     },
     {
-      "id": "3123f22814efa66a",
-      "seriesId": "d06c576eeebc8dc9",
-      "seriesTitle": "I libri del Corriere della Sera",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 1,
-      "issueTitle": "Basta dirlo di Paolo Borzacchiello",
-      "releaseDate": "2026-07-30",
-      "price": 13.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-basta-dirlo-di-paolo-borzacchiello_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-basta-dirlo-di-paolo-borzacchiello.html"
-    },
-    {
       "id": "f999eaead689ac60",
       "seriesId": "3fcaefb3db5b71cd",
       "seriesTitle": "Il Sole 24 ORE Cultura - Kids",
@@ -7984,19 +7971,6 @@
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-castiglione-il-libro-del-cortigiano-della.html"
     },
     {
-      "id": "46db0f56af0d9808",
-      "seriesId": "d06c576eeebc8dc9",
-      "seriesTitle": "I libri del Corriere della Sera",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 2,
-      "issueTitle": "La vita s'impara di Corrado Augias",
-      "releaseDate": "2026-08-07",
-      "price": 11.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-la-vita-s-impara-di-corrado-augias_1_3.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-la-vita-s-impara-di-corrado-augias.html"
-    },
-    {
       "id": "00e18f361e77bfbc",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -8192,19 +8166,6 @@
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-cardinale-de-rohan.html"
     },
     {
-      "id": "39a367d38ca69d59",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 42,
-      "issueTitle": "Cime tempestose 2",
-      "releaseDate": "2026-08-11",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-cime-tempestose-2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-cime-tempestose-2.html"
-    },
-    {
       "id": "f2ca342c52e40ce8",
       "seriesId": "d06c576eeebc8dc9",
       "seriesTitle": "I libri del Corriere della Sera",
@@ -8216,6 +8177,19 @@
       "price": 12.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-il-piu-bel-romanzo-del-mondo-l-odissea_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-il-piu-bel-romanzo-del-mondo-l-odissea.html"
+    },
+    {
+      "id": "39a367d38ca69d59",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 42,
+      "issueTitle": "Cime tempestose 2",
+      "releaseDate": "2026-08-11",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-cime-tempestose-2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-cime-tempestose-2.html"
     },
     {
       "id": "e07da59bb124185d",
@@ -9856,19 +9830,6 @@
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30096.html"
     },
     {
-      "id": "410f5bd91be13598",
-      "seriesId": "5b6971f2111cfa04",
-      "seriesTitle": "La grande letteratura italiana (ed. 2026)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 35,
-      "issueTitle": "Verga, Novelle",
-      "releaseDate": "2026-09-04",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-verga-novelle_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-verga-novelle.html"
-    },
-    {
       "id": "7d36d8b138dde681",
       "seriesId": "d06c576eeebc8dc9",
       "seriesTitle": "I libri del Corriere della Sera",
@@ -9880,6 +9841,19 @@
       "price": 15.1,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai.html"
+    },
+    {
+      "id": "410f5bd91be13598",
+      "seriesId": "5b6971f2111cfa04",
+      "seriesTitle": "La grande letteratura italiana (ed. 2026)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 35,
+      "issueTitle": "Verga, Novelle",
+      "releaseDate": "2026-09-04",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-verga-novelle_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-verga-novelle.html"
     },
     {
       "id": "f3866f01158423cb",
@@ -10103,19 +10077,6 @@
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-oscar-francois-de-jarjayes-giovane.html"
     },
     {
-      "id": "a1f1ad9480083823",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 46,
-      "issueTitle": "Verga - I Malavoglia 2",
-      "releaseDate": "2026-09-08",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-verga-i-malavoglia-2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-verga-i-malavoglia-2.html"
-    },
-    {
       "id": "fa4d8c157bddc2ea",
       "seriesId": "d06c576eeebc8dc9",
       "seriesTitle": "I libri del Corriere della Sera",
@@ -10166,6 +10127,19 @@
       "price": 16.1,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-omero-non-deve-morire-di-oscar-farinetti-e_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-omero-non-deve-morire-di-oscar-farinetti-e.html"
+    },
+    {
+      "id": "a1f1ad9480083823",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 46,
+      "issueTitle": "Verga - I Malavoglia 2",
+      "releaseDate": "2026-09-08",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-verga-i-malavoglia-2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-verga-i-malavoglia-2.html"
     },
     {
       "id": "e7e9ec798f8bc9e2",
@@ -10675,19 +10649,6 @@
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-andre-grandier-giovane.html"
     },
     {
-      "id": "5a2ab9ea23e12043",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 47,
-      "issueTitle": "Ultime lettere di Jacopo Ortis - Foscolo",
-      "releaseDate": "2026-09-15",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-ultime-lettere-di-jacopo-ortis-foscolo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-ultime-lettere-di-jacopo-ortis-foscolo.html"
-    },
-    {
       "id": "1f794b5ca877a069",
       "seriesId": "d06c576eeebc8dc9",
       "seriesTitle": "I libri del Corriere della Sera",
@@ -10699,6 +10660,19 @@
       "price": 16.5,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-quel-caos-grandioso-chiamato-universo-di-guido_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-quel-caos-grandioso-chiamato-universo-di-guido.html"
+    },
+    {
+      "id": "5a2ab9ea23e12043",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 47,
+      "issueTitle": "Ultime lettere di Jacopo Ortis - Foscolo",
+      "releaseDate": "2026-09-15",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-ultime-lettere-di-jacopo-ortis-foscolo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-ultime-lettere-di-jacopo-ortis-foscolo.html"
     },
     {
       "id": "090b8708c410a824",
@@ -11156,19 +11130,6 @@
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-henri-salvator-du-guemene.html"
     },
     {
-      "id": "2e0fa3ebff32cef5",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 48,
-      "issueTitle": "Teresa Raquin - Zola",
-      "releaseDate": "2026-09-22",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-teresa-raquin-zola_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-teresa-raquin-zola.html"
-    },
-    {
       "id": "c493f2e93b3e1310",
       "seriesId": "d06c576eeebc8dc9",
       "seriesTitle": "I libri del Corriere della Sera",
@@ -11180,6 +11141,19 @@
       "price": 16.1,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-oltre-di-francesco-totti-con-alessandro-alciato_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-oltre-di-francesco-totti-con-alessandro-alciato.html"
+    },
+    {
+      "id": "2e0fa3ebff32cef5",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 48,
+      "issueTitle": "Teresa Raquin - Zola",
+      "releaseDate": "2026-09-22",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-teresa-raquin-zola_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-teresa-raquin-zola.html"
     },
     {
       "id": "f7eb6f8263ba78be",
@@ -11698,19 +11672,6 @@
       "projected": true
     },
     {
-      "id": "e03d5c86111f76e9",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "La mucca bianca e nera",
-      "releaseDate": "2026-09-29",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "f1fa47364c7f54d3",
       "seriesId": "46b5ffb81eb5bc2a",
       "seriesTitle": "Disney Topolino - Tutti pazzi per i dialetti",
@@ -11832,19 +11793,6 @@
       "projected": true
     },
     {
-      "id": "bcdf09778d3a19e8",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Rufy",
-      "releaseDate": "2026-09-30",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "9b2c7c4948244962",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -11955,6 +11903,19 @@
       "projected": true
     },
     {
+      "id": "699d9c534fb29378",
+      "seriesId": "d06c576eeebc8dc9",
+      "seriesTitle": "I libri del Corriere della Sera",
+      "category": "libri",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 1,
+      "issueTitle": "L'ora di Cuba di Carla Vitantonio",
+      "releaseDate": "2026-10-02",
+      "price": 12.6,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio.html"
+    },
+    {
       "id": "645358e076cc2b07",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
@@ -12053,6 +12014,19 @@
       "projected": true
     },
     {
+      "id": "f2fd1d356cf79fc1",
+      "seriesId": "d06c576eeebc8dc9",
+      "seriesTitle": "I libri del Corriere della Sera",
+      "category": "libri",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 3,
+      "issueTitle": "Francesco d'Assisi - La storia negata di Chiara Mercuri",
+      "releaseDate": "2026-10-03",
+      "price": 10.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-francesco-d-assisi-la-storia-negata-di-chiara_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-francesco-d-assisi-la-storia-negata-di-chiara.html"
+    },
+    {
       "id": "aedde46ca7c30fa7",
       "seriesId": "ad118cdedd7bee6e",
       "seriesTitle": "Patrimonio Artistico Italiano",
@@ -12079,58 +12053,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html",
       "projected": true
-    },
-    {
-      "id": "3fdb9b9470a5bdc3",
-      "seriesId": "ad2ece91dfb2c37a",
-      "seriesTitle": "Disney Mix Speciale",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Disney Mix Speciale 41",
-      "releaseDate": "2026-10-05",
-      "price": 6.17,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/disney-mix-speciale-41-1wdmix041sp1-it08.html"
-    },
-    {
-      "id": "1f03b2009697763c",
-      "seriesId": "5eedb9c4b9d9eed3",
-      "seriesTitle": "Paperinik",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Paperinik 118",
-      "releaseDate": "2026-10-05",
-      "price": 4.27,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WPNIK11818_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/paperinik-118-1wpnik11818-it08.html"
-    },
-    {
-      "id": "c27b74b613157b21",
-      "seriesId": "10847d519d472b26",
-      "seriesTitle": "Brividissimi",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-05",
-      "price": 4.75,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WTIME128SP_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/brividissimi-1wtime128sp-it08.html"
-    },
-    {
-      "id": "bbd9f324562906e8",
-      "seriesId": "e2fe72d2feb0c79d",
-      "seriesTitle": "The Best of Topolinia",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-05",
-      "price": 6.17,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WDIHA052_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/the-best-of-topolinia-1wdiha052-it08.html"
     },
     {
       "id": "79ea6c771d0b8730",
@@ -12397,19 +12319,6 @@
       "projected": true
     },
     {
-      "id": "779a9b15eb9e2632",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Roronoa Zoro a 9,99€",
-      "releaseDate": "2026-10-07",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "c2ea20116e069481",
       "seriesId": "0c10f3f4eeade3dd",
       "seriesTitle": "Topolino con le Carte Trevigiane di Ivan Bigarella in edicola",
@@ -12421,58 +12330,6 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-le-Carte-Trevigiane-di-Ivan-Bigarella-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-le-carte-trevigiane/"
-    },
-    {
-      "id": "f7ad829a5a646fd9",
-      "seriesId": "f4555addc9ecaaf3",
-      "seriesTitle": "Topolino",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-07",
-      "price": 9.4,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-1wtopo3698v-it08.html"
-    },
-    {
-      "id": "f420d9e157bfe8af",
-      "seriesId": "f4555addc9ecaaf3",
-      "seriesTitle": "Topolino",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Topolino 3698",
-      "releaseDate": "2026-10-07",
-      "price": 3.32,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3698-1wtopo3698-it08.html"
-    },
-    {
-      "id": "1695012abb405948",
-      "seriesId": "5a3bf245800a7b57",
-      "seriesTitle": "K-Pop Star: Vesti e Crea!",
-      "category": "riviste",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-07",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPAFR046_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/k-pop-star-vesti-e-crea-mpafr046-it08.html"
-    },
-    {
-      "id": "61a27a8263d66934",
-      "seriesId": "ba59fec42cd6ddbe",
-      "seriesTitle": "Foglie Rosse: Ultimo Atto",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-07",
-      "price": 6.17,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WSTOP010_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/foglie-rosse-ultimo-atto-1wstop010-it08.html"
     },
     {
       "id": "a83809c4648b3f94",
@@ -12556,370 +12413,6 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/09/Agenda-Enigmistica-IN-15-mesi-2026-2028-in-edicola.webp",
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-enigmistica-in/"
-    },
-    {
-      "id": "42088346bb4ee9c8",
-      "seriesId": "20b53178e4f82eeb",
-      "seriesTitle": "Tim Burton's The Nightmare Before Christmas: Brivido alla Città del Natale",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 9.5,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wnight001isbn_min_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/tim-burton-s-the-nightmare-before-christmas-brivido-alla-citt-del-natale-1wnight001isbn-it08.html"
-    },
-    {
-      "id": "18701c16ed7ea455",
-      "seriesId": "d9a96b3f788d5de3",
-      "seriesTitle": "Kindergarten Wars",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Kindergarten Wars 13",
-      "releaseDate": "2026-10-08",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCHOI040_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/kindergarten-wars-13-mchoi040-it08.html"
-    },
-    {
-      "id": "41f620755442f6f2",
-      "seriesId": "d8f1fcd483f3c27f",
-      "seriesTitle": "Hana Yori Dango Ultimate Deluxe Edition",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 14.15,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/hana-yori-dango-ultimate-deluxe-edition-mhayo007isbn-it08.html"
-    },
-    {
-      "id": "316b764bc0608e8c",
-      "seriesId": "cd4d448d2eb4176f",
-      "seriesTitle": "Yomi No Tsugai",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Yomi No Tsugai 12",
-      "releaseDate": "2026-10-08",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMRUN037_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/yomi-no-tsugai-12-mmrun037-it08.html"
-    },
-    {
-      "id": "f0fa10a135369242",
-      "seriesId": "06c571a6316cb947",
-      "seriesTitle": "Spider-Man",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Spider-Man 4",
-      "releaseDate": "2026-10-08",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHER069_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/spider-man-4-maher069-it08.html"
-    },
-    {
-      "id": "b2392e710807212c",
-      "seriesId": "708cd70609002e16",
-      "seriesTitle": "Otr of the Flame",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Otr of the Flame 2",
-      "releaseDate": "2026-10-08",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOTRF002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-2-motrf002isbn-it08.html"
-    },
-    {
-      "id": "76cf23ae0b0c71fe",
-      "seriesId": "97d2f1e57141482e",
-      "seriesTitle": "Drama Queen",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Drama Queen 3",
-      "releaseDate": "2026-10-08",
-      "price": 5.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDRAM003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/drama-queen-3-mdram003isbn-it08.html"
-    },
-    {
-      "id": "26decb1c6ecc8f38",
-      "seriesId": "2e7ac022a349be6e",
-      "seriesTitle": "Naruto Color New Edition",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Naruto Color New Edition 15",
-      "releaseDate": "2026-10-08",
-      "price": 7.5,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKENI110_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-15-mkeni110-it08.html"
-    },
-    {
-      "id": "fc676ceba2f7406a",
-      "seriesId": "8a717e8c6a4577f6",
-      "seriesTitle": "L'ascesa di Kylo Ren",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 14.25,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSWMH005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/l-ascesa-di-kylo-ren-mswmh005isbn-it08.html"
-    },
-    {
-      "id": "a18367f483e6e771",
-      "seriesId": "bc3f507a43c680dd",
-      "seriesTitle": "Check, Please!",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Check, Please! 1",
-      "releaseDate": "2026-10-08",
-      "price": 19,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCHEC001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/check-please-1-mchec001isbn-it08.html"
-    },
-    {
-      "id": "e652dcfc860265ec",
-      "seriesId": "bc3f507a43c680dd",
-      "seriesTitle": "Check, Please!",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Check, Please! 1",
-      "releaseDate": "2026-10-08",
-      "price": 19,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/check-please-1-mchec001isbnv-it08.html"
-    },
-    {
-      "id": "660f7acafb3e5f26",
-      "seriesId": "858631c0d76932e5",
-      "seriesTitle": "Ultimates",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Ultimates 3",
-      "releaseDate": "2026-10-08",
-      "price": 22.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST237ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/ultimates-3-mfrst237isbn-it08.html"
-    },
-    {
-      "id": "2123a9eee5d5e851",
-      "seriesId": "d1171e79fe74001b",
-      "seriesTitle": "Il Mortale Thor",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Il Mortale Thor 9",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTHOR325ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/il-mortale-thor-9-mthor325isbn-it08.html"
-    },
-    {
-      "id": "0ac953cd2d9a9a0a",
-      "seriesId": "6cdc32db565c2eab",
-      "seriesTitle": "L'Infernale Hulk",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "L'Infernale Hulk 6",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/H/MHUDI141ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/l-infernale-hulk-6-mhudi141isbn-it08.html"
-    },
-    {
-      "id": "22a377b760d7127c",
-      "seriesId": "9932e2290e1c829b",
-      "seriesTitle": "Fantastici Quattro",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Fantastici Quattro 9",
-      "releaseDate": "2026-10-08",
-      "price": 5.7,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFQUA478ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/fantastici-quattro-9-mfqua478isbn-it08.html"
-    },
-    {
-      "id": "e8da14e4a4eb1f94",
-      "seriesId": "be70bfdfd7de0000",
-      "seriesTitle": "Venom",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Venom 19",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/V/MVNOM113_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/venom-19-mvnom113-it08.html"
-    },
-    {
-      "id": "d0f652ba0234671f",
-      "seriesId": "9b1278ca40761c3a",
-      "seriesTitle": "Iron Man",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Iron Man 6",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/I/MIRNA155ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/iron-man-6-mirna155isbn-it08.html"
-    },
-    {
-      "id": "5de6df7bbd1856ca",
-      "seriesId": "b28533895a1048cd",
-      "seriesTitle": "Capitan America",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Capitan America 11",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCAPI198ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/capitan-america-11-mcapi198isbn-it08.html"
-    },
-    {
-      "id": "cbb84cd2cabdc281",
-      "seriesId": "502eaa1182c7c546",
-      "seriesTitle": "Avengers",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Avengers 38",
-      "releaseDate": "2026-10-08",
-      "price": 5.7,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAVES200_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-38-maves200-it08.html"
-    },
-    {
-      "id": "38a405f199b22c2e",
-      "seriesId": "610de3b9e4443742",
-      "seriesTitle": "Spectacular Spider-Man: Brand New Day",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Spectacular Spider-Man: Brand New Day 1",
-      "releaseDate": "2026-10-08",
-      "price": 5.7,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ318ISBNV2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-brand-new-day-1-mamaz318isbnv2-it08.html"
-    },
-    {
-      "id": "672ad3fbe12b8780",
-      "seriesId": "610de3b9e4443742",
-      "seriesTitle": "Spectacular Spider-Man: Brand New Day",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Spectacular Spider-Man: Brand New Day 1",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ318ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-brand-new-day-1-mamaz318isbnv1-it08.html"
-    },
-    {
-      "id": "3af394549b773933",
-      "seriesId": "610de3b9e4443742",
-      "seriesTitle": "Spectacular Spider-Man: Brand New Day",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Spectacular Spider-Man: Brand New Day 1",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ318_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-brand-new-day-1-mamaz318-it08.html"
-    },
-    {
-      "id": "198a47bc1e903274",
-      "seriesId": "3220eb05359d3c43",
-      "seriesTitle": "Teenage Mutant Ninja Turtles: Casey Jones",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 21.85,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTMNHC007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/teenage-mutant-ninja-turtles-casey-jones-mtmnhc007isbn-it08.html"
-    },
-    {
-      "id": "8beb7ce3508305fe",
-      "seriesId": "0cda82548a93e0fa",
-      "seriesTitle": "La Conjura del Male",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "La Conjura del Male 6",
-      "releaseDate": "2026-10-08",
-      "price": 4.27,
-      "imageUrl": "https://www.panini.it/media/catalog/product/m/r/mrmde039_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/la-conjura-del-male-6-mrmde039-it08.html"
-    },
-    {
-      "id": "9979a0c254f18a14",
-      "seriesId": "b7534e0650c973eb",
-      "seriesTitle": "Godzilla Contro l'Universo Marvel",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 22.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/G/MGODZ001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/godzilla-contro-l-universo-marvel-mgodz001isbn-it08.html"
-    },
-    {
-      "id": "b210a256b839799f",
-      "seriesId": "72eb0e6b8d1db90c",
-      "seriesTitle": "Teenage Mutant Ninja Turtles Deluxe",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Teenage Mutant Ninja Turtles Deluxe 10",
-      "releaseDate": "2026-10-08",
-      "price": 31.35,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTDEL012ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/teenage-mutant-ninja-turtles-deluxe-10-mtdel012isbn-it08.html"
-    },
-    {
-      "id": "e92f73b9d6ee0bd1",
-      "seriesId": "7869eec8533198ff",
-      "seriesTitle": "Daredevil",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": "Daredevil 2",
-      "releaseDate": "2026-10-08",
-      "price": 3.8,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDEMK177ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/daredevil-2-mdemk177isbn-it08.html"
-    },
-    {
-      "id": "0b7ee043dd8bad53",
-      "seriesId": "12b67c6e57fe6a8a",
-      "seriesTitle": "L'Eternauta: Il Mondo Pentito",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-08",
-      "price": 23.75,
-      "imageUrl": "https://www.panini.it/media/catalog/product/M/E/METEN006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/l-eternauta-il-mondo-pentito-meten006isbn-it08.html"
     },
     {
       "id": "5155b5b2e02a3c6d",
@@ -13046,32 +12539,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
       "projected": true
-    },
-    {
-      "id": "34b3b23cab246bda",
-      "seriesId": "a2ed6cf64e1dbd9d",
-      "seriesTitle": "Paperino Superstar: Paperino e Qui Quo Qua",
-      "category": "riviste",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-09",
-      "price": 4.65,
-      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WPIUD128_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/paperino-superstar-paperino-e-qui-quo-qua-1wpiud128-it08.html"
-    },
-    {
-      "id": "69fd4308e0c4055b",
-      "seriesId": "1fecd6935075b141",
-      "seriesTitle": "Paperopoli allo Specchio",
-      "category": "fumetti",
-      "publisher": "Panini",
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-09",
-      "price": 4.65,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/paperopoli-allo-specchio-1wclas555-it08.html"
     },
     {
       "id": "cfc86ad9aa2daa85",
@@ -13282,19 +12749,6 @@
       "projected": true
     },
     {
-      "id": "7a02e27da7fcc54f",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Asino",
-      "releaseDate": "2026-10-13",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "c93c9ceba20d337a",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -13349,19 +12803,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "4942713a42029ccf",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Nami a 9,99€",
-      "releaseDate": "2026-10-14",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "8f57b1552140987e",
@@ -14565,19 +14006,6 @@
       "projected": true
     },
     {
-      "id": "d99a11626fb721d9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Usop a 9,99€",
-      "releaseDate": "2026-10-21",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "f27389f38a733758",
       "seriesId": "2d714c0ec6300afe",
       "seriesTitle": "Topolino 3700 con i Dadi da Gioco di Wizards of Mickey",
@@ -15394,6 +14822,19 @@
       "projected": true
     },
     {
+      "id": "da842efd2c07edc1",
+      "seriesId": "afa47d61ae62f0e5",
+      "seriesTitle": "Calciatori Panini 2026-2027",
+      "category": "collezionabili",
+      "publisher": "Panini S.p.A.",
+      "issueNumber": 2,
+      "issueTitle": "Pack Pencil Tin (4 pezzi)",
+      "releaseDate": "2026-10-23",
+      "price": 60,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/calciatori-panini-2026-2027-pack-pencil-tin-4-pezzi_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2026-2027-pack-pencil-tin-4-pezzi.html"
+    },
+    {
       "id": "dec6ea20cb6d1e5b",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
@@ -15616,19 +15057,6 @@
       "projected": true
     },
     {
-      "id": "12c91bb845eb9463",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Toro nero",
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "b483f3de315134ae",
       "seriesId": "d4d810c1e5188608",
       "seriesTitle": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
@@ -15709,19 +15137,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "8a78afdbc773198e",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sanji a 9,99€",
-      "releaseDate": "2026-10-28",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "b0d8669074890941",
@@ -17012,19 +16427,6 @@
       "projected": true
     },
     {
-      "id": "2e6360146fbeaa5d",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tony Tony Chopper a 9,99€",
-      "releaseDate": "2026-11-04",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "cdb818bf2312c7d7",
       "seriesId": "7ffb1550efac8648",
       "seriesTitle": "Topolino 3702 con Pencil Tin Calciatori 2026-2027",
@@ -17373,19 +16775,6 @@
       "projected": true
     },
     {
-      "id": "193a152db053469c",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Cavallo marrone",
-      "releaseDate": "2026-11-10",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "21b66e7cf52ac72b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17440,19 +16829,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "132b11dc7a4361a1",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Nico Robin a 9,99€",
-      "releaseDate": "2026-11-11",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "b71f46b67678e4dd",
@@ -17819,19 +17195,6 @@
       "projected": true
     },
     {
-      "id": "06150b4186b1b3e9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Franky a 9,99€",
-      "releaseDate": "2026-11-18",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "3f0ffa5b020494e0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -18154,19 +17517,6 @@
       "projected": true
     },
     {
-      "id": "fd8ed03f70f6be6a",
-      "seriesId": "3febae071f11703b",
-      "seriesTitle": "Collezione Gli animali della fattoria: divertiti e impara con Celestino e Celestina",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Cane con osso + cuccia",
-      "releaseDate": "2026-11-24",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Collezione-Gli-animali-della-fattoria-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-gli-animali-della-fattoria/"
-    },
-    {
       "id": "1b22ce5c5d9a773f",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18221,19 +17571,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "7cd50f0d8c275ca4",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Brook a 9,99€",
-      "releaseDate": "2026-11-25",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "7cad142acbc9774e",
@@ -18586,19 +17923,6 @@
       "projected": true
     },
     {
-      "id": "e778bf72f40fe7f9",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Jinbe a 9,99€",
-      "releaseDate": "2026-12-02",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "7dd149e573f64ef0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -18947,19 +18271,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "1a2e61b79389fb98",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Shanks a 9,99€",
-      "releaseDate": "2026-12-09",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "5e5c4d3c3dae4482",
@@ -19312,19 +18623,6 @@
       "projected": true
     },
     {
-      "id": "55eee9e41312ada7",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Marshall D. Teach a 9,99€",
-      "releaseDate": "2026-12-16",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "b02c41262151127a",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -19659,19 +18957,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "79f40d3d2b218a14",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Bagy a 9,99€",
-      "releaseDate": "2026-12-23",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "23aedec0f20355d2",
@@ -20010,19 +19295,6 @@
       "projected": true
     },
     {
-      "id": "4705481c0357993c",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Rufy (Gear 5) a 9,99€",
-      "releaseDate": "2026-12-30",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "422dd39c5f179f73",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -20343,19 +19615,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html",
       "projected": true
-    },
-    {
-      "id": "361fb27db2351216",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Trafalgar Law a 9,99€",
-      "releaseDate": "2027-01-06",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
     },
     {
       "id": "2a43b79293fede02",
@@ -20694,19 +19953,6 @@
       "projected": true
     },
     {
-      "id": "54603ed3b6f57e44",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sabo a 9,99€",
-      "releaseDate": "2027-01-13",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "1710e9226d1bbcf0",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -21029,19 +20275,6 @@
       "projected": true
     },
     {
-      "id": "be7fb7278ede2919",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Kobby a 9,99€",
-      "releaseDate": "2027-01-20",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "cef120f5dc4464fc",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -21350,19 +20583,6 @@
       "projected": true
     },
     {
-      "id": "8bf9d5faf4c5a71f",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Eustass Kid a 9,99€",
-      "releaseDate": "2027-01-27",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
-    },
-    {
       "id": "bc03c594c661b5ea",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -21531,30 +20751,74 @@
       "projected": true
     },
     {
-      "id": "e41ee497c1508668",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Boa Hancock a 9,99€",
-      "releaseDate": "2027-02-03",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
+      "id": "ea1d71c798018289",
+      "seriesId": "421150e964a096d2",
+      "seriesTitle": "KRIMINAL ANASTATICA",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 58,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
     },
     {
-      "id": "6ac29e7cc0233c6e",
-      "seriesId": "2a32a45f52849745",
-      "seriesTitle": "One Piece Plexies Collection: i personaggi 2D in acrilico arrivano in edicola",
-      "category": "figures",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Monkey D. Garp a 9,99€",
-      "releaseDate": "2027-02-10",
+      "id": "6704793317fb73d1",
+      "seriesId": "b418f679ababd91e",
+      "seriesTitle": "Il Grande Blek - Le Strisce",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 143,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack3d-strisceblek_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-strisce-blek-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1052cbb0ad42fb82",
+      "seriesId": "845755ca7eae00fb",
+      "seriesTitle": "Le strisce di TEX",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 278,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
+      "price": 5.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/le-strisce-di-tex.jpg",
+      "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html",
+      "projected": true
+    },
+    {
+      "id": "95bb7ceb7e8c80ad",
+      "seriesId": "ee139ad7a01e088c",
+      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 88,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "f08e5757fb0aeb59",
+      "seriesId": "629ce9251da11bc1",
+      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 69,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
       "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/One-Piece-Plexies-Collection-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/one-piece-plexies-collection/"
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
     }
   ]
 }
