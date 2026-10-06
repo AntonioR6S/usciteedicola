@@ -45,6 +45,15 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-speciale-giornata-nazionale-dialetti-collana.html"
   },
   {
+    "id": "6db1fb5bbddc1595",
+    "title": "Disney Almanacco Topolino",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/l/almanacco_topolino_cover.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/almanacco-topolino-collana.html"
+  },
+  {
     "id": "887a38357bfce808",
     "title": "Disney Topolino presenta I fermalibri di Topolino",
     "category": "fumetti",
@@ -97,15 +106,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-topolino-mondiali-def_risultato.jpg",
     "totalIssues": 5,
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-i-mondiali-topolino-collana.html"
-  },
-  {
-    "id": "6db1fb5bbddc1595",
-    "title": "Disney Almanacco Topolino",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/a/l/almanacco_topolino_cover.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/almanacco-topolino-collana.html"
   },
   {
     "id": "9dd07a57714416d6",
@@ -450,15 +450,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "31feda9dcd7581b7",
-    "title": "Auto da corsa in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
-  },
-  {
     "id": "5b10f675b22b4cde",
     "title": "Rally 1:64 Official Collection",
     "category": "modellini",
@@ -466,6 +457,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
+  },
+  {
+    "id": "31feda9dcd7581b7",
+    "title": "Auto da corsa in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
@@ -970,24 +970,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/w/e/web_topipittori_primaedicola_1600_x_1600_risultato.jpg",
     "totalIssues": 40,
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
-  },
-  {
-    "id": "e3bd7a179a5fddfc",
-    "title": "Oggi con Lord & Berry: matite, matitoni e rossetti in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Oggi-con-Lord-Berry-matite-matitoni-e-rossetti-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-lord-berry/"
-  },
-  {
-    "id": "9d8a51f8b20aa784",
-    "title": "Uomini e Donne con orologio dell’amore in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Uomini-e-Donne-con-orologio-dellamore-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-orologio/"
   },
   {
     "id": "33afce4aec31a29b",
@@ -1530,15 +1512,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/x-men-di-apocalisse-mnowi387isbn-it08.html"
   },
   {
-    "id": "8a81da7db04c5235",
-    "title": "Dottor Destino Di Christopher Cantwell & Salvador Larroca",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MADEV122ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dottor-destino-di-christopher-cantwell-salvador-larroca-madev122isbn-it08.html"
-  },
-  {
     "id": "ad2ece91dfb2c37a",
     "title": "Disney Mix Speciale",
     "category": "fumetti",
@@ -1924,15 +1897,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-marts011isbn-it08.html"
-  },
-  {
-    "id": "7bad8cd64d79b4c6",
-    "title": "Marvel Masteworks Iron Man",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMASW077ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-masteworks-iron-man-17-mmasw077isbn-it08.html"
   },
   {
     "id": "c48141e4b31889b1",
