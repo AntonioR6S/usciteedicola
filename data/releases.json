@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:01:59.820Z",
+  "generatedAt": "2026-10-11T11:19:03.000Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3421,32 +3421,6 @@
       "sourceUrl": "https://www.primaedicola.it/albumini-ed-2025-lucy-l-oca.html"
     },
     {
-      "id": "19afad9110edd9f8",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 118,
-      "issueTitle": "ASTON MARTIN AMR24 - Fernando Alonso 2024",
-      "releaseDate": "2026-04-18",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-aston-martin-amr24-fernando-alonso-2024_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-aston-martin-amr24-fernando-alonso-2024.html"
-    },
-    {
-      "id": "9fd6d221c3359185",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 4,
-      "issueTitle": "Mclaren MCL38 - 2024 - Lando Norris",
-      "releaseDate": "2026-04-18",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl38-2024-lando-norris_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl38-2024-lando-norris.html"
-    },
-    {
       "id": "4ca83be49d8733e3",
       "seriesId": "1840cb675b9deac2",
       "seriesTitle": "24h Le Mans Collection",
@@ -3458,19 +3432,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/2/4/24h-le-mans-collection-alpine-a442-1977_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/24h-le-mans-collection-alpine-a442-1977.html"
-    },
-    {
-      "id": "80ad7fc7815dbb26",
-      "seriesId": "d918b2ceb0d69f9f",
-      "seriesTitle": "Harry Potter – The Collection",
-      "category": "figures",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 9,
-      "issueTitle": "Rubeus Hagrid",
-      "releaseDate": "2026-04-18",
-      "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-rubeus-hagrid_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-rubeus-hagrid.html"
     },
     {
       "id": "95849e60d6e6d7a3",
@@ -4240,6 +4201,19 @@
       "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-blind-pack.html"
     },
     {
+      "id": "1bde0611650121cc",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 120,
+      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
+      "releaseDate": "2026-05-21",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
+    },
+    {
       "id": "b8e76c7e23f23f3a",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -4277,19 +4251,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/m/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000.html"
-    },
-    {
-      "id": "1bde0611650121cc",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 120,
-      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
-      "releaseDate": "2026-05-21",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
     },
     {
       "id": "74f5e3c003a04368",
@@ -4474,32 +4435,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
-      "id": "6497a5a674430c3e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 88,
-      "issueTitle": "Porsche 962C - 1988",
-      "releaseDate": "2026-05-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
-    },
-    {
-      "id": "01c69e4c1cc674b3",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 87,
-      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
-      "releaseDate": "2026-05-30",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
-    },
-    {
       "id": "bd3fd41f6f8f0dd8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -4524,6 +4459,32 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton.html"
+    },
+    {
+      "id": "6497a5a674430c3e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 88,
+      "issueTitle": "Porsche 962C - 1988",
+      "releaseDate": "2026-05-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
+    },
+    {
+      "id": "01c69e4c1cc674b3",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 87,
+      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
+      "releaseDate": "2026-05-30",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -5748,19 +5709,6 @@
       "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-remus-lupin.html"
     },
     {
-      "id": "90a95a5c170a77f7",
-      "seriesId": "f53fedda02687512",
-      "seriesTitle": "Giornalismo d'inchiesta",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 18,
-      "issueTitle": "Il futuro è storia - Masha Gessen",
-      "releaseDate": "2026-07-11",
-      "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-il-futuro-e-storia-masha-gessen_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-il-futuro-e-storia-masha-gessen.html"
-    },
-    {
       "id": "30269b72a401991a",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -5878,19 +5826,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-testamento-di-lenin-storia-segreta-di-una.html"
     },
     {
-      "id": "5d8da3984d8e8512",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 43,
-      "issueTitle": "Franco il gallo",
-      "releaseDate": "2026-07-14",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-franco-il-gallo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-franco-il-gallo.html"
-    },
-    {
       "id": "6f86b1ff5caa4a4b",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -5902,6 +5837,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-gatto-randagio.html"
+    },
+    {
+      "id": "5d8da3984d8e8512",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 43,
+      "issueTitle": "Franco il gallo",
+      "releaseDate": "2026-07-14",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-franco-il-gallo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-franco-il-gallo.html"
     },
     {
       "id": "e2b296a23350317c",
@@ -6229,6 +6177,19 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico.html"
     },
     {
+      "id": "bd73851965f1af5e",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 124,
+      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
+      "releaseDate": "2026-07-18",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
+    },
+    {
       "id": "e4f24dbf7eacf400",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
@@ -6279,19 +6240,6 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953.html"
-    },
-    {
-      "id": "bd73851965f1af5e",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 124,
-      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
-      "releaseDate": "2026-07-18",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -6450,19 +6398,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-presente-come-storia-perche-il-passato-ci.html"
     },
     {
-      "id": "f0bafba459e1056a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 44,
-      "issueTitle": "I granchietti e il mare",
-      "releaseDate": "2026-07-21",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-i-granchietti-e-il-mare_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
-    },
-    {
       "id": "acdf95ef814bab81",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -6474,6 +6409,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
+    },
+    {
+      "id": "f0bafba459e1056a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 44,
+      "issueTitle": "I granchietti e il mare",
+      "releaseDate": "2026-07-21",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-i-granchietti-e-il-mare_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
     },
     {
       "id": "f75d3bab2053b7d8",
@@ -6710,19 +6658,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-junior-numero-35-portafoglio-di-topolino.html"
     },
     {
-      "id": "f6d053bc4e9d59ff",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 93,
-      "issueTitle": "Porsche 718 RSK - 1958",
-      "releaseDate": "2026-07-25",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
-    },
-    {
       "id": "37a75d9dee2fbe24",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -6747,6 +6682,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc.html"
+    },
+    {
+      "id": "f6d053bc4e9d59ff",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 93,
+      "issueTitle": "Porsche 718 RSK - 1958",
+      "releaseDate": "2026-07-25",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
     },
     {
       "id": "26fc51705c787f62",
@@ -6905,19 +6853,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-tucidide-e-il-colpo-di-stato.html"
     },
     {
-      "id": "23e13601eed383b8",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 45,
-      "issueTitle": "Una guancia è perfetta",
-      "releaseDate": "2026-07-28",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
-    },
-    {
       "id": "38b8fcdfc16297c5",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -6929,6 +6864,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
+    },
+    {
+      "id": "23e13601eed383b8",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 45,
+      "issueTitle": "Una guancia è perfetta",
+      "releaseDate": "2026-07-28",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
     },
     {
       "id": "e4c2e47abe645d22",
@@ -7347,19 +7295,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-le-vie-del-classicismo.html"
     },
     {
-      "id": "50ecba8227f87088",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 46,
-      "issueTitle": "Polifemo e i gattini",
-      "releaseDate": "2026-08-04",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
-    },
-    {
       "id": "8586544a3b21d0ed",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -7371,6 +7306,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
+    },
+    {
+      "id": "50ecba8227f87088",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 46,
+      "issueTitle": "Polifemo e i gattini",
+      "releaseDate": "2026-08-04",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
     },
     {
       "id": "4703698d9799ba6f",
@@ -7802,19 +7750,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-classicismo-e-liberta.html"
     },
     {
-      "id": "206fa0dc3bc8a7ce",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 47,
-      "issueTitle": "L'isola deserta",
-      "releaseDate": "2026-08-11",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
-    },
-    {
       "id": "5e9dca15e97e6c77",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -7826,6 +7761,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
+    },
+    {
+      "id": "206fa0dc3bc8a7ce",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 47,
+      "issueTitle": "L'isola deserta",
+      "releaseDate": "2026-08-11",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
     },
     {
       "id": "720825ac9dd37411",
@@ -8270,19 +8218,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-crisi-dell-utopia.html"
     },
     {
-      "id": "05380f107eba2da7",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 48,
-      "issueTitle": "E' il treno",
-      "releaseDate": "2026-08-18",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
-    },
-    {
       "id": "5c58905b820d6fb1",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -8294,6 +8229,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
+    },
+    {
+      "id": "05380f107eba2da7",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 48,
+      "issueTitle": "E' il treno",
+      "releaseDate": "2026-08-18",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
     },
     {
       "id": "0f8e234197e7caf7",
@@ -8699,19 +8647,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-ideologie-del-classicismo.html"
     },
     {
-      "id": "5a58c9fd4a1c8906",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 49,
-      "issueTitle": "Marta e Paolino e zio Ugo",
-      "releaseDate": "2026-08-25",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
-    },
-    {
       "id": "2e152bd4a8834312",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -8723,6 +8658,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
+    },
+    {
+      "id": "5a58c9fd4a1c8906",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 49,
+      "issueTitle": "Marta e Paolino e zio Ugo",
+      "releaseDate": "2026-08-25",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
     },
     {
       "id": "de077d5fd4a6f550",
@@ -9206,19 +9154,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-viaggio-di-artemidoro.html"
     },
     {
-      "id": "4b3bbdabe04b1f60",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 50,
-      "issueTitle": "La scala senza pioli",
-      "releaseDate": "2026-09-01",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
-    },
-    {
       "id": "8a8154d8406a7e39",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -9230,6 +9165,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
+    },
+    {
+      "id": "4b3bbdabe04b1f60",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 50,
+      "issueTitle": "La scala senza pioli",
+      "releaseDate": "2026-09-01",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
     },
     {
       "id": "ae4c263bf5cfac72",
@@ -9739,19 +9687,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-lezioni-di-filologia-classica.html"
     },
     {
-      "id": "1e07d748d103593c",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 51,
-      "issueTitle": "Re Giovanni e la luna",
-      "releaseDate": "2026-09-08",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
-    },
-    {
       "id": "c61ab34d590441e9",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -9763,6 +9698,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
+    },
+    {
+      "id": "1e07d748d103593c",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 51,
+      "issueTitle": "Re Giovanni e la luna",
+      "releaseDate": "2026-09-08",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
     },
     {
       "id": "01c9a254101e2a0c",
@@ -10272,19 +10220,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-porcospino-d-acciaio.html"
     },
     {
-      "id": "e08b248f367025e5",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 52,
-      "issueTitle": "Allegra, il pranzo e il coccodrillo",
-      "releaseDate": "2026-09-15",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-allegra-il-pranzo-e-il-coccodrillo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
-    },
-    {
       "id": "01a117202fbe5eb2",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -10296,6 +10231,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
+    },
+    {
+      "id": "e08b248f367025e5",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 52,
+      "issueTitle": "Allegra, il pranzo e il coccodrillo",
+      "releaseDate": "2026-09-15",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-allegra-il-pranzo-e-il-coccodrillo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
     },
     {
       "id": "8babaef1ba9f9417",
@@ -10753,19 +10701,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-sovranita-limitata.html"
     },
     {
-      "id": "e6ef48de5c9fc37a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 53,
-      "issueTitle": "La palla",
-      "releaseDate": "2026-09-22",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
-    },
-    {
       "id": "d0094ac32ff95f10",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -10777,6 +10712,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-corsa-delle-tartarughe_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-corsa-delle-tartarughe.html"
+    },
+    {
+      "id": "e6ef48de5c9fc37a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 53,
+      "issueTitle": "La palla",
+      "releaseDate": "2026-09-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
     },
     {
       "id": "7d51bba30c97f771",
@@ -11247,19 +11195,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-scopa-di-don-abbondio.html"
     },
     {
-      "id": "08f765d6f1a98d59",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 54,
-      "issueTitle": "Il corvo sul filo del bucato",
-      "releaseDate": "2026-09-29",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-il-corvo-sul-filo-del-bucato_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-il-corvo-sul-filo-del-bucato.html"
-    },
-    {
       "id": "bed05e66a98f1e66",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -11271,6 +11206,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-orso-pescatore_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-orso-pescatore.html"
+    },
+    {
+      "id": "08f765d6f1a98d59",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 54,
+      "issueTitle": "Il corvo sul filo del bucato",
+      "releaseDate": "2026-09-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-il-corvo-sul-filo-del-bucato_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-il-corvo-sul-filo-del-bucato.html"
     },
     {
       "id": "f1fa47364c7f54d3",
@@ -11534,74 +11482,69 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-fratellino-e-sorellina.html"
     },
     {
-      "id": "e029a61c1ca7baba",
+      "id": "b1f3cd55af719c17",
       "seriesId": "a43220cf6032d7b7",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 4,
-      "issueTitle": null,
+      "issueTitle": "Alfa Romeo 33/3  - 1969",
       "releaseDate": "2026-10-03",
       "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-33-3-1969_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-33-3-1969.html"
     },
     {
-      "id": "e0aa138676aea949",
+      "id": "07856e9aebe1182e",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 130,
-      "issueTitle": null,
+      "issueTitle": "HONDA RA300 - John Surtees - 1967",
       "releaseDate": "2026-10-03",
       "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/leggendarieautodacorsa-pack3d-v2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-honda-ra300-john-surtees-1967_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-honda-ra300-john-surtees-1967.html"
     },
     {
-      "id": "c0b0876c52b6e99b",
+      "id": "e830c0be6f7be780",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 4,
-      "issueTitle": null,
+      "issueTitle": "FIAT 131 ABARTH - Rally de Portugal 1978 (M. Alén -I. Kivimäki)",
       "releaseDate": "2026-10-03",
       "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen.html"
     },
     {
-      "id": "483a0461544782fe",
+      "id": "2e8743f1b36cb9a4",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 16,
-      "issueTitle": null,
+      "issueTitle": "Sauber C37 - 2018 - Charles Leclerc",
       "releaseDate": "2026-10-03",
       "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc.html"
     },
     {
-      "id": "1dc7135383955bd7",
+      "id": "956aa3d7b37dff49",
       "seriesId": "d918b2ceb0d69f9f",
       "seriesTitle": "Harry Potter – The Collection",
       "category": "figures",
       "publisher": "RCS MediaGroup",
       "issueNumber": 21,
-      "issueTitle": null,
+      "issueTitle": "Fred Weasley",
       "releaseDate": "2026-10-03",
       "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-fred-weasley_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-fred-weasley.html"
     },
     {
       "id": "f2fd1d356cf79fc1",
@@ -11617,32 +11560,30 @@
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-francesco-d-assisi-la-storia-negata-di-chiara.html"
     },
     {
-      "id": "aedde46ca7c30fa7",
+      "id": "7edd67d902423429",
       "seriesId": "ad118cdedd7bee6e",
       "seriesTitle": "Patrimonio Artistico Italiano",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 6,
-      "issueTitle": null,
+      "issueTitle": "La Venezia di Tiziano, Tintoretto, Veronese e Palladio",
       "releaseDate": "2026-10-03",
       "price": 12.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/a/patrimonio-artistico-italiano-la-venezia-di-tiziano-tintoretto-veronese-e_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-la-venezia-di-tiziano-tintoretto-veronese-e.html"
     },
     {
-      "id": "3b834a31db481f42",
+      "id": "8ff991d6ab17aa60",
       "seriesId": "f53fedda02687512",
       "seriesTitle": "Giornalismo d'inchiesta",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 30,
-      "issueTitle": null,
+      "issueTitle": "Putin storico in capo - Nicolas Werth",
       "releaseDate": "2026-10-03",
       "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-putin-storico-in-capo-nicolas-werth_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-putin-storico-in-capo-nicolas-werth.html"
     },
     {
       "id": "79ea6c771d0b8730",
@@ -11783,20 +11724,6 @@
       "projected": true
     },
     {
-      "id": "796f62d6d8961156",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 55,
-      "issueTitle": null,
-      "releaseDate": "2026-10-06",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "d8ab6ea55129a236",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -11808,6 +11735,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "796f62d6d8961156",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2026-10-06",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -12309,20 +12250,6 @@
       "projected": true
     },
     {
-      "id": "6a661d261a13e795",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 56,
-      "issueTitle": null,
-      "releaseDate": "2026-10-13",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "450d892c03efb2a1",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -12334,6 +12261,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "6a661d261a13e795",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 56,
+      "issueTitle": null,
+      "releaseDate": "2026-10-13",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -13495,20 +13436,6 @@
       "projected": true
     },
     {
-      "id": "4870d010f112c124",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 57,
-      "issueTitle": null,
-      "releaseDate": "2026-10-20",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "5c5ade9b353cdc57",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -13520,6 +13447,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4870d010f112c124",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 57,
+      "issueTitle": null,
+      "releaseDate": "2026-10-20",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -14669,20 +14610,6 @@
       "projected": true
     },
     {
-      "id": "0100176df13f3f2a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 58,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "fe69e20a24f0da41",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -14694,6 +14621,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "0100176df13f3f2a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 58,
+      "issueTitle": null,
+      "releaseDate": "2026-10-27",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -15942,20 +15883,6 @@
       "projected": true
     },
     {
-      "id": "49180c9936715e57",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 59,
-      "issueTitle": null,
-      "releaseDate": "2026-11-03",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "96422fddf901186d",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -15967,6 +15894,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "49180c9936715e57",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 59,
+      "issueTitle": null,
+      "releaseDate": "2026-11-03",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -16647,20 +16588,6 @@
       "projected": true
     },
     {
-      "id": "4dac1c589aba5947",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 60,
-      "issueTitle": null,
-      "releaseDate": "2026-11-10",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "97b7c2ee16bbfa31",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -16672,6 +16599,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4dac1c589aba5947",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 60,
+      "issueTitle": null,
+      "releaseDate": "2026-11-10",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -16983,20 +16924,6 @@
       "projected": true
     },
     {
-      "id": "ba7d55e99e6450cf",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 61,
-      "issueTitle": null,
-      "releaseDate": "2026-11-17",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "b4051dd975beebed",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17008,6 +16935,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ba7d55e99e6450cf",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 61,
+      "issueTitle": null,
+      "releaseDate": "2026-11-17",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -17389,20 +17330,6 @@
       "projected": true
     },
     {
-      "id": "506e187403896358",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 62,
-      "issueTitle": null,
-      "releaseDate": "2026-11-24",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "508b47febee65de5",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17414,6 +17341,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "506e187403896358",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 62,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -17711,20 +17652,6 @@
       "projected": true
     },
     {
-      "id": "969e184c47dd448b",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 63,
-      "issueTitle": null,
-      "releaseDate": "2026-12-01",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "b1028e3d303bf75c",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17736,6 +17663,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "969e184c47dd448b",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 63,
+      "issueTitle": null,
+      "releaseDate": "2026-12-01",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18089,20 +18030,6 @@
       "projected": true
     },
     {
-      "id": "d2f26f70656823ff",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 64,
-      "issueTitle": null,
-      "releaseDate": "2026-12-08",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "ac90f290ab3d28be",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -18114,6 +18041,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d2f26f70656823ff",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 64,
+      "issueTitle": null,
+      "releaseDate": "2026-12-08",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18411,20 +18352,6 @@
       "projected": true
     },
     {
-      "id": "1fa60d0279ab48a3",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 65,
-      "issueTitle": null,
-      "releaseDate": "2026-12-15",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "1697d7b92293b255",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -18436,6 +18363,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1fa60d0279ab48a3",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 65,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18775,20 +18716,6 @@
       "projected": true
     },
     {
-      "id": "835a07a1b0d529d4",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 66,
-      "issueTitle": null,
-      "releaseDate": "2026-12-22",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "3d77de29db9361e2",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -18800,6 +18727,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "835a07a1b0d529d4",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 66,
+      "issueTitle": null,
+      "releaseDate": "2026-12-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -19083,20 +19024,6 @@
       "projected": true
     },
     {
-      "id": "9d752d45c73c02c7",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 67,
-      "issueTitle": null,
-      "releaseDate": "2026-12-29",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "9e258de4a51c37ce",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -19108,6 +19035,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9d752d45c73c02c7",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 67,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -19433,20 +19374,6 @@
       "projected": true
     },
     {
-      "id": "48e542949fb0a001",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 68,
-      "issueTitle": null,
-      "releaseDate": "2027-01-05",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "460bcadc02cdb345",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -19458,6 +19385,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "48e542949fb0a001",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 68,
+      "issueTitle": null,
+      "releaseDate": "2027-01-05",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -19741,20 +19682,6 @@
       "projected": true
     },
     {
-      "id": "d6d42c13f95997de",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 69,
-      "issueTitle": null,
-      "releaseDate": "2027-01-12",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "d031b31d529f3c39",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -19766,6 +19693,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d6d42c13f95997de",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 69,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -20091,20 +20032,6 @@
       "projected": true
     },
     {
-      "id": "228b7874be55ecf2",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 70,
-      "issueTitle": null,
-      "releaseDate": "2027-01-19",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "6d41775681a1a297",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -20116,6 +20043,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "228b7874be55ecf2",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 70,
+      "issueTitle": null,
+      "releaseDate": "2027-01-19",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
