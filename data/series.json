@@ -234,6 +234,15 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
+    "id": "a65bfc5b22263677",
+    "title": "Paperinik",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wsudi067f_0.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/paperinik-collana.html"
+  },
+  {
     "id": "ec0e992ad86159f7",
     "title": "Alan Ford Anastatica",
     "category": "fumetti",
@@ -286,15 +295,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
-  },
-  {
-    "id": "a65bfc5b22263677",
-    "title": "Paperinik",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wsudi067f_0.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/paperinik-collana.html"
   },
   {
     "id": "1b9f05885662c613",
@@ -963,6 +963,15 @@
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-mascara-e-eyeliner-rougj/"
   },
   {
+    "id": "d6a5df4424687946",
+    "title": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
+    "category": "collezionabili",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
+  },
+  {
     "id": "4d8037c4f69449f6",
     "title": "Amica con mascara Face D Black Volume in edicola",
     "category": "riviste",
@@ -970,6 +979,15 @@
     "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
     "totalIssues": null,
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
+  },
+  {
+    "id": "853780fa701cfe3c",
+    "title": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
+    "category": "collezionabili",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
   },
   {
     "id": "d4d810c1e5188608",
@@ -1015,6 +1033,24 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/disney-big-223-1wdbig223-it08.html"
+  },
+  {
+    "id": "c7515109f6738388",
+    "title": "Hot Wheels",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/m/h/mhotw025box_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/hot-wheels-mhotw025box-it08.html"
+  },
+  {
+    "id": "1784871c43ea0437",
+    "title": "Sonic Attacca & Colora",
+    "category": "riviste",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/sonic-attacca-colora-mpapo025-it08.html"
   },
   {
     "id": "2d714c0ec6300afe",
@@ -1431,24 +1467,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-marts011isbn-it08.html"
   },
   {
-    "id": "c48141e4b31889b1",
-    "title": "Il Famigerato Iron Man",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/il-famigerato-iron-man-madev123isbn-it08.html"
-  },
-  {
-    "id": "fbeea6adf50b392b",
-    "title": "Dc Omnibus Knight Terrors",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1OMNI082ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-omnibus-knight-terrors-m1omni082isbn-it08.html"
-  },
-  {
     "id": "fee0738159e8d5ba",
     "title": "Le Mitiche Storie di Jerry Siegel",
     "category": "fumetti",
@@ -1737,15 +1755,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/jupiter-s-legacy-1-mkkpo008isbn-it08.html"
   },
   {
-    "id": "443ce26551a7a911",
-    "title": "The Magic Order",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKKPO007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/the-magic-order-1-mkkpo007isbn-it08.html"
-  },
-  {
     "id": "621b22e8b3950d71",
     "title": "Asterix Pocket",
     "category": "fumetti",
@@ -1827,15 +1836,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/supergirl-2-m1hcin205isbn-it08.html"
   },
   {
-    "id": "6f746e472c3f3ba7",
-    "title": "Dc: Speciale Halloween",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BMSK006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-speciale-halloween-2026-m1bmsk006isbn-it08.html"
-  },
-  {
     "id": "0ec23d330c8568ee",
     "title": "The urban Heroes Marvel Art Of Marco Checchetto",
     "category": "fumetti",
@@ -1863,24 +1863,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-facsimile-edition-swamp-thing-37-m1facs025isbn-it08.html"
   },
   {
-    "id": "f67b861b43b1fa32",
-    "title": "Absolute Lanterna Verde  Vol. 1",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-lanterna-verde-vol-1-1-m1abhc005isbn-it08.html"
-  },
-  {
-    "id": "efdf260399af8b08",
-    "title": "Absolute Flash vol.1",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-vol-1-1-m1abhc004isbn-it08.html"
-  },
-  {
     "id": "2e763fa472f53100",
     "title": "Absolute Freccia Verde",
     "category": "fumetti",
@@ -1888,33 +1870,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFV001ISBNV2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-m1abfv001isbnv2-it08.html"
-  },
-  {
-    "id": "eacacb18b0623593",
-    "title": "DC/Marvel: Il Chiacchierone Oscuro e Altre Storie",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-chiacchierone-oscuro-e-altre-storie-m1cros002isbn-it08.html"
-  },
-  {
-    "id": "b35b7145909243a7",
-    "title": "DC/Marvel: Il Mistero Del Bacio Cosmico e Altre Storie",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1CROS001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-mistero-del-bacio-cosmico-e-altre-storie-m1cros001isbn-it08.html"
-  },
-  {
-    "id": "090649fc45c9b824",
-    "title": "Batman Il Cavaliere III: La Razza Suprema",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1POCK038ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/batman-il-cavaliere-iii-la-razza-suprema-m1pock038isbn-it08.html"
   },
   {
     "id": "6535fe8819f5dcdd",
@@ -1971,24 +1926,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/pk-omnibus-7-1womni007isbn-it08.html"
   },
   {
-    "id": "7f1cfa1d99ab7db4",
-    "title": "Dc Omnibus Dr. Fate Di J.M Dematteis",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1OMNI083ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-omnibus-dr-fate-di-j-m-dematteis-m1omni083isbn-it08.html"
-  },
-  {
-    "id": "4841a0b04d7a35a5",
-    "title": "Dc Absolute Crisi Finale",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABSO069ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-absolute-crisi-finale-m1abso069isbn-it08.html"
-  },
-  {
     "id": "3696186cb1344eaf",
     "title": "Paperino",
     "category": "fumetti",
@@ -1996,6 +1933,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WPAPE557_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/paperino-557-1wpape557-it08.html"
+  },
+  {
+    "id": "322e129c1e74df26",
+    "title": "Il Mio Primo Giornalino Dei Pokèmon",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRIP016_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/il-mio-primo-giornalino-dei-pok-mon-mprip016-it08.html"
   },
   {
     "id": "7ffb1550efac8648",
@@ -2151,6 +2097,33 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/spider-man-meals-to-astonish-mmeal001isbn-it08.html"
   },
   {
+    "id": "f67b861b43b1fa32",
+    "title": "Absolute Lanterna Verde  Vol. 1",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-lanterna-verde-vol-1-1-m1abhc005isbn-it08.html"
+  },
+  {
+    "id": "efdf260399af8b08",
+    "title": "Absolute Flash vol.1",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-vol-1-1-m1abhc004isbn-it08.html"
+  },
+  {
+    "id": "eacacb18b0623593",
+    "title": "DC/Marvel: Il Chiacchierone Oscuro e Altre Storie",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-chiacchierone-oscuro-e-altre-storie-m1cros002isbn-it08.html"
+  },
+  {
     "id": "93dd39d983debcd0",
     "title": "Absolute Batman Vol. 2",
     "category": "fumetti",
@@ -2158,6 +2131,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-batman-vol-2-2-m1abhc006isbn-it08.html"
+  },
+  {
+    "id": "b35b7145909243a7",
+    "title": "DC/Marvel: Il Mistero Del Bacio Cosmico e Altre Storie",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1CROS001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-mistero-del-bacio-cosmico-e-altre-storie-m1cros001isbn-it08.html"
   },
   {
     "id": "d87e94a2e53bfdb3",
@@ -2221,5 +2203,14 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1VEOM020ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-black-label-omnibus-lucifer-1-m1veom020isbn-it08.html"
+  },
+  {
+    "id": "5f2f01e14371330a",
+    "title": "Topolino: Holiday Celebration",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3703v_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-holiday-celebration-3703-1wtopo3703v-it08.html"
   }
 ]
