@@ -126,15 +126,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
-    "id": "3a6f2b841e4d2ca1",
-    "title": "Dylan Dog 40",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
-    "totalIssues": 41,
-    "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
-  },
-  {
     "id": "421150e964a096d2",
     "title": "KRIMINAL ANASTATICA",
     "category": "fumetti",
@@ -142,6 +133,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
     "totalIssues": 200,
     "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
+  },
+  {
+    "id": "3a6f2b841e4d2ca1",
+    "title": "Dylan Dog 40",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
+    "totalIssues": 41,
+    "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
   },
   {
     "id": "637462d5afd61745",
@@ -324,15 +324,6 @@
     "sourceUrl": "https://www.primaedicola.it/paperino-and-friends-collana.html"
   },
   {
-    "id": "5a30e8ba8877bf41",
-    "title": "LUCKY LUKE - La raccolta completa a fumetti",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
-  },
-  {
     "id": "b418f679ababd91e",
     "title": "Il Grande Blek - Le Strisce",
     "category": "fumetti",
@@ -351,6 +342,15 @@
     "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html"
   },
   {
+    "id": "5a30e8ba8877bf41",
+    "title": "LUCKY LUKE - La raccolta completa a fumetti",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
+  },
+  {
     "id": "e3d3678464b7107b",
     "title": "Il Comandante Mark",
     "category": "fumetti",
@@ -358,6 +358,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "70a677d2710077e6",
+    "title": "Auto Vintage - Europe Collection (ed. 2023)",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulck-autovintage2023_risultato.jpg",
+    "totalIssues": 98,
+    "sourceUrl": "https://www.primaedicola.it/auto-vintage-europe-collection-ed-2023-collana.html"
+  },
+  {
+    "id": "eae220b917e0b69c",
+    "title": "Le leggende del Rally in scala 1:43",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
+    "totalIssues": 110,
+    "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html"
   },
   {
     "id": "a43220cf6032d7b7",
@@ -378,15 +396,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "5b10f675b22b4cde",
-    "title": "Rally 1:64 Official Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
     "id": "31feda9dcd7581b7",
     "title": "Auto da corsa in scala 1:43",
     "category": "modellini",
@@ -394,6 +403,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
     "totalIssues": 60,
     "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
+    "id": "5b10f675b22b4cde",
+    "title": "Rally 1:64 Official Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
@@ -468,24 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html"
   },
   {
-    "id": "70a677d2710077e6",
-    "title": "Auto Vintage - Europe Collection (ed. 2023)",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulck-autovintage2023_risultato.jpg",
-    "totalIssues": 98,
-    "sourceUrl": "https://www.primaedicola.it/auto-vintage-europe-collection-ed-2023-collana.html"
-  },
-  {
-    "id": "eae220b917e0b69c",
-    "title": "Le leggende del Rally in scala 1:43",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
-    "totalIssues": 110,
-    "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -522,6 +522,15 @@
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
   },
   {
+    "id": "b9e49c1bcf3d8f97",
+    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
+  },
+  {
     "id": "d918b2ceb0d69f9f",
     "title": "Harry Potter – The Collection",
     "category": "figures",
@@ -538,15 +547,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
     "totalIssues": 20,
     "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
-  },
-  {
-    "id": "b9e49c1bcf3d8f97",
-    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
   },
   {
     "id": "795e3890f3d6de26",
@@ -684,6 +684,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-classici-letteratura-gribaudo-collana.html"
   },
   {
+    "id": "d56e38eb408487d5",
+    "title": "Capolavori in miniatura (ed. 2025)",
+    "category": "libri",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
+  },
+  {
     "id": "d06c576eeebc8dc9",
     "title": "I libri del Corriere della Sera",
     "category": "libri",
@@ -700,15 +709,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
     "totalIssues": 50,
     "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
-  },
-  {
-    "id": "d56e38eb408487d5",
-    "title": "Capolavori in miniatura (ed. 2025)",
-    "category": "libri",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
   },
   {
     "id": "aedc693e67ed662a",
@@ -783,15 +783,6 @@
     "sourceUrl": "https://www.primaedicola.it/latino-cultura-lingua-radici-occidente-edizione-2024-collana.html"
   },
   {
-    "id": "f53fedda02687512",
-    "title": "Giornalismo d'inchiesta",
-    "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
-    "totalIssues": 30,
-    "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html"
-  },
-  {
     "id": "5cfcc81c27fd65ff",
     "title": "Luciano Canfora",
     "category": "libri",
@@ -799,6 +790,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-canfora_risultato.jpg",
     "totalIssues": 43,
     "sourceUrl": "https://www.primaedicola.it/luciano-canfora-collana.html"
+  },
+  {
+    "id": "f53fedda02687512",
+    "title": "Giornalismo d'inchiesta",
+    "category": "libri",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-giornalismo-inchiesta_risultato.jpg",
+    "totalIssues": 30,
+    "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-collana.html"
   },
   {
     "id": "94e704b165fde7cd",
@@ -817,6 +817,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/r/primaedicola_1600x1600_3d_risultato.jpg",
     "totalIssues": 34,
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
+  },
+  {
+    "id": "629ce9251da11bc1",
+    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
+  },
+  {
+    "id": "8fbfc9d23a108c1b",
+    "title": "Lilliput",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
   },
   {
     "id": "c267b626271c3f8e",
@@ -844,24 +862,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
     "totalIssues": 52,
     "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
-  },
-  {
-    "id": "8fbfc9d23a108c1b",
-    "title": "Lilliput",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
-  },
-  {
-    "id": "629ce9251da11bc1",
-    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -927,15 +927,6 @@
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
   },
   {
-    "id": "829c2f1d78ccfee5",
-    "title": "Forbidden Fruit Magazine con bracciale a cuore in oro o argento",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Forbidden-Fruit-Magazine-con-bracciale-a-cuore-in-oro-o-argento.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-bracciale-a-cuore/"
-  },
-  {
     "id": "35aac7353536f8cc",
     "title": "Topolino con Edi Amico Geniale con lampada LED in edicola",
     "category": "riviste",
@@ -997,6 +988,15 @@
     "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
     "totalIssues": null,
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
+  },
+  {
+    "id": "e1c231c1f5bf31b3",
+    "title": "Topolino con i dadi da gioco di Wizards of Mickey",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-i-dadi-da-gioco-di-Wizards-of-Mickey.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-i-dadi-da-gioco-di-wizards-of-mickey/"
   },
   {
     "id": "7cd15dd8d8ff7553",
@@ -1107,15 +1107,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/hirano-e-kagiura-7-mhira007isbn-it08.html"
   },
   {
-    "id": "9ee6363c24454db5",
-    "title": "Lavanderia Minato - Wash My Heart!",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/W/MWASH005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/lavanderia-minato-wash-my-heart-5-mwash005isbn-it08.html"
-  },
-  {
     "id": "b47fa279ed98cf01",
     "title": "Circus: l'Ultimo Spettacolo",
     "category": "fumetti",
@@ -1197,15 +1188,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-17-mkeni112-it08.html"
   },
   {
-    "id": "5f8e44f946d27546",
-    "title": "Teenage Mutant Ninja Turtles Adventures Compendium",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTDEL011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/teenage-mutant-ninja-turtles-adventures-compendium-1-mtdel011isbn-it08.html"
-  },
-  {
     "id": "5384f51587451fcb",
     "title": "Star Wars",
     "category": "fumetti",
@@ -1240,24 +1222,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCOFU036_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/conan-il-barbaro-18-mcofu036-it08.html"
-  },
-  {
-    "id": "55d3deba35cccc8f",
-    "title": "Detective Culetto",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/detective-culetto-15-mbutt015isbn-it08.html"
-  },
-  {
-    "id": "5a5662f5fb6e10e3",
-    "title": "Predator Uccide L'Universo Marvel Massacro Totale",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRWO005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/predator-uccide-l-universo-marvel-massacro-totale-mprwo005isbn-it08.html"
   },
   {
     "id": "69eaa6e67a865f24",
@@ -1357,6 +1321,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1HCIN201ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-horror-presenta-creature-commandos-m1hcin201isbn-it08.html"
+  },
+  {
+    "id": "6f746e472c3f3ba7",
+    "title": "Dc: Speciale Halloween",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BMSK006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-speciale-halloween-2026-m1bmsk006isbn-it08.html"
   },
   {
     "id": "50457fdaf8f17999",
@@ -1462,9 +1435,9 @@
     "title": "Marvel Knights: Il Mondo Che Verrà",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI377ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-marts011isbn-it08.html"
+    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-mnowi377isbn-it08.html"
   },
   {
     "id": "fee0738159e8d5ba",
@@ -1476,15 +1449,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/le-mitiche-storie-di-jerry-siegel-1wspec113-it08.html"
   },
   {
-    "id": "cb2c67a2370f7cb1",
-    "title": "Baldur's Gate III: Astarion",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASTAR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
-  },
-  {
     "id": "e39a6c2c05b83b18",
     "title": "Sanda",
     "category": "fumetti",
@@ -1492,6 +1456,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSAND016ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/sanda-16-msand016isbn-it08.html"
+  },
+  {
+    "id": "9ee6363c24454db5",
+    "title": "Lavanderia Minato - Wash My Heart!",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/W/MWASH005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/lavanderia-minato-wash-my-heart-5-mwash005isbn-it08.html"
   },
   {
     "id": "76eb5fd7a3b6abe8",
@@ -1647,6 +1620,24 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/afro-samurai-complete-edition-mafsa001isbnv-it08.html"
   },
   {
+    "id": "b928381d25910722",
+    "title": "Pineapple Army",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPINE003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/pineapple-army-3-mpine003isbn-it08.html"
+  },
+  {
+    "id": "250828620ae3b1a0",
+    "title": "Pineapple Army Cofanetto",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPINE001ISBNC_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/pineapple-army-cofanetto-mpine001isbnc-it08.html"
+  },
+  {
     "id": "1f72bf5f1f878a06",
     "title": "Taika's Reason",
     "category": "fumetti",
@@ -1672,6 +1663,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSWMH006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/star-wars-must-have-resa-dei-conti-sulla-luna-dei-contrabbandieri-mswmh006isbn-it08.html"
+  },
+  {
+    "id": "5f8e44f946d27546",
+    "title": "Teenage Mutant Ninja Turtles Adventures Compendium",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTDEL011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/teenage-mutant-ninja-turtles-adventures-compendium-1-mtdel011isbn-it08.html"
   },
   {
     "id": "7217b74890b4f56d",
@@ -1710,40 +1710,13 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-non-conosceranno-la-paura-19-mrowa049isbn-it08.html"
   },
   {
-    "id": "43b6c0f4ac61ec57",
-    "title": "Rat-Man: Le Carte Da Gioco - Mazzo Blu",
-    "category": "riviste",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040P_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-blu-mrmde040p-it08.html"
-  },
-  {
-    "id": "7ef367c7508576cf",
-    "title": "Rat-Man: Le Carte Da Gioco - Mazzo Rosso",
+    "id": "2f9fea9a33ba7d24",
+    "title": "L'Arte Di Clair Obscur: Expedition",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-rosso-mrmde040-it08.html"
-  },
-  {
-    "id": "fa5ceb0d98e57e2c",
-    "title": "Leo Ortolani Collection Ratto",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MORDE005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/leo-ortolani-collection-ratto-morde005isbn-it08.html"
-  },
-  {
-    "id": "ef2f1903c20e93e5",
-    "title": "The Marvel Teams Art Of Simone Bianchi",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS015ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/the-marvel-teams-art-of-simone-bianchi-marts015isbn-it08.html"
+    "sourceUrl": "https://www.panini.it/shp_ita_it/l-arte-di-clair-obscur-expedition-33-mexped001isbn-it08.html"
   },
   {
     "id": "090fcaf137c8a01b",
@@ -1753,6 +1726,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKKPO008ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/jupiter-s-legacy-1-mkkpo008isbn-it08.html"
+  },
+  {
+    "id": "443ce26551a7a911",
+    "title": "The Magic Order",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKKPO007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/the-magic-order-1-mkkpo007isbn-it08.html"
   },
   {
     "id": "621b22e8b3950d71",
@@ -1789,6 +1771,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAPOK020ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/fantastici-quattro-la-storia-della-nostra-vita-mapok020isbn-it08.html"
+  },
+  {
+    "id": "5a5662f5fb6e10e3",
+    "title": "Predator Uccide L'Universo Marvel Massacro Totale",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRWO005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/predator-uccide-l-universo-marvel-massacro-totale-mprwo005isbn-it08.html"
   },
   {
     "id": "aa722259fab96f86",
@@ -1836,15 +1827,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/supergirl-2-m1hcin205isbn-it08.html"
   },
   {
-    "id": "0ec23d330c8568ee",
-    "title": "The urban Heroes Marvel Art Of Marco Checchetto",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS016ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/the-urban-heroes-marvel-art-of-marco-checchetto-marts016isbn-it08.html"
-  },
-  {
     "id": "d26a61c34bc6c72f",
     "title": "Wonder Woman",
     "category": "fumetti",
@@ -1863,15 +1845,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-facsimile-edition-swamp-thing-37-m1facs025isbn-it08.html"
   },
   {
-    "id": "2e763fa472f53100",
-    "title": "Absolute Freccia Verde",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFV001ISBNV2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-m1abfv001isbnv2-it08.html"
-  },
-  {
     "id": "6535fe8819f5dcdd",
     "title": "Asura's Verdict",
     "category": "fumetti",
@@ -1879,33 +1852,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASUR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/asura-s-verdict-1-masur001isbn-it08.html"
-  },
-  {
-    "id": "d5732b2e34a7733d",
-    "title": "La Guardia Dei Topi Omnibus",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMAGU011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/la-guardia-dei-topi-omnibus-mmagu011isbn-it08.html"
-  },
-  {
-    "id": "86a8d235e7c429bf",
-    "title": "Marvel Omnibus Avengers Classic: La Guerra Avengers/Defenders",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOMNI098ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-omnibus-avengers-classic-la-guerra-avengers-defenders-11-momni098isbn-it08.html"
-  },
-  {
-    "id": "74fc2726b8b57c9a",
-    "title": "Marvel Masterworks Gli Incredibili X-Men",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMASW078ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-masterworks-gli-incredibili-x-men-2-mmasw078isbn-it08.html"
   },
   {
     "id": "c68f05c7cf6a31e3",
@@ -1962,6 +1908,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-20-mrowa053isbn-it08.html"
   },
   {
+    "id": "cb2c67a2370f7cb1",
+    "title": "Baldur's Gate III: Astarion",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASTAR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
+  },
+  {
     "id": "67feb811e2fb0606",
     "title": "New Avengers",
     "category": "fumetti",
@@ -1978,24 +1933,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHIC001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-1-mahic001isbn-it08.html"
-  },
-  {
-    "id": "b928381d25910722",
-    "title": "Pineapple Army",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPINE003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/pineapple-army-3-mpine003isbn-it08.html"
-  },
-  {
-    "id": "250828620ae3b1a0",
-    "title": "Pineapple Army Cofanetto",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPINE001ISBNC_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/pineapple-army-cofanetto-mpine001isbnc-it08.html"
   },
   {
     "id": "a83f0e7532466b0d",
@@ -2016,15 +1953,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/american-caper-1-mamca001isbn-it08.html"
   },
   {
-    "id": "c647990e64516f71",
-    "title": "Ravenor Ribelle",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/ravenor-ribelle-mrowa050isbn-it08.html"
-  },
-  {
     "id": "3f393b451d5eb478",
     "title": "Spettri Di Gaunt: Primo e Unico",
     "category": "fumetti",
@@ -2034,13 +1962,40 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/spettri-di-gaunt-primo-e-unico-mrowa055isbn-it08.html"
   },
   {
-    "id": "2f9fea9a33ba7d24",
-    "title": "L'Arte Di Clair Obscur: Expedition",
+    "id": "43b6c0f4ac61ec57",
+    "title": "Rat-Man: Le Carte Da Gioco - Mazzo Blu",
+    "category": "riviste",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040P_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-blu-mrmde040p-it08.html"
+  },
+  {
+    "id": "7ef367c7508576cf",
+    "title": "Rat-Man: Le Carte Da Gioco - Mazzo Rosso",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/l-arte-di-clair-obscur-expedition-33-mexped001isbn-it08.html"
+    "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-rosso-mrmde040-it08.html"
+  },
+  {
+    "id": "fa5ceb0d98e57e2c",
+    "title": "Leo Ortolani Collection Ratto",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MORDE005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/leo-ortolani-collection-ratto-morde005isbn-it08.html"
+  },
+  {
+    "id": "ef2f1903c20e93e5",
+    "title": "The Marvel Teams Art Of Simone Bianchi",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS015ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/the-marvel-teams-art-of-simone-bianchi-marts015isbn-it08.html"
   },
   {
     "id": "399fa3a2c56cef80",
@@ -2097,6 +2052,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/spider-man-meals-to-astonish-mmeal001isbn-it08.html"
   },
   {
+    "id": "0ec23d330c8568ee",
+    "title": "The urban Heroes Marvel Art Of Marco Checchetto",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS016ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/the-urban-heroes-marvel-art-of-marco-checchetto-marts016isbn-it08.html"
+  },
+  {
     "id": "f67b861b43b1fa32",
     "title": "Absolute Lanterna Verde  Vol. 1",
     "category": "fumetti",
@@ -2113,6 +2077,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-vol-1-1-m1abhc004isbn-it08.html"
+  },
+  {
+    "id": "2e763fa472f53100",
+    "title": "Absolute Freccia Verde",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFV001ISBNV2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-m1abfv001isbnv2-it08.html"
   },
   {
     "id": "eacacb18b0623593",
@@ -2140,6 +2113,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1CROS001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-mistero-del-bacio-cosmico-e-altre-storie-m1cros001isbn-it08.html"
+  },
+  {
+    "id": "090649fc45c9b824",
+    "title": "Batman Il Cavaliere III: La Razza Suprema",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1POCK038ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/batman-il-cavaliere-iii-la-razza-suprema-m1pock038isbn-it08.html"
   },
   {
     "id": "d87e94a2e53bfdb3",
