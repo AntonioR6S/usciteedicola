@@ -126,6 +126,15 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
+    "id": "637462d5afd61745",
+    "title": "Leo Ortolani presenta La Conjura del male",
+    "category": "fumetti",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/c/o/conjura_1_risultato_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/leo-ortolani-presenta-conjura-male-collana.html"
+  },
+  {
     "id": "421150e964a096d2",
     "title": "KRIMINAL ANASTATICA",
     "category": "fumetti",
@@ -142,15 +151,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
     "totalIssues": 41,
     "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
-  },
-  {
-    "id": "637462d5afd61745",
-    "title": "Leo Ortolani presenta La Conjura del male",
-    "category": "fumetti",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/c/o/conjura_1_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/leo-ortolani-presenta-conjura-male-collana.html"
   },
   {
     "id": "02defd3ac37b3bac",
@@ -234,24 +234,6 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
-    "id": "a65bfc5b22263677",
-    "title": "Paperinik",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wsudi067f_0.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/paperinik-collana.html"
-  },
-  {
-    "id": "ec0e992ad86159f7",
-    "title": "Alan Ford Anastatica",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
-  },
-  {
     "id": "d7582e089fca0f38",
     "title": "Hugo Pratt Collection",
     "category": "fumetti",
@@ -268,6 +250,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
     "totalIssues": 119,
     "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
+  },
+  {
+    "id": "a65bfc5b22263677",
+    "title": "Paperinik",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wsudi067f_0.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/paperinik-collana.html"
+  },
+  {
+    "id": "ec0e992ad86159f7",
+    "title": "Alan Ford Anastatica",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
   },
   {
     "id": "32e9f3b920a2000c",
@@ -358,6 +358,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "8a7f4ec3d898cc7d",
+    "title": "Racing Car Transporters in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-racing-trasnporter_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-scala-143-collana.html"
+  },
+  {
+    "id": "455b1bc2bd5c5647",
+    "title": "American Cars (ed. 2024)",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-americancars2024.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/american-cars-scala-143-edizione-2024-collana.html"
   },
   {
     "id": "cca94a92ca8c1e46",
@@ -466,24 +484,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
     "totalIssues": 101,
     "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
-  },
-  {
-    "id": "8a7f4ec3d898cc7d",
-    "title": "Racing Car Transporters in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-racing-trasnporter_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-scala-143-collana.html"
-  },
-  {
-    "id": "455b1bc2bd5c5647",
-    "title": "American Cars (ed. 2024)",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-americancars2024.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/american-cars-scala-143-edizione-2024-collana.html"
   },
   {
     "id": "1840cb675b9deac2",
