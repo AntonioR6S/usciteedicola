@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:35:29.212Z",
+  "generatedAt": "2026-10-17T09:05:47.246Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3486,32 +3486,6 @@
       "sourceUrl": "https://www.primaedicola.it/rat-man-il-mito-leo-ortolani-l-ultimo-spettacolo.html"
     },
     {
-      "id": "224a6c85a538edb7",
-      "seriesId": "4e7e8ad8f1409c77",
-      "seriesTitle": "Tiger Mask - 3D Collection",
-      "category": "figures",
-      "publisher": "Centauria",
-      "issueNumber": 35,
-      "issueTitle": "Scheda personaggio Ursus Apollon",
-      "releaseDate": "2026-04-24",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/t/i/tiger-mask-3d-collection-scheda-personaggio-ursus-apollon_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-scheda-personaggio-ursus-apollon.html"
-    },
-    {
-      "id": "c18b7ad9ed2fd1ac",
-      "seriesId": "1ab1bf839807a5a2",
-      "seriesTitle": "Eddie 3D - Iron Maiden",
-      "category": "figures",
-      "publisher": "Centauria",
-      "issueNumber": 35,
-      "issueTitle": "Beast of Hammersmith",
-      "releaseDate": "2026-04-24",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-beast-of-hammersmith_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-beast-of-hammersmith.html"
-    },
-    {
       "id": "c60c52a4ba5979df",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -3523,19 +3497,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1970_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50035.html"
-    },
-    {
-      "id": "ccc53812af916a4e",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 9,
-      "issueTitle": "Ford Mustang Mach 1 Speed & Endurance Records on Bonneville Salt Flats (1969)",
-      "releaseDate": "2026-04-25",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-mach-1-speed-endurance-records-on.html"
     },
     {
       "id": "6c4ba78227fbd87f",
@@ -3588,19 +3549,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/diabolik-anastatika-omicidio-al-collegio_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/diabolik-anastatika-omicidio-al-collegio.html"
-    },
-    {
-      "id": "17c46f9141f2ab75",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 85,
-      "issueTitle": "Ferrari 553 F2 - Piero Carini - 1953",
-      "releaseDate": "2026-04-28",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-553-f2-piero-carini-1953_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-553-f2-piero-carini-1953.html"
     },
     {
       "id": "de9a188a95f26021",
@@ -3863,6 +3811,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bbc-archives.html"
     },
     {
+      "id": "42bf6a4bb8767078",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 10,
+      "issueTitle": "Ford Mustang Shelby GT500 (1967) 1:24",
+      "releaseDate": "2026-05-09",
+      "price": 24.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24.html"
+    },
+    {
       "id": "82105e557c5e8d88",
       "seriesId": "8a7f4ec3d898cc7d",
       "seriesTitle": "Racing Car Transporters in scala 1:43",
@@ -3887,19 +3848,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966.html"
-    },
-    {
-      "id": "42bf6a4bb8767078",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 10,
-      "issueTitle": "Ford Mustang Shelby GT500 (1967) 1:24",
-      "releaseDate": "2026-05-09",
-      "price": 24.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24.html"
     },
     {
       "id": "cd70dd3c166207f5",
@@ -4149,6 +4097,19 @@
       "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-blind-pack.html"
     },
     {
+      "id": "b8e76c7e23f23f3a",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 86,
+      "issueTitle": "Ferrari 312 B2 - Clay Regazzoni - 1971",
+      "releaseDate": "2026-05-21",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971.html"
+    },
+    {
       "id": "1b9d7bca422e38e7",
       "seriesId": "8a7f4ec3d898cc7d",
       "seriesTitle": "Racing Car Transporters in scala 1:43",
@@ -4186,19 +4147,6 @@
       "price": 26.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
-    },
-    {
-      "id": "b8e76c7e23f23f3a",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 86,
-      "issueTitle": "Ferrari 312 B2 - Clay Regazzoni - 1971",
-      "releaseDate": "2026-05-21",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971.html"
     },
     {
       "id": "74f5e3c003a04368",
@@ -4240,19 +4188,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-number-of-the-beast-single.html"
     },
     {
-      "id": "47bf5c78fd6a686b",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 37,
-      "issueTitle": "Alfa Romeo 33/3 - 1000 km Monza - 1971",
-      "releaseDate": "2026-05-23",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1971_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50037.html"
-    },
-    {
       "id": "addb99d86dbb38f8",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -4264,6 +4199,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013.html"
+    },
+    {
+      "id": "47bf5c78fd6a686b",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 37,
+      "issueTitle": "Alfa Romeo 33/3 - 1000 km Monza - 1971",
+      "releaseDate": "2026-05-23",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1971_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50037.html"
     },
     {
       "id": "22fce2c4dcd93cdf",
@@ -4383,6 +4331,19 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
+      "id": "01c69e4c1cc674b3",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 87,
+      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
+      "releaseDate": "2026-05-30",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
+    },
+    {
       "id": "bd3fd41f6f8f0dd8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -4420,19 +4381,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
-    },
-    {
-      "id": "01c69e4c1cc674b3",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 87,
-      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
-      "releaseDate": "2026-05-30",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -4617,19 +4565,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-wicker-man.html"
     },
     {
-      "id": "ee379553a2c2d523",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 38,
-      "issueTitle": "Alfa Romeo 33 TT 12 - 1000 Km Imola - 1974",
-      "releaseDate": "2026-06-06",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974.html"
-    },
-    {
       "id": "074a25f96aee5270",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -4641,6 +4576,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970.html"
+    },
+    {
+      "id": "ee379553a2c2d523",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 38,
+      "issueTitle": "Alfa Romeo 33 TT 12 - 1000 Km Imola - 1974",
+      "releaseDate": "2026-06-06",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974.html"
     },
     {
       "id": "58415ab51479ae65",
@@ -5033,6 +4981,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-transylvania.html"
     },
     {
+      "id": "96ddad4555626e5a",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 13,
+      "issueTitle": "Ford Mustang Shelby EXP500 (1968)",
+      "releaseDate": "2026-06-20",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968.html"
+    },
+    {
       "id": "245c4d070f71026e",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
@@ -5057,19 +5018,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist.html"
-    },
-    {
-      "id": "96ddad4555626e5a",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 13,
-      "issueTitle": "Ford Mustang Shelby EXP500 (1968)",
-      "releaseDate": "2026-06-20",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968.html"
     },
     {
       "id": "6dbef9ae6d1abcb8",
@@ -5488,19 +5436,6 @@
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2025-2026-celebration-set-60-figurine.html"
     },
     {
-      "id": "782f248b9210e584",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 40,
-      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
-      "releaseDate": "2026-07-04",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
-    },
-    {
       "id": "33be0f098f311b6f",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -5525,6 +5460,19 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-sf-25-2025-lewis-hamilton_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf-25-2025-lewis-hamilton.html"
+    },
+    {
+      "id": "782f248b9210e584",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 40,
+      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
+      "releaseDate": "2026-07-04",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
     },
     {
       "id": "74b7b6abfb1b5004",
@@ -5878,19 +5826,6 @@
       "sourceUrl": "https://www.primaedicola.it/il-sole-24-ore-cultura-kids-capitan-papaia-e-greta-di-beatrice-borromeo.html"
     },
     {
-      "id": "db6032afe9351da5",
-      "seriesId": "ec0e992ad86159f7",
-      "seriesTitle": "Alan Ford Anastatica",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 82,
-      "issueTitle": "Un viaggio a razzo",
-      "releaseDate": "2026-07-17",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-un-viaggio-a-razzo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-un-viaggio-a-razzo.html"
-    },
-    {
       "id": "49596b62922dc6bf",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -5930,30 +5865,17 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bring-your-daughter-to-the-slaughter.html"
     },
     {
-      "id": "0641873be974bbe1",
-      "seriesId": "5b6971f2111cfa04",
-      "seriesTitle": "La grande letteratura italiana (ed. 2026)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 28,
-      "issueTitle": "Lorenzo il Magnifico, Poesie - Poliziano, Poesie italiane",
-      "releaseDate": "2026-07-17",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-lorenzo-il-magnifico-poesie-poliziano-poesie_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-lorenzo-il-magnifico-poesie-poliziano-poesie.html"
-    },
-    {
-      "id": "d241da7116d17b20",
-      "seriesId": "621a2b1dcfb36d3e",
-      "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 28,
-      "issueTitle": "Il fagiolo magico",
-      "releaseDate": "2026-07-17",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-il-fagiolo-magico.html"
+      "id": "82a749ce7eb7df82",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 15,
+      "issueTitle": "Ford Mustang SR-71 Blackbird (2010)",
+      "releaseDate": "2026-07-18",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010.html"
     },
     {
       "id": "4e27614482adbf6f",
@@ -6008,19 +5930,6 @@
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972.html"
     },
     {
-      "id": "82a749ce7eb7df82",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 15,
-      "issueTitle": "Ford Mustang SR-71 Blackbird (2010)",
-      "releaseDate": "2026-07-18",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010.html"
-    },
-    {
       "id": "d88b6326d28a0ad6",
       "seriesId": "795e3890f3d6de26",
       "seriesTitle": "MARVEL Movie Museum",
@@ -6058,19 +5967,6 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-il-mare-non-bagna-napoli-anna-maria-ortese_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-il-mare-non-bagna-napoli-anna-maria-ortese.html"
-    },
-    {
-      "id": "c50c8f29b7d50bd6",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 20,
-      "issueTitle": "Mr. Incredibile (Gli Incredibili)",
-      "releaseDate": "2026-07-18",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-mr-incredibile-gli-incredibili_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-mr-incredibile-gli-incredibili.html"
     },
     {
       "id": "9ad3a8657243ad62",
@@ -6892,19 +6788,6 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-prezzemolina.html"
     },
     {
-      "id": "a2f370cf485b54da",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 42,
-      "issueTitle": "Alfa Romeo Alfetta GTV 2.0 Turbodelta 1980",
-      "releaseDate": "2026-08-01",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-alfetta-gtv-2-0-turbodelta-1980_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50042.html"
-    },
-    {
       "id": "691c9c419b794d51",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -6916,6 +6799,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012.html"
+    },
+    {
+      "id": "a2f370cf485b54da",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 42,
+      "issueTitle": "Alfa Romeo Alfetta GTV 2.0 Turbodelta 1980",
+      "releaseDate": "2026-08-01",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-alfetta-gtv-2-0-turbodelta-1980_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50042.html"
     },
     {
       "id": "4ac93a96774d7f9c",
@@ -7750,19 +7646,6 @@
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf70h-sebastian-vettel-2017-italian.html"
     },
     {
-      "id": "8b6aae5e80a096bb",
-      "seriesId": "795e3890f3d6de26",
-      "seriesTitle": "MARVEL Movie Museum",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 52,
-      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
-      "releaseDate": "2026-08-14",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
-    },
-    {
       "id": "7dad2e6e4d65a60a",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
@@ -7787,6 +7670,19 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-the-early-days_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-early-days.html"
+    },
+    {
+      "id": "8b6aae5e80a096bb",
+      "seriesId": "795e3890f3d6de26",
+      "seriesTitle": "MARVEL Movie Museum",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 52,
+      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
+      "releaseDate": "2026-08-14",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
     },
     {
       "id": "7df123902a75316b",
@@ -9063,19 +8959,6 @@
       "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-2018-russia.html"
     },
     {
-      "id": "30bf0ee10aa74925",
-      "seriesId": "a65bfc5b22263677",
-      "seriesTitle": "Paperinik",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 117,
-      "issueTitle": "Paperinik N. 117",
-      "releaseDate": "2026-09-04",
-      "price": 6.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperinik-paperinik-n-117_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-paperinik-paperinik-n-117.html"
-    },
-    {
       "id": "8eea844edc762adb",
       "seriesId": "ec0e992ad86159f7",
       "seriesTitle": "Alan Ford Anastatica",
@@ -9087,6 +8970,19 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-il-benefattore_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-il-benefattore.html"
+    },
+    {
+      "id": "30bf0ee10aa74925",
+      "seriesId": "a65bfc5b22263677",
+      "seriesTitle": "Paperinik",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 117,
+      "issueTitle": "Paperinik N. 117",
+      "releaseDate": "2026-09-04",
+      "price": 6.5,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperinik-paperinik-n-117_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-paperinik-paperinik-n-117.html"
     },
     {
       "id": "b022888e21d38aff",
@@ -9102,19 +8998,6 @@
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30096.html"
     },
     {
-      "id": "7d36d8b138dde681",
-      "seriesId": "d06c576eeebc8dc9",
-      "seriesTitle": "I libri del Corriere della Sera",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 3,
-      "issueTitle": "E' facile smettere di mangiare carne se sai perché farlo di Anna Dalton",
-      "releaseDate": "2026-09-04",
-      "price": 15.1,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai.html"
-    },
-    {
       "id": "410f5bd91be13598",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
@@ -9126,6 +9009,19 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-verga-novelle_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-verga-novelle.html"
+    },
+    {
+      "id": "7d36d8b138dde681",
+      "seriesId": "d06c576eeebc8dc9",
+      "seriesTitle": "I libri del Corriere della Sera",
+      "category": "libri",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 3,
+      "issueTitle": "E' facile smettere di mangiare carne se sai perché farlo di Anna Dalton",
+      "releaseDate": "2026-09-04",
+      "price": 15.1,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-e-facile-smettere-di-mangiare-carne-se-sai.html"
     },
     {
       "id": "f3866f01158423cb",
@@ -11169,19 +11065,6 @@
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-dauer-porsche-962lm-1994.html"
     },
     {
-      "id": "699d9c534fb29378",
-      "seriesId": "d06c576eeebc8dc9",
-      "seriesTitle": "I libri del Corriere della Sera",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 1,
-      "issueTitle": "L'ora di Cuba di Carla Vitantonio",
-      "releaseDate": "2026-10-02",
-      "price": 12.6,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio.html"
-    },
-    {
       "id": "a9c5d22a51599515",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
@@ -11193,6 +11076,19 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-beccaria-dei-delitti-e-delle-pene-verri_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-beccaria-dei-delitti-e-delle-pene-verri.html"
+    },
+    {
+      "id": "699d9c534fb29378",
+      "seriesId": "d06c576eeebc8dc9",
+      "seriesTitle": "I libri del Corriere della Sera",
+      "category": "libri",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 1,
+      "issueTitle": "L'ora di Cuba di Carla Vitantonio",
+      "releaseDate": "2026-10-02",
+      "price": 12.6,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-l-ora-di-cuba-di-carla-vitantonio.html"
     },
     {
       "id": "54dca105e687e43b",
@@ -11689,116 +11585,134 @@
       "sourceUrl": "https://www.primaedicola.it/la-collezione-anastatica-degli-album-mondiali-panini-1962-1966.html"
     },
     {
-      "id": "5155b5b2e02a3c6d",
+      "id": "b5b629d5710332c5",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 4,
-      "issueTitle": null,
+      "issueTitle": "Il buio (1989)",
       "releaseDate": "2026-10-09",
       "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/y/dylan-dog-40-il-buio-1989_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-il-buio-1989.html"
     },
     {
-      "id": "170561f96e8f749d",
+      "id": "9dc2e02dcc4165a8",
+      "seriesId": "1b9f05885662c613",
+      "seriesTitle": "I Classici Disney",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 555,
+      "issueTitle": "Paperopoli allo Specchio",
+      "releaseDate": "2026-10-09",
+      "price": 6.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-classici-disney-paperopoli-allo-specchio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-classici-disney-paperopoli-allo-specchio.html"
+    },
+    {
+      "id": "09c913ca28abd546",
       "seriesId": "ec0e992ad86159f7",
       "seriesTitle": "Alan Ford Anastatica",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 94,
-      "issueTitle": null,
+      "issueTitle": "Il piromane",
       "releaseDate": "2026-10-09",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-il-piromane_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-il-piromane.html"
     },
     {
-      "id": "56ee4097a87f0c3b",
+      "id": "fe7f150cd1a4e165",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
       "category": "modellini",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 21,
-      "issueTitle": null,
+      "issueTitle": "Ford Mustang Ecoboost Fastback (2015)",
       "releaseDate": "2026-10-09",
-      "price": 24.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
-      "projected": true
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-ecoboost-fastback-2015_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-ecoboost-fastback-2015.html"
     },
     {
-      "id": "0441537c2c961dde",
+      "id": "e895efa6243f1d35",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 97,
-      "issueTitle": null,
+      "issueTitle": "Ferrari 512F1 - Lorenzo Bandini - 1964 Mexican Grand Prix",
       "releaseDate": "2026-10-09",
       "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-512f1-lorenzo-bandini-1964-mexican_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-512f1-lorenzo-bandini-1964-mexican.html"
     },
     {
-      "id": "b1d38b88260e043f",
+      "id": "9d685522960eed44",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
       "category": "figures",
       "publisher": "Centauria",
       "issueNumber": 47,
-      "issueTitle": null,
+      "issueTitle": "Scheda personaggio Hakuma Knight",
       "releaseDate": "2026-10-09",
       "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/t/i/tiger-mask-3d-collection-scheda-personaggio-hakuma-knight_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-scheda-personaggio-hakuma-knight.html"
     },
     {
-      "id": "d4fa7f8b70dc1af3",
+      "id": "2c9f032e3d217069",
       "seriesId": "1ab1bf839807a5a2",
       "seriesTitle": "Eddie 3D - Iron Maiden",
       "category": "figures",
       "publisher": "Centauria",
       "issueNumber": 47,
-      "issueTitle": null,
+      "issueTitle": "Run to the hills",
       "releaseDate": "2026-10-09",
       "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-run-to-the-hills_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-run-to-the-hills.html"
     },
     {
-      "id": "e67e68167b0cbc61",
+      "id": "19005fd9ef5cdeb1",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 40,
-      "issueTitle": null,
+      "issueTitle": "Fogazzaro, Piccolo mondo antico",
       "releaseDate": "2026-10-09",
       "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-fogazzaro-piccolo-mondo-antico_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-fogazzaro-piccolo-mondo-antico.html"
     },
     {
-      "id": "af1218677d754912",
+      "id": "6e528b556800ceab",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 32,
+      "issueTitle": "Olaf (Olaf’s Perfect Summer Day)",
+      "releaseDate": "2026-10-09",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-olaf-olaf-s-perfect-summer-day_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-olaf-olaf-s-perfect-summer-day.html"
+    },
+    {
+      "id": "708d18975ab9289b",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 40,
-      "issueTitle": null,
+      "issueTitle": "Sinbad il marinaio",
       "releaseDate": "2026-10-09",
       "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-sinbad-il-marinaio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-sinbad-il-marinaio.html"
     },
     {
       "id": "cfc86ad9aa2daa85",
@@ -12051,19 +11965,6 @@
       "projected": true
     },
     {
-      "id": "8f57b1552140987e",
-      "seriesId": "35aac7353536f8cc",
-      "seriesTitle": "Topolino con Edi Amico Geniale con lampada LED in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-14",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-Edi-Amico-Geniale-con-lampada-LED-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-edi-amico-geniale/"
-    },
-    {
       "id": "4a2bbb5e0f63a590",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -12104,32 +12005,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-anastatiche-mondiali-panini_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/collezione-anastatica-album-mondiali-panini-collana.html",
       "projected": true
-    },
-    {
-      "id": "f3da4c6109c2c0a5",
-      "seriesId": "a824a14008e41193",
-      "seriesTitle": "Donna Moderna con matita occhi Royal Beauty in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-15",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Donna-Moderna-con-matita-occhi-Royal-Beauty-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/donna-moderna-con-matita-occhi-royal-beauty/"
-    },
-    {
-      "id": "34d0fe1d7c46316f",
-      "seriesId": "ab14059ec6891fb9",
-      "seriesTitle": "Elle con mascara e eyeliner Rougj+: 2 beauty essential tra cui scegliere",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-15",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/12/Elle-con-mascara-e-eyeliner-Rougj-2-beauty-essential-tra-cui-scegliere.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-mascara-e-eyeliner-rougj/"
     },
     {
       "id": "c1cde28f946e7ecd",
@@ -12185,20 +12060,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "f2c0cbb9b705171e",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 32,
-      "issueTitle": null,
-      "releaseDate": "2026-10-16",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -12697,19 +12558,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-anastatica-calciatori2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-anastatica-album-edizione-2026-collana.html",
       "projected": true
-    },
-    {
-      "id": "dc23ea788f131b93",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Calciatori 1961-1962 + nuovo album Calciatori 2026-2027",
-      "releaseDate": "2026-10-22",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
     },
     {
       "id": "e82c615820a945f7",
@@ -13346,7 +13194,7 @@
       "issueNumber": 22,
       "issueTitle": null,
       "releaseDate": "2026-10-23",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -13421,6 +13269,20 @@
       "projected": true
     },
     {
+      "id": "942d59ec6d9d15a7",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 33,
+      "issueTitle": null,
+      "releaseDate": "2026-10-23",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "7771accc92df5213",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -13433,19 +13295,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
       "projected": true
-    },
-    {
-      "id": "3598cbc3615aacd4",
-      "seriesId": "4d8037c4f69449f6",
-      "seriesTitle": "Amica con mascara Face D Black Volume in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
     },
     {
       "id": "ea3e6dfc7f8e5471",
@@ -13615,32 +13464,6 @@
       "projected": true
     },
     {
-      "id": "77885d16f3cb464e",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Maxi Borsone",
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
-      "id": "b483f3de315134ae",
-      "seriesId": "d4d810c1e5188608",
-      "seriesTitle": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
-    },
-    {
       "id": "71eabf146a2ca8ab",
       "seriesId": "fee0738159e8d5ba",
       "seriesTitle": "Le Mitiche Storie di Jerry Siegel",
@@ -13710,32 +13533,6 @@
       "projected": true
     },
     {
-      "id": "8e717c526d6a6b21",
-      "seriesId": "e1c231c1f5bf31b3",
-      "seriesTitle": "Topolino con i dadi da gioco di Wizards of Mickey",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-28",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-i-dadi-da-gioco-di-Wizards-of-Mickey.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-i-dadi-da-gioco-di-wizards-of-mickey/"
-    },
-    {
-      "id": "f8b9a9d93b8ff3a5",
-      "seriesId": "7cd15dd8d8ff7553",
-      "seriesTitle": "Vanity Fair con Rituals Foaming Shower Gel in 3 profumazioni full size",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-28",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Vanity-Fair-con-Rituals-Foaming-Shower-Gel.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/vanity-fair-con-rituals/"
-    },
-    {
       "id": "b0d8669074890941",
       "seriesId": "f4555addc9ecaaf3",
       "seriesTitle": "Topolino",
@@ -13788,19 +13585,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-anastatica-calciatori2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-anastatica-album-edizione-2026-collana.html",
       "projected": true
-    },
-    {
-      "id": "bffc55437bf3a0de",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1962–63 a 6,99€",
-      "releaseDate": "2026-10-29",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
     },
     {
       "id": "22451e5f80712524",
@@ -14587,20 +14371,6 @@
       "projected": true
     },
     {
-      "id": "942d59ec6d9d15a7",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 33,
-      "issueTitle": null,
-      "releaseDate": "2026-10-30",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
       "id": "960808d64cdb67b6",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -14851,32 +14621,6 @@
       "projected": true
     },
     {
-      "id": "7ca732497cfa0901",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Borraccia a 12,99€",
-      "releaseDate": "2026-11-03",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
-      "id": "dafded90602ea7b4",
-      "seriesId": "fe42f2ae9cef3d88",
-      "seriesTitle": "Cotto e Mangiato con tagliapizza: uno strumento semplice e indispensabile",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-11-03",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Cotto-e-Mangiato-con-tagliapizza-IPAC.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/cotto-e-mangiato-con-tagliapizza/"
-    },
-    {
       "id": "09eea965a31c9609",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -15043,19 +14787,6 @@
       "projected": true
     },
     {
-      "id": "5d634a8f93c98e62",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1963–64 a 6,99€",
-      "releaseDate": "2026-11-05",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "ae026e9e6a8d40ab",
       "seriesId": "3bfd41f94cae6661",
       "seriesTitle": "Warhammer The Horus Heresy",
@@ -15080,6 +14811,71 @@
       "price": 18.9,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASTAR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
+    },
+    {
+      "id": "3dd096c2aa5c7a2a",
+      "seriesId": "98668daae45e1f79",
+      "seriesTitle": "Alien Vs. Capitan America: L'Arma Perfetta",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 17.1,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRWO006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/alien-vs-capitan-america-l-arma-perfetta-mprwo006isbn-it08.html"
+    },
+    {
+      "id": "af3da402b44da8fb",
+      "seriesId": "085b8ec8f63017cf",
+      "seriesTitle": "Cyberpunk 2077: Chrome",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 17.1,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCYPU011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/cyberpunk-2077-chrome-mcypu011isbn-it08.html"
+    },
+    {
+      "id": "16d02ed289d9b282",
+      "seriesId": "d2be0cfae0664d8a",
+      "seriesTitle": "Wolverine Origini",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Wolverine Origini 3",
+      "releaseDate": "2026-11-05",
+      "price": 9.4,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMSER025ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-origini-3-mmser025isbn-it08.html"
+    },
+    {
+      "id": "2ca13b4f773bcb5b",
+      "seriesId": "4b6fc62a8ceec170",
+      "seriesTitle": "Ultimate Wolverine",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Ultimate Wolverine 2",
+      "releaseDate": "2026-11-05",
+      "price": 22.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST239ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-wolverine-2-mfrst239isbn-it08.html"
+    },
+    {
+      "id": "6c1fcd3688034dd2",
+      "seriesId": "e6b8763913c969c8",
+      "seriesTitle": "Ultimate Spider-Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Ultimate Spider-Man 4",
+      "releaseDate": "2026-11-05",
+      "price": 24.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST238ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-spider-man-4-mfrst238isbn-it08.html"
     },
     {
       "id": "c7e2c5ec824f60c1",
@@ -15547,7 +15343,7 @@
       "issueNumber": 23,
       "issueTitle": null,
       "releaseDate": "2026-11-06",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -15609,6 +15405,20 @@
       "projected": true
     },
     {
+      "id": "16575cde439c84ac",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 34,
+      "issueTitle": null,
+      "releaseDate": "2026-11-06",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "84c56b81a307ca08",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -15663,19 +15473,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "0c473839c9170447",
-      "seriesId": "17415fd3f627e713",
-      "seriesTitle": "Forbidden Fruit Magazine con cappello anti-pioggia in edicola: stile anche sotto la pioggia",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-11-07",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Forbidden-Fruit-Magazine-con-cappello-anti-pioggia-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-cappello-anti-pioggia/"
     },
     {
       "id": "9f047bb41d77d3db",
@@ -15790,19 +15587,6 @@
       "projected": true
     },
     {
-      "id": "7d89ac9dfe31f30f",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sacca portascarpe a 12,99€",
-      "releaseDate": "2026-11-10",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "21b66e7cf52ac72b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -15872,6 +15656,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-holiday-celebration-3703-1wtopo3703v-it08.html"
     },
     {
+      "id": "2083c71805ee35f7",
+      "seriesId": "510e5001f836e5c2",
+      "seriesTitle": "The Witcher: L'Ultimo Desiderio",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-11",
+      "price": 15.2,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/the-witcher-l-ultimo-desiderio-mthwi021isbn-it08.html"
+    },
+    {
       "id": "b71f46b67678e4dd",
       "seriesId": "94ab876c5d9f2ba4",
       "seriesTitle": "Le strisce di ZAGOR",
@@ -15900,17 +15697,43 @@
       "projected": true
     },
     {
-      "id": "eef5af06a9b980be",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
+      "id": "014520d9ad48ec33",
+      "seriesId": "09514244eb888920",
+      "seriesTitle": "Centuria",
+      "category": "fumetti",
+      "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Album stagione 1964–65 a 6,99€",
+      "issueTitle": "Centuria 8",
       "releaseDate": "2026-11-12",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
+      "price": 7.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCENT008ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/centuria-8-mcent008isbn-it08.html"
+    },
+    {
+      "id": "6b137b24a79690d6",
+      "seriesId": "382ac593f7999084",
+      "seriesTitle": "Otr Of The Flame",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Otr Of The Flame 3",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOTRF003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-3-motrf003isbn-it08.html"
+    },
+    {
+      "id": "7aa56dfe4a260031",
+      "seriesId": "d1f7625fa0e5c859",
+      "seriesTitle": "Spy × Family",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Spy × Family 17",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/spy-family-17-mplsh124-it08.html"
     },
     {
       "id": "0254212bbd50fb33",
@@ -15926,6 +15749,32 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-40-000-brutalmente-aztuto-mrowa054isbn-it08.html"
     },
     {
+      "id": "c2812d264d288ccf",
+      "seriesId": "e26ce51d386d9b52",
+      "seriesTitle": "Predator: Black, White & Blood",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-12",
+      "price": 24.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRED004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/predator-black-white-blood-mpred004isbn-it08.html"
+    },
+    {
+      "id": "d9e11bd549896dcd",
+      "seriesId": "c19981840c74191b",
+      "seriesTitle": "Darevil",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Darevil 5",
+      "releaseDate": "2026-11-12",
+      "price": 19.95,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST240ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/darevil-5-mfrst240isbn-it08.html"
+    },
+    {
       "id": "db5e2241329d2bfb",
       "seriesId": "502eaa1182c7c546",
       "seriesTitle": "Avengers",
@@ -15937,6 +15786,19 @@
       "price": 5.7,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAVES201_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-39-maves201-it08.html"
+    },
+    {
+      "id": "d2ce7ed413eb0021",
+      "seriesId": "ff4dddfa813e45d7",
+      "seriesTitle": "Io Sono Doom",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-12",
+      "price": 23.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MANTO020ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/io-sono-doom-manto020isbn-it08.html"
     },
     {
       "id": "29f47299855cc839",
@@ -16043,20 +15905,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "16575cde439c84ac",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 34,
-      "issueTitle": null,
-      "releaseDate": "2026-11-13",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -16284,19 +16132,6 @@
       "projected": true
     },
     {
-      "id": "1d2b19b632486929",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Porta tablet a 12,99€",
-      "releaseDate": "2026-11-17",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "ae54e37cbfd5f15b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -16437,19 +16272,6 @@
       "projected": true
     },
     {
-      "id": "fab3e83a2f99ad93",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1965–66 a 6,99€",
-      "releaseDate": "2026-11-19",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "9683f76686f69129",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -16486,7 +16308,7 @@
       "issueNumber": 24,
       "issueTitle": null,
       "releaseDate": "2026-11-20",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -16545,6 +16367,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "2af222e624f8ee86",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 35,
+      "issueTitle": null,
+      "releaseDate": "2026-11-20",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -16716,19 +16552,6 @@
       "projected": true
     },
     {
-      "id": "989b3578cca9987a",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Ombrello a 12,99€",
-      "releaseDate": "2026-11-24",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "1b22ce5c5d9a773f",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -16813,19 +16636,6 @@
       "projected": true
     },
     {
-      "id": "2456ed45b1d55777",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1966–67 a 6,99€",
-      "releaseDate": "2026-11-26",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "1143afcb4f2ea902",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -16865,20 +16675,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "2af222e624f8ee86",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 35,
-      "issueTitle": null,
-      "releaseDate": "2026-11-27",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17092,19 +16888,6 @@
       "projected": true
     },
     {
-      "id": "542c51d302e333f1",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Borsa termica a 12,99€",
-      "releaseDate": "2026-12-01",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "094a37f940411532",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17245,19 +17028,6 @@
       "projected": true
     },
     {
-      "id": "319309885c3a67dc",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1967–68 a 6,99€",
-      "releaseDate": "2026-12-03",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "e71916407d5b50d1",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -17294,7 +17064,7 @@
       "issueNumber": 25,
       "issueTitle": null,
       "releaseDate": "2026-12-04",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -17339,6 +17109,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "389abb071e9439c5",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 36,
+      "issueTitle": null,
+      "releaseDate": "2026-12-04",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17496,19 +17280,6 @@
       "projected": true
     },
     {
-      "id": "a9e43cddc2b51985",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Marsupio a 14,99€",
-      "releaseDate": "2026-12-08",
-      "price": 14.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "f643d1b16a80f69c",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17593,19 +17364,6 @@
       "projected": true
     },
     {
-      "id": "258c605db7d73982",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1968–69 a 6,99€",
-      "releaseDate": "2026-12-10",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "0c35b8efe6df1688",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -17645,20 +17403,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "389abb071e9439c5",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 36,
-      "issueTitle": null,
-      "releaseDate": "2026-12-11",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17872,19 +17616,6 @@
       "projected": true
     },
     {
-      "id": "d8e4e3c389ecb543",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Asciugamano sport a 14,99€",
-      "releaseDate": "2026-12-15",
-      "price": 14.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "fd8e5bf933dbcef3",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18025,19 +17756,6 @@
       "projected": true
     },
     {
-      "id": "b444128457798ed0",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1969–70 a 6,99€",
-      "releaseDate": "2026-12-17",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "b223c971016fd5ef",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -18074,7 +17792,7 @@
       "issueNumber": 26,
       "issueTitle": null,
       "releaseDate": "2026-12-18",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -18105,6 +17823,20 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e8e8eb3f5fe5e5e9",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 37,
+      "issueTitle": null,
+      "releaseDate": "2026-12-18",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18262,19 +17994,6 @@
       "projected": true
     },
     {
-      "id": "6869283ecfdc3136",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Beauty a 9,99€",
-      "releaseDate": "2026-12-22",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "4ff7bfa88c2ee58b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18359,19 +18078,6 @@
       "projected": true
     },
     {
-      "id": "47aa4d3bcc7ee399",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1970–71 a 6,99€",
-      "releaseDate": "2026-12-24",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "7a8889b3d0b2da2f",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -18397,20 +18103,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "e8e8eb3f5fe5e5e9",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 37,
-      "issueTitle": null,
-      "releaseDate": "2026-12-25",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18624,19 +18316,6 @@
       "projected": true
     },
     {
-      "id": "dfb071494a346936",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Porta telefono a 9,99€",
-      "releaseDate": "2026-12-29",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "d221ef835d9abddf",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18777,19 +18456,6 @@
       "projected": true
     },
     {
-      "id": "9a01f77c26062c55",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1971–72 a 6,99€",
-      "releaseDate": "2026-12-31",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "bed9ea04cf7bde9d",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -18826,7 +18492,7 @@
       "issueNumber": 27,
       "issueTitle": null,
       "releaseDate": "2027-01-01",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -18843,6 +18509,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "535762f168db4f08",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 38,
+      "issueTitle": null,
+      "releaseDate": "2027-01-01",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19000,19 +18680,6 @@
       "projected": true
     },
     {
-      "id": "e03d94bdc04f20e3",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Duo lucchetti a 7,99€",
-      "releaseDate": "2027-01-05",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "e09e496922156dfd",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -19097,19 +18764,6 @@
       "projected": true
     },
     {
-      "id": "e1fd73d15bec4a9e",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1972–73 a 6,99€",
-      "releaseDate": "2027-01-07",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "18e44ca0ad47634f",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -19135,20 +18789,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "535762f168db4f08",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 38,
-      "issueTitle": null,
-      "releaseDate": "2027-01-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19362,19 +19002,6 @@
       "projected": true
     },
     {
-      "id": "9708199300c24e51",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tris pochette a 7,99€",
-      "releaseDate": "2027-01-12",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "7b5c766f818e04fb",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -19515,19 +19142,6 @@
       "projected": true
     },
     {
-      "id": "65148236aab231b6",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1973–74 a 6,99€",
-      "releaseDate": "2027-01-14",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "a8b7554707048c1a",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -19564,7 +19178,7 @@
       "issueNumber": 28,
       "issueTitle": null,
       "releaseDate": "2027-01-15",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -19581,6 +19195,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "54e1e0f80f61ff52",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 39,
+      "issueTitle": null,
+      "releaseDate": "2027-01-15",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19822,19 +19450,6 @@
       "projected": true
     },
     {
-      "id": "e850c2a83bcb49e3",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1974–75 a 6,99€",
-      "releaseDate": "2027-01-21",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "f6a8b328135b4197",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -19860,20 +19475,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "54e1e0f80f61ff52",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 39,
-      "issueTitle": null,
-      "releaseDate": "2027-01-22",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20199,19 +19800,6 @@
       "projected": true
     },
     {
-      "id": "b806e842a105b3bf",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1975–76 a 6,99€",
-      "releaseDate": "2027-01-28",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "4fed0c7ea4fab711",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -20248,7 +19836,7 @@
       "issueNumber": 29,
       "issueTitle": null,
       "releaseDate": "2027-01-29",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -20265,6 +19853,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "aae5879b07ebd360",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 40,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20478,19 +20080,6 @@
       "projected": true
     },
     {
-      "id": "065e8d02e7b753cd",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1976–77 a 6,99€",
-      "releaseDate": "2027-02-04",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "9169a9231c49f382",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -20516,20 +20105,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "aae5879b07ebd360",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 40,
-      "issueTitle": null,
-      "releaseDate": "2027-02-05",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20855,19 +20430,6 @@
       "projected": true
     },
     {
-      "id": "1e137e496d32bcb5",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1977–78 a 6,99€",
-      "releaseDate": "2027-02-11",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
       "id": "4e409ae89bf1d5b1",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
@@ -20904,7 +20466,7 @@
       "issueNumber": 30,
       "issueTitle": null,
       "releaseDate": "2027-02-12",
-      "price": 24.99,
+      "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
       "projected": true
@@ -20921,6 +20483,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a57ae8ec056cb603",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 41,
+      "issueTitle": null,
+      "releaseDate": "2027-02-12",
+      "price": 9.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20978,630 +20554,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
-    },
-    {
-      "id": "218a6b83d8aa0f53",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1978–79 a 6,99€",
-      "releaseDate": "2027-02-18",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "5000fa061556d2ee",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1979–80 a 6,99€",
-      "releaseDate": "2027-02-25",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "92e37fb097ed606c",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1980–81 a 6,99€",
-      "releaseDate": "2027-03-04",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "1a0577fd195f35b8",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1981–82 a 6,99€",
-      "releaseDate": "2027-03-11",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "6b630b38945a9247",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1982–83 a 6,99€",
-      "releaseDate": "2027-03-18",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "62a97a496fb5e2bb",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1983–84 a 6,99€",
-      "releaseDate": "2027-03-25",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "36138b2b34d0e492",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1984–85 a 6,99€",
-      "releaseDate": "2027-04-01",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "d3a06f4bab7887f4",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1985–86 a 6,99€",
-      "releaseDate": "2027-04-08",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "75f51251e290028c",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1986–87 a 6,99€",
-      "releaseDate": "2027-04-15",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "0b371308a552ae24",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1987–88 a 6,99€",
-      "releaseDate": "2027-04-22",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "746c2b6c2aca7ce8",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1988–89 a 6,99€",
-      "releaseDate": "2027-04-29",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "2d079af9e3cc02df",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1989–90 a 6,99€",
-      "releaseDate": "2027-05-06",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "ffe64d82a5d9d562",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1990–91 a 6,99€",
-      "releaseDate": "2027-05-13",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "0674267c879ee8a8",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1991–92 a 6,99€",
-      "releaseDate": "2027-05-20",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "22eb9be0b107b6c8",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1992–93 a 6,99€",
-      "releaseDate": "2027-05-27",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "a8b175db051059ec",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1993–94 a 6,99€",
-      "releaseDate": "2027-06-03",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "503960e3b689d7b2",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1994–95 a 6,99€",
-      "releaseDate": "2027-06-10",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "9be826cc17e3b43e",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1995–96 a 6,99€",
-      "releaseDate": "2027-06-17",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "39a61ac23bac043c",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1996–97 a 6,99€",
-      "releaseDate": "2027-06-24",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "d68c466489d22ae4",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1997–98 a 6,99€",
-      "releaseDate": "2027-07-01",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "5450328b07ec6919",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1998–99 a 6,99€",
-      "releaseDate": "2027-07-08",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "68c3bae9952dac82",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 1999–00 a 6,99€",
-      "releaseDate": "2027-07-15",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "2e238dc5399ad71b",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2000–01 a 6,99€",
-      "releaseDate": "2027-07-22",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "cc942843f7cdcb67",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2001–02 a 6,99€",
-      "releaseDate": "2027-07-29",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "5dfe861345925f21",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2002–03 a 6,99€",
-      "releaseDate": "2027-08-05",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "795828447a067f58",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2003–04 a 6,99€",
-      "releaseDate": "2027-08-12",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "d9c7b5c6e140b2b6",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2004–05 a 6,99€",
-      "releaseDate": "2027-08-19",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "23ccce72847158f0",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2005–06 a 6,99€",
-      "releaseDate": "2027-08-26",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "85c4478c3d7157ae",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2006–07 a 6,99€",
-      "releaseDate": "2027-09-02",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "01a8674a9a760584",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2007–08 a 6,99€",
-      "releaseDate": "2027-09-09",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "94b855af7a157a97",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2008-09 a 6,99€",
-      "releaseDate": "2027-09-16",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "06ee60c4e946f791",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2009–10 a 6,99€",
-      "releaseDate": "2027-09-23",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "80f6e256676e1c66",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2010–11 a 6,99€",
-      "releaseDate": "2027-09-30",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "cbceb0866f17b2d5",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2011–12 a 6,99€",
-      "releaseDate": "2027-10-07",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "092fed331e387ff1",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2012-13 a 6,99€",
-      "releaseDate": "2027-10-14",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "290d9da570367cee",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2013-14 a 6,99€",
-      "releaseDate": "2027-10-21",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "9a7e1b990f390109",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2014-15 a 6,99€",
-      "releaseDate": "2027-10-28",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "53f2eb1b6b6adebf",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2015-16 a 6,99€",
-      "releaseDate": "2027-11-04",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "1937ebcea2c38cc3",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2016-17 a 6,99€",
-      "releaseDate": "2027-11-11",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "f6c6c7d3d7e48725",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2017-18 a 6,99€",
-      "releaseDate": "2027-11-18",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "c2a4667c0446517d",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2018-19 a 6,99€",
-      "releaseDate": "2027-11-25",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "921ec6c89f90c765",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2019-20 a 6,99€",
-      "releaseDate": "2027-12-02",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "e972686f5e7b3a29",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2020-21 a 6,99€",
-      "releaseDate": "2027-12-09",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "7f348f6030b70637",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2021-22 a 6,99€",
-      "releaseDate": "2027-12-16",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "7bf8b3a5ec7f57d4",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2022-23 a 6,99€",
-      "releaseDate": "2027-12-23",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "d93c903d85527d00",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2023-24 a 6,99€",
-      "releaseDate": "2027-12-30",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "f19aa15596fea517",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2024-25 a 6,99€",
-      "releaseDate": "2028-01-06",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-    },
-    {
-      "id": "e914e49326d46ee0",
-      "seriesId": "d6a5df4424687946",
-      "seriesTitle": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Album stagione 2025-26 a 6,99€",
-      "releaseDate": "2028-01-13",
-      "price": 6.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
     }
   ]
 }

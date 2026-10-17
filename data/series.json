@@ -126,6 +126,15 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
+    "id": "3a6f2b841e4d2ca1",
+    "title": "Dylan Dog 40",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
+    "totalIssues": 41,
+    "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
+  },
+  {
     "id": "637462d5afd61745",
     "title": "Leo Ortolani presenta La Conjura del male",
     "category": "fumetti",
@@ -142,15 +151,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
     "totalIssues": 200,
     "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
-  },
-  {
-    "id": "3a6f2b841e4d2ca1",
-    "title": "Dylan Dog 40",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
-    "totalIssues": 41,
-    "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
   },
   {
     "id": "02defd3ac37b3bac",
@@ -234,6 +234,24 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
+    "id": "1b9f05885662c613",
+    "title": "I Classici Disney",
+    "category": "fumetti",
+    "publisher": "Disney Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wclas511v_0_risultato.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/classici-disney-collana.html"
+  },
+  {
+    "id": "ec0e992ad86159f7",
+    "title": "Alan Ford Anastatica",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
+  },
+  {
     "id": "d7582e089fca0f38",
     "title": "Hugo Pratt Collection",
     "category": "fumetti",
@@ -261,15 +279,6 @@
     "sourceUrl": "https://www.primaedicola.it/paperinik-collana.html"
   },
   {
-    "id": "ec0e992ad86159f7",
-    "title": "Alan Ford Anastatica",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
-  },
-  {
     "id": "32e9f3b920a2000c",
     "title": "Disney Paperino",
     "category": "fumetti",
@@ -295,15 +304,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
-  },
-  {
-    "id": "1b9f05885662c613",
-    "title": "I Classici Disney",
-    "category": "fumetti",
-    "publisher": "Disney Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/1/w/1wclas511v_0_risultato.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/classici-disney-collana.html"
   },
   {
     "id": "1be164ad3502a36e",
@@ -358,6 +358,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "ccae5518feb5e50c",
+    "title": "Ford Mustang Collection in scala 1:43",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html"
+  },
+  {
+    "id": "35b976d7cdb1be48",
+    "title": "Le grandi Ferrari F1",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
+    "totalIssues": 101,
+    "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
   },
   {
     "id": "8a7f4ec3d898cc7d",
@@ -468,24 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-scala-143-collana.html"
   },
   {
-    "id": "ccae5518feb5e50c",
-    "title": "Ford Mustang Collection in scala 1:43",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html"
-  },
-  {
-    "id": "35b976d7cdb1be48",
-    "title": "Le grandi Ferrari F1",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
-    "totalIssues": 101,
-    "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -520,6 +520,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-navicelle-starwars.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
+  },
+  {
+    "id": "4e7e8ad8f1409c77",
+    "title": "Tiger Mask - 3D Collection",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html"
+  },
+  {
+    "id": "1ab1bf839807a5a2",
+    "title": "Eddie 3D - Iron Maiden",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html"
   },
   {
     "id": "8652efa4702b946c",
@@ -565,24 +583,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html"
-  },
-  {
-    "id": "4e7e8ad8f1409c77",
-    "title": "Tiger Mask - 3D Collection",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html"
-  },
-  {
-    "id": "1ab1bf839807a5a2",
-    "title": "Eddie 3D - Iron Maiden",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html"
   },
   {
     "id": "aa57d62d4d21675b",
@@ -693,6 +693,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-classici-letteratura-gribaudo-collana.html"
   },
   {
+    "id": "5b6971f2111cfa04",
+    "title": "La grande letteratura italiana (ed. 2026)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
+  },
+  {
     "id": "d56e38eb408487d5",
     "title": "Capolavori in miniatura (ed. 2025)",
     "category": "libri",
@@ -709,15 +718,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/a/gardini_odissea_risultato_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
-  },
-  {
-    "id": "5b6971f2111cfa04",
-    "title": "La grande letteratura italiana (ed. 2026)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
   },
   {
     "id": "aedc693e67ed662a",
@@ -828,6 +828,24 @@
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
   },
   {
+    "id": "c267b626271c3f8e",
+    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
+    "category": "libri",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+    "totalIssues": 99,
+    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
+  },
+  {
+    "id": "621a2b1dcfb36d3e",
+    "title": "C'era una volta...Le più belle FIABE illustrate",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
+  },
+  {
     "id": "57598e2090b3e551",
     "title": "La biblioteca delle stagioni",
     "category": "libri",
@@ -853,24 +871,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
-  },
-  {
-    "id": "c267b626271c3f8e",
-    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
-    "category": "libri",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-    "totalIssues": 99,
-    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
-  },
-  {
-    "id": "621a2b1dcfb36d3e",
-    "title": "C'era una volta...Le più belle FIABE illustrate",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -934,105 +934,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/w/e/web_topipittori_primaedicola_1600_x_1600_risultato.jpg",
     "totalIssues": 40,
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
-  },
-  {
-    "id": "35aac7353536f8cc",
-    "title": "Topolino con Edi Amico Geniale con lampada LED in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-Edi-Amico-Geniale-con-lampada-LED-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-edi-amico-geniale/"
-  },
-  {
-    "id": "a824a14008e41193",
-    "title": "Donna Moderna con matita occhi Royal Beauty in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Donna-Moderna-con-matita-occhi-Royal-Beauty-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/donna-moderna-con-matita-occhi-royal-beauty/"
-  },
-  {
-    "id": "ab14059ec6891fb9",
-    "title": "Elle con mascara e eyeliner Rougj+: 2 beauty essential tra cui scegliere",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/12/Elle-con-mascara-e-eyeliner-Rougj-2-beauty-essential-tra-cui-scegliere.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-mascara-e-eyeliner-rougj/"
-  },
-  {
-    "id": "d6a5df4424687946",
-    "title": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
-    "category": "collezionabili",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
-  },
-  {
-    "id": "4d8037c4f69449f6",
-    "title": "Amica con mascara Face D Black Volume in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
-  },
-  {
-    "id": "853780fa701cfe3c",
-    "title": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-    "category": "collezionabili",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-  },
-  {
-    "id": "d4d810c1e5188608",
-    "title": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
-  },
-  {
-    "id": "e1c231c1f5bf31b3",
-    "title": "Topolino con i dadi da gioco di Wizards of Mickey",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-i-dadi-da-gioco-di-Wizards-of-Mickey.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-i-dadi-da-gioco-di-wizards-of-mickey/"
-  },
-  {
-    "id": "7cd15dd8d8ff7553",
-    "title": "Vanity Fair con Rituals Foaming Shower Gel in 3 profumazioni full size",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Vanity-Fair-con-Rituals-Foaming-Shower-Gel.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/vanity-fair-con-rituals/"
-  },
-  {
-    "id": "fe42f2ae9cef3d88",
-    "title": "Cotto e Mangiato con tagliapizza: uno strumento semplice e indispensabile",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Cotto-e-Mangiato-con-tagliapizza-IPAC.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/cotto-e-mangiato-con-tagliapizza/"
-  },
-  {
-    "id": "17415fd3f627e713",
-    "title": "Forbidden Fruit Magazine con cappello anti-pioggia in edicola: stile anche sotto la pioggia",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Forbidden-Fruit-Magazine-con-cappello-anti-pioggia-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-cappello-anti-pioggia/"
   },
   {
     "id": "ad2ece91dfb2c37a",
@@ -1953,6 +1854,51 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
   },
   {
+    "id": "98668daae45e1f79",
+    "title": "Alien Vs. Capitan America: L'Arma Perfetta",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRWO006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/alien-vs-capitan-america-l-arma-perfetta-mprwo006isbn-it08.html"
+  },
+  {
+    "id": "085b8ec8f63017cf",
+    "title": "Cyberpunk 2077: Chrome",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCYPU011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/cyberpunk-2077-chrome-mcypu011isbn-it08.html"
+  },
+  {
+    "id": "d2be0cfae0664d8a",
+    "title": "Wolverine Origini",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMSER025ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-origini-3-mmser025isbn-it08.html"
+  },
+  {
+    "id": "4b6fc62a8ceec170",
+    "title": "Ultimate Wolverine",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST239ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-wolverine-2-mfrst239isbn-it08.html"
+  },
+  {
+    "id": "e6b8763913c969c8",
+    "title": "Ultimate Spider-Man",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST238ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-spider-man-4-mfrst238isbn-it08.html"
+  },
+  {
     "id": "67feb811e2fb0606",
     "title": "New Avengers",
     "category": "fumetti",
@@ -2232,6 +2178,42 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-holiday-celebration-3703-1wtopo3703v-it08.html"
   },
   {
+    "id": "510e5001f836e5c2",
+    "title": "The Witcher: L'Ultimo Desiderio",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/the-witcher-l-ultimo-desiderio-mthwi021isbn-it08.html"
+  },
+  {
+    "id": "09514244eb888920",
+    "title": "Centuria",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCENT008ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/centuria-8-mcent008isbn-it08.html"
+  },
+  {
+    "id": "382ac593f7999084",
+    "title": "Otr Of The Flame",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOTRF003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-3-motrf003isbn-it08.html"
+  },
+  {
+    "id": "d1f7625fa0e5c859",
+    "title": "Spy × Family",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/spy-family-17-mplsh124-it08.html"
+  },
+  {
     "id": "a10c27738d4c1434",
     "title": "Warhammer 40.000: Brutalmente Aztuto",
     "category": "fumetti",
@@ -2239,6 +2221,33 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-40-000-brutalmente-aztuto-mrowa054isbn-it08.html"
+  },
+  {
+    "id": "e26ce51d386d9b52",
+    "title": "Predator: Black, White & Blood",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/P/MPRED004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/predator-black-white-blood-mpred004isbn-it08.html"
+  },
+  {
+    "id": "c19981840c74191b",
+    "title": "Darevil",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST240ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/darevil-5-mfrst240isbn-it08.html"
+  },
+  {
+    "id": "ff4dddfa813e45d7",
+    "title": "Io Sono Doom",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MANTO020ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/io-sono-doom-manto020isbn-it08.html"
   },
   {
     "id": "be70bfdfd7de0000",
