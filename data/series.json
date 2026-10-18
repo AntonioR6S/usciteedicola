@@ -360,6 +360,15 @@
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
   },
   {
+    "id": "ba192cabc19652b8",
+    "title": "Alfa Romeo Sport Collection in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-alfaromeo-sportcollection_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-scala-143-collana.html"
+  },
+  {
     "id": "ccae5518feb5e50c",
     "title": "Ford Mustang Collection in scala 1:43",
     "category": "modellini",
@@ -477,15 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html"
   },
   {
-    "id": "ba192cabc19652b8",
-    "title": "Alfa Romeo Sport Collection in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-alfaromeo-sportcollection_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-scala-143-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -520,6 +520,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-navicelle-starwars.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
+  },
+  {
+    "id": "795e3890f3d6de26",
+    "title": "MARVEL Movie Museum",
+    "category": "figures",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html"
   },
   {
     "id": "4e7e8ad8f1409c77",
@@ -574,15 +583,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
     "totalIssues": 52,
     "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html"
-  },
-  {
-    "id": "795e3890f3d6de26",
-    "title": "MARVEL Movie Museum",
-    "category": "figures",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html"
   },
   {
     "id": "aa57d62d4d21675b",
@@ -934,6 +934,105 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/w/e/web_topipittori_primaedicola_1600_x_1600_risultato.jpg",
     "totalIssues": 40,
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
+  },
+  {
+    "id": "35aac7353536f8cc",
+    "title": "Topolino con Edi Amico Geniale con lampada LED in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-Edi-Amico-Geniale-con-lampada-LED-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-edi-amico-geniale/"
+  },
+  {
+    "id": "a824a14008e41193",
+    "title": "Donna Moderna con matita occhi Royal Beauty in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Donna-Moderna-con-matita-occhi-Royal-Beauty-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/donna-moderna-con-matita-occhi-royal-beauty/"
+  },
+  {
+    "id": "ab14059ec6891fb9",
+    "title": "Elle con mascara e eyeliner Rougj+: 2 beauty essential tra cui scegliere",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/12/Elle-con-mascara-e-eyeliner-Rougj-2-beauty-essential-tra-cui-scegliere.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-mascara-e-eyeliner-rougj/"
+  },
+  {
+    "id": "d6a5df4424687946",
+    "title": "Collezione album Calciatori Panini: torna in edicola la versione anastatica degli album storici",
+    "category": "collezionabili",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-album-Calciatori-Panini-anastatica.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
+  },
+  {
+    "id": "4d8037c4f69449f6",
+    "title": "Amica con mascara Face D Black Volume in edicola",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
+  },
+  {
+    "id": "853780fa701cfe3c",
+    "title": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
+    "category": "collezionabili",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
+  },
+  {
+    "id": "d4d810c1e5188608",
+    "title": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
+  },
+  {
+    "id": "e1c231c1f5bf31b3",
+    "title": "Topolino con i dadi da gioco di Wizards of Mickey",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-i-dadi-da-gioco-di-Wizards-of-Mickey.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-i-dadi-da-gioco-di-wizards-of-mickey/"
+  },
+  {
+    "id": "7cd15dd8d8ff7553",
+    "title": "Vanity Fair con Rituals Foaming Shower Gel in 3 profumazioni full size",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Vanity-Fair-con-Rituals-Foaming-Shower-Gel.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/vanity-fair-con-rituals/"
+  },
+  {
+    "id": "fe42f2ae9cef3d88",
+    "title": "Cotto e Mangiato con tagliapizza: uno strumento semplice e indispensabile",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Cotto-e-Mangiato-con-tagliapizza-IPAC.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/cotto-e-mangiato-con-tagliapizza/"
+  },
+  {
+    "id": "17415fd3f627e713",
+    "title": "Forbidden Fruit Magazine con cappello anti-pioggia in edicola: stile anche sotto la pioggia",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Forbidden-Fruit-Magazine-con-cappello-anti-pioggia-in-edicola.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-cappello-anti-pioggia/"
   },
   {
     "id": "ad2ece91dfb2c37a",
