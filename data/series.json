@@ -549,15 +549,6 @@
     "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html"
   },
   {
-    "id": "8652efa4702b946c",
-    "title": "One Piece Plexies Collection",
-    "category": "figures",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
-    "totalIssues": 20,
-    "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
-  },
-  {
     "id": "620f26177a19d19c",
     "title": "My Hero Academia 3D Collection",
     "category": "figures",
@@ -565,6 +556,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
+  },
+  {
+    "id": "8652efa4702b946c",
+    "title": "One Piece Plexies Collection",
+    "category": "figures",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
+    "totalIssues": 20,
+    "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
   },
   {
     "id": "b9e49c1bcf3d8f97",
@@ -1035,49 +1035,13 @@
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/forbidden-fruit-magazine-con-cappello-anti-pioggia/"
   },
   {
-    "id": "ad2ece91dfb2c37a",
-    "title": "Disney Mix Speciale",
+    "id": "fee0738159e8d5ba",
+    "title": "Le Mitiche Storie di Jerry Siegel",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WDMIX041SP2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WSPEC113_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/disney-mix-speciale-42-1wdmix041sp2-it08.html"
-  },
-  {
-    "id": "9a93ab7b4044dbf0",
-    "title": "Disney Big",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/disney-big-223-1wdbig223-it08.html"
-  },
-  {
-    "id": "c7515109f6738388",
-    "title": "Hot Wheels",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/m/h/mhotw025box_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/hot-wheels-mhotw025box-it08.html"
-  },
-  {
-    "id": "1784871c43ea0437",
-    "title": "Sonic Attacca & Colora",
-    "category": "riviste",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/sonic-attacca-colora-mpapo025-it08.html"
-  },
-  {
-    "id": "2d714c0ec6300afe",
-    "title": "Topolino 3700 con i Dadi da Gioco di Wizards of Mickey",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3700-con-i-dadi-da-gioco-di-wizards-of-mickey-1wtopo3700v-it08.html"
+    "sourceUrl": "https://www.panini.it/shp_ita_it/le-mitiche-storie-di-jerry-siegel-1wspec113-it08.html"
   },
   {
     "id": "f4555addc9ecaaf3",
@@ -1086,394 +1050,7 @@
     "publisher": "Panini",
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3700-1wtopo3700-it08.html"
-  },
-  {
-    "id": "9c16d084898d9ded",
-    "title": "Ultimate X-Men",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST241ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-x-men-4-mfrst241isbn-it08.html"
-  },
-  {
-    "id": "e55f438b4e3c198e",
-    "title": "D.Gray-Man",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMSUP025ISBNR3_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/d-gray-man-6-mmsup025isbnr3-it08.html"
-  },
-  {
-    "id": "4317773b750adb49",
-    "title": "Sogno o Realtà?",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/Y/MYUKA005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/sogno-o-realt-5-myuka005isbn-it08.html"
-  },
-  {
-    "id": "53ee4bde778efa33",
-    "title": "Hirano E Kagiura",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/H/MHIRA007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/hirano-e-kagiura-7-mhira007isbn-it08.html"
-  },
-  {
-    "id": "b47fa279ed98cf01",
-    "title": "Circus: l'Ultimo Spettacolo",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WTOEX034_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/circus-l-ultimo-spettacolo-1wtoex034-it08.html"
-  },
-  {
-    "id": "552bc947e851600a",
-    "title": "Tim Burton's the Nightmare Before Christmas: Lunga Vita alla Regina delle Zucche",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/tim-burton-s-the-nightmare-before-christmas-lunga-vita-alla-regina-delle-zucche-1wnight002isbn-it08.html"
-  },
-  {
-    "id": "4b5a1b5c43e6d56b",
-    "title": "Pk: Galaxy Gate",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/pk-galaxy-gate-2-1wdili058-it08.html"
-  },
-  {
-    "id": "a77aa0592fe96f73",
-    "title": "The World After the Fall",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFALL006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/the-world-after-the-fall-6-mfall006isbn-it08.html"
-  },
-  {
-    "id": "cdd560a1bbd15984",
-    "title": "Ken Il Guerriero: Le Origini Del Mito Extreme Edition",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/ken-il-guerriero-le-origini-del-mito-extreme-edition-13-msken013isbn-it08.html"
-  },
-  {
-    "id": "c21ec9b3ca4065d2",
-    "title": "Ken Il Guerriero Spin-Off: La Leggenda Di Amiba Il Genio, Conquistatore Di Un Altro Mondo",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/ken-il-guerriero-spin-off-la-leggenda-di-amiba-il-genio-conquistatore-di-un-altro-mondo-2-mkens011isbn-it08.html"
-  },
-  {
-    "id": "21313dbec8ed8470",
-    "title": "Zio Paperone: Il Papero Più Potente della Terra",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WPROG023_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/zio-paperone-il-papero-pi-potente-della-terra-2-1wprog023-it08.html"
-  },
-  {
-    "id": "f1bcfda1c9ed6830",
-    "title": "Star Wars-Jedi: Fallen Order",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSWAN002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/star-wars-jedi-fallen-order-2-mswan002isbn-it08.html"
-  },
-  {
-    "id": "2e7ac022a349be6e",
-    "title": "Naruto Color New Edition",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-17-mkeni112-it08.html"
-  },
-  {
-    "id": "5384f51587451fcb",
-    "title": "Star Wars",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSTWS136_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/star-wars-11-mstws136-it08.html"
-  },
-  {
-    "id": "fbc05cfd80b5bb52",
-    "title": "Le Micidiali Storie Di Spawn Pistolero",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSPAU050ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/le-micidiali-storie-di-spawn-pistolero-2-mspau050isbn-it08.html"
-  },
-  {
-    "id": "96f2685bad48d735",
-    "title": "La Spada Selvaggia Di Conan Riforgiata",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSPARI004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/la-spada-selvaggia-di-conan-riforgiata-4-mspari004isbn-it08.html"
-  },
-  {
-    "id": "2934baddb827643d",
-    "title": "Conan Il Barbaro",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCOFU036_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/conan-il-barbaro-18-mcofu036-it08.html"
-  },
-  {
-    "id": "69eaa6e67a865f24",
-    "title": "Avengers: Gli Eroi Più Potenti Della Terra",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAPOK019ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-gli-eroi-pi-potenti-della-terra-mapok019isbn-it08.html"
-  },
-  {
-    "id": "6ba9df4eeaaa7296",
-    "title": "Spectacular Spider Man: Venom si Sveglia a Mezzanotte",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMUST155ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-venom-si-sveglia-a-mezzanotte-mmust155isbn-it08.html"
-  },
-  {
-    "id": "98513fc20e329d26",
-    "title": "Capitan America: Fuori dal Tempo",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMUST156ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/capitan-america-fuori-dal-tempo-mmust156isbn-it08.html"
-  },
-  {
-    "id": "4c0c73e88db87fda",
-    "title": "Deadly Hands Of K'Unlun: La Caduta Delle Capitali Del Paradiso",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI401ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/deadly-hands-of-k-unlun-la-caduta-delle-capitali-del-paradiso-mnowi401isbn-it08.html"
-  },
-  {
-    "id": "9b1278ca40761c3a",
-    "title": "Iron Man",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFRST235ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/iron-man-2-mfrst235isbn-it08.html"
-  },
-  {
-    "id": "e53d23fffafb4786",
-    "title": "Doom Wars Collection",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MADOC002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/doom-wars-collection-2-madoc002isbn-it08.html"
-  },
-  {
-    "id": "8b415331516d6858",
-    "title": "Sentry: Vuoto Interiore",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI396ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/sentry-vuoto-interiore-mnowi396isbn-it08.html"
-  },
-  {
-    "id": "8f6fb44e6216e7fd",
-    "title": "La Nuovissima Spider-Ghewn-Ghost Spider vol.2",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/la-nuovissima-spider-ghewn-ghost-spider-vol-2-2-msgwn013isbn-it08.html"
-  },
-  {
-    "id": "ff5fbe03a659eac1",
-    "title": "Ultimate Impact: Reborn",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/U/MUUEG007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-impact-reborn-2-muueg007isbn-it08.html"
-  },
-  {
-    "id": "05e54daa59559f50",
-    "title": "Amazing Spider-Man",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ319ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/amazing-spider-man-21-mamaz319isbnv1-it08.html"
-  },
-  {
-    "id": "957a35143ca75958",
-    "title": "Dc Horror Presenta: Creature Commandos",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1HCIN201ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-horror-presenta-creature-commandos-m1hcin201isbn-it08.html"
-  },
-  {
-    "id": "6f746e472c3f3ba7",
-    "title": "Dc: Speciale Halloween",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BMSK006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/dc-speciale-halloween-2026-m1bmsk006isbn-it08.html"
-  },
-  {
-    "id": "50457fdaf8f17999",
-    "title": "Lanterna Verde",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1HCIN200ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/lanterna-verde-6-m1hcin200isbn-it08.html"
-  },
-  {
-    "id": "2e9d4261521d51dd",
-    "title": "Constantine",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1DCMH103ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/constantine-1-m1dcmh103isbn-it08.html"
-  },
-  {
-    "id": "171d7859861850d8",
-    "title": "Swamp Thing di Brian K. Vaughan",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BLMH052ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/swamp-thing-di-brian-k-vaughan-1-m1blmh052isbn-it08.html"
-  },
-  {
-    "id": "66575dcfdac89705",
-    "title": "Avengers/Jla",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1VARI007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-jla-2-m1vari007isbn-it08.html"
-  },
-  {
-    "id": "20a5c1065794ddab",
-    "title": "Absolute Lanterna Verde",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABGL013ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-lanterna-verde-13-m1abgl013isbn-it08.html"
-  },
-  {
-    "id": "3f053c31774a3d4a",
-    "title": "Superman",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1SUPM092ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/superman-39-m1supm092isbn-it08.html"
-  },
-  {
-    "id": "0830045a587e2a9d",
-    "title": "Absolute Flash",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFL013ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-13-m1abfl013isbn-it08.html"
-  },
-  {
-    "id": "4c2aaa2ab233896f",
-    "title": "Batman/Superman: I Migliori del Mondo",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BTMA076ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/batman-superman-i-migliori-del-mondo-45-m1btma076isbn-it08.html"
-  },
-  {
-    "id": "88c28d87a7e7a684",
-    "title": "Absolute Wonder Woman",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABWW018ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-wonder-woman-18-m1abww018isbn-it08.html"
-  },
-  {
-    "id": "b90a550efa5e16b2",
-    "title": "Little Nightmares: Discesa Verso il Nulla",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/L/MLITTN001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/little-nightmares-discesa-verso-il-nulla-mlittn001isbn-it08.html"
-  },
-  {
-    "id": "561d4a697b0f21d8",
-    "title": "Warhammer – The Horus Heresy: Liberazione Perduta",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MROWA045ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-liberazione-perduta-18-mrowa045isbn-it08.html"
-  },
-  {
-    "id": "cb7e5128a7d80305",
-    "title": "X-Men di Apocalisse",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI387ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/x-men-di-apocalisse-mnowi387isbn-it08.html"
-  },
-  {
-    "id": "a40dbc665fa43149",
-    "title": "Marvel Knights: Il Mondo Che Verrà",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/N/MNOWI377ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-mnowi377isbn-it08.html"
-  },
-  {
-    "id": "fee0738159e8d5ba",
-    "title": "Le Mitiche Storie di Jerry Siegel",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WSPEC113_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/le-mitiche-storie-di-jerry-siegel-1wspec113-it08.html"
+    "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-1wtopo3701f-it08.html"
   },
   {
     "id": "3fae1be844ab1601",
@@ -1593,6 +1170,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/il-taccuino-di-silvia-ziche-1wtacc006isbn-it08.html"
   },
   {
+    "id": "21313dbec8ed8470",
+    "title": "Zio Paperone: Il Papero Più Potente della Terra",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WBOOK102ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/zio-paperone-il-papero-pi-potente-della-terra-1wbook102isbn-it08.html"
+  },
+  {
     "id": "a5760417d4bdb241",
     "title": "Superdeluxe PK: Evroniani",
     "category": "fumetti",
@@ -1636,6 +1222,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MATGR004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/atelier-of-witch-hat-grimoire-edition-4-matgr004isbn-it08.html"
+  },
+  {
+    "id": "2e7ac022a349be6e",
+    "title": "Naruto Color New Edition",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKENI113_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-18-mkeni113-it08.html"
   },
   {
     "id": "0c986f069ca366db",
@@ -1879,6 +1474,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1FACS025ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/dc-facsimile-edition-swamp-thing-37-m1facs025isbn-it08.html"
+  },
+  {
+    "id": "a40dbc665fa43149",
+    "title": "Marvel Knights: Il Mondo Che Verrà",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-knights-il-mondo-che-verr-marts011isbn-it08.html"
   },
   {
     "id": "6535fe8819f5dcdd",
