@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:36:21.096Z",
+  "generatedAt": "2026-10-20T09:53:41.208Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -6047,19 +6047,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-presente-come-storia-perche-il-passato-ci.html"
     },
     {
-      "id": "f0bafba459e1056a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 44,
-      "issueTitle": "I granchietti e il mare",
-      "releaseDate": "2026-07-21",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-i-granchietti-e-il-mare_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
-    },
-    {
       "id": "acdf95ef814bab81",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -6071,6 +6058,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-animali.html"
+    },
+    {
+      "id": "f0bafba459e1056a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 44,
+      "issueTitle": "I granchietti e il mare",
+      "releaseDate": "2026-07-21",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-i-granchietti-e-il-mare_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-i-granchietti-e-il-mare.html"
     },
     {
       "id": "f75d3bab2053b7d8",
@@ -6502,19 +6502,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-tucidide-e-il-colpo-di-stato.html"
     },
     {
-      "id": "23e13601eed383b8",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 45,
-      "issueTitle": "Una guancia è perfetta",
-      "releaseDate": "2026-07-28",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
-    },
-    {
       "id": "38b8fcdfc16297c5",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -6526,6 +6513,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
+    },
+    {
+      "id": "23e13601eed383b8",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 45,
+      "issueTitle": "Una guancia è perfetta",
+      "releaseDate": "2026-07-28",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
     },
     {
       "id": "b39d9dc025643744",
@@ -6931,19 +6931,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-le-vie-del-classicismo.html"
     },
     {
-      "id": "50ecba8227f87088",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 46,
-      "issueTitle": "Polifemo e i gattini",
-      "releaseDate": "2026-08-04",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
-    },
-    {
       "id": "8586544a3b21d0ed",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -6955,6 +6942,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-libro-dei-perche-mondo.html"
+    },
+    {
+      "id": "50ecba8227f87088",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 46,
+      "issueTitle": "Polifemo e i gattini",
+      "releaseDate": "2026-08-04",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-polifemo-e-i-gattini_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-polifemo-e-i-gattini.html"
     },
     {
       "id": "dfb8ca2ed305ed76",
@@ -7373,19 +7373,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-classicismo-e-liberta.html"
     },
     {
-      "id": "206fa0dc3bc8a7ce",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 47,
-      "issueTitle": "L'isola deserta",
-      "releaseDate": "2026-08-11",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
-    },
-    {
       "id": "5e9dca15e97e6c77",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -7397,6 +7384,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-famiglia-punto-e-virgola.html"
+    },
+    {
+      "id": "206fa0dc3bc8a7ce",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 47,
+      "issueTitle": "L'isola deserta",
+      "releaseDate": "2026-08-11",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-l-isola-deserta_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-l-isola-deserta.html"
     },
     {
       "id": "78aa1621ce6b2da6",
@@ -7828,19 +7828,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-crisi-dell-utopia.html"
     },
     {
-      "id": "05380f107eba2da7",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 48,
-      "issueTitle": "E' il treno",
-      "releaseDate": "2026-08-18",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
-    },
-    {
       "id": "5c58905b820d6fb1",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -7852,6 +7839,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-casa-del-signor-venceslao.html"
+    },
+    {
+      "id": "05380f107eba2da7",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 48,
+      "issueTitle": "E' il treno",
+      "releaseDate": "2026-08-18",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-e-il-treno_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-e-il-treno.html"
     },
     {
       "id": "0f8e234197e7caf7",
@@ -8075,19 +8075,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-wolf-wr1-jody-schecketer-1977.html"
     },
     {
-      "id": "6d09d491d543fea3",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 1,
-      "issueTitle": "LANCIA DELTA HF INTEGRALE 16V - Rally d'Italia Sanremo 1989 (M. Biasion - T. Siviero)",
-      "releaseDate": "2026-08-22",
-      "price": 5.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia.html"
-    },
-    {
       "id": "61577c5210fce929",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -8099,6 +8086,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023.html"
+    },
+    {
+      "id": "6d09d491d543fea3",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 1,
+      "issueTitle": "LANCIA DELTA HF INTEGRALE 16V - Rally d'Italia Sanremo 1989 (M. Biasion - T. Siviero)",
+      "releaseDate": "2026-08-22",
+      "price": 5.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia.html"
     },
     {
       "id": "6b37aff1aa07d746",
@@ -8257,19 +8257,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-ideologie-del-classicismo.html"
     },
     {
-      "id": "5a58c9fd4a1c8906",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 49,
-      "issueTitle": "Marta e Paolino e zio Ugo",
-      "releaseDate": "2026-08-25",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
-    },
-    {
       "id": "2e152bd4a8834312",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -8281,6 +8268,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-eredita-di-topone.html"
+    },
+    {
+      "id": "5a58c9fd4a1c8906",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 49,
+      "issueTitle": "Marta e Paolino e zio Ugo",
+      "releaseDate": "2026-08-25",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-marta-e-paolino-e-zio-ugo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-marta-e-paolino-e-zio-ugo.html"
     },
     {
       "id": "de077d5fd4a6f550",
@@ -8764,19 +8764,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-viaggio-di-artemidoro.html"
     },
     {
-      "id": "4b3bbdabe04b1f60",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 50,
-      "issueTitle": "La scala senza pioli",
-      "releaseDate": "2026-09-01",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
-    },
-    {
       "id": "8a8154d8406a7e39",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -8788,6 +8775,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-principessa-allegra.html"
+    },
+    {
+      "id": "4b3bbdabe04b1f60",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 50,
+      "issueTitle": "La scala senza pioli",
+      "releaseDate": "2026-09-01",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-scala-senza-pioli_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-la-scala-senza-pioli.html"
     },
     {
       "id": "ae4c263bf5cfac72",
@@ -9050,19 +9050,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-maserati-250-f-juan-manuel-fangio-1957.html"
     },
     {
-      "id": "04fbdfc0568aa18a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 2,
-      "issueTitle": "CITROЁN DS3 WRC - Rally d'Italia Sardegna 2011 (S. Loeb - D. Elena)",
-      "releaseDate": "2026-09-05",
-      "price": 10.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011.html"
-    },
-    {
       "id": "7446175f0b5e43e7",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -9074,6 +9061,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023.html"
+    },
+    {
+      "id": "04fbdfc0568aa18a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 2,
+      "issueTitle": "CITROЁN DS3 WRC - Rally d'Italia Sardegna 2011 (S. Loeb - D. Elena)",
+      "releaseDate": "2026-09-05",
+      "price": 10.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011.html"
     },
     {
       "id": "35b23cd371e8813c",
@@ -9297,19 +9297,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-lezioni-di-filologia-classica.html"
     },
     {
-      "id": "1e07d748d103593c",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 51,
-      "issueTitle": "Re Giovanni e la luna",
-      "releaseDate": "2026-09-08",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
-    },
-    {
       "id": "c61ab34d590441e9",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -9321,6 +9308,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-semaforo-blu.html"
+    },
+    {
+      "id": "1e07d748d103593c",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 51,
+      "issueTitle": "Re Giovanni e la luna",
+      "releaseDate": "2026-09-08",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-re-giovanni-e-la-luna_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-re-giovanni-e-la-luna.html"
     },
     {
       "id": "01c9a254101e2a0c",
@@ -9830,19 +9830,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-il-porcospino-d-acciaio.html"
     },
     {
-      "id": "e08b248f367025e5",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 52,
-      "issueTitle": "Allegra, il pranzo e il coccodrillo",
-      "releaseDate": "2026-09-15",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-allegra-il-pranzo-e-il-coccodrillo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
-    },
-    {
       "id": "01a117202fbe5eb2",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -9854,6 +9841,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-cavallo-ammaestrato.html"
+    },
+    {
+      "id": "e08b248f367025e5",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 52,
+      "issueTitle": "Allegra, il pranzo e il coccodrillo",
+      "releaseDate": "2026-09-15",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-allegra-il-pranzo-e-il-coccodrillo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-allegra-il-pranzo-e-il-coccodrillo.html"
     },
     {
       "id": "8babaef1ba9f9417",
@@ -10103,19 +10103,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl39-lando-norris-2025.html"
     },
     {
-      "id": "c8e7a1083c1124b8",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 3,
-      "issueTitle": "TOYOTA GR YARIS RALLY1 - Rally de Portugal 2023 (K. Rovanperä - J. Halttunen)",
-      "releaseDate": "2026-09-19",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
-    },
-    {
       "id": "078ec0b4f92b8050",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -10127,6 +10114,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis.html"
+    },
+    {
+      "id": "c8e7a1083c1124b8",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 3,
+      "issueTitle": "TOYOTA GR YARIS RALLY1 - Rally de Portugal 2023 (K. Rovanperä - J. Halttunen)",
+      "releaseDate": "2026-09-19",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
     },
     {
       "id": "99d42618f09f6d2e",
@@ -10311,19 +10311,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-sovranita-limitata.html"
     },
     {
-      "id": "e6ef48de5c9fc37a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 53,
-      "issueTitle": "La palla",
-      "releaseDate": "2026-09-22",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
-    },
-    {
       "id": "d0094ac32ff95f10",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -10335,6 +10322,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-corsa-delle-tartarughe_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-corsa-delle-tartarughe.html"
+    },
+    {
+      "id": "e6ef48de5c9fc37a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 53,
+      "issueTitle": "La palla",
+      "releaseDate": "2026-09-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-la-palla_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-la-palla.html"
     },
     {
       "id": "7d51bba30c97f771",
@@ -10805,19 +10805,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-la-scopa-di-don-abbondio.html"
     },
     {
-      "id": "08f765d6f1a98d59",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 54,
-      "issueTitle": "Il corvo sul filo del bucato",
-      "releaseDate": "2026-09-29",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-il-corvo-sul-filo-del-bucato_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-il-corvo-sul-filo-del-bucato.html"
-    },
-    {
       "id": "bed05e66a98f1e66",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -10829,6 +10816,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-orso-pescatore_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-l-orso-pescatore.html"
+    },
+    {
+      "id": "08f765d6f1a98d59",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 54,
+      "issueTitle": "Il corvo sul filo del bucato",
+      "releaseDate": "2026-09-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-il-corvo-sul-filo-del-bucato_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-il-corvo-sul-filo-del-bucato.html"
     },
     {
       "id": "f1fa47364c7f54d3",
@@ -11117,19 +11117,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-honda-ra300-john-surtees-1967.html"
     },
     {
-      "id": "e830c0be6f7be780",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 4,
-      "issueTitle": "FIAT 131 ABARTH - Rally de Portugal 1978 (M. Alén -I. Kivimäki)",
-      "releaseDate": "2026-10-03",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen.html"
-    },
-    {
       "id": "2e8743f1b36cb9a4",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -11141,6 +11128,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc.html"
+    },
+    {
+      "id": "e830c0be6f7be780",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 4,
+      "issueTitle": "FIAT 131 ABARTH - Rally de Portugal 1978 (M. Alén -I. Kivimäki)",
+      "releaseDate": "2026-10-03",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen.html"
     },
     {
       "id": "956aa3d7b37dff49",
@@ -11351,19 +11351,6 @@
       "sourceUrl": "https://www.primaedicola.it/luciano-canfora-prima-lezione-di-storia-greca.html"
     },
     {
-      "id": "ba421cfe88c18038",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 55,
-      "issueTitle": "SuperCarlo",
-      "releaseDate": "2026-10-06",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-supercarlo_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-supercarlo.html"
-    },
-    {
       "id": "308898c5e79dd66a",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -11375,6 +11362,19 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-strada-di-cioccolato_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-la-strada-di-cioccolato.html"
+    },
+    {
+      "id": "ba421cfe88c18038",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 55,
+      "issueTitle": "SuperCarlo",
+      "releaseDate": "2026-10-06",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-supercarlo_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-supercarlo.html"
     },
     {
       "id": "10840da00ad83efa",
@@ -11429,19 +11429,6 @@
       "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-in-scala-1-43-kfz-15-901-1937-1940-infanterie-div-mot.html"
     },
     {
-      "id": "f614df4dd30409bb",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 4,
-      "issueTitle": "Eijiro Kirishima + Mount Lady (Parte 3)",
-      "releaseDate": "2026-10-07",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/y/my-hero-academia-3d-collection-eijiro-kirishima-mount-lady-parte-3_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-eijiro-kirishima-mount-lady-parte-3.html"
-    },
-    {
       "id": "de51018d9be28f0d",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -11453,6 +11440,19 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/o/n/one-piece-plexies-collection-roronoa-zoro_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-roronoa-zoro.html"
+    },
+    {
+      "id": "f614df4dd30409bb",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 4,
+      "issueTitle": "Eijiro Kirishima + Mount Lady (Parte 3)",
+      "releaseDate": "2026-10-07",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/y/my-hero-academia-3d-collection-eijiro-kirishima-mount-lady-parte-3_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-eijiro-kirishima-mount-lady-parte-3.html"
     },
     {
       "id": "485c8c66c2d86536",
@@ -11839,20 +11839,6 @@
       "projected": true
     },
     {
-      "id": "6a661d261a13e795",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 56,
-      "issueTitle": null,
-      "releaseDate": "2026-10-13",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "450d892c03efb2a1",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -11864,6 +11850,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "6a661d261a13e795",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 56,
+      "issueTitle": null,
+      "releaseDate": "2026-10-13",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -11936,19 +11936,6 @@
       "projected": true
     },
     {
-      "id": "8f57b1552140987e",
-      "seriesId": "35aac7353536f8cc",
-      "seriesTitle": "Topolino con Edi Amico Geniale con lampada LED in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-14",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/08/Topolino-con-Edi-Amico-Geniale-con-lampada-LED-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/topolino-con-edi-amico-geniale/"
-    },
-    {
       "id": "4a2bbb5e0f63a590",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -11989,32 +11976,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-anastatiche-mondiali-panini_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/collezione-anastatica-album-mondiali-panini-collana.html",
       "projected": true
-    },
-    {
-      "id": "f3da4c6109c2c0a5",
-      "seriesId": "a824a14008e41193",
-      "seriesTitle": "Donna Moderna con matita occhi Royal Beauty in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-15",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Donna-Moderna-con-matita-occhi-Royal-Beauty-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/donna-moderna-con-matita-occhi-royal-beauty/"
-    },
-    {
-      "id": "34d0fe1d7c46316f",
-      "seriesId": "ab14059ec6891fb9",
-      "seriesTitle": "Elle con mascara e eyeliner Rougj+: 2 beauty essential tra cui scegliere",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-15",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/12/Elle-con-mascara-e-eyeliner-Rougj-2-beauty-essential-tra-cui-scegliere.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-mascara-e-eyeliner-rougj/"
     },
     {
       "id": "c1cde28f946e7ecd",
@@ -12115,20 +12076,6 @@
       "projected": true
     },
     {
-      "id": "c5b06c1a747b85de",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 5,
-      "issueTitle": null,
-      "releaseDate": "2026-10-17",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "1bddd1fb59f3d41f",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -12140,6 +12087,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c5b06c1a747b85de",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 5,
+      "issueTitle": null,
+      "releaseDate": "2026-10-17",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -12310,20 +12271,6 @@
       "projected": true
     },
     {
-      "id": "4870d010f112c124",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 57,
-      "issueTitle": null,
-      "releaseDate": "2026-10-20",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "5c5ade9b353cdc57",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -12335,6 +12282,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4870d010f112c124",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 57,
+      "issueTitle": null,
+      "releaseDate": "2026-10-20",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -12366,20 +12327,6 @@
       "projected": true
     },
     {
-      "id": "d2fdd37be1a0d702",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 5,
-      "issueTitle": null,
-      "releaseDate": "2026-10-21",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "73438bc3d8bd2a15",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -12391,6 +12338,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d2fdd37be1a0d702",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 5,
+      "issueTitle": null,
+      "releaseDate": "2026-10-21",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -12769,6 +12730,19 @@
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2026-2027-album-cartonato-5-bustine-30-figurine.html"
     },
     {
+      "id": "d8aa6b8b69b06533",
+      "seriesId": "dc6467d8e6070c8b",
+      "seriesTitle": "I classici - Gribaudo",
+      "category": "libri",
+      "publisher": "Il Sole 24 ORE",
+      "issueNumber": 5,
+      "issueTitle": "Lo strano caso del dottor Jekyll e Mr. Hyde",
+      "releaseDate": "2026-10-27",
+      "price": 8.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-classici-gribaudo-lo-strano-caso-del-dottor-jekyll-e-mr-hyde_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-classici-gribaudo-lo-strano-caso-del-dottor-jekyll-e-mr-hyde.html"
+    },
+    {
       "id": "a6e6f657ff3c2a9e",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
@@ -12783,20 +12757,6 @@
       "projected": true
     },
     {
-      "id": "0100176df13f3f2a",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 58,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "fe69e20a24f0da41",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -12808,6 +12768,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "0100176df13f3f2a",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 58,
+      "issueTitle": null,
+      "releaseDate": "2026-10-27",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -12837,9 +12811,9 @@
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
     },
     {
-      "id": "71eabf146a2ca8ab",
-      "seriesId": "fee0738159e8d5ba",
-      "seriesTitle": "Le Mitiche Storie di Jerry Siegel",
+      "id": "13844256d28ef58f",
+      "seriesId": "6a7ee8af7a9fafa5",
+      "seriesTitle": "Grandi Autori: Jerry Siegel",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -12847,7 +12821,7 @@
       "releaseDate": "2026-10-27",
       "price": 7.6,
       "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WSPEC113_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/le-mitiche-storie-di-jerry-siegel-1wspec113-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/grandi-autori-jerry-siegel-1wspec113-it08.html"
     },
     {
       "id": "7144e8e26c4e5794",
@@ -12932,30 +12906,30 @@
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/vanity-fair-con-rituals/"
     },
     {
-      "id": "b0d8669074890941",
-      "seriesId": "f4555addc9ecaaf3",
-      "seriesTitle": "Topolino",
+      "id": "f1752aa6674e40d2",
+      "seriesId": "7512780bccb89a8c",
+      "seriesTitle": "Topolino 3701 Variant Lucca Comics",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Topolino 3701",
+      "issueTitle": "Topolino 3701 Variant Lucca Comics 3701",
       "releaseDate": "2026-10-28",
       "price": 8.55,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-1wtopo3701f-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-variant-lucca-comics-3701-1wtopo3701f-it08.html"
     },
     {
-      "id": "dabf2428d74188a0",
-      "seriesId": "f4555addc9ecaaf3",
-      "seriesTitle": "Topolino",
+      "id": "b10ece98b6843082",
+      "seriesId": "66090fcaf6e5404a",
+      "seriesTitle": "Topolino 3701 con Carta Disney Lorcana TCG",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Topolino 3701",
+      "issueTitle": null,
       "releaseDate": "2026-10-28",
       "price": 3.32,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-1wtopo3701-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-con-carta-disney-lorcana-tcg-1wtopo3701-it08.html"
     },
     {
       "id": "4d5a60ebbdbe7db1",
@@ -13026,12 +13000,12 @@
     },
     {
       "id": "9b84751b75ac0226",
-      "seriesId": "9ee6363c24454db5",
-      "seriesTitle": "Lavanderia Minato - Wash My Heart!",
+      "seriesId": "a7861354da537343",
+      "seriesTitle": "Lavanderia Minato – Wash My Heart!",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Lavanderia Minato - Wash My Heart! 5",
+      "issueTitle": "Lavanderia Minato – Wash My Heart! 5",
       "releaseDate": "2026-10-29",
       "price": 5.6,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/W/MWASH005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
@@ -13039,12 +13013,12 @@
     },
     {
       "id": "2aa46160e61d6fb1",
-      "seriesId": "76eb5fd7a3b6abe8",
-      "seriesTitle": "Ducktales Nuova Serie",
+      "seriesId": "4530bfdfd9ac5b1d",
+      "seriesTitle": "Ducktales – Nuova Serie",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Ducktales Nuova Serie 3",
+      "issueTitle": "Ducktales – Nuova Serie 3",
       "releaseDate": "2026-10-29",
       "price": 11.4,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
@@ -13142,17 +13116,17 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/l-attacco-dei-giganti-4-mgibf004isbn-it08.html"
     },
     {
-      "id": "8f707203e21b46ca",
-      "seriesId": "bf6162169a5d836a",
-      "seriesTitle": "Ken Il Guerriero - Deluxe Edition",
+      "id": "43c02aee0cdbb17d",
+      "seriesId": "28e4c1364089c43b",
+      "seriesTitle": "Ken Il Guerriero – Deluxe Edition",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": null,
+      "issueTitle": "Ken Il Guerriero – Deluxe Edition 5",
       "releaseDate": "2026-10-29",
       "price": 47.5,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKEND005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/ken-il-guerriero-deluxe-edition-mkend005isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/ken-il-guerriero-deluxe-edition-5-mkend005isbn-it08.html"
     },
     {
       "id": "f361f45522718e15",
@@ -13169,8 +13143,8 @@
     },
     {
       "id": "227bf25c80f72855",
-      "seriesId": "21313dbec8ed8470",
-      "seriesTitle": "Zio Paperone: Il Papero Più Potente della Terra",
+      "seriesId": "232fdef12658d829",
+      "seriesTitle": "Zio Paperone: Il Papero più Potente della Terra",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13181,9 +13155,9 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/zio-paperone-il-papero-pi-potente-della-terra-1wbook102isbn-it08.html"
     },
     {
-      "id": "392032515de386e2",
-      "seriesId": "a5760417d4bdb241",
-      "seriesTitle": "Superdeluxe PK: Evroniani",
+      "id": "6bab4f745cf528e8",
+      "seriesId": "e3fe73a35f41bbab",
+      "seriesTitle": "PK: Evroniani",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13191,33 +13165,33 @@
       "releaseDate": "2026-10-29",
       "price": 71.25,
       "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WBOOK096ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/superdeluxe-pk-evroniani-1wbook096isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-evroniani-1wbook096isbn-it08.html"
     },
     {
-      "id": "31230f359652168a",
-      "seriesId": "cc2ff29b02cb61a2",
-      "seriesTitle": "PK: Un Passo Ancora",
+      "id": "b545f08c7c6b8db6",
+      "seriesId": "a1da0d9fc27581dc",
+      "seriesTitle": "PK: Meno Tre all'Alba – Variant Simone Di Meo",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "PK: Un Passo Ancora 3",
+      "issueTitle": null,
       "releaseDate": "2026-10-29",
       "price": 8.45,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-un-passo-ancora-3-1wspev062spv-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-meno-tre-all-alba-variant-simone-di-meo-1wspev062spv-it08.html"
     },
     {
-      "id": "5e7b3d015f9c8667",
-      "seriesId": "1d6bb366001b9d41",
-      "seriesTitle": "PK",
+      "id": "72db7c6029af74db",
+      "seriesId": "6059b7f79184a765",
+      "seriesTitle": "PK: Meno Tre all'Alba",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "PK 3",
+      "issueTitle": null,
       "releaseDate": "2026-10-29",
       "price": 5.6,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-3-1wspev062sp-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-meno-tre-all-alba-1wspev062sp-it08.html"
     },
     {
       "id": "1bd6ae505b7b3af9",
@@ -13234,12 +13208,12 @@
     },
     {
       "id": "a9f38d9f7f7e2284",
-      "seriesId": "229616fd2a5181ce",
-      "seriesTitle": "Atelier of Witch Hat- Grimoire Edition",
+      "seriesId": "1f5853ed9ffd4c94",
+      "seriesTitle": "Atelier of Witch Hat – Grimoire Edition",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Atelier of Witch Hat- Grimoire Edition 4",
+      "issueTitle": "Atelier of Witch Hat – Grimoire Edition 4",
       "releaseDate": "2026-10-29",
       "price": 18.9,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MATGR004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
@@ -13273,8 +13247,8 @@
     },
     {
       "id": "764b10b70f35964a",
-      "seriesId": "9f59f560d6bdcd18",
-      "seriesTitle": "Afro Samurai- Complete Edition",
+      "seriesId": "b2587cae0d1d1491",
+      "seriesTitle": "Afro Samurai Complete Edition",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13351,21 +13325,21 @@
     },
     {
       "id": "0ccc3915bad5d612",
-      "seriesId": "63de04b59ea158b1",
-      "seriesTitle": "Ushimitsugao - Bella (delle due) Di Notte",
+      "seriesId": "d6971211c7189ce9",
+      "seriesTitle": "Ushimitsugao – Bella (delle Due) di Notte",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Ushimitsugao - Bella (delle due) Di Notte 1",
+      "issueTitle": "Ushimitsugao – Bella (delle Due) di Notte 1",
       "releaseDate": "2026-10-29",
       "price": 7.5,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/U/MUSHI001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/ushimitsugao-bella-delle-due-di-notte-1-mushi001isbn-it08.html"
     },
     {
-      "id": "b525ebccced7d5f6",
-      "seriesId": "a44f1101c3471001",
-      "seriesTitle": "Star Wars Must-Have Resa Dei Conti Sulla Luna Dei Contrabbandieri",
+      "id": "2208eca583ab0bcd",
+      "seriesId": "76cc47359c742a19",
+      "seriesTitle": "Resa dei Conti sulla Luna dei Contrabbandieri",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13373,16 +13347,16 @@
       "releaseDate": "2026-10-29",
       "price": 14.25,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSWMH006ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/star-wars-must-have-resa-dei-conti-sulla-luna-dei-contrabbandieri-mswmh006isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/resa-dei-conti-sulla-luna-dei-contrabbandieri-mswmh006isbn-it08.html"
     },
     {
       "id": "7ae5e2296d919530",
-      "seriesId": "5f8e44f946d27546",
-      "seriesTitle": "Teenage Mutant Ninja Turtles Adventures Compendium",
+      "seriesId": "c294c280d546cb23",
+      "seriesTitle": "Teenage Mutant Ninja Turtles Adventures: Compendium",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Teenage Mutant Ninja Turtles Adventures Compendium 1",
+      "issueTitle": "Teenage Mutant Ninja Turtles Adventures: Compendium 1",
       "releaseDate": "2026-10-29",
       "price": 60.8,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTDEL011ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
@@ -13428,22 +13402,22 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/teenage-mutant-ninja-turtles-20-mtmne020isbn-it08.html"
     },
     {
-      "id": "2856822a4143e382",
-      "seriesId": "45154598ab6768bd",
-      "seriesTitle": "Tra Gli Alberi Dove Nessuno Ti Vede Vol.2",
+      "id": "6b1722503a11e9d5",
+      "seriesId": "cfa49ee18da64196",
+      "seriesTitle": "Tra gli Alberi Dove Nessuno ti Vede",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Tra Gli Alberi Dove Nessuno Ti Vede Vol.2 2",
+      "issueTitle": "Tra gli Alberi Dove Nessuno ti Vede 2",
       "releaseDate": "2026-10-29",
       "price": 20.9,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MORSO002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/tra-gli-alberi-dove-nessuno-ti-vede-vol-2-2-morso002isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/tra-gli-alberi-dove-nessuno-ti-vede-2-morso002isbn-it08.html"
     },
     {
-      "id": "f47c8dee334ba590",
-      "seriesId": "8af594209ae8423e",
-      "seriesTitle": "The Old World: L'ascesa Del Ratto Cornuto",
+      "id": "77f1f70d5c690ce0",
+      "seriesId": "467b2d84e630a3b8",
+      "seriesTitle": "Warhammer – The Old World: L'ascesa del Ratto Cornuto",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13451,7 +13425,7 @@
       "releaseDate": "2026-10-29",
       "price": 18.9,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MROWA051ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/the-old-world-l-ascesa-del-ratto-cornuto-mrowa051isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-old-world-l-ascesa-del-ratto-cornuto-mrowa051isbn-it08.html"
     },
     {
       "id": "bd52c7bd58a96d08",
@@ -13506,22 +13480,22 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/the-magic-order-1-mkkpo007isbn-it08.html"
     },
     {
-      "id": "41cef518dbc51a74",
-      "seriesId": "621b22e8b3950d71",
-      "seriesTitle": "Asterix Pocket",
+      "id": "2f0664aa8307cb3b",
+      "seriesId": "53f2d15925c3508a",
+      "seriesTitle": "Asterix e l'Indovino/Asterix Legionario",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Asterix Pocket 6",
+      "issueTitle": null,
       "releaseDate": "2026-10-29",
       "price": 9.5,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASPO006_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/asterix-pocket-6-maspo006-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/asterix-e-l-indovino-asterix-legionario-maspo006-it08.html"
     },
     {
       "id": "1e852228f6127532",
-      "seriesId": "f83e6ac4ad7485bc",
-      "seriesTitle": "Mercy- Complete Edition",
+      "seriesId": "1b6c997c052af580",
+      "seriesTitle": "Mercy Complete Edition",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13532,30 +13506,30 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/mercy-complete-edition-mirka014isbn-it08.html"
     },
     {
-      "id": "c4891810581e5fcf",
-      "seriesId": "5e64d8f927812181",
-      "seriesTitle": "The Raven Cycle",
+      "id": "7a7e63e950a2a225",
+      "seriesId": "fac974c0bfd9de2c",
+      "seriesTitle": "The Raven Cycle 2: The Dream Thieves",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "The Raven Cycle 2",
+      "issueTitle": null,
       "releaseDate": "2026-10-29",
       "price": 18.05,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRAVB002ISBNV_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/the-raven-cycle-2-mravb002isbnv-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/the-raven-cycle-2-the-dream-thieves-mravb002isbnv-it08.html"
     },
     {
-      "id": "b586a45da753577b",
-      "seriesId": "5e64d8f927812181",
-      "seriesTitle": "The Raven Cycle",
+      "id": "8ccbc9b5ad1f0a0e",
+      "seriesId": "fac974c0bfd9de2c",
+      "seriesTitle": "The Raven Cycle 2: The Dream Thieves",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "The Raven Cycle 2",
+      "issueTitle": null,
       "releaseDate": "2026-10-29",
       "price": 18.05,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRAVB002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/the-raven-cycle-2-mravb002isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/the-raven-cycle-2-the-dream-thieves-mravb002isbn-it08.html"
     },
     {
       "id": "a909d77c3e224bcb",
@@ -13572,8 +13546,8 @@
     },
     {
       "id": "9e992b287abdba02",
-      "seriesId": "5a5662f5fb6e10e3",
-      "seriesTitle": "Predator Uccide L'Universo Marvel Massacro Totale",
+      "seriesId": "2be97e6d3ed8a55a",
+      "seriesTitle": "Predator Uccide l'Universo Marvel: Massacro Totale",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13610,9 +13584,9 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/peacemaker-pace-a-ogni-costo-m1fine005isbn-it08.html"
     },
     {
-      "id": "42f88568215d43ff",
-      "seriesId": "a994d8b572ebed0d",
-      "seriesTitle": "New Teen Titans: Judas Contract",
+      "id": "2df928dc896d1871",
+      "seriesId": "3e15708586d793bf",
+      "seriesTitle": "New Teen Titans: Il Contratto di Giuda",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13620,7 +13594,7 @@
       "releaseDate": "2026-10-29",
       "price": 31.35,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1DLUX083ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/new-teen-titans-judas-contract-m1dlux083isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/new-teen-titans-il-contratto-di-giuda-m1dlux083isbn-it08.html"
     },
     {
       "id": "b4ce728181d46d45",
@@ -13663,12 +13637,12 @@
     },
     {
       "id": "bb48b2cb9dac3fb7",
-      "seriesId": "cd3375af7baa118b",
-      "seriesTitle": "Dc Facsimile Edition Swamp Thing",
+      "seriesId": "ad4e2a04d82f6e8a",
+      "seriesTitle": "DC Facsimile Edition: Swamp Thing",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Dc Facsimile Edition Swamp Thing 37",
+      "issueTitle": "DC Facsimile Edition: Swamp Thing 37",
       "releaseDate": "2026-10-29",
       "price": 3.32,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1FACS025ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
@@ -13676,8 +13650,8 @@
     },
     {
       "id": "f7016e2de91ece63",
-      "seriesId": "a40dbc665fa43149",
-      "seriesTitle": "Marvel Knights: Il Mondo Che Verrà",
+      "seriesId": "9480ae8c0572087a",
+      "seriesTitle": "Marvel Knights: Il Mondo che Verrà",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -13702,12 +13676,12 @@
     },
     {
       "id": "3f4a89f2375a8bc4",
-      "seriesId": "c68f05c7cf6a31e3",
-      "seriesTitle": "Wizards Of Mickey Omnibus",
+      "seriesId": "5d1004e523b289ba",
+      "seriesTitle": "Wizards of Mickey Omnibus",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Wizards Of Mickey Omnibus 3",
+      "issueTitle": "Wizards of Mickey Omnibus 3",
       "releaseDate": "2026-10-29",
       "price": 75.05,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
@@ -13715,12 +13689,12 @@
     },
     {
       "id": "1570f7e944e0aec1",
-      "seriesId": "a9ec03573e42c3f5",
-      "seriesTitle": "Pk Omnibus",
+      "seriesId": "7d12564580ee6a73",
+      "seriesTitle": "PK Omnibus",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Pk Omnibus 7",
+      "issueTitle": "PK Omnibus 7",
       "releaseDate": "2026-10-29",
       "price": 75.05,
       "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WOMNI007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
@@ -13837,20 +13811,6 @@
       "projected": true
     },
     {
-      "id": "cbe053a2d8ee8b1a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 6,
-      "issueTitle": null,
-      "releaseDate": "2026-10-31",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "2cc810331f1bedfa",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -13862,6 +13822,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "cbe053a2d8ee8b1a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 6,
+      "issueTitle": null,
+      "releaseDate": "2026-10-31",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -14005,20 +13979,6 @@
       "projected": true
     },
     {
-      "id": "49180c9936715e57",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 59,
-      "issueTitle": null,
-      "releaseDate": "2026-11-03",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "96422fddf901186d",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -14030,6 +13990,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "49180c9936715e57",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 59,
+      "issueTitle": null,
+      "releaseDate": "2026-11-03",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -14087,20 +14061,6 @@
       "projected": true
     },
     {
-      "id": "b106c0ead0fbc1f6",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 6,
-      "issueTitle": null,
-      "releaseDate": "2026-11-04",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "855bb0744510b7a2",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -14112,6 +14072,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "b106c0ead0fbc1f6",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 6,
+      "issueTitle": null,
+      "releaseDate": "2026-11-04",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -14329,30 +14303,108 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-spider-man-4-mfrst238isbn-it08.html"
     },
     {
-      "id": "c7e2c5ec824f60c1",
-      "seriesId": "67feb811e2fb0606",
-      "seriesTitle": "New Avengers",
+      "id": "c18ecc10c53fcbaa",
+      "seriesId": "c15a84224376d09c",
+      "seriesTitle": "Psylocke: Ninja",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "New Avengers 1",
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 15.2,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMGEX086ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/psylocke-ninja-mmgex086isbn-it08.html"
+    },
+    {
+      "id": "0f833a7253cb9ad8",
+      "seriesId": "2744fa6dccc6f57c",
+      "seriesTitle": "Daredevil: Rinascita Edizione 40° Anniversario",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 47.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS020ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/daredevil-rinascita-edizione-40-anniversario-marts020isbn-it08.html"
+    },
+    {
+      "id": "88c794515df4c564",
+      "seriesId": "d96309fbc2e40542",
+      "seriesTitle": "Batman: Il Ritorno del Cavaliere Oscuro Edizione 40° Anniversario",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 47.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ARTS001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/batman-il-ritorno-del-cavaliere-oscuro-edizione-40-anniversario-m1arts001isbn-it08.html"
+    },
+    {
+      "id": "2399b4e8cdf71fc1",
+      "seriesId": "33c0924f90419d3e",
+      "seriesTitle": "Absolute Batman",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Absolute Batman 18",
+      "releaseDate": "2026-11-05",
+      "price": 5.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABBA018ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-batman-18-m1abba018isbnv1-it08.html"
+    },
+    {
+      "id": "7fe5624b01753603",
+      "seriesId": "8603f1dbc772d3ed",
+      "seriesTitle": "Avengers di Jonathan Hickman: New Avengers",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Avengers di Jonathan Hickman: New Avengers 1",
       "releaseDate": "2026-11-05",
       "price": 14.25,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHIC002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/new-avengers-1-mahic002isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-di-jonathan-hickman-new-avengers-1-mahic002isbn-it08.html"
     },
     {
-      "id": "9e541311e2ee48e9",
-      "seriesId": "502eaa1182c7c546",
-      "seriesTitle": "Avengers",
+      "id": "41e8dca42104a212",
+      "seriesId": "826211946977d07f",
+      "seriesTitle": "Avengers di Jonathan Hickman: Avengers",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Avengers 1",
+      "issueTitle": "Avengers di Jonathan Hickman: Avengers 1",
       "releaseDate": "2026-11-05",
       "price": 14.25,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHIC001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-1-mahic001isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-di-jonathan-hickman-avengers-1-mahic001isbn-it08.html"
+    },
+    {
+      "id": "2217a384806dffce",
+      "seriesId": "e6b8763913c969c8",
+      "seriesTitle": "Ultimate Spider-Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Ultimate Spider-Man 1",
+      "releaseDate": "2026-11-05",
+      "price": 35.15,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MADEV134ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/ultimate-spider-man-1-madev134isbn-it08.html"
+    },
+    {
+      "id": "bb2f93455555dec8",
+      "seriesId": "2e7ac022a349be6e",
+      "seriesTitle": "Naruto Color New Edition",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Naruto Color New Edition 19",
+      "releaseDate": "2026-11-05",
+      "price": 7.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/K/MKENI114_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-19-mkeni114-it08.html"
     },
     {
       "id": "285036650b071d3a",
@@ -14368,6 +14420,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/jujutsu-kaisen-sorcery-fight-1-maher069i-it08.html"
     },
     {
+      "id": "5f0cae0a384fe7bf",
+      "seriesId": "dfdf86b6338d87b3",
+      "seriesTitle": "Cyberpunk 2077 Omnibus",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Cyberpunk 2077 Omnibus 2",
+      "releaseDate": "2026-11-05",
+      "price": 34.2,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCYDE002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/cyberpunk-2077-omnibus-2-mcyde002isbn-it08.html"
+    },
+    {
       "id": "02847fd968bcc990",
       "seriesId": "d480bf53f78083d6",
       "seriesTitle": "American Caper",
@@ -14379,6 +14444,19 @@
       "price": 19.95,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMCA001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/american-caper-1-mamca001isbn-it08.html"
+    },
+    {
+      "id": "5e105088e134d3f8",
+      "seriesId": "d480bf53f78083d6",
+      "seriesTitle": "American Caper",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "American Caper 1",
+      "releaseDate": "2026-11-05",
+      "price": 21.85,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMCA001ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/american-caper-1-mamca001isbnv1-it08.html"
     },
     {
       "id": "c98fd815f5e0abb0",
@@ -14394,9 +14472,9 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/spettri-di-gaunt-primo-e-unico-mrowa055isbn-it08.html"
     },
     {
-      "id": "60681d53da36ee67",
-      "seriesId": "43b6c0f4ac61ec57",
-      "seriesTitle": "Rat-Man: Le Carte Da Gioco - Mazzo Blu",
+      "id": "80715d73e44b42d7",
+      "seriesId": "644c480fa2cda593",
+      "seriesTitle": "Rat-Man: La Minaccia Reale – Le Carte da Gioco (Mazzo Blu)",
       "category": "riviste",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14404,12 +14482,12 @@
       "releaseDate": "2026-11-05",
       "price": 14.15,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040P_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-blu-mrmde040p-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-la-minaccia-reale-le-carte-da-gioco-mazzo-blu-mrmde040p-it08.html"
     },
     {
-      "id": "5e6fc86de4455f77",
-      "seriesId": "7ef367c7508576cf",
-      "seriesTitle": "Rat-Man: Le Carte Da Gioco - Mazzo Rosso",
+      "id": "deb03e6fc9f997ba",
+      "seriesId": "39f61329c1e220fa",
+      "seriesTitle": "Rat-Man: La Minaccia Reale – Le Carte da Gioco (Mazzo Rosso)",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14417,12 +14495,12 @@
       "releaseDate": "2026-11-05",
       "price": 14.15,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MRMDE040_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-le-carte-da-gioco-mazzo-rosso-mrmde040-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/rat-man-la-minaccia-reale-le-carte-da-gioco-mazzo-rosso-mrmde040-it08.html"
     },
     {
-      "id": "19058a370e3664cc",
-      "seriesId": "fa5ceb0d98e57e2c",
-      "seriesTitle": "Leo Ortolani Collection Ratto",
+      "id": "b7b027c89e494b09",
+      "seriesId": "573407af600a2c89",
+      "seriesTitle": "Ratto",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14430,12 +14508,12 @@
       "releaseDate": "2026-11-05",
       "price": 12.35,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MORDE005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/leo-ortolani-collection-ratto-morde005isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/ratto-morde005isbn-it08.html"
     },
     {
       "id": "0c09a2af7fa07123",
-      "seriesId": "ef2f1903c20e93e5",
-      "seriesTitle": "The Marvel Teams Art Of Simone Bianchi",
+      "seriesId": "bc3e147aeb06a9a2",
+      "seriesTitle": "The Marvel Teams Art of Simone Bianchi",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14485,6 +14563,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-la-fine-di-claudio-castellini-mitin007isbn-it08.html"
     },
     {
+      "id": "7e7a385843e5d59b",
+      "seriesId": "1015c947d8fc7dbc",
+      "seriesTitle": "Destino di Jonathan Hickman & Sanford Greene",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 26.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS019ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/destino-di-jonathan-hickman-sanford-greene-marts019isbn-it08.html"
+    },
+    {
       "id": "74b0821dcaca239a",
       "seriesId": "235918083d7360bd",
       "seriesTitle": "Wolverine: Vendetta",
@@ -14511,6 +14602,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-vendetta-red-band-madev133isbn-it08.html"
     },
     {
+      "id": "e267581b2ecb0b12",
+      "seriesId": "b92ee8fa7c511690",
+      "seriesTitle": "Wolverine: Vendetta-Red Band Artist Edition",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 28.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS021ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/wolverine-vendetta-red-band-artist-edition-marts021isbn-it08.html"
+    },
+    {
       "id": "5f111982b512febc",
       "seriesId": "02d46c028c0609e6",
       "seriesTitle": "Spider-Man: Meals To Astonish",
@@ -14524,9 +14628,35 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/spider-man-meals-to-astonish-mmeal001isbn-it08.html"
     },
     {
+      "id": "47dbceac3d0cec5a",
+      "seriesId": "dda21c6bf0cf9250",
+      "seriesTitle": "Midnight: X-Men/ Fantastici 4/Spider-man Artist Edition",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 23.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/H/MHXAE007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/midnight-x-men-fantastici-4-spider-man-artist-edition-mhxae007isbn-it08.html"
+    },
+    {
+      "id": "afae724824e9a661",
+      "seriesId": "cea9c11953d373a3",
+      "seriesTitle": "Amazing Spider-Man: Le Lacrime Della Spider-Queen",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 4.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASMM001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/amazing-spider-man-le-lacrime-della-spider-queen-masmm001isbn-it08.html"
+    },
+    {
       "id": "3739e25de20065f1",
-      "seriesId": "0ec23d330c8568ee",
-      "seriesTitle": "The urban Heroes Marvel Art Of Marco Checchetto",
+      "seriesId": "08b84df2d4bbe6c2",
+      "seriesTitle": "The Urban Heroes Marvel Art of Marco Checchetto",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14537,56 +14667,56 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/the-urban-heroes-marvel-art-of-marco-checchetto-marts016isbn-it08.html"
     },
     {
-      "id": "da8db62dfaa07eb4",
-      "seriesId": "f67b861b43b1fa32",
-      "seriesTitle": "Absolute Lanterna Verde  Vol. 1",
+      "id": "ca1dfa96e2a5c7c8",
+      "seriesId": "20a5c1065794ddab",
+      "seriesTitle": "Absolute Lanterna Verde",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Absolute Lanterna Verde  Vol. 1 1",
+      "issueTitle": "Absolute Lanterna Verde 1",
       "releaseDate": "2026-11-05",
       "price": 26.6,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC005ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-lanterna-verde-vol-1-1-m1abhc005isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-lanterna-verde-1-m1abhc005isbn-it08.html"
     },
     {
-      "id": "b2410cf6f85c626b",
-      "seriesId": "efdf260399af8b08",
-      "seriesTitle": "Absolute Flash vol.1",
+      "id": "6b3c3fdcccec577c",
+      "seriesId": "0830045a587e2a9d",
+      "seriesTitle": "Absolute Flash",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": "Absolute Flash vol.1 1",
+      "issueTitle": "Absolute Flash 1",
       "releaseDate": "2026-11-05",
       "price": 22.8,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-vol-1-1-m1abhc004isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-flash-1-m1abhc004isbn-it08.html"
     },
     {
-      "id": "812df30ccf53dbb7",
+      "id": "000d7565a42aaf29",
       "seriesId": "2e763fa472f53100",
       "seriesTitle": "Absolute Freccia Verde",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": null,
+      "issueTitle": "Absolute Freccia Verde 1",
       "releaseDate": "2026-11-05",
       "price": 5.7,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFV001ISBNV2_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-m1abfv001isbnv2-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-1-m1abfv001isbnv2-it08.html"
     },
     {
-      "id": "ae7c490cc26558aa",
+      "id": "1a8e9eef26d9f704",
       "seriesId": "2e763fa472f53100",
       "seriesTitle": "Absolute Freccia Verde",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
-      "issueTitle": null,
+      "issueTitle": "Absolute Freccia Verde 1",
       "releaseDate": "2026-11-05",
       "price": 5.7,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABFV001ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-m1abfv001isbnv1-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-1-m1abfv001isbnv1-it08.html"
     },
     {
       "id": "195688924b477edb",
@@ -14602,9 +14732,9 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-freccia-verde-1-m1abfv001isbn-it08.html"
     },
     {
-      "id": "8ae48e50a6baa05f",
-      "seriesId": "eacacb18b0623593",
-      "seriesTitle": "DC/Marvel: Il Chiacchierone Oscuro e Altre Storie",
+      "id": "e00a55dcf8e15f28",
+      "seriesId": "90c89d899342429e",
+      "seriesTitle": "Marvel/DC: Il Chiacchierone Oscuro e Altre Storie",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14612,7 +14742,7 @@
       "releaseDate": "2026-11-05",
       "price": 25.65,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-chiacchierone-oscuro-e-altre-storie-m1cros002isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-dc-il-chiacchierone-oscuro-e-altre-storie-m1cros002isbn-it08.html"
     },
     {
       "id": "70a79b5733f7e720",
@@ -14629,8 +14759,8 @@
     },
     {
       "id": "65d3e02139f3e7d6",
-      "seriesId": "b35b7145909243a7",
-      "seriesTitle": "DC/Marvel: Il Mistero Del Bacio Cosmico e Altre Storie",
+      "seriesId": "13a43b34913c403a",
+      "seriesTitle": "DC/Marvel: Il Mistero del Bacio Cosmico e Altre Storie",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14641,9 +14771,9 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/dc-marvel-il-mistero-del-bacio-cosmico-e-altre-storie-m1cros001isbn-it08.html"
     },
     {
-      "id": "52f5cfc1ed1a28f8",
-      "seriesId": "090649fc45c9b824",
-      "seriesTitle": "Batman Il Cavaliere III: La Razza Suprema",
+      "id": "b21670854cd697b2",
+      "seriesId": "84f0be2ab19bd5fd",
+      "seriesTitle": "Batman: Il Cavaliere Oscuro III: La Razza Suprema",
       "category": "fumetti",
       "publisher": "Panini",
       "issueNumber": null,
@@ -14651,7 +14781,20 @@
       "releaseDate": "2026-11-05",
       "price": 11.3,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1POCK038ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-      "sourceUrl": "https://www.panini.it/shp_ita_it/batman-il-cavaliere-iii-la-razza-suprema-m1pock038isbn-it08.html"
+      "sourceUrl": "https://www.panini.it/shp_ita_it/batman-il-cavaliere-oscuro-iii-la-razza-suprema-m1pock038isbn-it08.html"
+    },
+    {
+      "id": "a9318b1d9c276669",
+      "seriesId": "2aac497f7732b96e",
+      "seriesTitle": "Dc Facsimile Edition Batman: Il Ritorno Del Cavaliere Oscuro",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Dc Facsimile Edition Batman: Il Ritorno Del Cavaliere Oscuro 4",
+      "releaseDate": "2026-11-05",
+      "price": 5.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1FACB004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/dc-facsimile-edition-batman-il-ritorno-del-cavaliere-oscuro-4-m1facb004isbn-it08.html"
     },
     {
       "id": "f576e3235bd3bfd2",
@@ -14665,6 +14808,19 @@
       "price": 21.85,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABHC007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-martian-manhunter-1-m1abhc007isbn-it08.html"
+    },
+    {
+      "id": "6b33abb68de1d741",
+      "seriesId": "2aac497f7732b96e",
+      "seriesTitle": "Dc Facsimile Edition Batman: Il Ritorno Del Cavaliere Oscuro",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Dc Facsimile Edition Batman: Il Ritorno Del Cavaliere Oscuro 1",
+      "releaseDate": "2026-11-05",
+      "price": 7.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1FACB001ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/dc-facsimile-edition-batman-il-ritorno-del-cavaliere-oscuro-1-m1facb001isbnv1-it08.html"
     },
     {
       "id": "b70f88c108132a9f",
@@ -15036,20 +15192,6 @@
       "projected": true
     },
     {
-      "id": "4dac1c589aba5947",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 60,
-      "issueTitle": null,
-      "releaseDate": "2026-11-10",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "97b7c2ee16bbfa31",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -15061,6 +15203,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4dac1c589aba5947",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 60,
+      "issueTitle": null,
+      "releaseDate": "2026-11-10",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -15200,6 +15356,19 @@
       "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-album-calciatori-panini-anastatica/"
     },
     {
+      "id": "e5d05d488e3926c6",
+      "seriesId": "3a40066a90c9638b",
+      "seriesTitle": "Lavanderia Minato- Wash My Heart",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Lavanderia Minato- Wash My Heart 6",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/lavanderia-minato-wash-my-heart-6-mwash006isbn-it08.html"
+    },
+    {
       "id": "014520d9ad48ec33",
       "seriesId": "09514244eb888920",
       "seriesTitle": "Centuria",
@@ -15211,6 +15380,19 @@
       "price": 7.5,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCENT008ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/centuria-8-mcent008isbn-it08.html"
+    },
+    {
+      "id": "5a1e6396558d8e58",
+      "seriesId": "2422e4930dc5223c",
+      "seriesTitle": "One-Punch Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "One-Punch Man 36",
+      "releaseDate": "2026-11-12",
+      "price": 7.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/one-punch-man-36-mmaon057isbn-it08.html"
     },
     {
       "id": "6b137b24a79690d6",
@@ -15226,6 +15408,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-3-motrf003isbn-it08.html"
     },
     {
+      "id": "b9750c4e93f45137",
+      "seriesId": "e64757317249a313",
+      "seriesTitle": "Daidara",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Daidara 2",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDDARA002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/daidara-2-mddara002isbn-it08.html"
+    },
+    {
       "id": "7aa56dfe4a260031",
       "seriesId": "d1f7625fa0e5c859",
       "seriesTitle": "Spy × Family",
@@ -15239,6 +15434,45 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/spy-family-17-mplsh124-it08.html"
     },
     {
+      "id": "4c99d3f951644e79",
+      "seriesId": "2422e4930dc5223c",
+      "seriesTitle": "One-Punch Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "One-Punch Man 36",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/one-punch-man-36-mmaon057-it08.html"
+    },
+    {
+      "id": "8df046ed17dac86d",
+      "seriesId": "2e7ac022a349be6e",
+      "seriesTitle": "Naruto Color New Edition",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Naruto Color New Edition 20",
+      "releaseDate": "2026-11-12",
+      "price": 7.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/naruto-color-new-edition-20-mkeni115-it08.html"
+    },
+    {
+      "id": "b8d15efaf63132d3",
+      "seriesId": "0d0e2b4b3f0f012e",
+      "seriesTitle": "La Spada Selvaggia di Conan",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "La Spada Selvaggia di Conan 13",
+      "releaseDate": "2026-11-12",
+      "price": 7.5,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/S/MSSCO013ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/la-spada-selvaggia-di-conan-13-mssco013isbn-it08.html"
+    },
+    {
       "id": "0254212bbd50fb33",
       "seriesId": "a10c27738d4c1434",
       "seriesTitle": "Warhammer 40.000: Brutalmente Aztuto",
@@ -15250,6 +15484,19 @@
       "price": 18.9,
       "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
       "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-40-000-brutalmente-aztuto-mrowa054isbn-it08.html"
+    },
+    {
+      "id": "345c172da92f99a6",
+      "seriesId": "4e75f35166c3d3f2",
+      "seriesTitle": "Department Of Truth",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Department Of Truth 6",
+      "releaseDate": "2026-11-12",
+      "price": 23.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDETR007ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/department-of-truth-6-mdetr007isbn-it08.html"
     },
     {
       "id": "c2812d264d288ccf",
@@ -15278,6 +15525,71 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/darevil-5-mfrst240isbn-it08.html"
     },
     {
+      "id": "214062b405929b35",
+      "seriesId": "6cdc32db565c2eab",
+      "seriesTitle": "L'Infernale Hulk",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "L'Infernale Hulk 7",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/H/MHUDI142ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/l-infernale-hulk-7-mhudi142isbn-it08.html"
+    },
+    {
+      "id": "a191bcfaac011a04",
+      "seriesId": "7869eec8533198ff",
+      "seriesTitle": "Daredevil",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Daredevil 3",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/D/MDEMK178ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/daredevil-3-mdemk178isbn-it08.html"
+    },
+    {
+      "id": "d912faca0e6afe14",
+      "seriesId": "d1171e79fe74001b",
+      "seriesTitle": "Il Mortale Thor",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Il Mortale Thor 10",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/T/MTHOR326ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/il-mortale-thor-10-mthor326isbn-it08.html"
+    },
+    {
+      "id": "287ff1dc88325364",
+      "seriesId": "9b1278ca40761c3a",
+      "seriesTitle": "Iron Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Iron Man 7",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/I/MIRNA156ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/iron-man-7-mirna156isbn-it08.html"
+    },
+    {
+      "id": "69a14ace43c1471a",
+      "seriesId": "9932e2290e1c829b",
+      "seriesTitle": "Fantastici Quattro",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Fantastici Quattro 10",
+      "releaseDate": "2026-11-12",
+      "price": 5.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/F/MFQUA479ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/fantastici-quattro-10-mfqua479isbn-it08.html"
+    },
+    {
       "id": "db5e2241329d2bfb",
       "seriesId": "502eaa1182c7c546",
       "seriesTitle": "Avengers",
@@ -15304,6 +15616,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/io-sono-doom-manto020isbn-it08.html"
     },
     {
+      "id": "0a88db065316987a",
+      "seriesId": "be70bfdfd7de0000",
+      "seriesTitle": "Venom",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Venom 20",
+      "releaseDate": "2026-11-12",
+      "price": 5.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/V/MVNOM114ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/venom-20-mvnom114isbnv1-it08.html"
+    },
+    {
       "id": "29f47299855cc839",
       "seriesId": "be70bfdfd7de0000",
       "seriesTitle": "Venom",
@@ -15315,6 +15640,19 @@
       "price": 3.8,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/V/MVNOM114_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/venom-20-mvnom114-it08.html"
+    },
+    {
+      "id": "9e099260caf6a9b7",
+      "seriesId": "f0a1b6f2f15237a0",
+      "seriesTitle": "Queen In Black: Guerra Per Il Trono",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Queen In Black: Guerra Per Il Trono 1",
+      "releaseDate": "2026-11-12",
+      "price": 15.2,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCHAM084ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/queen-in-black-guerra-per-il-trono-1-mcham084isbn-it08.html"
     },
     {
       "id": "fce3704dcffab66d",
@@ -15330,6 +15668,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/miles-morales-spider-man-27-msmmm051-it08.html"
     },
     {
+      "id": "8bbf8b4af83c4d6f",
+      "seriesId": "610de3b9e4443742",
+      "seriesTitle": "Spectacular Spider-Man: Brand New Day",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Spectacular Spider-Man: Brand New Day 2",
+      "releaseDate": "2026-11-12",
+      "price": 7.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ320ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-brand-new-day-2-mamaz320isbnv1-it08.html"
+    },
+    {
       "id": "297445adb47117f7",
       "seriesId": "610de3b9e4443742",
       "seriesTitle": "Spectacular Spider-Man: Brand New Day",
@@ -15341,6 +15692,32 @@
       "price": 5.7,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAMAZ320_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/spectacular-spider-man-brand-new-day-2-mamaz320-it08.html"
+    },
+    {
+      "id": "6231ad3e6166a4e9",
+      "seriesId": "20f8a867091284b0",
+      "seriesTitle": "Batman",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Batman 5",
+      "releaseDate": "2026-11-12",
+      "price": 25.65,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1REHC107ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/batman-5-m1rehc107isbn-it08.html"
+    },
+    {
+      "id": "6da84b1055ca4070",
+      "seriesId": "5790ab886d37a655",
+      "seriesTitle": "Absolute Superman",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Absolute Superman 19",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-superman-19-m1absu019isbn-it08.html"
     },
     {
       "id": "690ebd0605939fe9",
@@ -15356,6 +15733,32 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/absolute-batman-19-m1abba019-it08.html"
     },
     {
+      "id": "6b861e026f467fbf",
+      "seriesId": "48ffacc33fa36b43",
+      "seriesTitle": "Harley Quinn",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Harley Quinn 3",
+      "releaseDate": "2026-11-12",
+      "price": 19.95,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/harley-quinn-3-m1tpin117isbn-it08.html"
+    },
+    {
+      "id": "7306a20b6be53d4f",
+      "seriesId": "881eb2d88445fa8a",
+      "seriesTitle": "Nightwing",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Nightwing 4",
+      "releaseDate": "2026-11-12",
+      "price": 17.1,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1TPIN118ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/nightwing-4-m1tpin118isbn-it08.html"
+    },
+    {
       "id": "d47c6ce537e46397",
       "seriesId": "20f8a867091284b0",
       "seriesTitle": "Batman",
@@ -15367,6 +15770,58 @@
       "price": 5.7,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1BATM132_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/batman-7-m1batm132-it08.html"
+    },
+    {
+      "id": "b2b1287eee96b66c",
+      "seriesId": "834a77d4f9457c3a",
+      "seriesTitle": "Justice League Unlimited",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Justice League Unlimited 19",
+      "releaseDate": "2026-11-12",
+      "price": 5.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1JULE050ISBNV1_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/justice-league-unlimited-19-m1jule050isbnv1-it08.html"
+    },
+    {
+      "id": "cf306f0c9b4d3ee8",
+      "seriesId": "834a77d4f9457c3a",
+      "seriesTitle": "Justice League Unlimited",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Justice League Unlimited 19",
+      "releaseDate": "2026-11-12",
+      "price": 3.8,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1JULE050ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/justice-league-unlimited-19-m1jule050isbn-it08.html"
+    },
+    {
+      "id": "b6385c143193efa7",
+      "seriesId": "c79671fb304c0403",
+      "seriesTitle": "Marvel Masterworks I Vendicatori",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Marvel Masterworks I Vendicatori 16",
+      "releaseDate": "2026-11-12",
+      "price": 32.3,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMASW080ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-masterworks-i-vendicatori-16-mmasw080isbn-it08.html"
+    },
+    {
+      "id": "9bf67f115bf99ba6",
+      "seriesId": "2f9c3a746c15f6b5",
+      "seriesTitle": "Marvel Masterworks L'Incredibile Hulk",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Marvel Masterworks L'Incredibile Hulk 14",
+      "releaseDate": "2026-11-12",
+      "price": 32.3,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMASW079ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/marvel-masterworks-l-incredibile-hulk-14-mmasw079isbn-it08.html"
     },
     {
       "id": "48e01cc93feb2fa1",
@@ -15439,20 +15894,6 @@
       "projected": true
     },
     {
-      "id": "384f25ed52823b2e",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 7,
-      "issueTitle": null,
-      "releaseDate": "2026-11-14",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e56c2d4dcbd619a1",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -15464,6 +15905,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "384f25ed52823b2e",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 7,
+      "issueTitle": null,
+      "releaseDate": "2026-11-14",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -15607,20 +16062,6 @@
       "projected": true
     },
     {
-      "id": "ba7d55e99e6450cf",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 61,
-      "issueTitle": null,
-      "releaseDate": "2026-11-17",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "b4051dd975beebed",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -15632,6 +16073,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ba7d55e99e6450cf",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 61,
+      "issueTitle": null,
+      "releaseDate": "2026-11-17",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -15676,20 +16131,6 @@
       "projected": true
     },
     {
-      "id": "c552c3debd28f69b",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 7,
-      "issueTitle": null,
-      "releaseDate": "2026-11-18",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "5fccdba26d136740",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -15701,6 +16142,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c552c3debd28f69b",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 7,
+      "issueTitle": null,
+      "releaseDate": "2026-11-18",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -16053,20 +16508,6 @@
       "projected": true
     },
     {
-      "id": "506e187403896358",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 62,
-      "issueTitle": null,
-      "releaseDate": "2026-11-24",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "508b47febee65de5",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -16078,6 +16519,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "506e187403896358",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 62,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -16261,20 +16716,6 @@
       "projected": true
     },
     {
-      "id": "1fd63ee7c645694b",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 8,
-      "issueTitle": null,
-      "releaseDate": "2026-11-28",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e52ef0496fbb5ce3",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -16286,6 +16727,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1fd63ee7c645694b",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 8,
+      "issueTitle": null,
+      "releaseDate": "2026-11-28",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -16415,20 +16870,6 @@
       "projected": true
     },
     {
-      "id": "969e184c47dd448b",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 63,
-      "issueTitle": null,
-      "releaseDate": "2026-12-01",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "b1028e3d303bf75c",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -16440,6 +16881,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "969e184c47dd448b",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 63,
+      "issueTitle": null,
+      "releaseDate": "2026-12-01",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -16484,20 +16939,6 @@
       "projected": true
     },
     {
-      "id": "053f9106fde1ad07",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 8,
-      "issueTitle": null,
-      "releaseDate": "2026-12-02",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "ed89342aa6960d5c",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -16509,6 +16950,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "053f9106fde1ad07",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 8,
+      "issueTitle": null,
+      "releaseDate": "2026-12-02",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -16833,20 +17288,6 @@
       "projected": true
     },
     {
-      "id": "d2f26f70656823ff",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 64,
-      "issueTitle": null,
-      "releaseDate": "2026-12-08",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "ac90f290ab3d28be",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -16858,6 +17299,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d2f26f70656823ff",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 64,
+      "issueTitle": null,
+      "releaseDate": "2026-12-08",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -17041,20 +17496,6 @@
       "projected": true
     },
     {
-      "id": "cf3036deccfff456",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 9,
-      "issueTitle": null,
-      "releaseDate": "2026-12-12",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "f3075e89c0d183bb",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -17066,6 +17507,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "cf3036deccfff456",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 9,
+      "issueTitle": null,
+      "releaseDate": "2026-12-12",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -17195,20 +17650,6 @@
       "projected": true
     },
     {
-      "id": "1fa60d0279ab48a3",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 65,
-      "issueTitle": null,
-      "releaseDate": "2026-12-15",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "1697d7b92293b255",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17220,6 +17661,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1fa60d0279ab48a3",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 65,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -17264,20 +17719,6 @@
       "projected": true
     },
     {
-      "id": "82c65ffe063b2d31",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 9,
-      "issueTitle": null,
-      "releaseDate": "2026-12-16",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "434bd4a8dbfc7d5b",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -17289,6 +17730,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "82c65ffe063b2d31",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 9,
+      "issueTitle": null,
+      "releaseDate": "2026-12-16",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -17599,20 +18054,6 @@
       "projected": true
     },
     {
-      "id": "835a07a1b0d529d4",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 66,
-      "issueTitle": null,
-      "releaseDate": "2026-12-22",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "3d77de29db9361e2",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17624,6 +18065,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "835a07a1b0d529d4",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 66,
+      "issueTitle": null,
+      "releaseDate": "2026-12-22",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -17793,20 +18248,6 @@
       "projected": true
     },
     {
-      "id": "0f1614301f41a74a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 10,
-      "issueTitle": null,
-      "releaseDate": "2026-12-26",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "086f5ce9ba2bb3c8",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -17818,6 +18259,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "0f1614301f41a74a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 10,
+      "issueTitle": null,
+      "releaseDate": "2026-12-26",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -17947,20 +18402,6 @@
       "projected": true
     },
     {
-      "id": "9d752d45c73c02c7",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 67,
-      "issueTitle": null,
-      "releaseDate": "2026-12-29",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "9e258de4a51c37ce",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -17972,6 +18413,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9d752d45c73c02c7",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 67,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18016,20 +18471,6 @@
       "projected": true
     },
     {
-      "id": "4a8acf9ed5ce929a",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 10,
-      "issueTitle": null,
-      "releaseDate": "2026-12-30",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "b4e1ee0962ebd4ae",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -18041,6 +18482,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4a8acf9ed5ce929a",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 10,
+      "issueTitle": null,
+      "releaseDate": "2026-12-30",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -18337,20 +18792,6 @@
       "projected": true
     },
     {
-      "id": "48e542949fb0a001",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 68,
-      "issueTitle": null,
-      "releaseDate": "2027-01-05",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "460bcadc02cdb345",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -18362,6 +18803,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "48e542949fb0a001",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 68,
+      "issueTitle": null,
+      "releaseDate": "2027-01-05",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18531,20 +18986,6 @@
       "projected": true
     },
     {
-      "id": "a7b3c7fc70db9d4a",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 11,
-      "issueTitle": null,
-      "releaseDate": "2027-01-09",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "15e78bdd5d73c92c",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -18556,6 +18997,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a7b3c7fc70db9d4a",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 11,
+      "issueTitle": null,
+      "releaseDate": "2027-01-09",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -18685,20 +19140,6 @@
       "projected": true
     },
     {
-      "id": "d6d42c13f95997de",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 69,
-      "issueTitle": null,
-      "releaseDate": "2027-01-12",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "d031b31d529f3c39",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -18710,6 +19151,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "d6d42c13f95997de",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 69,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -18754,20 +19209,6 @@
       "projected": true
     },
     {
-      "id": "994f8cb544abc3e9",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 11,
-      "issueTitle": null,
-      "releaseDate": "2027-01-13",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "af96b9b0b53e9d92",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -18779,6 +19220,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "994f8cb544abc3e9",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 11,
+      "issueTitle": null,
+      "releaseDate": "2027-01-13",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -19075,20 +19530,6 @@
       "projected": true
     },
     {
-      "id": "228b7874be55ecf2",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 70,
-      "issueTitle": null,
-      "releaseDate": "2027-01-19",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
-    },
-    {
       "id": "6d41775681a1a297",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
@@ -19100,6 +19541,20 @@
       "price": 9.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
+      "id": "228b7874be55ecf2",
+      "seriesId": "8fbfc9d23a108c1b",
+      "seriesTitle": "Lilliput",
+      "category": "libri",
+      "publisher": "Centauria",
+      "issueNumber": 70,
+      "issueTitle": null,
+      "releaseDate": "2027-01-19",
+      "price": 8.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
     },
     {
@@ -19256,20 +19711,6 @@
       "projected": true
     },
     {
-      "id": "ac92b8953b8fd187",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 12,
-      "issueTitle": null,
-      "releaseDate": "2027-01-23",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "e3e5ab071c2bd76f",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -19281,6 +19722,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ac92b8953b8fd187",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -19438,20 +19893,6 @@
       "projected": true
     },
     {
-      "id": "bf4dcd8c87ebbd1a",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 12,
-      "issueTitle": null,
-      "releaseDate": "2027-01-27",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "d9aa98ed1ec8348a",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -19463,6 +19904,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "bf4dcd8c87ebbd1a",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 12,
+      "issueTitle": null,
+      "releaseDate": "2027-01-27",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -19912,20 +20367,6 @@
       "projected": true
     },
     {
-      "id": "86d3bd967dfdd931",
-      "seriesId": "5b10f675b22b4cde",
-      "seriesTitle": "Rally 1:64 Official Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 13,
-      "issueTitle": null,
-      "releaseDate": "2027-02-06",
-      "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
-    },
-    {
       "id": "97eac274824f3bb1",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
@@ -19937,6 +20378,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "86d3bd967dfdd931",
+      "seriesId": "5b10f675b22b4cde",
+      "seriesTitle": "Rally 1:64 Official Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 13,
+      "issueTitle": null,
+      "releaseDate": "2027-02-06",
+      "price": 14.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
       "projected": true
     },
     {
@@ -20094,20 +20549,6 @@
       "projected": true
     },
     {
-      "id": "05287b5c4ea4e2f8",
-      "seriesId": "620f26177a19d19c",
-      "seriesTitle": "My Hero Academia 3D Collection",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 13,
-      "issueTitle": null,
-      "releaseDate": "2027-02-10",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
-      "projected": true
-    },
-    {
       "id": "b8bdbef1d9eb05f8",
       "seriesId": "8652efa4702b946c",
       "seriesTitle": "One Piece Plexies Collection",
@@ -20119,6 +20560,20 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "05287b5c4ea4e2f8",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 13,
+      "issueTitle": null,
+      "releaseDate": "2027-02-10",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
       "projected": true
     },
     {
@@ -20398,6 +20853,20 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e4f9ce6a4d37dd4b",
+      "seriesId": "5a30e8ba8877bf41",
+      "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 31,
+      "issueTitle": null,
+      "releaseDate": "2027-02-17",
+      "price": 5.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html",
       "projected": true
     },
     {
