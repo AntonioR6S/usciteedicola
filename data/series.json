@@ -126,6 +126,15 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
+    "id": "421150e964a096d2",
+    "title": "KRIMINAL ANASTATICA",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
+  },
+  {
     "id": "3a6f2b841e4d2ca1",
     "title": "Dylan Dog 40",
     "category": "fumetti",
@@ -142,15 +151,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/c/o/conjura_1_risultato_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/leo-ortolani-presenta-conjura-male-collana.html"
-  },
-  {
-    "id": "421150e964a096d2",
-    "title": "KRIMINAL ANASTATICA",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
   },
   {
     "id": "02defd3ac37b3bac",
@@ -324,15 +324,6 @@
     "sourceUrl": "https://www.primaedicola.it/paperino-and-friends-collana.html"
   },
   {
-    "id": "5a30e8ba8877bf41",
-    "title": "LUCKY LUKE - La raccolta completa a fumetti",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
-  },
-  {
     "id": "b418f679ababd91e",
     "title": "Il Grande Blek - Le Strisce",
     "category": "fumetti",
@@ -351,6 +342,15 @@
     "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html"
   },
   {
+    "id": "5a30e8ba8877bf41",
+    "title": "LUCKY LUKE - La raccolta completa a fumetti",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html"
+  },
+  {
     "id": "e3d3678464b7107b",
     "title": "Il Comandante Mark",
     "category": "fumetti",
@@ -358,6 +358,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "ee139ad7a01e088c",
+    "title": "Fast & Furious - Modellini in scala 1:43",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html"
   },
   {
     "id": "ba192cabc19652b8",
@@ -450,15 +459,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "31feda9dcd7581b7",
-    "title": "Auto da corsa in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
-  },
-  {
     "id": "5b10f675b22b4cde",
     "title": "Rally 1:64 Official Collection",
     "category": "modellini",
@@ -468,6 +468,15 @@
     "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
   },
   {
+    "id": "31feda9dcd7581b7",
+    "title": "Auto da corsa in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
     "id": "d5b4f1abe412ad56",
     "title": "Porsche Racing Collection",
     "category": "modellini",
@@ -475,15 +484,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_porsche_risultato.jpg",
     "totalIssues": 100,
     "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-collana.html"
-  },
-  {
-    "id": "ee139ad7a01e088c",
-    "title": "Fast & Furious - Modellini in scala 1:43",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html"
   },
   {
     "id": "1840cb675b9deac2",
@@ -520,6 +520,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-navicelle-starwars.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
+  },
+  {
+    "id": "b9e49c1bcf3d8f97",
+    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
   },
   {
     "id": "795e3890f3d6de26",
@@ -565,15 +574,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
-  },
-  {
-    "id": "b9e49c1bcf3d8f97",
-    "title": "Lady Oscar - Personaggi 3D (ed. 2026)",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html"
   },
   {
     "id": "d918b2ceb0d69f9f",
@@ -693,13 +693,13 @@
     "sourceUrl": "https://www.primaedicola.it/i-classici-letteratura-gribaudo-collana.html"
   },
   {
-    "id": "5b6971f2111cfa04",
-    "title": "La grande letteratura italiana (ed. 2026)",
+    "id": "d06c576eeebc8dc9",
+    "title": "I libri del Corriere della Sera",
     "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/a/gardini_odissea_risultato_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
   },
   {
     "id": "d56e38eb408487d5",
@@ -711,13 +711,13 @@
     "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
   },
   {
-    "id": "d06c576eeebc8dc9",
-    "title": "I libri del Corriere della Sera",
+    "id": "5b6971f2111cfa04",
+    "title": "La grande letteratura italiana (ed. 2026)",
     "category": "libri",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/a/gardini_odissea_risultato_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
   },
   {
     "id": "aedc693e67ed662a",
@@ -828,6 +828,24 @@
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
   },
   {
+    "id": "629ce9251da11bc1",
+    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
+  },
+  {
+    "id": "8fbfc9d23a108c1b",
+    "title": "Lilliput",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
+  },
+  {
     "id": "c267b626271c3f8e",
     "title": "Disney - Magiche Storie Sonore (ed. 2026)",
     "category": "libri",
@@ -853,24 +871,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-bibliotecastagioni_risultato.jpg",
     "totalIssues": 52,
     "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-collana.html"
-  },
-  {
-    "id": "629ce9251da11bc1",
-    "title": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
-  },
-  {
-    "id": "8fbfc9d23a108c1b",
-    "title": "Lilliput",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -1042,6 +1042,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/nana-deluxe-punk-edition-mnapu001isbn-it08.html"
+  },
+  {
+    "id": "cb2c67a2370f7cb1",
+    "title": "Baldur's Gate III: Astarion",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASTAR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
   },
   {
     "id": "e39a6c2c05b83b18",
@@ -1269,6 +1278,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/ushimitsugao-bella-delle-due-di-notte-1-mushi001isbn-it08.html"
   },
   {
+    "id": "a83f0e7532466b0d",
+    "title": "Jujutsu Kaisen - Sorcery Fight",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHER069I_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/jujutsu-kaisen-sorcery-fight-1-maher069i-it08.html"
+  },
+  {
     "id": "76cc47359c742a19",
     "title": "Resa dei Conti sulla Luna dei Contrabbandieri",
     "category": "fumetti",
@@ -1321,15 +1339,6 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/R/MROWA049ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-non-conosceranno-la-paura-19-mrowa049isbn-it08.html"
-  },
-  {
-    "id": "2f9fea9a33ba7d24",
-    "title": "L'Arte Di Clair Obscur: Expedition",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/l-arte-di-clair-obscur-expedition-33-mexped001isbn-it08.html"
   },
   {
     "id": "090fcaf137c8a01b",
@@ -1539,15 +1548,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/warhammer-the-horus-heresy-20-mrowa053isbn-it08.html"
   },
   {
-    "id": "cb2c67a2370f7cb1",
-    "title": "Baldur's Gate III: Astarion",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MASTAR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/baldur-s-gate-iii-astarion-mastar001isbn-it08.html"
-  },
-  {
     "id": "98668daae45e1f79",
     "title": "Alien Vs. Capitan America: L'Arma Perfetta",
     "category": "fumetti",
@@ -1647,15 +1647,6 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/avengers-di-jonathan-hickman-avengers-1-mahic001isbn-it08.html"
   },
   {
-    "id": "a83f0e7532466b0d",
-    "title": "Jujutsu Kaisen - Sorcery Fight",
-    "category": "fumetti",
-    "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MAHER069I_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
-    "totalIssues": null,
-    "sourceUrl": "https://www.panini.it/shp_ita_it/jujutsu-kaisen-sorcery-fight-1-maher069i-it08.html"
-  },
-  {
     "id": "dfdf86b6338d87b3",
     "title": "Cyberpunk 2077 Omnibus",
     "category": "fumetti",
@@ -1710,6 +1701,15 @@
     "sourceUrl": "https://www.panini.it/shp_ita_it/ratto-morde005isbn-it08.html"
   },
   {
+    "id": "2f9fea9a33ba7d24",
+    "title": "L'Arte Di Clair Obscur: Expedition",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/l-arte-di-clair-obscur-expedition-33-mexped001isbn-it08.html"
+  },
+  {
     "id": "bc3e147aeb06a9a2",
     "title": "The Marvel Teams Art of Simone Bianchi",
     "category": "fumetti",
@@ -1726,6 +1726,33 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/C/MCAU003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/assorted-crisis-event-2-mcau003isbn-it08.html"
+  },
+  {
+    "id": "0720f86b3c207a41",
+    "title": "The Boys",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/B/MBOPO004ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/the-boys-4-mbopo004isbn-it08.html"
+  },
+  {
+    "id": "1d1d78f2facf1b94",
+    "title": "Thor E Loki: Una \"Normale\" Famiglia Di Midgard",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMJBR002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/thor-e-loki-una-normale-famiglia-di-midgard-mmjbr002isbn-it08.html"
+  },
+  {
+    "id": "d6e9b4436282f478",
+    "title": "Gli Incredibili X-Men: Giorni Di Un Futuro Spassoso",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMJBR001ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/gli-incredibili-x-men-giorni-di-un-futuro-spassoso-mmjbr001isbn-it08.html"
   },
   {
     "id": "c82933c471b04db5",
