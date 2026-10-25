@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:23:28.088Z",
+  "generatedAt": "2026-10-25T09:39:41.150Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3577,32 +3577,6 @@
       "sourceUrl": "https://www.primaedicola.it/street-fighter-3d-collection-ed-2025-fascicolo-karin.html"
     },
     {
-      "id": "92d3d750462c8272",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 119,
-      "issueTitle": "BENETTON B194 - Michael Schumacher 1994",
-      "releaseDate": "2026-05-01",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-benetton-b194-michael-schumacher-1994_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-benetton-b194-michael-schumacher-1994.html"
-    },
-    {
-      "id": "db06f479c0819491",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 5,
-      "issueTitle": "Aston Martin AMR23 - Fernando Alonso - 2023",
-      "releaseDate": "2026-05-01",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-aston-martin-amr23-fernando-alonso-2023_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-aston-martin-amr23-fernando-alonso-2023.html"
-    },
-    {
       "id": "352c55e5c8149050",
       "seriesId": "1840cb675b9deac2",
       "seriesTitle": "24h Le Mans Collection",
@@ -3614,19 +3588,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/2/4/24h-le-mans-collection-panoz-lmp-1-roadster-s-2000_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/24h-le-mans-collection-panoz-lmp-1-roadster-s-2000.html"
-    },
-    {
-      "id": "d9f8cee6e8140950",
-      "seriesId": "d918b2ceb0d69f9f",
-      "seriesTitle": "Harry Potter – The Collection",
-      "category": "figures",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 10,
-      "issueTitle": "Sirius Black",
-      "releaseDate": "2026-05-01",
-      "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-sirius-black_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-sirius-black.html"
     },
     {
       "id": "25070b8bff21bc85",
@@ -4019,6 +3980,19 @@
       "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-blind-pack.html"
     },
     {
+      "id": "1bde0611650121cc",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 120,
+      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
+      "releaseDate": "2026-05-21",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
+    },
+    {
       "id": "b8e76c7e23f23f3a",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -4056,19 +4030,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/m/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/american-cars-ed-2024-ford-mustang-stv-cobra-r-2000.html"
-    },
-    {
-      "id": "1bde0611650121cc",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 120,
-      "issueTitle": "WILLIAMS FW46 - Alexander Albon - 2024",
-      "releaseDate": "2026-05-21",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
     },
     {
       "id": "74f5e3c003a04368",
@@ -4253,32 +4214,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
-      "id": "6497a5a674430c3e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 88,
-      "issueTitle": "Porsche 962C - 1988",
-      "releaseDate": "2026-05-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
-    },
-    {
-      "id": "01c69e4c1cc674b3",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 87,
-      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
-      "releaseDate": "2026-05-30",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
-    },
-    {
       "id": "bd3fd41f6f8f0dd8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -4303,6 +4238,32 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-sf-25-2025-lewis-hamilton.html"
+    },
+    {
+      "id": "6497a5a674430c3e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 88,
+      "issueTitle": "Porsche 962C - 1988",
+      "releaseDate": "2026-05-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
+    },
+    {
+      "id": "01c69e4c1cc674b3",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 87,
+      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
+      "releaseDate": "2026-05-30",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -5774,6 +5735,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bring-your-daughter-to-the-slaughter.html"
     },
     {
+      "id": "bd73851965f1af5e",
+      "seriesId": "7b113fd2403f0af3",
+      "seriesTitle": "Leggendarie auto da corsa",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 124,
+      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
+      "releaseDate": "2026-07-18",
+      "price": 26.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
+    },
+    {
       "id": "e4f24dbf7eacf400",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
@@ -5824,19 +5798,6 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-in-scala-1-43-lancia-esatau-scuderia-lancia-1953.html"
-    },
-    {
-      "id": "bd73851965f1af5e",
-      "seriesId": "7b113fd2403f0af3",
-      "seriesTitle": "Leggendarie auto da corsa",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 124,
-      "issueTitle": "McLAREN MCL38 - Oscar Piastri - 2024 Monaco Grand Prix",
-      "releaseDate": "2026-07-18",
-      "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl38-oscar-piastri-2024-monaco-grand.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -6021,19 +5982,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-topolino-junior-numero-35-portafoglio-di-topolino.html"
     },
     {
-      "id": "f6d053bc4e9d59ff",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 93,
-      "issueTitle": "Porsche 718 RSK - 1958",
-      "releaseDate": "2026-07-25",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
-    },
-    {
       "id": "37a75d9dee2fbe24",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -6058,6 +6006,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-ferrari-f1-75-2022-charles-leclerc.html"
+    },
+    {
+      "id": "f6d053bc4e9d59ff",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 93,
+      "issueTitle": "Porsche 718 RSK - 1958",
+      "releaseDate": "2026-07-25",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-718-rsk-1958_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-718-rsk-1958.html"
     },
     {
       "id": "26fc51705c787f62",
@@ -11754,88 +11715,82 @@
       "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-pelle-d-asino.html"
     },
     {
-      "id": "dafcce74e1aacc17",
+      "id": "ddfd1d6439da05b3",
       "seriesId": "a43220cf6032d7b7",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 5,
-      "issueTitle": null,
+      "issueTitle": "Alfa Romeo 33/3 'coda lunga' - 1970",
       "releaseDate": "2026-10-17",
       "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-alfaromeo-collection2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-33-3-coda-lunga-1970_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-ed-2026-alfa-romeo-33-3-coda-lunga-1970.html"
     },
     {
-      "id": "8e61513086eae105",
+      "id": "2e502cfa0224331b",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 131,
-      "issueTitle": null,
+      "issueTitle": "MERCEDES-AMG F1 W16 E PERFORMANCE Kimi Antonelli - 2025",
       "releaseDate": "2026-10-17",
       "price": 26.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/leggendarieautodacorsa-pack3d-v2.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/leggendarie-auto-da-corsa-mercedes-amg-f1-w16-e-performance-kimi-antonelli_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mercedes-amg-f1-w16-e-performance-kimi-antonelli.html"
     },
     {
-      "id": "1bddd1fb59f3d41f",
+      "id": "7364578565febda8",
       "seriesId": "31feda9dcd7581b7",
       "seriesTitle": "Auto da corsa in scala 1:43",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 17,
-      "issueTitle": null,
+      "issueTitle": "Aston Martin Amr24 - Fernando Alonso",
       "releaseDate": "2026-10-17",
       "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso.html"
     },
     {
-      "id": "c5b06c1a747b85de",
+      "id": "75fce3ff153321de",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 5,
-      "issueTitle": null,
+      "issueTitle": "HYUNDAI i20 N RALLY1 - Rally Monte-Carlo 2024 (T. Neuville - M. Wydaeghe)",
       "releaseDate": "2026-10-17",
       "price": 14.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-      "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-hyundai-i20-n-rally1-rally-monte-carlo-2024-t_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-hyundai-i20-n-rally1-rally-monte-carlo-2024-t.html"
     },
     {
-      "id": "aa04ef7afa7cd7ca",
+      "id": "3a62e79c8f464fc3",
       "seriesId": "d918b2ceb0d69f9f",
       "seriesTitle": "Harry Potter – The Collection",
       "category": "figures",
       "publisher": "RCS MediaGroup",
       "issueNumber": 22,
-      "issueTitle": null,
+      "issueTitle": "Ron Weasley - Quidditch",
       "releaseDate": "2026-10-17",
       "price": 16.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-harrypotter_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-3d-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/a/harry-potter-the-collection-ron-weasley-quidditch_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/harry-potter-the-collection-ron-weasley-quidditch.html"
     },
     {
-      "id": "aa6c8b2f49b4cf32",
+      "id": "76ca05f7e560300c",
       "seriesId": "ad118cdedd7bee6e",
       "seriesTitle": "Patrimonio Artistico Italiano",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 8,
-      "issueTitle": null,
+      "issueTitle": "Padova. La Cappella degli Scrovegni di Giotto e gli splendori del Trecento",
       "releaseDate": "2026-10-17",
       "price": 12.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/a/patrimonio-artistico-italiano-padova-la-cappella-degli-scrovegni-di-giotto-e_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-padova-la-cappella-degli-scrovegni-di-giotto-e.html"
     },
     {
       "id": "005498da986ca705",
