@@ -936,15 +936,6 @@
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
   },
   {
-    "id": "4d8037c4f69449f6",
-    "title": "Amica con mascara Face D Black Volume in edicola",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
-  },
-  {
     "id": "853780fa701cfe3c",
     "title": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
     "category": "collezionabili",
@@ -988,6 +979,15 @@
     "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/04/Oggi-con-creme-Avant-anti-eta-skincare-di-lusso-in-edicola-1.webp",
     "totalIssues": null,
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-creme-avant/"
+  },
+  {
+    "id": "1e97922926343743",
+    "title": "Uomini e Donne con bracciale tennis in edicola: 3 colori tra cui scegliere",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/10/Uomini-e-Donne-con-bracciale-tennis-in-edicola-3-colori-tra-cui-scegliere.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-bracciale-tennis-in-edicola/"
   },
   {
     "id": "fe42f2ae9cef3d88",
@@ -1048,7 +1048,7 @@
     "title": "Topolino",
     "category": "fumetti",
     "publisher": "Panini",
-    "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+    "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3702f_0.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3702-1wtopo3702f-it08.html"
   },
@@ -1393,6 +1393,15 @@
     "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMANG017ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
     "totalIssues": null,
     "sourceUrl": "https://www.panini.it/shp_ita_it/sai-dimensional-rivals-mmang017isbn-it08.html"
+  },
+  {
+    "id": "fd6fc58f78701f84",
+    "title": "Sai: Dimensional Rivals",
+    "category": "fumetti",
+    "publisher": "Panini",
+    "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS014ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+    "totalIssues": null,
+    "sourceUrl": "https://www.panini.it/shp_ita_it/sai-dimensional-rivals-marts014isbn-it08.html"
   },
   {
     "id": "02d46c028c0609e6",

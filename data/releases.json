@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:51:03.008Z",
+  "generatedAt": "2026-10-27T10:17:45.143Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3016,32 +3016,6 @@
       "price": 9.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/q/u/quid-genitori-e-figli-crescere-insieme-la-bussola-del-pirata-primi-passi-verso_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/quid-genitori-e-figli-crescere-insieme-la-bussola-del-pirata-primi-passi-verso.html"
-    },
-    {
-      "id": "58dff08fa6fe44c6",
-      "seriesId": "32e9f3b920a2000c",
-      "seriesTitle": "Disney Paperino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 550,
-      "issueTitle": "Aprile 2026",
-      "releaseDate": "2026-03-30",
-      "price": 5.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperino-aprile-2026_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/paperino-mese-nde0060550.html"
-    },
-    {
-      "id": "97f330bebf8f6382",
-      "seriesId": "32e9f3b920a2000c",
-      "seriesTitle": "Disney Paperino",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 550,
-      "issueTitle": "Aprile 2026 + Medaglia di Paperino o Paperinik",
-      "releaseDate": "2026-03-30",
-      "price": 6.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperino-edizione-speciale-aprile-2026-medaglia-di-paperino-o-paperinik_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-paperino-edizione-speciale-aprile-2026-medaglia-di-paperino-o-paperinik.html"
     },
     {
       "id": "bdcbb17e11563014",
@@ -12264,19 +12238,6 @@
       "projected": true
     },
     {
-      "id": "3598cbc3615aacd4",
-      "seriesId": "4d8037c4f69449f6",
-      "seriesTitle": "Amica con mascara Face D Black Volume in edicola",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-23",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Amica-con-mascara-Face-D-Black-Volume-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-mascara-face-d-black-volume-in-edicola/"
-    },
-    {
       "id": "ea3e6dfc7f8e5471",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -12774,6 +12735,19 @@
       "projected": true
     },
     {
+      "id": "7c9abc2a4854401d",
+      "seriesId": "1e97922926343743",
+      "seriesTitle": "Uomini e Donne con bracciale tennis in edicola: 3 colori tra cui scegliere",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-31",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2025/10/Uomini-e-Donne-con-bracciale-tennis-in-edicola-3-colori-tra-cui-scegliere.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-bracciale-tennis-in-edicola/"
+    },
+    {
       "id": "5774b80ba14c3610",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -13058,7 +13032,7 @@
       "issueTitle": "Topolino 3702",
       "releaseDate": "2026-11-04",
       "price": 7.6,
-      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3702f_0.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3702-1wtopo3702f-it08.html"
     },
     {
@@ -13688,6 +13662,19 @@
       "price": 11.4,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMANG017ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/sai-dimensional-rivals-mmang017isbn-it08.html"
+    },
+    {
+      "id": "22cd71a3d78f1ca2",
+      "seriesId": "fd6fc58f78701f84",
+      "seriesTitle": "Sai: Dimensional Rivals",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 26.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MARTS014ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/sai-dimensional-rivals-marts014isbn-it08.html"
     },
     {
       "id": "5f111982b512febc",
@@ -20816,6 +20803,62 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "3ea3bbebe3a8c8a5",
+      "seriesId": "5a30e8ba8877bf41",
+      "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 32,
+      "issueTitle": null,
+      "releaseDate": "2027-02-24",
+      "price": 5.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-lucky-luke_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lucky-luke-raccolta-completa-fumetti-collana.html",
+      "projected": true
+    },
+    {
+      "id": "0dc324b07af426e2",
+      "seriesId": "cca94a92ca8c1e46",
+      "seriesTitle": "Military Cars - Veicoli militari in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 14,
+      "issueTitle": null,
+      "releaseDate": "2027-02-24",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack-veicolimilitari.jpg",
+      "sourceUrl": "https://www.primaedicola.it/military-cars-veicoli-militari-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "fedffae82eefc67f",
+      "seriesId": "620f26177a19d19c",
+      "seriesTitle": "My Hero Academia 3D Collection",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 14,
+      "issueTitle": null,
+      "releaseDate": "2027-02-24",
+      "price": 14.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+      "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "8f1ad5ef110ed374",
+      "seriesId": "5c93ca53f8b8a280",
+      "seriesTitle": "MotoGP in scala 1:12",
+      "category": "collezionabili",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 14,
+      "issueTitle": null,
+      "releaseDate": "2027-02-24",
+      "price": 24.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
+      "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
       "projected": true
     }
   ]
