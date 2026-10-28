@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:17:45.143Z",
+  "generatedAt": "2026-10-28T11:05:02.857Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3317,32 +3317,6 @@
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-maria-teresa-carlotta-di-borbone.html"
     },
     {
-      "id": "40fb0c1d55b7cf9d",
-      "seriesId": "0dfadf343636b571",
-      "seriesTitle": "Amazing Spider-Man - Radioattivo",
-      "category": "fumetti",
-      "publisher": "Panini S.p.A.",
-      "issueNumber": 888,
-      "issueTitle": "Radioattivo Spider-Man #3 / 3",
-      "releaseDate": "2026-04-16",
-      "price": 8,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/m/amazing-spider-man-radioattivo-radioattivo-spider-man-3-3_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/amazing-spider-man-radioattivo-radioattivo-spider-man-3-3.html"
-    },
-    {
-      "id": "8224a329d84b3f6e",
-      "seriesId": "f1baca7531429694",
-      "seriesTitle": "Batman - DC Comics",
-      "category": "fumetti",
-      "publisher": "Panini S.p.A.",
-      "issueNumber": 125,
-      "issueTitle": "Batman 125 (Con Detective Comics)",
-      "releaseDate": "2026-04-16",
-      "price": 8,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/b/a/batman-dc-comics-batman-125-con-detective-comics_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-125-con-detective-comics.html"
-    },
-    {
       "id": "e978620a1818a773",
       "seriesId": "f2a5a74b449ddc84",
       "seriesTitle": "Rat-man - Il mito (Leo Ortolani)",
@@ -3616,32 +3590,6 @@
       "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-acura-integra-gs-r-db8-1994.html"
     },
     {
-      "id": "388ecc3db7f7b61b",
-      "seriesId": "70a677d2710077e6",
-      "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 77,
-      "issueTitle": "Panhard 24 CT - 1965",
-      "releaseDate": "2026-05-05",
-      "price": 25.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-vintage-europe-collection-ed-2023-panhard-24-ct-1965_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-vintage-europe-collection-ed-2023-panhard-24-ct-1965.html"
-    },
-    {
-      "id": "70ba5ee41c616636",
-      "seriesId": "eae220b917e0b69c",
-      "seriesTitle": "Le leggende del Rally in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 44,
-      "issueTitle": "Ford Fiesta WRC - Ott Tänak, Järveoja Martin (Rally Italia Sardegna, 2017)",
-      "releaseDate": "2026-05-05",
-      "price": 16.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-ford-fiesta-wrc-ott-tanak-jarveoja-martin_2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-ford-fiesta-wrc-ott-tanak-jarveoja-martin.html"
-    },
-    {
       "id": "67aa025526f15485",
       "seriesId": "455b1bc2bd5c5647",
       "seriesTitle": "American Cars (ed. 2024)",
@@ -3876,19 +3824,6 @@
       "sourceUrl": "https://www.primaedicola.it/diabolik-anastatika-professione-ladra.html"
     },
     {
-      "id": "99a2e95de8c740fb",
-      "seriesId": "ee139ad7a01e088c",
-      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 70,
-      "issueTitle": "Chevrolet Impala (1961)",
-      "releaseDate": "2026-05-19",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-chevrolet-impala-1961_2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-chevrolet-impala-1961.html"
-    },
-    {
       "id": "013aad6abda6839d",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
@@ -3913,6 +3848,19 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-skoda-fabia-rs-rally2-oliver-solberg-rally_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-skoda-fabia-rs-rally2-oliver-solberg-rally.html"
+    },
+    {
+      "id": "99a2e95de8c740fb",
+      "seriesId": "ee139ad7a01e088c",
+      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 70,
+      "issueTitle": "Chevrolet Impala (1961)",
+      "releaseDate": "2026-05-19",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-chevrolet-impala-1961_2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-chevrolet-impala-1961.html"
     },
     {
       "id": "bf37e1797bb696e8",
@@ -4292,19 +4240,6 @@
       "sourceUrl": "https://www.primaedicola.it/diabolik-anastatika-un-amore-nuovo.html"
     },
     {
-      "id": "8481aeb4024dee1d",
-      "seriesId": "ee139ad7a01e088c",
-      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 71,
-      "issueTitle": "Honda Civic Coupe (1993)",
-      "releaseDate": "2026-06-02",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-honda-civic-coupe-1993_2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-civic-coupe-1993.html"
-    },
-    {
       "id": "0b9fac9953d7bdfc",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
@@ -4329,6 +4264,19 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-ford-escort-wrc-c-sainz-l-moya-rally_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-ford-escort-wrc-c-sainz-l-moya-rally.html"
+    },
+    {
+      "id": "8481aeb4024dee1d",
+      "seriesId": "ee139ad7a01e088c",
+      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 71,
+      "issueTitle": "Honda Civic Coupe (1993)",
+      "releaseDate": "2026-06-02",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-honda-civic-coupe-1993_2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-civic-coupe-1993.html"
     },
     {
       "id": "db2f685f642007e7",
@@ -4695,19 +4643,6 @@
       "sourceUrl": "https://www.primaedicola.it/i-grandi-classici-disney-uscita-n-126.html"
     },
     {
-      "id": "27ef04b5b500ddcb",
-      "seriesId": "ee139ad7a01e088c",
-      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 72,
-      "issueTitle": "Jeep Gladiator (2020)",
-      "releaseDate": "2026-06-16",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-jeep-gladiator-2020_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/fast-and-furious-cars-1-43-inx1f30072.html"
-    },
-    {
       "id": "4771f74f2ca00512",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
@@ -4732,6 +4667,19 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-ford-focus-rs-wrc-04-r-kresta-j-tomanek_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-ford-focus-rs-wrc-04-r-kresta-j-tomanek.html"
+    },
+    {
+      "id": "27ef04b5b500ddcb",
+      "seriesId": "ee139ad7a01e088c",
+      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 72,
+      "issueTitle": "Jeep Gladiator (2020)",
+      "releaseDate": "2026-06-16",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-jeep-gladiator-2020_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/fast-and-furious-cars-1-43-inx1f30072.html"
     },
     {
       "id": "ce158e64c3e5ed84",
@@ -5072,32 +5020,6 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-luglio-2026.html"
     },
     {
-      "id": "1692c8964b4bbf7e",
-      "seriesId": "d5b4f1abe412ad56",
-      "seriesTitle": "Porsche Racing Collection",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 91,
-      "issueTitle": "Porsche 935 K3 - 1979",
-      "releaseDate": "2026-06-30",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-935-k3-1979_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-935-k3-1979.html"
-    },
-    {
-      "id": "7c15a967f3c3a2cb",
-      "seriesId": "ee139ad7a01e088c",
-      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 73,
-      "issueTitle": "Honda Civic SI Hatchback (1993)",
-      "releaseDate": "2026-06-30",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-honda-civic-si-hatchback-1993_2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-civic-si-hatchback-1993.html"
-    },
-    {
       "id": "7a1038096a6cbf2e",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
@@ -5122,6 +5044,32 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-subaru-impreza-555-k-holowczyc-m-wislawsk_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-subaru-impreza-555-k-holowczyc-m-wislawsk.html"
+    },
+    {
+      "id": "1692c8964b4bbf7e",
+      "seriesId": "d5b4f1abe412ad56",
+      "seriesTitle": "Porsche Racing Collection",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 91,
+      "issueTitle": "Porsche 935 K3 - 1979",
+      "releaseDate": "2026-06-30",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-935-k3-1979_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-porsche-935-k3-1979.html"
+    },
+    {
+      "id": "7c15a967f3c3a2cb",
+      "seriesId": "ee139ad7a01e088c",
+      "seriesTitle": "Fast & Furious - Modellini in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 73,
+      "issueTitle": "Honda Civic SI Hatchback (1993)",
+      "releaseDate": "2026-06-30",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/a/fast-furious-modellini-in-scala-1-43-honda-civic-si-hatchback-1993_2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-civic-si-hatchback-1993.html"
     },
     {
       "id": "d091854e38ddab3d",
@@ -6021,58 +5969,6 @@
       "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-fattacci-vincenzo-cerami.html"
     },
     {
-      "id": "f2ea60345a0321cf",
-      "seriesId": "421150e964a096d2",
-      "seriesTitle": "KRIMINAL ANASTATICA",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 31,
-      "issueTitle": "Feste in lutto",
-      "releaseDate": "2026-07-28",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/k/r/kriminal-anastatica-feste-in-lutto_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-feste-in-lutto.html"
-    },
-    {
-      "id": "427b6624dfbc9cf9",
-      "seriesId": "bb296c41709f9004",
-      "seriesTitle": "Super Eroi Classic",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 488,
-      "issueTitle": "Iron Man (Un nuovo antico nemico!)",
-      "releaseDate": "2026-07-28",
-      "price": 9.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/u/super-eroi-classic-iron-man-un-nuovo-antico-nemico_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-iron-man-un-nuovo-antico-nemico.html"
-    },
-    {
-      "id": "42439278a4633442",
-      "seriesId": "b418f679ababd91e",
-      "seriesTitle": "Il Grande Blek - Le Strisce",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 116,
-      "issueTitle": "La baia degli squali, Il complice rosso, Un ospite infido",
-      "releaseDate": "2026-07-28",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/l/il-grande-blek-le-strisce-la-baia-degli-squali-il-complice-rosso-un_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/il-grande-blek-le-strisce-la-baia-degli-squali-il-complice-rosso-un.html"
-    },
-    {
-      "id": "0d1a4575d74376b4",
-      "seriesId": "845755ca7eae00fb",
-      "seriesTitle": "Le strisce di TEX",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 251,
-      "issueTitle": "Uscita 251 (Attentato!, Una serata movimentata, Tex chiude il conto)",
-      "releaseDate": "2026-07-28",
-      "price": 5.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-strisce-di-tex-uscita-251-attentato-una-serata-movimentata_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-tex-uscita-251-attentato-una-serata-movimentata.html"
-    },
-    {
       "id": "7ba3358f6d3d2f01",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
@@ -6097,71 +5993,6 @@
       "price": 23.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-peugot-504-1-18-jean-pierre-nicolas-michel_2_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-peugot-504-1-18-jean-pierre-nicolas-michel.html"
-    },
-    {
-      "id": "1135732e9c8f4412",
-      "seriesId": "b9e49c1bcf3d8f97",
-      "seriesTitle": "Lady Oscar - Personaggi 3D (ed. 2026)",
-      "category": "figures",
-      "publisher": "Centauria",
-      "issueNumber": 25,
-      "issueTitle": "Reynier de Jarjayes",
-      "releaseDate": "2026-07-28",
-      "price": 13.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/lady-oscar-personaggi-3d-ed-2026-reynier-de-jarjayes_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-reynier-de-jarjayes.html"
-    },
-    {
-      "id": "eaab67e0c41f7922",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 40,
-      "issueTitle": "A. Manzoni - I Promessi Sposi (Parte 4)",
-      "releaseDate": "2026-07-28",
-      "price": 10.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-a-manzoni-i-promessi-sposi-parte-4_2_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-a-manzoni-i-promessi-sposi-parte-4.html"
-    },
-    {
-      "id": "79ad99fb561b2d5f",
-      "seriesId": "5cfcc81c27fd65ff",
-      "seriesTitle": "Luciano Canfora",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 26,
-      "issueTitle": "Tucidide e il colpo di Stato",
-      "releaseDate": "2026-07-28",
-      "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/u/luciano-canfora-tucidide-e-il-colpo-di-stato_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/luciano-canfora-tucidide-e-il-colpo-di-stato.html"
-    },
-    {
-      "id": "38b8fcdfc16297c5",
-      "seriesId": "629ce9251da11bc1",
-      "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 42,
-      "issueTitle": "A comprare la città di Stoccolma",
-      "releaseDate": "2026-07-28",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-a-comprare-la-citta-di-stoccolma.html"
-    },
-    {
-      "id": "23e13601eed383b8",
-      "seriesId": "8fbfc9d23a108c1b",
-      "seriesTitle": "Lilliput",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 45,
-      "issueTitle": "Una guancia è perfetta",
-      "releaseDate": "2026-07-28",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-una-guancia-e-perfetta_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-una-guancia-e-perfetta.html"
     },
     {
       "id": "b39d9dc025643744",
@@ -7698,19 +7529,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-wolf-wr1-jody-schecketer-1977.html"
     },
     {
-      "id": "61577c5210fce929",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 13,
-      "issueTitle": "Williams Fw45 - Alexander Albon 2023",
-      "releaseDate": "2026-08-22",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023.html"
-    },
-    {
       "id": "6d09d491d543fea3",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -7722,6 +7540,19 @@
       "price": 5.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia_1_2.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-lancia-delta-hf-integrale-16v-rally-d-italia.html"
+    },
+    {
+      "id": "61577c5210fce929",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 13,
+      "issueTitle": "Williams Fw45 - Alexander Albon 2023",
+      "releaseDate": "2026-08-22",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-williams-fw45-alexander-albon-2023.html"
     },
     {
       "id": "6b37aff1aa07d746",
@@ -8647,19 +8478,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-maserati-250-f-juan-manuel-fangio-1957.html"
     },
     {
-      "id": "7446175f0b5e43e7",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 14,
-      "issueTitle": "Mclaren Mcl60 - Oscar Piastri - 2023",
-      "releaseDate": "2026-09-05",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023.html"
-    },
-    {
       "id": "04fbdfc0568aa18a",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -8671,6 +8489,19 @@
       "price": 10.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011_1_2.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-citrojon-ds3-wrc-rally-d-italia-sardegna-2011.html"
+    },
+    {
+      "id": "7446175f0b5e43e7",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 14,
+      "issueTitle": "Mclaren Mcl60 - Oscar Piastri - 2023",
+      "releaseDate": "2026-09-05",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mclaren-mcl60-oscar-piastri-2023.html"
     },
     {
       "id": "35b23cd371e8813c",
@@ -8827,19 +8658,6 @@
       "price": 18.1,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-se-non-c-eri-non-c-ero-di-telmo-pievani-e_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-se-non-c-eri-non-c-ero-di-telmo-pievani-e.html"
-    },
-    {
-      "id": "4564caa1b7677f87",
-      "seriesId": "d06c576eeebc8dc9",
-      "seriesTitle": "I libri del Corriere della Sera",
-      "category": "libri",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 4,
-      "issueTitle": "Libertà, Libertà! di Greta Privitera",
-      "releaseDate": "2026-09-08",
-      "price": 15.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-liberta-liberta-di-greta-privitera_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-liberta-liberta-di-greta-privitera.html"
     },
     {
       "id": "a1f1ad9480083823",
@@ -9674,19 +9492,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mclaren-mcl39-lando-norris-2025.html"
     },
     {
-      "id": "078ec0b4f92b8050",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 15,
-      "issueTitle": "Mercedes - Amg F1 W15 E Performance 2024 - Lewis Hamilton - Singapore Grand Px",
-      "releaseDate": "2026-09-19",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis.html"
-    },
-    {
       "id": "c8e7a1083c1124b8",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -9698,6 +9503,19 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-toyota-gr-yaris-rally1-rally-de-portugal-2023.html"
+    },
+    {
+      "id": "078ec0b4f92b8050",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 15,
+      "issueTitle": "Mercedes - Amg F1 W15 E Performance 2024 - Lewis Hamilton - Singapore Grand Px",
+      "releaseDate": "2026-09-19",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-mercedes-amg-f1-w15-e-performance-2024-lewis.html"
     },
     {
       "id": "99d42618f09f6d2e",
@@ -10688,19 +10506,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-honda-ra300-john-surtees-1967.html"
     },
     {
-      "id": "2e8743f1b36cb9a4",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 16,
-      "issueTitle": "Sauber C37 - 2018 - Charles Leclerc",
-      "releaseDate": "2026-10-03",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc.html"
-    },
-    {
       "id": "e830c0be6f7be780",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -10712,6 +10517,19 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-fiat-131-abarth-rally-de-portugal-1978-m-alen.html"
+    },
+    {
+      "id": "2e8743f1b36cb9a4",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 16,
+      "issueTitle": "Sauber C37 - 2018 - Charles Leclerc",
+      "releaseDate": "2026-10-03",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-sauber-c37-2018-charles-leclerc.html"
     },
     {
       "id": "956aa3d7b37dff49",
@@ -11050,6 +10868,19 @@
       "price": 8.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-biblioteca-delle-stagioni-scherzi-d-autunno_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-biblioteca-delle-stagioni-scherzi-d-autunno.html"
+    },
+    {
+      "id": "77bf61a8fe7e0b98",
+      "seriesId": "e29d26149a1f6499",
+      "seriesTitle": "Spectacular Spider-Man - Brand New Day",
+      "category": "fumetti",
+      "publisher": "Panini S.p.A.",
+      "issueNumber": 900,
+      "issueTitle": "Brand New Day (2026) #1 / 3",
+      "releaseDate": "2026-10-08",
+      "price": 6,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/p/spectacular-spider-man-brand-new-day-brand-new-day-2026-1-3_1_2.jpg",
+      "sourceUrl": "https://www.primaedicola.it/spectacular-spider-man-brand-new-day-brand-new-day-2026-1-3.html"
     },
     {
       "id": "8b42e27582f75c80",
@@ -11546,19 +11377,6 @@
       "sourceUrl": "https://www.primaedicola.it/batman-dc-comics-batman-131.html"
     },
     {
-      "id": "0a0dc4be638f0982",
-      "seriesId": "a4d0a020aa8807ba",
-      "seriesTitle": "Disney Zio Paperone",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 104,
-      "issueTitle": "Numero 100 (Ottobre 2026)",
-      "releaseDate": "2026-10-15",
-      "price": 5.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-zio-paperone-numero-100-ottobre-2026_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-zio-paperone-numero-100-ottobre-2026.html"
-    },
-    {
       "id": "1abf8cb6d8d6b646",
       "seriesId": "d7582e089fca0f38",
       "seriesTitle": "Hugo Pratt Collection",
@@ -11570,6 +11388,19 @@
       "price": 13.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/h/u/hugo-pratt-collection-periplo-immaginario-iii_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-periplo-immaginario-iii.html"
+    },
+    {
+      "id": "0a0dc4be638f0982",
+      "seriesId": "a4d0a020aa8807ba",
+      "seriesTitle": "Disney Zio Paperone",
+      "category": "fumetti",
+      "publisher": "Disney Panini S.p.A.",
+      "issueNumber": 104,
+      "issueTitle": "Numero 100 (Ottobre 2026)",
+      "releaseDate": "2026-10-15",
+      "price": 5.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-zio-paperone-numero-100-ottobre-2026_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-zio-paperone-numero-100-ottobre-2026.html"
     },
     {
       "id": "de8fa10a2a501852",
@@ -11715,19 +11546,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-mercedes-amg-f1-w16-e-performance-kimi-antonelli.html"
     },
     {
-      "id": "7364578565febda8",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 17,
-      "issueTitle": "Aston Martin Amr24 - Fernando Alonso",
-      "releaseDate": "2026-10-17",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso.html"
-    },
-    {
       "id": "75fce3ff153321de",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -11739,6 +11557,19 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/r/a/rally-1-64-official-collection-hyundai-i20-n-rally1-rally-monte-carlo-2024-t_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-1-64-official-collection-hyundai-i20-n-rally1-rally-monte-carlo-2024-t.html"
+    },
+    {
+      "id": "7364578565febda8",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 17,
+      "issueTitle": "Aston Martin Amr24 - Fernando Alonso",
+      "releaseDate": "2026-10-17",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-in-scala-1-43-aston-martin-amr24-fernando-alonso.html"
     },
     {
       "id": "3a62e79c8f464fc3",
@@ -11767,102 +11598,95 @@
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-padova-la-cappella-degli-scrovegni-di-giotto-e.html"
     },
     {
-      "id": "005498da986ca705",
+      "id": "974b3a32b04a3723",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 43,
-      "issueTitle": null,
+      "issueTitle": "La filastrocca dell'impiccato",
       "releaseDate": "2026-10-20",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/k/r/kriminal-anastatica-la-filastrocca-dell-impiccato_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-la-filastrocca-dell-impiccato.html"
     },
     {
-      "id": "866d2857083352a9",
+      "id": "33719c8179034c8a",
       "seriesId": "bb296c41709f9004",
       "seriesTitle": "Super Eroi Classic",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 500,
-      "issueTitle": null,
+      "issueTitle": "Fantastic Four (Il nuovo membro)",
       "releaseDate": "2026-10-20",
       "price": 9.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
-      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/s/u/super-eroi-classic-fantastic-four-il-nuovo-membro_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-fantastic-four-il-nuovo-membro.html"
     },
     {
-      "id": "ebdf95b1aeaa906d",
+      "id": "74e1b845e19fa0b6",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 128,
-      "issueTitle": null,
+      "issueTitle": "I senza paura, Nelle mani degli Iroquois, Il prigioniero sconosciuto",
       "releaseDate": "2026-10-20",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack3d-strisceblek_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-strisce-blek-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/l/il-grande-blek-le-strisce-i-senza-paura-nelle-mani-degli-iroquois-il_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/il-grande-blek-le-strisce-i-senza-paura-nelle-mani-degli-iroquois-il.html"
     },
     {
-      "id": "2698e0f4349221b8",
+      "id": "3f8e25db134053f4",
       "seriesId": "845755ca7eae00fb",
       "seriesTitle": "Le strisce di TEX",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 263,
-      "issueTitle": null,
+      "issueTitle": "Uscita 263 (Una spia sfortunata, Il traditore, El Rey)",
       "releaseDate": "2026-10-20",
       "price": 5.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/l/e/le-strisce-di-tex.jpg",
-      "sourceUrl": "https://www.primaedicola.it/tex-albi-a-strisce-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-strisce-di-tex-uscita-263-una-spia-sfortunata-il-traditore-el_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-tex-uscita-263-una-spia-sfortunata-il-traditore-el.html"
     },
     {
-      "id": "6078e023ce7da178",
+      "id": "7fa551043001c9cc",
       "seriesId": "70a677d2710077e6",
       "seriesTitle": "Auto Vintage - Europe Collection (ed. 2023)",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 89,
-      "issueTitle": null,
+      "issueTitle": "Shelby GT500 - 1967",
       "releaseDate": "2026-10-20",
       "price": 25.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulck-autovintage2023_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-vintage-europe-collection-ed-2023-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/u/auto-vintage-europe-collection-ed-2023-shelby-gt500-1967_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-vintage-europe-collection-ed-2023-shelby-gt500-1967.html"
     },
     {
-      "id": "07037cb0c63a181d",
+      "id": "0d0b1c2e86f8c3f1",
       "seriesId": "eae220b917e0b69c",
       "seriesTitle": "Le leggende del Rally in scala 1:43",
       "category": "modellini",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 56,
-      "issueTitle": null,
+      "issueTitle": "Toyota Yaris WRC - Sébastien Ogier, Vincent Landais (Rally Monte Carlo, 2023)",
       "releaseDate": "2026-10-20",
       "price": 16.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-leggende-del-rally-in-scala-1-43-toyota-yaris-wrc-sebastien-ogier-vincent_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-in-scala-1-43-toyota-yaris-wrc-sebastien-ogier-vincent.html"
     },
     {
-      "id": "8090d029fabf558d",
+      "id": "e7ea7207f2eda9bb",
       "seriesId": "b9e49c1bcf3d8f97",
       "seriesTitle": "Lady Oscar - Personaggi 3D (ed. 2026)",
       "category": "figures",
       "publisher": "Centauria",
       "issueNumber": 37,
-      "issueTitle": null,
+      "issueTitle": "Georgette de Jarjayes",
       "releaseDate": "2026-10-20",
       "price": 13.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/lady-oscar-personaggi-3d-ed-2026-georgette-de-jarjayes_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-ed-2026-georgette-de-jarjayes.html"
     },
     {
       "id": "7543ecc6a8948b6a",
@@ -11930,46 +11754,56 @@
       "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-i-fuori-classe-di-giovanni-floris.html"
     },
     {
-      "id": "0f308876e5231ca1",
+      "id": "9ad1ac74f300a90c",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 52,
+      "issueTitle": "Stevenson - L'isola del tesoro 2",
+      "releaseDate": "2026-10-20",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/a/capolavori-in-miniatura-ed-2025-stevenson-l-isola-del-tesoro-2_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-ed-2025-stevenson-l-isola-del-tesoro-2.html"
+    },
+    {
+      "id": "8ee50fb1da735050",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
       "category": "libri",
       "publisher": "RCS MediaGroup",
       "issueNumber": 38,
-      "issueTitle": null,
+      "issueTitle": "L'uso politico dei paradigmi storici",
       "releaseDate": "2026-10-20",
       "price": 10.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-canfora_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/luciano-canfora-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/u/luciano-canfora-l-uso-politico-dei-paradigmi-storici_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/luciano-canfora-l-uso-politico-dei-paradigmi-storici.html"
     },
     {
-      "id": "5c5ade9b353cdc57",
+      "id": "412556fd08d35ed3",
       "seriesId": "629ce9251da11bc1",
       "seriesTitle": "I grandi libri illustrati di Gianni Rodari (ed. 2025)",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 54,
-      "issueTitle": null,
+      "issueTitle": "Il concerto dei gatti",
       "releaseDate": "2026-10-20",
       "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-concerto-dei-gatti_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-grandi-libri-illustrati-di-gianni-rodari-ed-2025-il-concerto-dei-gatti.html"
     },
     {
-      "id": "4870d010f112c124",
+      "id": "41332fceb7b43462",
       "seriesId": "8fbfc9d23a108c1b",
       "seriesTitle": "Lilliput",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 57,
-      "issueTitle": null,
+      "issueTitle": "Grattaciela",
       "releaseDate": "2026-10-20",
       "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/i/lilliput-grattaciela_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/lilliput-grattaciela.html"
     },
     {
       "id": "89e37c91eccfd65a",
@@ -12294,6 +12128,20 @@
       "projected": true
     },
     {
+      "id": "bdc752eceb9fc06d",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 501,
+      "issueTitle": null,
+      "releaseDate": "2026-10-27",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "2a2be2b63fbbcd40",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -12363,18 +12211,17 @@
       "sourceUrl": "https://www.primaedicola.it/i-classici-gribaudo-lo-strano-caso-del-dottor-jekyll-e-mr-hyde.html"
     },
     {
-      "id": "aaa3aef6e82a92b0",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "id": "4d98466bcc58a9c9",
+      "seriesId": "d06c576eeebc8dc9",
+      "seriesTitle": "I libri del Corriere della Sera",
       "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 52,
-      "issueTitle": null,
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 5,
+      "issueTitle": "Mio fratello è un Cavaliere Jedi di Nico Acampora",
       "releaseDate": "2026-10-27",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
-      "projected": true
+      "price": 15.1,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/i/-/i-libri-del-corriere-della-sera-mio-fratello-e-un-cavaliere-jedi-di-nico-acampora_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-mio-fratello-e-un-cavaliere-jedi-di-nico-acampora.html"
     },
     {
       "id": "a6e6f657ff3c2a9e",
@@ -12679,20 +12526,6 @@
       "projected": true
     },
     {
-      "id": "2cc810331f1bedfa",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 18,
-      "issueTitle": null,
-      "releaseDate": "2026-10-31",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "cbe053a2d8ee8b1a",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -12704,6 +12537,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "2cc810331f1bedfa",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 18,
+      "issueTitle": null,
+      "releaseDate": "2026-10-31",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -12748,6 +12595,19 @@
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/uomini-e-donne-con-bracciale-tennis-in-edicola/"
     },
     {
+      "id": "bc776e0422267128",
+      "seriesId": "32b752a7455d03fc",
+      "seriesTitle": "Gardenia con Agenda 2027: un anno tutto rose e fiori",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-01",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Gardenia-con-Agenda-2027.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/gardenia-con-agenda-2027/"
+    },
+    {
       "id": "5774b80ba14c3610",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -12759,6 +12619,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "4d5d4869afb21799",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 502,
+      "issueTitle": null,
+      "releaseDate": "2026-11-03",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -12832,6 +12706,20 @@
       "projected": true
     },
     {
+      "id": "b2f1dd2450808ed7",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 53,
+      "issueTitle": null,
+      "releaseDate": "2026-11-03",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
       "id": "f740465a4754328a",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
@@ -12872,6 +12760,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
+    },
+    {
+      "id": "9b8f06a47fbb98db",
+      "seriesId": "52532b66acd63382",
+      "seriesTitle": "Collana “Non Aprire Questo Libro” torna in Edicola con il Sole 24 Ore",
+      "category": "libri",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": "\"Non aprire questo libro. Leggi qualcos'altro!\"",
+      "releaseDate": "2026-11-03",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/02/Collana-Non-Aprire-Questo-Libro-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
     },
     {
       "id": "7ca732497cfa0901",
@@ -13129,6 +13030,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-anastatica-calciatori2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-anastatica-album-edizione-2026-collana.html",
       "projected": true
+    },
+    {
+      "id": "e7aaf2ea531ed49f",
+      "seriesId": "cd638729a5f21519",
+      "seriesTitle": "Elle con patch occhi Royal Beauty: quattro formule da scoprire",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Elle-con-i-patch-occhi-Royal-Beauty.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/elle-con-patch-occhi-royal-beauty/"
     },
     {
       "id": "3ae5eb79c3ff1c6f",
@@ -13599,6 +13513,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/paperinik-119-1wpnik11918-it08.html"
     },
     {
+      "id": "6bab4f745cf528e8",
+      "seriesId": "e3fe73a35f41bbab",
+      "seriesTitle": "PK: Evroniani",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-05",
+      "price": 71.25,
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/W/1WBOOK096ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/pk-evroniani-1wbook096isbn-it08.html"
+    },
+    {
       "id": "c18ecc10c53fcbaa",
       "seriesId": "c15a84224376d09c",
       "seriesTitle": "Psylocke: Ninja",
@@ -13740,6 +13667,19 @@
       "price": 17.1,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMJBR002ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/thor-e-loki-una-normale-famiglia-di-midgard-mmjbr002isbn-it08.html"
+    },
+    {
+      "id": "f1752aa6674e40d2",
+      "seriesId": "7512780bccb89a8c",
+      "seriesTitle": "Topolino 3701 Variant Lucca Comics",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Topolino 3701 Variant Lucca Comics 3701",
+      "releaseDate": "2026-11-05",
+      "price": 8.55,
+      "imageUrl": "https://www.panini.it/media/catalog/product/1/w/1wtopo3701f_0.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/topolino-3701-variant-lucca-comics-3701-1wtopo3701f-it08.html"
     },
     {
       "id": "2217a384806dffce",
@@ -14079,6 +14019,20 @@
       "projected": true
     },
     {
+      "id": "c49e60601d70af9e",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 503,
+      "issueTitle": null,
+      "releaseDate": "2026-11-10",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "ba02183ccd83379a",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -14135,20 +14089,6 @@
       "projected": true
     },
     {
-      "id": "b2f1dd2450808ed7",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 53,
-      "issueTitle": null,
-      "releaseDate": "2026-11-10",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "37022245e6a96c24",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
@@ -14189,6 +14129,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
+    },
+    {
+      "id": "7bdcf40dc44b3d43",
+      "seriesId": "52532b66acd63382",
+      "seriesTitle": "Collana “Non Aprire Questo Libro” torna in Edicola con il Sole 24 Ore",
+      "category": "libri",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": "Non aprire questo libro. Ti prego! a 11,90€",
+      "releaseDate": "2026-11-10",
+      "price": 11.9,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/02/Collana-Non-Aprire-Questo-Libro-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
     },
     {
       "id": "7d89ac9dfe31f30f",
@@ -14405,6 +14358,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/batman-7-m1batm132-it08.html"
     },
     {
+      "id": "341ef0dce5f1d601",
+      "seriesId": "af63a0deabd55368",
+      "seriesTitle": "Batman e Figlio",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-12",
+      "price": 63.65,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1ABSO068ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/batman-e-figlio-m1abso068isbn-it08.html"
+    },
+    {
       "id": "014520d9ad48ec33",
       "seriesId": "09514244eb888920",
       "seriesTitle": "Centuria",
@@ -14496,6 +14462,32 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/department-of-truth-6-mdetr007isbn-it08.html"
     },
     {
+      "id": "0839261cbd3723e9",
+      "seriesId": "dae7df70d1035692",
+      "seriesTitle": "Dottor Destino: La Strada per Latveria",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-12",
+      "price": 32.3,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/A/MADEV122ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/dottor-destino-la-strada-per-latveria-madev122isbn-it08.html"
+    },
+    {
+      "id": "636664e03d618715",
+      "seriesId": "7dcbe4ff09922985",
+      "seriesTitle": "Dr. Fate di J.M. DeMatteis",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-12",
+      "price": 77.9,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1OMNI083ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/dr-fate-di-j-m-dematteis-m1omni083isbn-it08.html"
+    },
+    {
       "id": "69a14ace43c1471a",
       "seriesId": "9932e2290e1c829b",
       "seriesTitle": "Fantastici Quattro",
@@ -14561,6 +14553,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/io-sono-doom-manto020isbn-it08.html"
     },
     {
+      "id": "afee98ceee8fa1b0",
+      "seriesId": "9b1278ca40761c3a",
+      "seriesTitle": "Iron Man",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Iron Man 17",
+      "releaseDate": "2026-11-12",
+      "price": 32.3,
+      "imageUrl": "https://www.panini.it/media/catalog/product/M/M/MMASW077ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/iron-man-17-mmasw077isbn-it08.html"
+    },
+    {
       "id": "287ff1dc88325364",
       "seriesId": "9b1278ca40761c3a",
       "seriesTitle": "Iron Man",
@@ -14598,6 +14603,19 @@
       "price": 3.8,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/1/M1JULE050ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/justice-league-unlimited-19-m1jule050isbn-it08.html"
+    },
+    {
+      "id": "e662c2548fa39600",
+      "seriesId": "1b5827e9c9d65537",
+      "seriesTitle": "Kaijin Fugeki Kindled",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Kaijin Fugeki Kindled 6",
+      "releaseDate": "2026-11-12",
+      "price": 5.6,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/kaijin-fugeki-kindled-6-mkafu006isbn-it08.html"
     },
     {
       "id": "214062b405929b35",
@@ -14728,6 +14746,19 @@
       "price": 5.6,
       "imageUrl": "https://www.panini.it/media/catalog/product/M/O/MOTRF003ISBN_0.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=222&width=222&canvas=222:222",
       "sourceUrl": "https://www.panini.it/shp_ita_it/otr-of-the-flame-3-motrf003isbn-it08.html"
+    },
+    {
+      "id": "286f62fd75a7e1f6",
+      "seriesId": "2b2d551fcff6ff72",
+      "seriesTitle": "Pippo Reporter",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Pippo Reporter 1",
+      "releaseDate": "2026-11-12",
+      "price": 11.4,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/pippo-reporter-1-1wseim028-it08.html"
     },
     {
       "id": "c2812d264d288ccf",
@@ -14931,20 +14962,6 @@
       "projected": true
     },
     {
-      "id": "e56c2d4dcbd619a1",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 19,
-      "issueTitle": null,
-      "releaseDate": "2026-11-14",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "384f25ed52823b2e",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -14956,6 +14973,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e56c2d4dcbd619a1",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 19,
+      "issueTitle": null,
+      "releaseDate": "2026-11-14",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -15000,6 +15031,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/i-grandi-classici-131-1wgcla131-it08.html"
     },
     {
+      "id": "79e67d5ec5968228",
+      "seriesId": "0ecb306f60549626",
+      "seriesTitle": "Zio Paperone",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": "Zio Paperone 101",
+      "releaseDate": "2026-11-15",
+      "price": 3.7,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/zio-paperone-101-1wzipa101-it08.html"
+    },
+    {
       "id": "4d6f82d6925e5875",
       "seriesId": "421150e964a096d2",
       "seriesTitle": "KRIMINAL ANASTATICA",
@@ -15011,6 +15055,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "51df66d88f7b464e",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 504,
+      "issueTitle": null,
+      "releaseDate": "2026-11-17",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -15084,6 +15142,20 @@
       "projected": true
     },
     {
+      "id": "d578b3c84cfebcb9",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 54,
+      "issueTitle": null,
+      "releaseDate": "2026-11-17",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
       "id": "5bec28cf2cd568f8",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
@@ -15124,6 +15196,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
+    },
+    {
+      "id": "597ee5d9ebd088ba",
+      "seriesId": "52532b66acd63382",
+      "seriesTitle": "Collana “Non Aprire Questo Libro” torna in Edicola con il Sole 24 Ore",
+      "category": "libri",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": "Non aprire questo libro o peggio per te! a 11,90€",
+      "releaseDate": "2026-11-17",
+      "price": 11.9,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/02/Collana-Non-Aprire-Questo-Libro-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
     },
     {
       "id": "1d2b19b632486929",
@@ -16223,6 +16308,19 @@
       "sourceUrl": "https://www.panini.it/shp_ita_it/disney-big-224-1wdbig224-it08.html"
     },
     {
+      "id": "ea7a00fa41a7227a",
+      "seriesId": "de0f60e69db5fc62",
+      "seriesTitle": "Natalissimo",
+      "category": "fumetti",
+      "publisher": "Panini",
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-20",
+      "price": 4.75,
+      "imageUrl": "https://www.panini.it/media/catalog/product/placeholder/default/placeholder_1.jpg",
+      "sourceUrl": "https://www.panini.it/shp_ita_it/natalissimo-1wtime129-it08.html"
+    },
+    {
       "id": "4a304277477f3507",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -16276,6 +16374,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "7a1e21f36aa769be",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 505,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -16335,20 +16447,6 @@
       "projected": true
     },
     {
-      "id": "d578b3c84cfebcb9",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 54,
-      "issueTitle": null,
-      "releaseDate": "2026-11-24",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
-      "projected": true
-    },
-    {
       "id": "62f6567644e33fa1",
       "seriesId": "5cfcc81c27fd65ff",
       "seriesTitle": "Luciano Canfora",
@@ -16389,6 +16487,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-lilliput2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/lilliput-storie-collana.html",
       "projected": true
+    },
+    {
+      "id": "b34a3beae8d88b50",
+      "seriesId": "4663a09fcb6cc39d",
+      "seriesTitle": "Agenda Vogue 2027: torna in edicola in edizione limitata",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-24",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Agenda-Vogue-2027.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-vogue-2027/"
     },
     {
       "id": "989b3578cca9987a",
@@ -16571,6 +16682,19 @@
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/amica-con-agenda-astrologica-2027-in-edicola/"
     },
     {
+      "id": "980f42cec7097468",
+      "seriesId": "ee2e54f19798926f",
+      "seriesTitle": "Melaverde con coppapasta o bilancia digitale in edicola: due alleati in cucina",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-11-27",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Melaverde-con-coppapasta-o-bilancia-digitale-in-edicola.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/melaverde-con-coppapasta-o-bilancia-digitale/"
+    },
+    {
       "id": "2773137af8bf8f97",
       "seriesId": "a43220cf6032d7b7",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43 (ed. 2026)",
@@ -16585,20 +16709,6 @@
       "projected": true
     },
     {
-      "id": "e52ef0496fbb5ce3",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 20,
-      "issueTitle": null,
-      "releaseDate": "2026-11-28",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "1fd63ee7c645694b",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -16610,6 +16720,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e52ef0496fbb5ce3",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 20,
+      "issueTitle": null,
+      "releaseDate": "2026-11-28",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -16652,6 +16776,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9394dfe73d6e5720",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 506,
+      "issueTitle": null,
+      "releaseDate": "2026-12-01",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -16722,6 +16860,20 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "b06cc90afdb3828b",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 55,
+      "issueTitle": null,
+      "releaseDate": "2026-12-01",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17060,6 +17212,20 @@
       "projected": true
     },
     {
+      "id": "bdf716cba67806ea",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 507,
+      "issueTitle": null,
+      "releaseDate": "2026-12-08",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "c7d070d5699ecb7a",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -17113,20 +17279,6 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "b06cc90afdb3828b",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 55,
-      "issueTitle": null,
-      "releaseDate": "2026-12-08",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17339,20 +17491,6 @@
       "projected": true
     },
     {
-      "id": "f3075e89c0d183bb",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 21,
-      "issueTitle": null,
-      "releaseDate": "2026-12-12",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "cf3036deccfff456",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -17364,6 +17502,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "f3075e89c0d183bb",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 21,
+      "issueTitle": null,
+      "releaseDate": "2026-12-12",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -17406,6 +17558,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a8c8f6d184b8bf5a",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 508,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -17476,6 +17642,20 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "78bad2f4d88ad399",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 56,
+      "issueTitle": null,
+      "releaseDate": "2026-12-15",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -17800,6 +17980,20 @@
       "projected": true
     },
     {
+      "id": "dae99baf4814bcee",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 509,
+      "issueTitle": null,
+      "releaseDate": "2026-12-22",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "a8c4d83db5b5ab37",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -17853,20 +18047,6 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "78bad2f4d88ad399",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 56,
-      "issueTitle": null,
-      "releaseDate": "2026-12-22",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18065,20 +18245,6 @@
       "projected": true
     },
     {
-      "id": "086f5ce9ba2bb3c8",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 22,
-      "issueTitle": null,
-      "releaseDate": "2026-12-26",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "0f1614301f41a74a",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -18090,6 +18256,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "086f5ce9ba2bb3c8",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 22,
+      "issueTitle": null,
+      "releaseDate": "2026-12-26",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -18132,6 +18312,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "1963a6f8ec7d01c0",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 510,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -18202,6 +18396,20 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "56197ab43261eaca",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 57,
+      "issueTitle": null,
+      "releaseDate": "2026-12-29",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18512,6 +18720,20 @@
       "projected": true
     },
     {
+      "id": "9615876d78458a2a",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 511,
+      "issueTitle": null,
+      "releaseDate": "2027-01-05",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "e55d5b2974f3f7e7",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -18565,20 +18787,6 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "56197ab43261eaca",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 57,
-      "issueTitle": null,
-      "releaseDate": "2027-01-05",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -18777,20 +18985,6 @@
       "projected": true
     },
     {
-      "id": "15e78bdd5d73c92c",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 23,
-      "issueTitle": null,
-      "releaseDate": "2027-01-09",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "a7b3c7fc70db9d4a",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -18802,6 +18996,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "15e78bdd5d73c92c",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 23,
+      "issueTitle": null,
+      "releaseDate": "2027-01-09",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -18844,6 +19052,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "5b70c87bc372551c",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 512,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -18914,6 +19136,20 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
+      "id": "fb2527fe7c5c152d",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 58,
+      "issueTitle": null,
+      "releaseDate": "2027-01-12",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19224,6 +19460,20 @@
       "projected": true
     },
     {
+      "id": "289487920ef05c4a",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 513,
+      "issueTitle": null,
+      "releaseDate": "2027-01-19",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "f0b01b56a6b3ffb4",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -19277,20 +19527,6 @@
       "price": 13.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-ladyoscar2026.jpg",
       "sourceUrl": "https://www.primaedicola.it/lady-oscar-personaggi-3d-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "fb2527fe7c5c152d",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 58,
-      "issueTitle": null,
-      "releaseDate": "2027-01-19",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19476,20 +19712,6 @@
       "projected": true
     },
     {
-      "id": "e3e5ab071c2bd76f",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 24,
-      "issueTitle": null,
-      "releaseDate": "2027-01-23",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "ac92b8953b8fd187",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -19501,6 +19723,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "e3e5ab071c2bd76f",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 24,
+      "issueTitle": null,
+      "releaseDate": "2027-01-23",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -19543,6 +19779,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ba86f1805d80451b",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 514,
+      "issueTitle": null,
+      "releaseDate": "2027-01-26",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -19599,6 +19849,20 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "fb37592939579d86",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 59,
+      "issueTitle": null,
+      "releaseDate": "2027-01-26",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -19882,6 +20146,20 @@
       "projected": true
     },
     {
+      "id": "830b13f899c02859",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 515,
+      "issueTitle": null,
+      "releaseDate": "2027-02-02",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "6704793317fb73d1",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -19921,20 +20199,6 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html",
-      "projected": true
-    },
-    {
-      "id": "fb37592939579d86",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 59,
-      "issueTitle": null,
-      "releaseDate": "2027-02-02",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20106,20 +20370,6 @@
       "projected": true
     },
     {
-      "id": "97eac274824f3bb1",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 25,
-      "issueTitle": null,
-      "releaseDate": "2027-02-06",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "86d3bd967dfdd931",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -20131,6 +20381,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "97eac274824f3bb1",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 25,
+      "issueTitle": null,
+      "releaseDate": "2027-02-06",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -20173,6 +20437,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c6594f2b99d38363",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 516,
+      "issueTitle": null,
+      "releaseDate": "2027-02-09",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -20229,6 +20507,20 @@
       "price": 16.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-leggendedelrally.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-leggende-del-rally-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "ebaf7dd023bc8891",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 60,
+      "issueTitle": null,
+      "releaseDate": "2027-02-09",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20512,6 +20804,20 @@
       "projected": true
     },
     {
+      "id": "bb641e78a7dd04d5",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 517,
+      "issueTitle": null,
+      "releaseDate": "2027-02-16",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
+      "projected": true
+    },
+    {
       "id": "f16402ce8a87cfa2",
       "seriesId": "b418f679ababd91e",
       "seriesTitle": "Il Grande Blek - Le Strisce",
@@ -20551,20 +20857,6 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/f/a/fast-and-furious-risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/fast-and-furious-modellini-143-collana.html",
-      "projected": true
-    },
-    {
-      "id": "ebaf7dd023bc8891",
-      "seriesId": "d56e38eb408487d5",
-      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 60,
-      "issueTitle": null,
-      "releaseDate": "2027-02-16",
-      "price": 7.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
-      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
       "projected": true
     },
     {
@@ -20680,20 +20972,6 @@
       "projected": true
     },
     {
-      "id": "c801e61b0ebff212",
-      "seriesId": "31feda9dcd7581b7",
-      "seriesTitle": "Auto da corsa in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 26,
-      "issueTitle": null,
-      "releaseDate": "2027-02-20",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
-      "projected": true
-    },
-    {
       "id": "bf3aa3bc8f541b86",
       "seriesId": "5b10f675b22b4cde",
       "seriesTitle": "Rally 1:64 Official Collection",
@@ -20705,6 +20983,20 @@
       "price": 14.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
       "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html",
+      "projected": true
+    },
+    {
+      "id": "c801e61b0ebff212",
+      "seriesId": "31feda9dcd7581b7",
+      "seriesTitle": "Auto da corsa in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 26,
+      "issueTitle": null,
+      "releaseDate": "2027-02-20",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html",
       "projected": true
     },
     {
@@ -20747,6 +21039,20 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html",
+      "projected": true
+    },
+    {
+      "id": "a469a0c873c30438",
+      "seriesId": "bb296c41709f9004",
+      "seriesTitle": "Super Eroi Classic",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 518,
+      "issueTitle": null,
+      "releaseDate": "2027-02-23",
+      "price": 9.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack.jpg",
+      "sourceUrl": "https://www.primaedicola.it/super-eroi-classic-collana.html",
       "projected": true
     },
     {
@@ -20806,6 +21112,20 @@
       "projected": true
     },
     {
+      "id": "16ed919a3b902e42",
+      "seriesId": "d56e38eb408487d5",
+      "seriesTitle": "Capolavori in miniatura (ed. 2025)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 61,
+      "issueTitle": null,
+      "releaseDate": "2027-02-23",
+      "price": 7.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
+      "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html",
+      "projected": true
+    },
+    {
       "id": "3ea3bbebe3a8c8a5",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -20859,6 +21179,62 @@
       "price": 24.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-motogp-112.jpg",
       "sourceUrl": "https://www.primaedicola.it/moto-gp-scala-112-collana.html",
+      "projected": true
+    },
+    {
+      "id": "36861659c3532da7",
+      "seriesId": "94ab876c5d9f2ba4",
+      "seriesTitle": "Le strisce di ZAGOR",
+      "category": "fumetti",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 105,
+      "issueTitle": null,
+      "releaseDate": "2027-02-25",
+      "price": 6.59,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html",
+      "projected": true
+    },
+    {
+      "id": "7f3ea70a9580da80",
+      "seriesId": "8a7f4ec3d898cc7d",
+      "seriesTitle": "Racing Car Transporters in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 30,
+      "issueTitle": null,
+      "releaseDate": "2027-02-25",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-racing-trasnporter_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-scala-143-collana.html",
+      "projected": true
+    },
+    {
+      "id": "091e961cee5d49a5",
+      "seriesId": "455b1bc2bd5c5647",
+      "seriesTitle": "American Cars (ed. 2024)",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 79,
+      "issueTitle": null,
+      "releaseDate": "2027-02-25",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-americancars2024.jpg",
+      "sourceUrl": "https://www.primaedicola.it/american-cars-scala-143-edizione-2024-collana.html",
+      "projected": true
+    },
+    {
+      "id": "9180a3fc5fd59a96",
+      "seriesId": "7bcc220685a30f25",
+      "seriesTitle": "La collezione anastatica degli Album Calciatori Panini (ed. 2026)",
+      "category": "collezionabili",
+      "publisher": "RCS MediaGroup",
+      "issueNumber": 19,
+      "issueTitle": null,
+      "releaseDate": "2027-02-25",
+      "price": null,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-anastatica-calciatori2026_risultato.jpg",
+      "sourceUrl": "https://www.primaedicola.it/calciatori-panini-anastatica-album-edizione-2026-collana.html",
       "projected": true
     }
   ]
