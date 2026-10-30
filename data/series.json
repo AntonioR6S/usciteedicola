@@ -1,14 +1,5 @@
 [
   {
-    "id": "e29d26149a1f6499",
-    "title": "Spectacular Spider-Man - Brand New Day",
-    "category": "fumetti",
-    "publisher": "Panini S.p.A.",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/r/brandnewday_1_risultato_1.jpg",
-    "totalIssues": 3,
-    "sourceUrl": "https://www.primaedicola.it/spectacular-spiderman-brand-new-day-collana.html"
-  },
-  {
     "id": "226676c4d4df64d4",
     "title": "Amazing Spider-Man",
     "category": "fumetti",
@@ -16,6 +7,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/a/mamaz144_0.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/amazing-spider-man-collana.html"
+  },
+  {
+    "id": "e29d26149a1f6499",
+    "title": "Spectacular Spider-Man - Brand New Day",
+    "category": "fumetti",
+    "publisher": "Panini S.p.A.",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/r/brandnewday_1_risultato_1.jpg",
+    "totalIssues": 3,
+    "sourceUrl": "https://www.primaedicola.it/spectacular-spiderman-brand-new-day-collana.html"
   },
   {
     "id": "d6bc82d10901122f",
@@ -234,6 +234,24 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
+    "id": "d7582e089fca0f38",
+    "title": "Hugo Pratt Collection",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-hugopratt_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-collana.html"
+  },
+  {
+    "id": "94ab876c5d9f2ba4",
+    "title": "Le strisce di ZAGOR",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
+    "totalIssues": 119,
+    "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
+  },
+  {
     "id": "ec0e992ad86159f7",
     "title": "Alan Ford Anastatica",
     "category": "fumetti",
@@ -241,15 +259,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
     "totalIssues": 200,
     "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
-  },
-  {
-    "id": "d7582e089fca0f38",
-    "title": "Hugo Pratt Collection",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-hugopratt_risultato.jpg",
-    "totalIssues": 40,
-    "sourceUrl": "https://www.primaedicola.it/hugo-pratt-collection-collana.html"
   },
   {
     "id": "a4d0a020aa8807ba",
@@ -268,15 +277,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/g/r/grandi-classici-50.jpg",
     "totalIssues": null,
     "sourceUrl": "https://www.primaedicola.it/grandi-classici-disney-collana.html"
-  },
-  {
-    "id": "94ab876c5d9f2ba4",
-    "title": "Le strisce di ZAGOR",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
-    "totalIssues": 119,
-    "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
   },
   {
     "id": "1b9f05885662c613",
@@ -360,6 +360,24 @@
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
   },
   {
+    "id": "8a7f4ec3d898cc7d",
+    "title": "Racing Car Transporters in scala 1:43",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-racing-trasnporter_risultato.jpg",
+    "totalIssues": 60,
+    "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-scala-143-collana.html"
+  },
+  {
+    "id": "455b1bc2bd5c5647",
+    "title": "American Cars (ed. 2024)",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-americancars2024.jpg",
+    "totalIssues": 90,
+    "sourceUrl": "https://www.primaedicola.it/american-cars-scala-143-edizione-2024-collana.html"
+  },
+  {
     "id": "cca94a92ca8c1e46",
     "title": "Military Cars - Veicoli militari in scala 1:43",
     "category": "modellini",
@@ -405,15 +423,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-formula-uno-collana.html"
   },
   {
-    "id": "5b10f675b22b4cde",
-    "title": "Rally 1:64 Official Collection",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
-  },
-  {
     "id": "31feda9dcd7581b7",
     "title": "Auto da corsa in scala 1:43",
     "category": "modellini",
@@ -421,6 +430,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-autocorsa_143_risultato.jpg",
     "totalIssues": 60,
     "sourceUrl": "https://www.primaedicola.it/auto-da-corsa-scala-143-collana.html"
+  },
+  {
+    "id": "5b10f675b22b4cde",
+    "title": "Rally 1:64 Official Collection",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rally-164.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/rally-official-collection-scala-164-collana.html"
   },
   {
     "id": "d5b4f1abe412ad56",
@@ -468,24 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
   },
   {
-    "id": "8a7f4ec3d898cc7d",
-    "title": "Racing Car Transporters in scala 1:43",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-racing-trasnporter_risultato.jpg",
-    "totalIssues": 60,
-    "sourceUrl": "https://www.primaedicola.it/racing-car-transporters-scala-143-collana.html"
-  },
-  {
-    "id": "455b1bc2bd5c5647",
-    "title": "American Cars (ed. 2024)",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-americancars2024.jpg",
-    "totalIssues": 90,
-    "sourceUrl": "https://www.primaedicola.it/american-cars-scala-143-edizione-2024-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -522,15 +522,6 @@
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
   },
   {
-    "id": "620f26177a19d19c",
-    "title": "My Hero Academia 3D Collection",
-    "category": "figures",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
-  },
-  {
     "id": "8652efa4702b946c",
     "title": "One Piece Plexies Collection",
     "category": "figures",
@@ -538,6 +529,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-onepiece-acrilici_risultato.jpg",
     "totalIssues": 20,
     "sourceUrl": "https://www.primaedicola.it/one-piece-plexies-collection-collana.html"
+  },
+  {
+    "id": "620f26177a19d19c",
+    "title": "My Hero Academia 3D Collection",
+    "category": "figures",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-myheroacademia3d.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/my-hero-academia-3d-collection-collana.html"
   },
   {
     "id": "b9e49c1bcf3d8f97",
