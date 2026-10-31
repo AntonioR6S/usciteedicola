@@ -126,15 +126,6 @@
     "sourceUrl": "https://www.primaedicola.it/disney-topolino-presenta-set-mouse-topolino-collana.html"
   },
   {
-    "id": "421150e964a096d2",
-    "title": "KRIMINAL ANASTATICA",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
-  },
-  {
     "id": "3a6f2b841e4d2ca1",
     "title": "Dylan Dog 40",
     "category": "fumetti",
@@ -142,6 +133,15 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
     "totalIssues": 41,
     "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html"
+  },
+  {
+    "id": "421150e964a096d2",
+    "title": "KRIMINAL ANASTATICA",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-kriminal_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/kriminal-anastatica-albi-collana.html"
   },
   {
     "id": "637462d5afd61745",
@@ -234,6 +234,15 @@
     "sourceUrl": "https://www.primaedicola.it/superman-il-primo-eroe-collana.html"
   },
   {
+    "id": "ec0e992ad86159f7",
+    "title": "Alan Ford Anastatica",
+    "category": "fumetti",
+    "publisher": "RCS MediaGroup",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
+    "totalIssues": 200,
+    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
+  },
+  {
     "id": "d7582e089fca0f38",
     "title": "Hugo Pratt Collection",
     "category": "fumetti",
@@ -250,15 +259,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulck-zagor_risultato.jpg",
     "totalIssues": 119,
     "sourceUrl": "https://www.primaedicola.it/le-strisce-di-zagor-collana.html"
-  },
-  {
-    "id": "ec0e992ad86159f7",
-    "title": "Alan Ford Anastatica",
-    "category": "fumetti",
-    "publisher": "RCS MediaGroup",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-    "totalIssues": 200,
-    "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html"
   },
   {
     "id": "a4d0a020aa8807ba",
@@ -358,6 +358,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk_110_comandante_mark_ris.jpg",
     "totalIssues": 285,
     "sourceUrl": "https://www.primaedicola.it/il-comandante-mark-collana.html"
+  },
+  {
+    "id": "ccae5518feb5e50c",
+    "title": "Ford Mustang Collection in scala 1:43",
+    "category": "modellini",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
+    "totalIssues": 80,
+    "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html"
+  },
+  {
+    "id": "35b976d7cdb1be48",
+    "title": "Le grandi Ferrari F1",
+    "category": "modellini",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
+    "totalIssues": 101,
+    "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
   },
   {
     "id": "8a7f4ec3d898cc7d",
@@ -468,24 +486,6 @@
     "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-scala-143-collana.html"
   },
   {
-    "id": "ccae5518feb5e50c",
-    "title": "Ford Mustang Collection in scala 1:43",
-    "category": "modellini",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
-    "totalIssues": 80,
-    "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html"
-  },
-  {
-    "id": "35b976d7cdb1be48",
-    "title": "Le grandi Ferrari F1",
-    "category": "modellini",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
-    "totalIssues": 101,
-    "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html"
-  },
-  {
     "id": "1840cb675b9deac2",
     "title": "24h Le Mans Collection",
     "category": "modellini",
@@ -520,6 +520,24 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-navicelle-starwars.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/star-wars-astronavi-veicoli-collana.html"
+  },
+  {
+    "id": "4e7e8ad8f1409c77",
+    "title": "Tiger Mask - 3D Collection",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html"
+  },
+  {
+    "id": "1ab1bf839807a5a2",
+    "title": "Eddie 3D - Iron Maiden",
+    "category": "figures",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html"
   },
   {
     "id": "8652efa4702b946c",
@@ -565,24 +583,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-pack3d-marvelmuseum.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-collana.html"
-  },
-  {
-    "id": "4e7e8ad8f1409c77",
-    "title": "Tiger Mask - 3D Collection",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html"
-  },
-  {
-    "id": "1ab1bf839807a5a2",
-    "title": "Eddie 3D - Iron Maiden",
-    "category": "figures",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html"
   },
   {
     "id": "aa57d62d4d21675b",
@@ -711,6 +711,15 @@
     "sourceUrl": "https://www.primaedicola.it/i-libri-del-corriere-della-sera-collana.html"
   },
   {
+    "id": "5b6971f2111cfa04",
+    "title": "La grande letteratura italiana (ed. 2026)",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
+    "totalIssues": 50,
+    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
+  },
+  {
     "id": "9331f3df2d9d2f21",
     "title": "Le iniziative di Intimità",
     "category": "libri",
@@ -727,15 +736,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-bulk-capolavorimin2025.jpg",
     "totalIssues": 80,
     "sourceUrl": "https://www.primaedicola.it/capolavori-in-miniatura-edizione-2025-collana.html"
-  },
-  {
-    "id": "5b6971f2111cfa04",
-    "title": "La grande letteratura italiana (ed. 2026)",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-    "totalIssues": 50,
-    "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html"
   },
   {
     "id": "aedc693e67ed662a",
@@ -837,6 +837,24 @@
     "sourceUrl": "https://www.primaedicola.it/oggi-mezzo-secolo-cronaca-nera-collana.html"
   },
   {
+    "id": "c267b626271c3f8e",
+    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
+    "category": "libri",
+    "publisher": "DeAgostini Publishing",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+    "totalIssues": 99,
+    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
+  },
+  {
+    "id": "621a2b1dcfb36d3e",
+    "title": "C'era una volta...Le più belle FIABE illustrate",
+    "category": "libri",
+    "publisher": "Centauria",
+    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
+    "totalIssues": 70,
+    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
+  },
+  {
     "id": "57598e2090b3e551",
     "title": "La biblioteca delle stagioni",
     "category": "libri",
@@ -862,24 +880,6 @@
     "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
     "totalIssues": 70,
     "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html"
-  },
-  {
-    "id": "c267b626271c3f8e",
-    "title": "Disney - Magiche Storie Sonore (ed. 2026)",
-    "category": "libri",
-    "publisher": "DeAgostini Publishing",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-    "totalIssues": 99,
-    "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html"
-  },
-  {
-    "id": "621a2b1dcfb36d3e",
-    "title": "C'era una volta...Le più belle FIABE illustrate",
-    "category": "libri",
-    "publisher": "Centauria",
-    "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-    "totalIssues": 70,
-    "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html"
   },
   {
     "id": "3fcaefb3db5b71cd",
@@ -945,24 +945,6 @@
     "sourceUrl": "https://www.primaedicola.it/biblioteca-topipittori-storie-illustrate-collana.html"
   },
   {
-    "id": "853780fa701cfe3c",
-    "title": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-    "category": "collezionabili",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-  },
-  {
-    "id": "d4d810c1e5188608",
-    "title": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
-    "category": "riviste",
-    "publisher": null,
-    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
-    "totalIssues": null,
-    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
-  },
-  {
     "id": "e1c231c1f5bf31b3",
     "title": "Topolino con i dadi da gioco di Wizards of Mickey",
     "category": "riviste",
@@ -988,6 +970,15 @@
     "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/04/Oggi-con-creme-Avant-anti-eta-skincare-di-lusso-in-edicola-1.webp",
     "totalIssues": null,
     "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/oggi-con-creme-avant/"
+  },
+  {
+    "id": "a88f087d8a1eca36",
+    "title": "Riza Psicosomatica con Agenda della Felicità 2027 di Raffaele Morelli",
+    "category": "riviste",
+    "publisher": null,
+    "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Riza-Psicosomatica-con-Agenda-della-Felicita-2027-di-Raffaele-Morelli.webp",
+    "totalIssues": null,
+    "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/riza-psicosomatica-con-agenda-della-felicita-2027/"
   },
   {
     "id": "1e97922926343743",

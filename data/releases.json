@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:16:05.987Z",
+  "generatedAt": "2026-10-31T10:48:35.583Z",
   "releases": [
     {
       "id": "f38333fe070b8650",
@@ -3070,19 +3070,6 @@
       "sourceUrl": "https://www.primaedicola.it/my-hero-academia-volume-42.html"
     },
     {
-      "id": "3850ad5ba19f63b5",
-      "seriesId": "a65bfc5b22263677",
-      "seriesTitle": "Paperinik",
-      "category": "fumetti",
-      "publisher": "Disney Panini S.p.A.",
-      "issueNumber": 112,
-      "issueTitle": "Paperinik N. 112",
-      "releaseDate": "2026-04-03",
-      "price": 6.5,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-paperinik-paperinik-n-112_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-paperinik-paperinik-n-112.html"
-    },
-    {
       "id": "7be67fcfb1c018df",
       "seriesId": "1be164ad3502a36e",
       "seriesTitle": "Il mondo di Andy Capp",
@@ -3577,32 +3564,6 @@
       "sourceUrl": "https://www.primaedicola.it/fast-furious-modellini-in-scala-1-43-honda-acura-integra-gs-r-db8-1994.html"
     },
     {
-      "id": "dd911d17b6da0156",
-      "seriesId": "4e7e8ad8f1409c77",
-      "seriesTitle": "Tiger Mask - 3D Collection",
-      "category": "figures",
-      "publisher": "Centauria",
-      "issueNumber": 36,
-      "issueTitle": "Scheda personaggio Red Fang",
-      "releaseDate": "2026-05-08",
-      "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/t/i/tiger-mask-3d-collection-scheda-personaggio-red-fang_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-scheda-personaggio-red-fang.html"
-    },
-    {
-      "id": "4372705048629bac",
-      "seriesId": "1ab1bf839807a5a2",
-      "seriesTitle": "Eddie 3D - Iron Maiden",
-      "category": "figures",
-      "publisher": "Centauria",
-      "issueNumber": 36,
-      "issueTitle": "BBC Archives",
-      "releaseDate": "2026-05-08",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-bbc-archives_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bbc-archives.html"
-    },
-    {
       "id": "4513a4ef94e97128",
       "seriesId": "ba192cabc19652b8",
       "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
@@ -3614,19 +3575,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-sprint-gta-1-6-mugello-1966.html"
-    },
-    {
-      "id": "42bf6a4bb8767078",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 10,
-      "issueTitle": "Ford Mustang Shelby GT500 (1967) 1:24",
-      "releaseDate": "2026-05-09",
-      "price": 24.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-1967-1-24.html"
     },
     {
       "id": "cd70dd3c166207f5",
@@ -3902,19 +3850,6 @@
       "sourceUrl": "https://www.primaedicola.it/leggendarie-auto-da-corsa-williams-fw46-alexander-albon-2024.html"
     },
     {
-      "id": "b8e76c7e23f23f3a",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 86,
-      "issueTitle": "Ferrari 312 B2 - Clay Regazzoni - 1971",
-      "releaseDate": "2026-05-21",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-312-b2-clay-regazzoni-1971.html"
-    },
-    {
       "id": "74f5e3c003a04368",
       "seriesId": "3c740a424d4aea91",
       "seriesTitle": "Street Fighter 3D Collection (ed. 2025)",
@@ -3954,19 +3889,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-number-of-the-beast-single.html"
     },
     {
-      "id": "47bf5c78fd6a686b",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 37,
-      "issueTitle": "Alfa Romeo 33/3 - 1000 km Monza - 1971",
-      "releaseDate": "2026-05-23",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1971_1_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50037.html"
-    },
-    {
       "id": "addb99d86dbb38f8",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -3978,6 +3900,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-gt500-custom-2013.html"
+    },
+    {
+      "id": "47bf5c78fd6a686b",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 37,
+      "issueTitle": "Alfa Romeo 33/3 - 1000 km Monza - 1971",
+      "releaseDate": "2026-05-23",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-3-1000-km-monza-1971_1_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50037.html"
     },
     {
       "id": "22fce2c4dcd93cdf",
@@ -4097,6 +4032,19 @@
       "sourceUrl": "https://www.primaedicola.it/disney-paperino-giugno-2026.html"
     },
     {
+      "id": "01c69e4c1cc674b3",
+      "seriesId": "35b976d7cdb1be48",
+      "seriesTitle": "Le grandi Ferrari F1",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 87,
+      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
+      "releaseDate": "2026-05-30",
+      "price": 31.9,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
+    },
+    {
       "id": "bd3fd41f6f8f0dd8",
       "seriesId": "7b113fd2403f0af3",
       "seriesTitle": "Leggendarie auto da corsa",
@@ -4134,19 +4082,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/p/o/porsche-racing-collection-porsche-962c-1988_1_2.jpg",
       "sourceUrl": "https://www.primaedicola.it/porsche-racing-collection-p5z1f30088.html"
-    },
-    {
-      "id": "01c69e4c1cc674b3",
-      "seriesId": "35b976d7cdb1be48",
-      "seriesTitle": "Le grandi Ferrari F1",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 87,
-      "issueTitle": "Ferrari F1-87 - Gerhard Berger - 1987",
-      "releaseDate": "2026-05-30",
-      "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-f1-87-gerhard-berger-1987.html"
     },
     {
       "id": "72f0846e9ca425c7",
@@ -4331,19 +4266,6 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-wicker-man.html"
     },
     {
-      "id": "ee379553a2c2d523",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 38,
-      "issueTitle": "Alfa Romeo 33 TT 12 - 1000 Km Imola - 1974",
-      "releaseDate": "2026-06-06",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974.html"
-    },
-    {
       "id": "074a25f96aee5270",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -4355,6 +4277,19 @@
       "price": 17.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-boss-302-1970.html"
+    },
+    {
+      "id": "ee379553a2c2d523",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 38,
+      "issueTitle": "Alfa Romeo 33 TT 12 - 1000 Km Imola - 1974",
+      "releaseDate": "2026-06-06",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33-tt-12-1000-km-imola-1974.html"
     },
     {
       "id": "58415ab51479ae65",
@@ -4734,6 +4669,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-transylvania.html"
     },
     {
+      "id": "96ddad4555626e5a",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 13,
+      "issueTitle": "Ford Mustang Shelby EXP500 (1968)",
+      "releaseDate": "2026-06-20",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968.html"
+    },
+    {
       "id": "245c4d070f71026e",
       "seriesId": "d5b4f1abe412ad56",
       "seriesTitle": "Porsche Racing Collection",
@@ -4758,19 +4706,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-giulia-gta-1300-junior-tourist.html"
-    },
-    {
-      "id": "96ddad4555626e5a",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 13,
-      "issueTitle": "Ford Mustang Shelby EXP500 (1968)",
-      "releaseDate": "2026-06-20",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-shelby-exp500-1968.html"
     },
     {
       "id": "6dbef9ae6d1abcb8",
@@ -5189,19 +5124,6 @@
       "sourceUrl": "https://www.primaedicola.it/calciatori-panini-2025-2026-celebration-set-60-figurine.html"
     },
     {
-      "id": "782f248b9210e584",
-      "seriesId": "ba192cabc19652b8",
-      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "Centauria",
-      "issueNumber": 40,
-      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
-      "releaseDate": "2026-07-04",
-      "price": 18.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
-    },
-    {
       "id": "33be0f098f311b6f",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
@@ -5226,6 +5148,19 @@
       "price": 31.9,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-sf-25-2025-lewis-hamilton_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf-25-2025-lewis-hamilton.html"
+    },
+    {
+      "id": "782f248b9210e584",
+      "seriesId": "ba192cabc19652b8",
+      "seriesTitle": "Alfa Romeo Sport Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "Centauria",
+      "issueNumber": 40,
+      "issueTitle": "Alfa Romeo 33TT3 - 500 km Imola - 1969",
+      "releaseDate": "2026-07-04",
+      "price": 18.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-500-km-imola-1969.html"
     },
     {
       "id": "74b7b6abfb1b5004",
@@ -5618,6 +5553,19 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-bring-your-daughter-to-the-slaughter.html"
     },
     {
+      "id": "82a749ce7eb7df82",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 15,
+      "issueTitle": "Ford Mustang SR-71 Blackbird (2010)",
+      "releaseDate": "2026-07-18",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010.html"
+    },
+    {
       "id": "4e27614482adbf6f",
       "seriesId": "8a7f4ec3d898cc7d",
       "seriesTitle": "Racing Car Transporters in scala 1:43",
@@ -5668,19 +5616,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-33tt3-24h-le-mans-1972.html"
-    },
-    {
-      "id": "82a749ce7eb7df82",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 15,
-      "issueTitle": "Ford Mustang SR-71 Blackbird (2010)",
-      "releaseDate": "2026-07-18",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-sr-71-blackbird-2010.html"
     },
     {
       "id": "d88b6326d28a0ad6",
@@ -6060,19 +5995,6 @@
       "sourceUrl": "https://www.primaedicola.it/il-sole-24-ore-cultura-kids-hai-mai-visto-un-fiore-di-shawn-harris.html"
     },
     {
-      "id": "843cd05f7662f49c",
-      "seriesId": "ec0e992ad86159f7",
-      "seriesTitle": "Alan Ford Anastatica",
-      "category": "fumetti",
-      "publisher": "RCS MediaGroup",
-      "issueNumber": 84,
-      "issueTitle": "Il sergente Gruber",
-      "releaseDate": "2026-07-31",
-      "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-il-sergente-gruber_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-il-sergente-gruber.html"
-    },
-    {
       "id": "70318977bee7ad9b",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
@@ -6112,30 +6034,17 @@
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-flight-of-icarus.html"
     },
     {
-      "id": "69c9bde1052e7217",
-      "seriesId": "5b6971f2111cfa04",
-      "seriesTitle": "La grande letteratura italiana (ed. 2026)",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 30,
-      "issueTitle": "Parini, Il giorno - Le odi - Dialogo sopra la nobiltà",
-      "releaseDate": "2026-07-31",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-parini-il-giorno-le-odi-dialogo-sopra-la_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-parini-il-giorno-le-odi-dialogo-sopra-la.html"
-    },
-    {
-      "id": "3284a26a708afadb",
-      "seriesId": "621a2b1dcfb36d3e",
-      "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
-      "category": "libri",
-      "publisher": "Centauria",
-      "issueNumber": 30,
-      "issueTitle": "Prezzemolina",
-      "releaseDate": "2026-07-31",
-      "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-prezzemolina_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-prezzemolina.html"
+      "id": "691c9c419b794d51",
+      "seriesId": "ccae5518feb5e50c",
+      "seriesTitle": "Ford Mustang Collection in scala 1:43",
+      "category": "modellini",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 16,
+      "issueTitle": "Ford Mustang Red Tails (2012)",
+      "releaseDate": "2026-08-01",
+      "price": 17.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012.html"
     },
     {
       "id": "a2f370cf485b54da",
@@ -6149,19 +6058,6 @@
       "price": 18.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alfa-romeo-sport-collection-in-scala-1-43-alfa-romeo-alfetta-gtv-2-0-turbodelta-1980_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/alfa-romeo-sport-p6o0f50042.html"
-    },
-    {
-      "id": "691c9c419b794d51",
-      "seriesId": "ccae5518feb5e50c",
-      "seriesTitle": "Ford Mustang Collection in scala 1:43",
-      "category": "modellini",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 16,
-      "issueTitle": "Ford Mustang Red Tails (2012)",
-      "releaseDate": "2026-08-01",
-      "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-red-tails-2012.html"
     },
     {
       "id": "4ac93a96774d7f9c",
@@ -6188,19 +6084,6 @@
       "price": 10.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/g/i/giornalismo-d-inchiesta-war-bob-woodward_1_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/giornalismo-d-inchiesta-war-bob-woodward.html"
-    },
-    {
-      "id": "363f7cef57b88101",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 22,
-      "issueTitle": "Pinocchio (Pinocchio)",
-      "releaseDate": "2026-08-01",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-pinocchio-pinocchio_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-pinocchio-pinocchio.html"
     },
     {
       "id": "a054c7c11f62a2c8",
@@ -6996,19 +6879,6 @@
       "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-sf70h-sebastian-vettel-2017-italian.html"
     },
     {
-      "id": "8b6aae5e80a096bb",
-      "seriesId": "795e3890f3d6de26",
-      "seriesTitle": "MARVEL Movie Museum",
-      "category": "figures",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 52,
-      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
-      "releaseDate": "2026-08-14",
-      "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
-      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
-    },
-    {
       "id": "7dad2e6e4d65a60a",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
@@ -7033,6 +6903,19 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-the-early-days_1.jpg",
       "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-the-early-days.html"
+    },
+    {
+      "id": "8b6aae5e80a096bb",
+      "seriesId": "795e3890f3d6de26",
+      "seriesTitle": "MARVEL Movie Museum",
+      "category": "figures",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 52,
+      "issueTitle": "Fascicolo + Iron Man Mark 42 - Casco",
+      "releaseDate": "2026-08-14",
+      "price": 15.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/m/a/marvel-movie-museum-fascicolo-iron-man-mark-42-casco_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/marvel-movie-museum-fascicolo-iron-man-mark-42-casco.html"
     },
     {
       "id": "7df123902a75316b",
@@ -11885,116 +11768,121 @@
       "projected": true
     },
     {
-      "id": "c92b5f2e1f6947bc",
+      "id": "6c7e92d1eb26c4dc",
       "seriesId": "3a6f2b841e4d2ca1",
       "seriesTitle": "Dylan Dog 40",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 6,
-      "issueTitle": null,
+      "issueTitle": "Terrore dall’infinito (1991)",
       "releaseDate": "2026-10-23",
       "price": 8.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack-dylandog40_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/y/dylan-dog-40-terrore-dall-infinito-1991_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/dylan-dog-40-terrore-dall-infinito-1991.html"
     },
     {
-      "id": "5d3376aaa7f49601",
+      "id": "bac506920b76f1a6",
       "seriesId": "ec0e992ad86159f7",
       "seriesTitle": "Alan Ford Anastatica",
       "category": "fumetti",
       "publisher": "RCS MediaGroup",
       "issueNumber": 96,
-      "issueTitle": null,
+      "issueTitle": "La minaccia dallo spazio",
       "releaseDate": "2026-10-23",
       "price": 6.59,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/a/l/alan-ford-anastatica-la-minaccia-dallo-spazio_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-la-minaccia-dallo-spazio.html"
     },
     {
-      "id": "6f024a4cb07d69c7",
+      "id": "c2b6e314a34695ed",
       "seriesId": "ccae5518feb5e50c",
       "seriesTitle": "Ford Mustang Collection in scala 1:43",
       "category": "modellini",
       "publisher": "DeAgostini Publishing",
       "issueNumber": 22,
-      "issueTitle": null,
+      "issueTitle": "Ford Mustang Indy Pacesetter (1967) 1:43",
       "releaseDate": "2026-10-23",
       "price": 17.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-ford-mustang-collection.jpg",
-      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-scala-143-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/f/o/ford-mustang-collection-in-scala-1-43-ford-mustang-indy-pacesetter-1967-1-43_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/ford-mustang-collection-in-scala-1-43-ford-mustang-indy-pacesetter-1967-1-43.html"
     },
     {
-      "id": "d326e418ab810c20",
+      "id": "6b5f1e2b8ff10f3b",
       "seriesId": "35b976d7cdb1be48",
       "seriesTitle": "Le grandi Ferrari F1",
       "category": "modellini",
       "publisher": "Centauria",
       "issueNumber": 98,
-      "issueTitle": null,
+      "issueTitle": "Ferrari 625 F1 - Maurice Trintignant - 1955",
       "releaseDate": "2026-10-23",
       "price": 31.9,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/m/-/m-dis_bulk_ferrari_f1_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-formula-uno-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/e/le-grandi-ferrari-f1-ferrari-625-f1-maurice-trintignant-1955_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/le-grandi-ferrari-f1-ferrari-625-f1-maurice-trintignant-1955.html"
     },
     {
-      "id": "86e9a5c70029133f",
+      "id": "3eba2bfa9cf65f56",
       "seriesId": "4e7e8ad8f1409c77",
       "seriesTitle": "Tiger Mask - 3D Collection",
       "category": "figures",
       "publisher": "Centauria",
       "issueNumber": 48,
-      "issueTitle": null,
+      "issueTitle": "Scheda personaggio The Strongs",
       "releaseDate": "2026-10-23",
       "price": 14.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/t/i/tiger-mask-3d-collection-scheda-personaggio-the-strongs_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-scheda-personaggio-the-strongs.html"
     },
     {
-      "id": "90c6b334ee8574ba",
+      "id": "c54396106c099625",
       "seriesId": "1ab1bf839807a5a2",
       "seriesTitle": "Eddie 3D - Iron Maiden",
       "category": "figures",
       "publisher": "Centauria",
       "issueNumber": 48,
-      "issueTitle": null,
+      "issueTitle": "Ed Hunter",
       "releaseDate": "2026-10-23",
       "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-eddie3d2024_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/e/d/eddie-3d-iron-maiden-ed-hunter_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/eddie-3d-iron-maiden-ed-hunter.html"
     },
     {
-      "id": "dec6ea20cb6d1e5b",
+      "id": "c912bb766143b644",
       "seriesId": "5b6971f2111cfa04",
       "seriesTitle": "La grande letteratura italiana (ed. 2026)",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 42,
-      "issueTitle": null,
+      "issueTitle": "Giordano Bruno, Spaccio de la bestia trionfante - Gli eroici furori",
       "releaseDate": "2026-10-23",
       "price": 15.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/l/a/la-grande-letteratura-italiana-ed-2026-giordano-bruno-spaccio-de-la-bestia-trionfante_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-ed-2026-giordano-bruno-spaccio-de-la-bestia-trionfante.html"
     },
     {
-      "id": "7771accc92df5213",
+      "id": "70ffa3ebf29f8676",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 34,
+      "issueTitle": "Maribel (Encanto) (speciale con luci)",
+      "releaseDate": "2026-10-23",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/d/i/disney-magiche-storie-sonore-ed-2026-maribel-encanto-speciale-con-luci_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-ed-2026-maribel-encanto-speciale-con-luci.html"
+    },
+    {
+      "id": "38a149003ab816cb",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
       "category": "libri",
       "publisher": "Centauria",
       "issueNumber": 42,
-      "issueTitle": null,
+      "issueTitle": "Rosabianca e Rosarossa",
       "releaseDate": "2026-10-23",
       "price": 8.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-fiabeillustrate_risultato.jpg",
-      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-fiabe-illustrate-collana.html",
-      "projected": true
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/3e90aa1e58aa9468d7d9f3886623a37e/c/-/c-era-una-volta-le-piu-belle-fiabe-illustrate-rosabianca-e-rosarossa_1.jpg",
+      "sourceUrl": "https://www.primaedicola.it/c-era-una-volta-le-piu-belle-fiabe-illustrate-rosabianca-e-rosarossa.html"
     },
     {
       "id": "ea3e6dfc7f8e5471",
@@ -12189,32 +12077,6 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-rodari2025_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/grandi-libri-illustrati-rodari-edizione-2025-collana.html",
       "projected": true
-    },
-    {
-      "id": "77885d16f3cb464e",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Maxi Borsone",
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
-      "id": "b483f3de315134ae",
-      "seriesId": "d4d810c1e5188608",
-      "seriesTitle": "Marie Claire con RHEA Slim Trainer: il personal trainer per la tua beauty routine",
-      "category": "riviste",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": null,
-      "releaseDate": "2026-10-27",
-      "price": null,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/09/Marie-Claire-con-RHEA-Slim-Trainer.webp",
-      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/marie-claire-con-rhea/"
     },
     {
       "id": "7144e8e26c4e5794",
@@ -12423,20 +12285,6 @@
       "projected": true
     },
     {
-      "id": "16575cde439c84ac",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 34,
-      "issueTitle": null,
-      "releaseDate": "2026-10-30",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
       "id": "960808d64cdb67b6",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -12519,6 +12367,19 @@
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-patrimonio-artistico_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/patrimonio-artistico-italiano-collana.html",
       "projected": true
+    },
+    {
+      "id": "e3c2c7ea0126affb",
+      "seriesId": "a88f087d8a1eca36",
+      "seriesTitle": "Riza Psicosomatica con Agenda della Felicità 2027 di Raffaele Morelli",
+      "category": "riviste",
+      "publisher": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "releaseDate": "2026-10-31",
+      "price": null,
+      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Riza-Psicosomatica-con-Agenda-della-Felicita-2027-di-Raffaele-Morelli.webp",
+      "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/riza-psicosomatica-con-agenda-della-felicita-2027/"
     },
     {
       "id": "7c9abc2a4854401d",
@@ -12712,19 +12573,6 @@
       "price": null,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collana-Non-Aprire-Questo-Libro-in-edicola-con-il-Sole-24-Ore.webp",
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
-    },
-    {
-      "id": "7ca732497cfa0901",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Borraccia a 12,99€",
-      "releaseDate": "2026-11-03",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
     },
     {
       "id": "dafded90602ea7b4",
@@ -13876,6 +13724,20 @@
       "projected": true
     },
     {
+      "id": "2af222e624f8ee86",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 35,
+      "issueTitle": null,
+      "releaseDate": "2026-11-06",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "84c56b81a307ca08",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -14095,19 +13957,6 @@
       "price": 11.9,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collana-Non-Aprire-Questo-Libro-in-edicola-con-il-Sole-24-Ore.webp",
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
-    },
-    {
-      "id": "7d89ac9dfe31f30f",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Sacca portascarpe a 12,99€",
-      "releaseDate": "2026-11-10",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
     },
     {
       "id": "ad99416ec45babcd",
@@ -14887,20 +14736,6 @@
       "projected": true
     },
     {
-      "id": "2af222e624f8ee86",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 35,
-      "issueTitle": null,
-      "releaseDate": "2026-11-13",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
       "id": "030dbcc42390b2c0",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -15176,19 +15011,6 @@
       "price": 11.9,
       "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collana-Non-Aprire-Questo-Libro-in-edicola-con-il-Sole-24-Ore.webp",
       "sourceUrl": "https://tuttoinedicola.it/collane/collana-non-aprire-questo-libro-in-edicola/"
-    },
-    {
-      "id": "1d2b19b632486929",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Porta tablet a 12,99€",
-      "releaseDate": "2026-11-17",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
     },
     {
       "id": "ae54e37cbfd5f15b",
@@ -16262,6 +16084,20 @@
       "projected": true
     },
     {
+      "id": "389abb071e9439c5",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 36,
+      "issueTitle": null,
+      "releaseDate": "2026-11-20",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "86798311f98371c8",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -16483,19 +16319,6 @@
       "sourceUrl": "https://tuttoinedicola.it/omaggi-in-edicola/agenda-vogue-2027/"
     },
     {
-      "id": "989b3578cca9987a",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Ombrello a 12,99€",
-      "releaseDate": "2026-11-24",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "1b22ce5c5d9a773f",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -16633,20 +16456,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "389abb071e9439c5",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 36,
-      "issueTitle": null,
-      "releaseDate": "2026-11-27",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -16913,19 +16722,6 @@
       "projected": true
     },
     {
-      "id": "542c51d302e333f1",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Borsa termica a 12,99€",
-      "releaseDate": "2026-12-01",
-      "price": 12.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "094a37f940411532",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17164,6 +16960,20 @@
       "projected": true
     },
     {
+      "id": "e8e8eb3f5fe5e5e9",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 37,
+      "issueTitle": null,
+      "releaseDate": "2026-12-04",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "37b2dc5189158dc8",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -17332,19 +17142,6 @@
       "projected": true
     },
     {
-      "id": "a9e43cddc2b51985",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Marsupio a 14,99€",
-      "releaseDate": "2026-12-08",
-      "price": 14.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "f643d1b16a80f69c",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17482,20 +17279,6 @@
       "price": 15.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-letteraturaitaliana2026_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/la-grande-letteratura-italiana-edizione-2026-collana.html",
-      "projected": true
-    },
-    {
-      "id": "e8e8eb3f5fe5e5e9",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 37,
-      "issueTitle": null,
-      "releaseDate": "2026-12-11",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -17723,19 +17506,6 @@
       "projected": true
     },
     {
-      "id": "d8e4e3c389ecb543",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Asciugamano sport a 14,99€",
-      "releaseDate": "2026-12-15",
-      "price": 14.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "fd8e5bf933dbcef3",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -17960,6 +17730,20 @@
       "projected": true
     },
     {
+      "id": "535762f168db4f08",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 38,
+      "issueTitle": null,
+      "releaseDate": "2026-12-18",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "2595e83c297e1749",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -18128,19 +17912,6 @@
       "projected": true
     },
     {
-      "id": "6869283ecfdc3136",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Beauty a 9,99€",
-      "releaseDate": "2026-12-22",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "4ff7bfa88c2ee58b",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18264,20 +18035,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "535762f168db4f08",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 38,
-      "issueTitle": null,
-      "releaseDate": "2026-12-25",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -18505,19 +18262,6 @@
       "projected": true
     },
     {
-      "id": "dfb071494a346936",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Porta telefono a 9,99€",
-      "releaseDate": "2026-12-29",
-      "price": 9.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "d221ef835d9abddf",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -18728,6 +18472,20 @@
       "projected": true
     },
     {
+      "id": "54e1e0f80f61ff52",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 39,
+      "issueTitle": null,
+      "releaseDate": "2027-01-01",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "39bb9e839129bf5f",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -18896,19 +18654,6 @@
       "projected": true
     },
     {
-      "id": "e03d94bdc04f20e3",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Duo lucchetti a 7,99€",
-      "releaseDate": "2027-01-05",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "e09e496922156dfd",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -19018,20 +18763,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "54e1e0f80f61ff52",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 39,
-      "issueTitle": null,
-      "releaseDate": "2027-01-08",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19259,19 +18990,6 @@
       "projected": true
     },
     {
-      "id": "9708199300c24e51",
-      "seriesId": "853780fa701cfe3c",
-      "seriesTitle": "Collezione One Piece The Pirate Set in edicola: colleziona gli accessori per il tempo libero",
-      "category": "collezionabili",
-      "publisher": null,
-      "issueNumber": null,
-      "issueTitle": "Tris pochette a 7,99€",
-      "releaseDate": "2027-01-12",
-      "price": 7.99,
-      "imageUrl": "https://tuttoinedicola.it/wp-content/uploads/2026/10/Collezione-One-Piece-The-Pirate-Set-in-edicola.webp",
-      "sourceUrl": "https://tuttoinedicola.it/collezioni/collezione-one-piece-the-pirate-set/"
-    },
-    {
       "id": "7b5c766f818e04fb",
       "seriesId": "5a30e8ba8877bf41",
       "seriesTitle": "LUCKY LUKE - La raccolta completa a fumetti",
@@ -19465,6 +19183,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "aae5879b07ebd360",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 40,
+      "issueTitle": null,
+      "releaseDate": "2027-01-15",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -19745,20 +19477,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "aae5879b07ebd360",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 40,
-      "issueTitle": null,
-      "releaseDate": "2027-01-22",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20154,6 +19872,20 @@
       "projected": true
     },
     {
+      "id": "a57ae8ec056cb603",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 41,
+      "issueTitle": null,
+      "releaseDate": "2027-01-29",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "30a21b6318097ddf",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -20403,20 +20135,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "a57ae8ec056cb603",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 41,
-      "issueTitle": null,
-      "releaseDate": "2027-02-05",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -20812,6 +20530,20 @@
       "projected": true
     },
     {
+      "id": "65d875a91a58bda1",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 42,
+      "issueTitle": null,
+      "releaseDate": "2027-02-12",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
+      "projected": true
+    },
+    {
       "id": "ac47d5765f26f99f",
       "seriesId": "621a2b1dcfb36d3e",
       "seriesTitle": "C'era una volta...Le più belle FIABE illustrate",
@@ -21005,20 +20737,6 @@
       "price": 6.59,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/p/a/pack_alanford-anastatica_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/alan-ford-anastatica-collana.html",
-      "projected": true
-    },
-    {
-      "id": "65d875a91a58bda1",
-      "seriesId": "c267b626271c3f8e",
-      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
-      "category": "libri",
-      "publisher": "DeAgostini Publishing",
-      "issueNumber": 42,
-      "issueTitle": null,
-      "releaseDate": "2027-02-19",
-      "price": 9.99,
-      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
-      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
@@ -21369,6 +21087,20 @@
       "price": 14.99,
       "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/b/u/bulk-tigermask_risultato.jpg",
       "sourceUrl": "https://www.primaedicola.it/tiger-mask-3d-collection-collana.html",
+      "projected": true
+    },
+    {
+      "id": "2ec7b5a58f2c27a8",
+      "seriesId": "c267b626271c3f8e",
+      "seriesTitle": "Disney - Magiche Storie Sonore (ed. 2026)",
+      "category": "libri",
+      "publisher": "DeAgostini Publishing",
+      "issueNumber": 43,
+      "issueTitle": null,
+      "releaseDate": "2027-02-26",
+      "price": 12.99,
+      "imageUrl": "https://www.primaedicola.it/media/catalog/product/cache/fda2e2576727a4774ef7ad0689f97c14/6/0/600x600-disney-storiesonore2026.jpg",
+      "sourceUrl": "https://www.primaedicola.it/disney-magiche-storie-sonore-edizione-2026-collana.html",
       "projected": true
     },
     {
